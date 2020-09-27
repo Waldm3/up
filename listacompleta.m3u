@@ -56,7 +56,7 @@ http://23.237.54.42/hls/MILENIOTVMX.m3u8
 http://23.237.54.42/hls/TELEVISAPUEBLAMX.m3u8
 
 #EXTINF:-1, tvg-id="APRENDETV" tvg-name="APRENDE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="" audio-track="spa,eng", APRENDE TV
-http://23.237.54.42/hls/APRENDETV.m3u8
+http://23.237.54.42/hls/TELERITMOMX.m3u8
 
 #EXTINF:-1, tvg-id="MEXIQUENSE" tvg-name="MEXIQUENSE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" group-title="" audio-track="spa,eng", MEXIQUENSE
 http://23.237.54.42/hls/MEXIQUENSEMX.m3u8
