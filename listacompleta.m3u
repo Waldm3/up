@@ -1,0 +1,462 @@
+#EXTM3U
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.mercadopago.com/org-img/Manual/ManualMP/imgs/isologoVertical.png" group-title="" audio-track="spa,eng" ,Dona con MercadoPago
+http://mpago.la/2vg8ykz
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://www.clker.com/cliparts/2/P/S/M/Z/a/update-button-th.png" ,Lista Actualizada 26 Sep 2020
+http://null
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/iptv-soft.net/wp-content/uploads/2019/10/logoa.png" , Con 138 canales HD USA y MEXICO
+http://null2
+
+#EXTINF:-1,tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",AZTECA UNO
+http://23.237.54.42/hls/AZTECA1MX.m3u8
+
+#EXTINF:-1,,tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png",ADN40
+http://23.237.54.42/hls/ADN40MX.m3u8
+
+#EXTINF:-1,tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png",LAS ESTRELLAS
+http://23.237.54.42/hls/LASESTRELLASMX.m3u8
+
+#EXTINF:-1,tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png", FORO TV
+http://23.237.54.42/hls/FOROTVMX.m3u8
+
+#EXTINF:-1,tvg-id="IMAGENTV" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/212px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="" audio-track="spa,eng", IMAGEN TV
+http://23.237.54.42/hls/IMAGENTVMX.m3u8
+
+
+#EXTINF:-1, tvg-id="EXCELSIOR" tvg-name="EXCELSIOR TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/excelsior_tv-mediano.png" group-title="" audio-track="spa,eng", EXCELSIOR
+http://23.237.54.42/hls/EXCELSIORMX.m3u8
+
+#EXTINF:-1, tvg-id="CANAL5" tvg-name="CANAL 5" group-title="" audio-track="spa,eng",  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png", CANAL 5
+http://23.237.54.42/hls/CANAL5MX.m3u8
+
+#EXTINF:-1, tvg-id="MULTIMEDIOSPLUS" tvg-name="MULTIMEDIOS PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="" audio-track="spa,eng", MULTIMEDIOS PLUS
+http://23.237.54.42/hls/MULTIMEDIOSPLUSMX.m3u8
+
+#EXTINF:-1, tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/171px-Multimedios_Canal_Seis_Logo.svg.png" group-title="" audio-track="spa,eng", MULTIMEDIOS
+http://23.237.54.42/hls/MULTIMEDIOSMX.m3u8
+
+#EXTINF:-1, tvg-id="AZTECA7" tvg-name="AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" group-title="" audio-track="spa,eng", AZTECA 7
+http://23.237.54.42/hls/AZTECA7MX.m3u8
+
+#EXTINF:-1, tvg-id="AZMAS" tvg-name="A+" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="" audio-track="spa,eng", A+
+http://23.237.54.42/hls/AZMASMX.m3u8
+
+#EXTINF:-1, tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="" audio-track="spa,eng", CANAL 9
+http://23.237.54.42/hls/CANAL9MX.m3u8
+
+#EXTINF:-1, tvg-id="ONCETV" tvg-name="ONCE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="" audio-track="spa,eng", ONCE TV
+http://23.237.54.42/hls/CANAL11MX.m3u8
+
+#EXTINF:-1, tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="" audio-track="spa,eng", MILENIO TV
+http://23.237.54.42/hls/MILENIOTVMX.m3u8
+
+#EXTINF:-1, tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA PUEBLA" tvg-logo="https://germenex.com.mx/wp-content/uploads/2019/02/telerisa.png" group-title="" audio-track="spa,eng", TELEVISA PUEBLA
+http://23.237.54.42/hls/TELEVISAPUEBLAMX.m3u8
+
+#EXTINF:-1, tvg-id="APRENDETV" tvg-name="APRENDE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="" audio-track="spa,eng", APRENDE TV
+http://23.237.54.42/hls/APRENDETV.m3u8
+
+#EXTINF:-1, tvg-id="MEXIQUENSE" tvg-name="MEXIQUENSE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" group-title="" audio-track="spa,eng", MEXIQUENSE
+http://23.237.54.42/hls/MEXIQUENSEMX.m3u8
+
+#EXTINF:-1, tvg-id="TVC" tvg-name="TVC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_mexico-mediano.png" group-title="" audio-track="spa,eng", TVC
+http://23.237.54.42/hls/TVCMX.m3u8
+
+#EXTINF:-1, tvg-id="ELFINANCIERO" tvg-name="EL FINANCIERO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg-mediano.png" group-title="" audio-track="spa,eng", EL FINANCIERO
+http://23.237.54.42/hls/ELFINANCIEROMX.m3u8
+
+#EXTINF:-1, tvg-id="BRAVO" tvg-name="BRAVO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bravousa.png" group-title="" audio-track="spa,eng", BRAVO USA
+http://23.237.32.130/hls/BRAVO.m3u8
+
+#EXTINF:-1, tvg-id="BET" tvg-name="BET" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bettv.png" group-title="" audio-track="spa,eng", BET USA
+http://23.237.32.130/hls/BET.m3u8
+
+
+#EXTINF:-1, tvg-id="CINESONY" tvg-name="CINE SONY" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" group-title="" audio-track="spa,eng", CINE SONY
+http://23.237.32.130/hls/CINESONY.m3u8
+
+
+#EXTINF:-1, tvg-id="FOXCHANNEL" tvg-name="FOX CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_channel-mediano.png" group-title="" audio-track="spa,eng", FOX CHANNEL
+http://23.237.54.42/hls/FOXMX.m3u8
+
+#EXTINF:-1, tvg-id="FX" tvg-name="FX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="" audio-track="spa,eng", FX
+http://23.237.54.42/hls/FXMX.m3u8
+
+#EXTINF:-1, tvg-id="FOXLIFE" tvg-name="FOX LIFE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_life-mediano.png" group-title="" audio-track="spa,eng", FOX LIFE
+http://23.237.54.42/hls/FOXLIFEMX.m3u8
+
+#EXTINF:-1, tvg-id="SONYCHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="" audio-track="spa,eng", SONY CHANNEL
+http://23.237.54.42/hls/SONYMX.m3u8
+
+
+
+
+#EXTINF:-1, tvg-id="TBS" tvg-name="TBS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png" group-title="" audio-track="spa,eng", TBS
+http://23.237.54.42/hls/TBSMX.m3u8
+
+
+
+#EXTINF:-1, tvg-id="WARNERCHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png" group-title="" audio-track="spa,eng", WARNER CHANNEL
+http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
+
+
+#EXTINF:-1, tvg-id="UNIVERSALCHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png" group-title="" audio-track="spa,eng", UNIVERSAL
+http://23.237.54.42/hls/UNIVERSALCHANNELMX.m3u8
+
+#EXTINF:-1, tvg-id="E" tvg-name="E!" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="" audio-track="spa,eng", E!
+http://23.237.54.42/hls/EMX.m3u8
+
+#EXTINF:-1, tvg-id="GALAVISION" tvg-name="GALAVISION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/galavision.png" group-title="" audio-track="spa,eng", GALAVISION
+http://23.237.32.130/hls/GALAVISION.m3u8
+
+#EXTINF:-1, tvg-id="AZMUNDO" tvg-name="AZ MUNDO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" group-title="" audio-track="spa,eng", AZ MUNDO
+http://23.237.54.42/hls/AZMUNDOMX.m3u8
+
+#EXTINF:-1, tvg-id="AZCORAZON" tvg-name="AZ CORAZON" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="" audio-track="spa,eng", AZ CORAZON
+http://23.237.54.42/hls/AZCORAZONMX.m3u8
+
+#EXTINF:-1, tvg-id="TVMAS" tvg-name="TV+" tvg-logo="http://indicadores.rtv.org.mx/parrilla/images/tvmas.png" group-title="" audio-track="spa,eng", TV MAS
+http://23.237.54.42/hls/TVMASMX.m3u8
+
+
+#EXTINF:-1, tvg-id="UNIMAS" tvg-name="UNIMAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="" audio-track="spa,eng", UNIMAS
+http://23.237.32.130/hls/UNIMAS.m3u8
+
+
+#EXTINF:-1, tvg-id="UNIVISION" tvg-name="UNIVISION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png" group-title="" audio-track="spa,eng", UNIVISION
+http://23.237.32.130/hls/UNIVISION.m3u8
+
+#EXTINF:-1, tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv-mediano.png" group-title="" audio-track="spa,eng", TRU TV
+http://23.237.54.42/hls/TRUTVMX.m3u8
+
+#EXTINF:-1, tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", LIFETIME
+http://23.237.54.42/hls/LIFETIMEMX.m3u8
+
+#EXTINF:-1, tvg-id="DISTRITOCOMEDIA" tvg-name="DISTRITO COMEDIA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia-mediano.png" group-title="" audio-track="spa,eng", DISTRITO COMEDIA
+http://23.237.54.42/hls/DISTRITOCOMEDIAMX.m3u8
+
+#EXTINF:-1, tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", CARTOON NETWORK
+http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
+
+#EXTINF:-1, tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", BOOMERANG
+http://23.237.54.42/hls/BOOMERANGMX.m3u8
+
+#EXTINF:-1, tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="" audio-track="spa,eng", DISCOVERY KIDS
+http://23.237.54.42/hls/DISCOVERYKIDSMX.m3u8
+
+#EXTINF:-1, tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="" audio-track="spa,eng", DISNEY JUNIOR
+http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
+
+#EXTINF:-1, tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="" audio-track="spa,eng", DISNEY CHANNEL
+http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
+
+
+#EXTINF:-1, tvg-id="DISNEYXD" tvg-name="DISNEY XD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png" group-title="" audio-track="spa,eng", DISNEY XD
+http://23.237.54.42/hls/DISNEYXDMX.m3u8
+
+#EXTINF:-1, tvg-id="NATGEOKIDS" tvg-name="NATGEO KIDS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_kids-mediano.png" group-title="" audio-track="spa,eng", NATGEO KIDS
+http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
+
+#EXTINF:-1, tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="" audio-track="spa,eng", NICKELODEON
+http://23.237.54.42/hls/NICKMX.m3u8
+
+#EXTINF:-1, tvg-id="TEENNICK" tvg-name="TEEN NICK" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teen_nick-mediano.png" group-title="" audio-track="spa,eng", TEEN NICK
+http://23.237.54.42/hls/NICK2MX.m3u8
+
+#EXTINF:-1, tvg-id="NICKJR" tvg-name="NICK JR" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="" audio-track="spa,eng", NICK JR
+http://23.237.54.42/hls/NICKJUNIORMX.m3u8
+
+
+#EXTINF:-1, tvg-id="NICKMUSIC" tvg-name="NICKMUSIC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nickmusic.png" group-title="" audio-track="spa,eng", NICKMUSIC
+http://23.237.54.42/hls/NICKTOONSMX.m3u8
+
+#EXTINF:-1, tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png" group-title="" audio-track="spa,eng", TOONCAST
+http://23.237.54.42/hls/TOONCASTMX.m3u8
+
+#EXTINF:-1, tvg-id="UNIVERSALKIDS" tvg-name="UNIVERSAL KIDS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/universalkids.png" group-title="" audio-track="spa,eng", UNIVERSAL KIDS USA
+http://23.237.32.130/hls/UNIVERSALKIDS.m3u8
+
+#EXTINF:-1, tvg-id="BITME" tvg-name="BIT ME" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/infantil/bitme.png" group-title="" audio-track="spa,eng", BIT ME
+http://23.237.54.42/hls/BITMEHDMX.m3u8
+
+#EXTINF:-1, tvg-id="LOCOMOTIONTV" tvg-name="LOCOMOTION TV" tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="" audio-track="spa,eng", LOCOMOTION TV
+http://toonxtv.net/hls/loco_ch/stream.m3u8
+
+#EXTINF:-1, tvg-id="GOURMET" tvg-name="GOURMET" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png" group-title="" audio-track="spa,eng", GOURMET
+http://23.237.54.42/hls/GOURMETMX.m3u8
+
+#EXTINF:-1, tvg-id="FOODNETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/foodtv.png" group-title="" audio-track="spa,eng", FOOD NETWORK
+http://23.237.54.42/hls/FOODNETWORKMX.m3u8
+
+#EXTINF:-1, tvg-id="TLC" tvg-name="TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="" audio-track="spa,eng", TLC
+http://23.237.54.42/hls/TLCMX.m3u8
+
+#EXTINF:-1, tvg-id="TLC" tvg-name="TLC USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="" audio-track="spa,eng", TLC USA
+http://23.237.32.130/hls/TLC.m3u8
+
+#EXTINF:-1, tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="" audio-track="spa,eng", HOLA TV
+http://23.237.54.42/hls/HOLATVMX.m3u8
+
+#EXTINF:-1, tvg-id="MASCHIC" tvg-name="MASCHIC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png" group-title="" audio-track="spa,eng", MAS CHIC
+http://23.237.54.42/hls/MASCHICMX.m3u8
+
+#EXTINF:-1, tvg-id="TLNOVELAS" tvg-name="TLNOVELAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="" audio-track="spa,eng", TLNOVELAS
+http://23.237.32.130/hls/TLNOVELAS.m3u8
+
+#EXTINF:-1, tvg-id="GLITZ" tvg-name="GLITZ" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/glitz-mediano.png" group-title="" audio-track="spa,eng", GLITZ
+http://23.237.54.42/hls/GLITZMX.m3u8
+
+#EXTINF:-1, tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="" audio-track="spa,eng", AXN
+http://23.237.54.42/hls/AXNMX.m3u8
+
+#EXTINF:-1, tvg-id="AE" tvg-name="A&E" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", A&E
+http://23.237.54.42/hls/A-AND-EMX.m3u8
+
+#EXTINF:-1, tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png" group-title="" audio-track="spa,eng", SYFY
+http://23.237.54.42/hls/SYFYMX.m3u8
+
+#EXTINF:-1, tvg-id="SYFY" tvg-name="SYFY USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/syfy.png" group-title="" audio-track="spa,eng", SYFY USA
+http://23.237.32.130/hls/SYFY.m3u8
+
+#EXTINF:-1, tvg-id="USA" tvg-name="USA NETWORK USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/usa.png" group-title="" audio-track="spa,eng", USA NETWORK
+http://23.237.32.130/hls/USANETWORK.m3u8
+
+#EXTINF:-1, tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", HISTORY
+http://23.237.54.42/hls/HISTORYMX.m3u8
+
+#EXTINF:-1, tvg-id="HISTORY" tvg-name="HISTORY USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history.png" group-title="" audio-track="spa,eng", HISTORY USA
+http://23.237.32.130/hls/HISTORY.m3u8
+
+#EXTINF:-1, tvg-id="ID" tvg-name="INVESTIGATION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", ID
+http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
+
+#EXTINF:-1, tvg-id="BBCAMERICA" tvg-name="BBC AMERICA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bbcamerica.png" group-title="" audio-track="spa,eng", BBC AMERICA
+http://23.237.32.130/hls/BBCAMERICA.m3u8
+
+#EXTINF:-1, tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="" audio-track="spa,eng", DISCOVERY CHANNEL
+http://23.237.54.42/hls/DISCOVERYCHANNELMX.m3u8
+
+
+#EXTINF:-1, tvg-id="SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="" audio-track="spa,eng", SCIENCE
+http://23.237.54.42/hls/DISCOVERYSCIENCEMX.m3u8
+
+#EXTINF:-1, tvg-id="THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" group-title="" audio-track="spa,eng", THEATER
+http://23.237.54.42/hls/DISCOVERYTHEATERMX.m3u8
+
+#EXTINF:-1, tvg-id="WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png" group-title="" audio-track="spa,eng", WORLD
+http://23.237.54.42/hls/DISCOVERYWORLDMX.m3u8
+
+#EXTINF:-1, tvg-id="TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="" audio-track="spa,eng", TURBO
+http://23.237.54.42/hls/DISCOVERYTURBOHDMX.m3u8
+
+#EXTINF:-1, tvg-id="GARAGETV" tvg-name="GARAGE TV" tvg-logo="http://elgarage.com/wp-content/uploads/2019/04/Logo-GARAGE-TV-sin-marco.png" group-title="" audio-track="spa,eng", GARAGE TV
+http://23.237.54.42/hls/GARAGETVMX.m3u8
+
+#EXTINF:-1, tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", ANIMAL PLANET
+http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
+
+#EXTINF:-1, tvg-id="NATGEO" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", NAT GEO
+http://23.237.54.42/hls/NATGEOMX.m3u8
+
+#EXTINF:-1, tvg-id="NATGEOWILD" tvg-name="NAT GEO WILD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_wild-mediano.png" group-title="" audio-track="spa,eng", NAT GEO WILD
+http://23.237.54.42/hls/NATGEOWILDMX.m3u8
+
+#EXTINF:-1, tvg-id="ANTENA3" tvg-name="ANTENA3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png" group-title="" audio-track="spa,eng", ANTENA 3
+http://23.237.54.42/hls/ANTENA3MX.m3u8
+
+#EXTINF:-1, tvg-id="A3SERIES" tvg-name="A3 SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png" group-title="" audio-track="spa,eng", A3 SERIES
+http://23.237.54.42/hls/A3SERIESMX.m3u8
+
+#EXTINF:-1, tvg-id="TVE" tvg-name="TVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" group-title="" audio-track="spa,eng", TVE
+http://23.237.54.42/hls/TVEMX.m3u8
+
+#EXTINF:-1, tvg-id="DEPELICULA" tvg-name="DE PELICULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="" audio-track="spa,eng", DE PELICULA
+http://23.237.54.42/hls/DEPELICULAMX.m3u8
+
+#EXTINF:-1, tvg-id="DPPLUS" tvg-name="DP PLUS" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/d-plus.png" group-title="" audio-track="spa,eng", DP PLUS
+http://23.237.54.42/hls/DEPELICULAPLUSMX.m3u8
+
+#EXTINF:-1, tvg-id="GOLDENCHANNEL" tvg-name="GOLDEN CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="" audio-track="spa,eng", GOLDEN CHANNEL
+http://23.237.54.42/hls/GOLDENMX.m3u8
+
+
+#EXTINF:-1, tvg-id="EDGE" tvg-name="EDGE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="" audio-track="spa,eng", EDGE
+http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
+
+
+#EXTINF:-1, tvg-id="GOLDENPLUS" tvg-name="GOLDEN PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="" audio-track="spa,eng", GOLDEN PLUS
+http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
+
+#EXTINF:-1, tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", TNT
+http://23.237.54.42/hls/TNTMX.m3u8
+
+#EXTINF:-1, tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="" audio-track="spa,eng", TNT SERIES
+http://23.237.54.42/hls/TNTSERIESMX.m3u8
+
+#EXTINF:-1, tvg-id="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="" audio-track="spa,eng", CINECANAL
+http://23.237.54.42/hls/CINECANALMX.m3u8
+
+#EXTINF:-1, tvg-id="AMC" tvg-name="AMC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", AMC
+http://23.237.54.42/hls/AMCMX.m3u8
+
+#EXTINF:-1, tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", CINEMAX
+http://23.237.54.42/hls/CINEMAXMX.m3u8
+
+
+#EXTINF:-1, tvg-id="CANALSPACE" tvg-name="CANAL SPACE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" group-title="" audio-track="spa,eng", SPACE
+http://23.237.54.42/hls/SPACEMX.m3u8
+
+#EXTINF:-1, tvg-id="TCM" tvg-name="TCM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png" group-title="" audio-track="spa,eng", TCM
+http://23.237.54.42/hls/TCMMX.m3u8
+
+#EXTINF:-1, tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="" audio-track="spa,eng", STUDIO UNIVERSAL
+http://23.237.54.42/hls/STUDIOUNIVERSALMX.m3u8
+
+#EXTINF:-1, tvg-id="PARAMOUNTCHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="" audio-track="spa,eng", PARAMOUNT
+http://23.237.54.42/hls/PARAMOUNTCHANNELMX.m3u8
+
+#EXTINF:-1, tvg-id="HALLMARK" tvg-name="HALLMARK CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hallmark.png" group-title="" audio-track="spa,eng", HALLMARK CHANNEL
+http://23.237.32.130/hls/HALLMARK.m3u8
+
+#EXTINF:-1, tvg-id="HALLMARKDRAMA" tvg-name="HALLMARK DRAMA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hallmark-drama.png" group-title="" audio-track="spa,eng", HALLMARK DRAMA USA
+http://23.237.32.130/hls/HALLMARKDRAMA.m3u8
+
+#EXTINF:-1, tvg-id="FXM" tvg-name="FXM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fxm-mediano.png" group-title="" audio-track="spa,eng", FXM
+http://23.237.54.42/hls/FXMMX.m3u8
+
+#EXTINF:-1, tvg-id="FOXACTION" tvg-name="FOX ACTION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action-mediano.png" group-title="" audio-track="spa,eng", FOX ACTION
+http://23.237.54.42/hls/FOXACTIONMX.m3u8
+
+
+#EXTINF:-1, tvg-id="FOXCINEMA" tvg-name="FOX CINEMA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" group-title="" audio-track="spa,eng", FOX CINEMA
+http://23.237.54.42/hls/FOXCINEMAMX.m3u8
+
+
+#EXTINF:-1, tvg-id="FOXCLASSICS" tvg-name="FOX CLASSICS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_classics-mediano.png" group-title="" audio-track="spa,eng", FOX CLASSICS
+http://23.237.54.42/hls/FOXCLASSICSMX.m3u8
+
+
+#EXTINF:-1, tvg-id="FOXMOVIES" tvg-name="FOX MOVIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_movies-mediano.png" group-title="" audio-track="spa,eng", FOX MOVIES
+http://23.237.54.42/hls/FOXMOVIESMX.m3u8
+
+
+#EXTINF:-1, tvg-id="FOXSERIES" tvg-name="FOX SERIES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_series-mediano.png" group-title="" audio-track="spa,eng", FOX SERIES
+http://23.237.54.42/hls/FOXSERIESMX.m3u8
+
+#EXTINF:-1, tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="" audio-track="spa,eng", TUDN
+http://23.237.54.42/hls/TUDN.m3u8
+
+#EXTINF:-1, tvg-id="TUDN" tvg-name="TUDN USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="" audio-track="spa,eng", TUDN USA
+http://23.237.32.130/hls/TUDN.m3u8
+
+#EXTINF:-1, tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="" audio-track="spa,eng", NBA TV
+http://23.237.32.130/hls/NBATV.m3u8
+
+#EXTINF:-1, tvg-id="ESPNEXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", ESPN+
+http://23.237.54.42/hls/ESPNPLUSMX.m3u8
+
+#EXTINF:-1, tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="" audio-track="spa,eng", ESPN
+http://23.237.54.42/hls/ESPNMX.m3u8
+
+
+#EXTINF:-1, tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" group-title="" audio-track="spa,eng", ESPN 2
+http://23.237.54.42/hls/ESPN2MX.m3u8
+
+
+#EXTINF:-1, tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" group-title="" audio-track="spa,eng", ESPN 3
+http://23.237.54.42/hls/ESPN3MX.m3u8
+
+#EXTINF:-1, tvg-id="FOXSPORTS" tvg-name="FOX SPORTS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" group-title="" audio-track="spa,eng", FOX SPORTS
+http://23.237.54.42/hls/FOXSPORTSMX.m3u8
+
+#EXTINF:-1, tvg-id="FOXDEPORTES" tvg-name="FOX DEPORTES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title="" audio-track="spa,eng", FOX DEPORTES USA
+http://23.237.32.130/hls/FOXDEPORTES.m3u8
+
+#EXTINF:-1, tvg-id="FOXSPORTS1" tvg-name="FOX SPORTS 1 USA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/44668/foxsportsoneus_colordark.png" group-title="" audio-track="spa,eng", FOX SPORTS 1 USA
+http://23.237.32.130/hls/FOXSPORTS1.m3u8
+
+#EXTINF:-1, tvg-id="FOXSPORTS2" tvg-name="FOX SPORTS 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" group-title="" audio-track="spa,eng", FOX SPORTS 2
+http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
+
+
+#EXTINF:-1, tvg-id="FOXSPORTS3" tvg-name="FOX SPORTS 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" group-title="" audio-track="spa,eng", FOX SPORTS 3
+http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
+
+#EXTINF:-1, tvg-id="CLAROSPORTS" tvg-name="CLARO SPORTS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="" audio-track="spa,eng", CLARO SPORTS
+http://23.237.54.42/hls/CLAROSPORTSMX.m3u8
+
+#EXTINF:-1, tvg-id="TVCDEPORTES" tvg-name="TVC DEPORTES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes-mediano.png" group-title="" audio-track="spa,eng", TVC DEPORTES
+http://23.237.54.42/hls/TVCDEPORTESMX.m3u8
+
+#EXTINF:-1, tvg-id="GOLFCHANNEL" tvg-name="GOLF CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png" group-title="" audio-track="spa,eng", GOLF CHANNEL
+http://23.237.32.130/hls/GOLFCHANNEL.m3u8
+
+#EXTINF:-1, tvg-id="FOXNEWS" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png" group-title="" audio-track="spa,eng", FOX NEWS CHANNEL
+http://23.237.32.130/hls/FOXNEWS.m3u8
+
+#EXTINF:-1, tvg-id="CNN" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" group-title="" audio-track="spa,eng", CNN INTERNACIONAL
+http://23.237.54.42/hls/CNNINTERNACIONALMX.m3u8
+
+#EXTINF:-1, tvg-id="CNNESPANOL" tvg-name="CNN ESPANOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="" audio-track="spa,eng", CNN ESPAÑOL
+http://23.237.54.42/hls/CNNESPANOLMX.m3u8
+
+#EXTINF:-1, tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bloomberg-mediano.png" group-title="" audio-track="spa,eng", BLOOMBERG
+http://23.237.54.42/hls/BLOOMBERGMX.m3u8
+
+#EXTINF:-1, tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnbc.png" group-title="" audio-track="spa,eng", CNBC
+http://23.237.32.130/hls/CNBC.m3u8
+
+#EXTINF:-1, tvg-id="FOROTV" tvg-name="FOROTV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="" audio-track="spa,eng", FOROTV
+http://23.237.32.130/hls/FOROTV.m3u8
+
+#EXTINF:-1, tvg-id="RTESPANOL" tvg-name="RT EN ESPANOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rt_en_espanol-mediano.png" group-title="" audio-track="spa,eng", RT EN ESPAÑOL
+http://23.237.54.42/hls/RTENESPANOLMX.m3u8
+
+#EXTINF:-1, tvg-id="CANALDELCONGRESO" tvg-name="CANAL DEL CONGRESO" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/kjqm0uly.png" group-title="" audio-track="spa,eng", CANAL DEL CONGRESO
+http://23.237.54.42/hls/CANALDELCONGRESOMX.m3u8
+
+#EXTINF:-1, tvg-id="THEWEATHERCHANNEL" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" group-title="" audio-track="spa,eng", THE WEATHER CHANNEL
+http://23.237.32.130/hls/THEWEATHERCHANNEL.m3u8
+
+#EXTINF:-1, tvg-id="MTV" tvg-name="MTV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png" group-title="" audio-track="spa,eng", MTV
+http://23.237.54.42/hls/MTVMX.m3u8
+
+#EXTINF:-1, tvg-id="MTVU" tvg-name="MTV U" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mtv-u.png" group-title="" audio-track="spa,eng", MTV U
+http://23.237.32.130/hls/MTV.m3u8
+
+#EXTINF:-1, tvg-id="MTVLIVE" tvg-name="MTV LIVE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mtv_live.png" group-title="" audio-track="spa,eng", MTV LIVE
+http://23.237.32.130/hls/MTVLIVE.m3u8
+
+#EXTINF:-1, tvg-id="VH1" tvg-name="VH1 HD" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/musica/vh1-hd.png" group-title="" audio-track="spa,eng", VH1
+http://23.237.54.42/hls/VH1HDMX.m3u8
+
+#EXTINF:-1, tvg-id="MTVTR3S" tvg-name="MTV TR3S" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mtvtres.png" group-title="" audio-track="spa,eng", MTV TR3S
+http://23.237.32.130/hls/MTVTR3S.m3u8
+
+#EXTINF:-1, tvg-id="TELEHIT" tvg-name="TELEHIT" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit-mediano.png" group-title="" audio-track="spa,eng", TELEHIT 
+http://23.237.32.130/hls/TELEHIT.m3u8
+
+#EXTINF:-1, tvg-id="TELEHITMUSICA" tvg-name="TELEHIT MUSICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png" group-title="" audio-track="spa,eng", TELEHIT MUSICA
+http://23.237.54.42/hls/RITMOSONMX.m3u8
+
+#EXTINF:-1, tvg-id="TELEHITMUSICAPLUS" tvg-name="TELEHIT MUSICA PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica_plus-mediano.png" group-title="" audio-track="spa,eng", TELEHIT MUSICA PLUS
+http://23.237.54.42/hls/TELEHITMX.m3u8
+
+
+#EXTINF:-1, tvg-id="BANDAMAX" tvg-name="BANDAMAX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" group-title="" audio-track="spa,eng", BANDAMAX
+http://23.237.54.42/hls/BANDAMAXMX.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
