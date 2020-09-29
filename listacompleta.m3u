@@ -73,20 +73,11 @@ http://23.237.54.42/hls/TVCMX.m3u8
 #EXTINF:-1, tvg-id="ELFINANCIERO" tvg-name="EL FINANCIERO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg-mediano.png" group-title="" audio-track="spa,eng", EL FINANCIERO
 http://23.237.54.42/hls/ELFINANCIEROMX.m3u8
 
-#EXTINF:-1, tvg-id="CBS" tvg-name="CBS KMTV3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="" audio-track="spa,eng", CBS KMTV3
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-
 #EXTINF:-1, tvg-id="CBS" tvg-name="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="" audio-track="spa,eng", CBS 360P
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1, tvg-id="CBS" tvg-name="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="" audio-track="spa,eng", CBS 480P
 http://161.0.157.5/PLTV/88888888/224/3221227041/02.m3u8
-
-#EXTINF:-1, tvg-id="ABC" tvg-name="ABC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="" audio-track="spa,eng", ABC WBRZ2
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1, tvg-id="ABC" tvg-name="ABC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="" audio-track="spa,eng", ABC WTVC9
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 
 #EXTINF:-1, tvg-id="ABC" tvg-name="ABC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="" audio-track="spa,eng", ABC 7 720P
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
