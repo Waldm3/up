@@ -265,7 +265,7 @@ http://23.237.32.130/hls/SYFY.m3u8
 #EXTINF:-1, tvg-id="USA" tvg-name="USA NETWORK USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/usa.png" group-title="" audio-track="spa,eng", USA NETWORK
 http://23.237.32.130/hls/USANETWORK.m3u8
 
-#EXTINF:-1, tvg-id="NASA" tvg-name="NASA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/usa.png" group-title="" audio-track="spa,eng", NASA
+#EXTINF:-1, tvg-id="NASA" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Worm_logo.svg/320px-NASA_Worm_logo.svg.png" group-title="" audio-track="spa,eng", NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:-1, tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", HISTORY
