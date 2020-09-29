@@ -315,7 +315,7 @@ http://23.237.54.42/hls/A3SERIESMX.m3u8
 http://23.237.54.42/hls/TVEMX.m3u8
 
 #EXTINF:-1, tvg-id="RAI1" tvg-name="RAI 1" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/26109/rai1channel.png" group-title="" audio-track="spa,eng", RAI 1
-http://92.43.140.249/s29/03.m3u8
+http://ott-cdn.ucom.am/s29/index.m3u8
 
 #EXTINF:-1, tvg-id="RAI3" tvg-name="RAI 3" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/26111/rai3channel.png" group-title="" audio-track="spa,eng", RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
@@ -472,7 +472,7 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1, tvg-id="CCTV5" tvg-name="CCTV5 SPORTS" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="" audio-track="spa,eng", CCTV5
 http://220.158.149.28:8180/live/TV00000000000000000104@HHZT
 
-#EXTINF:-1, tvg-id="WWELIVE" tvg-name="WWE LIVE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/usa.png" group-title="" audio-track="spa,eng", WWELIVE
+#EXTINF:-1, tvg-id="WWELIVE" tvg-name="WWE LIVE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wwe-network.png" group-title="" audio-track="spa,eng", WWELIVE
 http://cdnak8.cast4u.info/channels/3/10803.m3u8
 
 #EXTINF:-1, tvg-id="ABUDHABISPORTS1" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-1.png" group-title="" audio-track="spa,eng", ABU DHABI SPORTS 1
