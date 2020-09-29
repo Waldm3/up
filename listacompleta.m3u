@@ -6,7 +6,7 @@ http://mpago.la/2vg8ykz
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://www.clker.com/cliparts/2/P/S/M/Z/a/update-button-th.png" ,Lista Actualizada 26 Sep 2020
 http://null
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/iptv-soft.net/wp-content/uploads/2019/10/logoa.png" , Con 138 canales HD USA y MEXICO
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/iptv-soft.net/wp-content/uploads/2019/10/logoa.png" , Con 175 canales HD USA y MEXICO
 http://null2
 
 #EXTINF:-1,tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",AZTECA UNO
@@ -52,11 +52,17 @@ http://23.237.54.42/hls/CANAL11MX.m3u8
 #EXTINF:-1, tvg-id="MILENIOTV" tvg-name="MILENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" group-title="" audio-track="spa,eng", MILENIO TV
 http://23.237.54.42/hls/MILENIOTVMX.m3u8
 
+#EXTINF:-1, tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="" audio-track="spa,eng", TELEFORMULA
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
 #EXTINF:-1, tvg-id="TELEVISAPUEBLA" tvg-name="TELEVISA PUEBLA" tvg-logo="https://germenex.com.mx/wp-content/uploads/2019/02/telerisa.png" group-title="" audio-track="spa,eng", TELEVISA PUEBLA
 http://23.237.54.42/hls/TELEVISAPUEBLAMX.m3u8
 
 #EXTINF:-1, tvg-id="APRENDETV" tvg-name="APRENDE TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="" audio-track="spa,eng", APRENDE TV
 http://23.237.54.42/hls/TELERITMOMX.m3u8
+
+#EXTINF:-1, tvg-id="APRENDETV2" tvg-name="APRENDE TV 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="" audio-track="spa,eng", APRENDE TV 2
+http://23.237.54.42/hls/DWMX.m3u8
 
 #EXTINF:-1, tvg-id="MEXIQUENSE" tvg-name="MEXIQUENSE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" group-title="" audio-track="spa,eng", MEXIQUENSE
 http://23.237.54.42/hls/MEXIQUENSEMX.m3u8
@@ -66,6 +72,39 @@ http://23.237.54.42/hls/TVCMX.m3u8
 
 #EXTINF:-1, tvg-id="ELFINANCIERO" tvg-name="EL FINANCIERO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg-mediano.png" group-title="" audio-track="spa,eng", EL FINANCIERO
 http://23.237.54.42/hls/ELFINANCIEROMX.m3u8
+
+#EXTINF:-1, tvg-id="CBS" tvg-name="CBS KMTV3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="" audio-track="spa,eng", CBS KMTV3
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+
+#EXTINF:-1, tvg-id="CBS" tvg-name="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="" audio-track="spa,eng", CBS 360P
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1, tvg-id="CBS" tvg-name="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="" audio-track="spa,eng", CBS 480P
+http://161.0.157.5/PLTV/88888888/224/3221227041/02.m3u8
+
+#EXTINF:-1, tvg-id="ABC" tvg-name="ABC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="" audio-track="spa,eng", ABC WBRZ2
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1, tvg-id="ABC" tvg-name="ABC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="" audio-track="spa,eng", ABC WTVC9
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+
+#EXTINF:-1, tvg-id="ABC" tvg-name="ABC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="" audio-track="spa,eng", ABC 7 720P
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+
+#EXTINF:-1, tvg-id="ABC" tvg-name="ABC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="" audio-track="spa,eng", ABC 720P (OP2)
+https://gma2.blab.email/fs1.m3u8
+
+#EXTINF:-1, tvg-id="NBC" tvg-name="NBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc.png" group-title="" audio-track="spa,eng", NBC 360P
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1, tvg-id="NBC" tvg-name="NBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc.png" group-title="" audio-track="spa,eng", NBC 480P
+http://161.0.157.51/PLTV/88888888/224/3221227040/02.m3u8
+
+#EXTINF:-1, tvg-id="FAILARMY" tvg-name="FAIL ARMY" tvg-logo="https://w7.pngwing.com/pngs/730/581/png-transparent-youtube-failarmy-television-show-humour-youtube-television-text-logo-thumbnail.png" group-title="" audio-track="spa,eng", FAIL ARMY 720P
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="REDBULLTV" tvg-name="RED BULL TV" tvg-logo="https://i2.wp.com/lifeandfitnessmag.ie/wp-content/uploads/2020/04/red-bull-tv.png" group-title="" audio-track="spa,eng", RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660
 
 #EXTINF:-1, tvg-id="BRAVO" tvg-name="BRAVO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bravousa.png" group-title="" audio-track="spa,eng", BRAVO USA
 http://23.237.32.130/hls/BRAVO.m3u8
@@ -116,6 +155,9 @@ http://23.237.54.42/hls/AZMUNDOMX.m3u8
 
 #EXTINF:-1, tvg-id="AZCORAZON" tvg-name="AZ CORAZON" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="" audio-track="spa,eng", AZ CORAZON
 http://23.237.54.42/hls/AZCORAZONMX.m3u8
+
+#EXTINF:-1, tvg-id="AZCLIC" tvg-name="AZ CLIC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_clic-mediano.png" group-title="" audio-track="spa,eng", AZ CLIC
+http://23.237.54.42/hls/AZCLICKMX.m3u8
 
 #EXTINF:-1, tvg-id="TVMAS" tvg-name="TV+" tvg-logo="http://indicadores.rtv.org.mx/parrilla/images/tvmas.png" group-title="" audio-track="spa,eng", TV MAS
 http://23.237.54.42/hls/TVMASMX.m3u8
@@ -178,6 +220,9 @@ http://23.237.54.42/hls/TOONCASTMX.m3u8
 #EXTINF:-1, tvg-id="UNIVERSALKIDS" tvg-name="UNIVERSAL KIDS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/universalkids.png" group-title="" audio-track="spa,eng", UNIVERSAL KIDS USA
 http://23.237.32.130/hls/UNIVERSALKIDS.m3u8
 
+#EXTINF:-1, tvg-id="HUNANCARTOON" tvg-name="HUNAN CARTOON CHINA" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="" audio-track="spa,eng", HUNAN CARTOON CHINA
+http://220.158.149.28:8180/live/TV00000000000000000020@HHZT
+
 #EXTINF:-1, tvg-id="BITME" tvg-name="BIT ME" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/infantil/bitme.png" group-title="" audio-track="spa,eng", BIT ME
 http://23.237.54.42/hls/BITMEHDMX.m3u8
 
@@ -199,10 +244,16 @@ http://23.237.32.130/hls/TLC.m3u8
 #EXTINF:-1, tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="" audio-track="spa,eng", HOLA TV
 http://23.237.54.42/hls/HOLATVMX.m3u8
 
+#EXTINF:-1, tvg-id="HOMEANDHEALTH" tvg-name="HOME&HEALTH" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", HOME&HEALTH
+http://23.237.54.42/hls/DISCOVERYHANDHMX.m3u8
+
 #EXTINF:-1, tvg-id="MASCHIC" tvg-name="MASCHIC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png" group-title="" audio-track="spa,eng", MAS CHIC
 http://23.237.54.42/hls/MASCHICMX.m3u8
 
 #EXTINF:-1, tvg-id="TLNOVELAS" tvg-name="TLNOVELAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="" audio-track="spa,eng", TLNOVELAS
+http://23.237.54.42/hls/TLNOVELASMX.m3u8
+
+#EXTINF:-1, tvg-id="TLNOVELAS" tvg-name="TLNOVELAS USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="" audio-track="spa,eng", TLNOVELAS USA
 http://23.237.32.130/hls/TLNOVELAS.m3u8
 
 #EXTINF:-1, tvg-id="GLITZ" tvg-name="GLITZ" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/glitz-mediano.png" group-title="" audio-track="spa,eng", GLITZ
@@ -222,6 +273,9 @@ http://23.237.32.130/hls/SYFY.m3u8
 
 #EXTINF:-1, tvg-id="USA" tvg-name="USA NETWORK USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/usa.png" group-title="" audio-track="spa,eng", USA NETWORK
 http://23.237.32.130/hls/USANETWORK.m3u8
+
+#EXTINF:-1, tvg-id="USA" tvg-name="USA NETWORK USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/usa.png" group-title="" audio-track="spa,eng", USA NETWORK (op2)
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
 
 #EXTINF:-1, tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", HISTORY
 http://23.237.54.42/hls/HISTORYMX.m3u8
@@ -271,6 +325,35 @@ http://23.237.54.42/hls/A3SERIESMX.m3u8
 
 #EXTINF:-1, tvg-id="TVE" tvg-name="TVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" group-title="" audio-track="spa,eng", TVE
 http://23.237.54.42/hls/TVEMX.m3u8
+
+#EXTINF:-1, tvg-id="RAI1" tvg-name="RAI 1" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/26109/rai1channel.png" group-title="" audio-track="spa,eng", RAI 1
+http://92.43.140.249/s29/04.m3u8
+
+#EXTINF:-1, tvg-id="RAI3" tvg-name="RAI 3" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/26111/rai3channel.png" group-title="" audio-track="spa,eng", RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MULTIVISON" tvg-name="MULTIVISON" tvg-logo="https://multivision.tv/wp-content/uploads/2020/06/cropped-LOGO-CANAL-9-MULTIVISION-OK-1.png" group-title="" audio-track="spa,eng", MULTIVISON ARGENTINA
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+
+#EXTINF:-1, tvg-id="CANAL10" tvg-name="CANAL 10 ARGENTINA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-10-de-cordoba_m.png" group-title="" audio-track="spa,eng", CANAL 10 ARGENTINA
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
+
+#EXTINF:-1, tvg-id="RUSSIA1" tvg-name="RUSSIA 1" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/EU%20LOGOS/ChannelOneRussia.png" group-title="" audio-track="spa,eng", RUSSIA 1
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+
+#EXTINF:-1, tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cgtn.png" group-title="" audio-track="spa,eng", CGTN EN ESPANOL
+http://livees.cgtn.com/500e/prog_index.m3u8
+
+#EXTINF:-1, tvg-id="ABUDHABITV" tvg-name="ABU DHABI TV" tvg-logo="https://media.elcinema.com/tvguide/1136_1.png" group-title="" audio-track="spa,eng", ABU DHABI TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+
+#EXTINF:-1, tvg-id="ABUDHABIDRAMA" tvg-name="ABU DHABI DRAMA" tvg-logo="https://media.elcinema.com/tvguide/1178_1.png" group-title="" audio-track="spa,eng", ABU DHABI DRAMA
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+
+#EXTINF:-1, tvg-id="DUBAITV" tvg-name="DUBAI TV" tvg-logo="https://media.elcinema.com/tvguide/1169_1.png" group-title="" audio-track="spa,eng", DUBAI TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1, tvg-id="DUBAI1" tvg-name="DUBAI 1" tvg-logo="https://media.elcinema.com/tvguide/1173_1.png" group-title="" audio-track="spa,eng", DUBAI 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
 #EXTINF:-1, tvg-id="DEPELICULA" tvg-name="DE PELICULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="" audio-track="spa,eng", DE PELICULA
 http://23.237.54.42/hls/DEPELICULAMX.m3u8
@@ -354,6 +437,9 @@ http://23.237.32.130/hls/TUDN.m3u8
 #EXTINF:-1, tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="" audio-track="spa,eng", NBA TV
 http://23.237.32.130/hls/NBATV.m3u8
 
+#EXTINF:-1, tvg-id="ESPN" tvg-name="ESPN 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn.png" group-title="" audio-track="spa,eng", ESPN USA
+https://gma2.blab.email/fs2.m3u8
+
 #EXTINF:-1, tvg-id="ESPNEXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png" group-title="" audio-track="spa,eng", ESPN+
 http://23.237.54.42/hls/ESPNPLUSMX.m3u8
 
@@ -390,11 +476,53 @@ http://23.237.54.42/hls/CLAROSPORTSMX.m3u8
 #EXTINF:-1, tvg-id="TVCDEPORTES" tvg-name="TVC DEPORTES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes-mediano.png" group-title="" audio-track="spa,eng", TVC DEPORTES
 http://23.237.54.42/hls/TVCDEPORTESMX.m3u8
 
+#EXTINF:-1, tvg-id="FOXSPORTS" tvg-name="FOXSPORTS UK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fs1.png" group-title="" audio-track="spa,eng", FOXSPORTS UK
+http://45.58.62.92:8080
+
+#EXTINF:-1, tvg-id="BTSPORTS" tvg-name="BTSPORTS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/43511/btsport1hdtv.png" group-title="" audio-track="spa,eng", BTSPORTS
+http://cdnak8.cast4u.info/channels/2/10802.m3u8
+
+#EXTINF:-1, tvg-id="SETANTASPORTS" tvg-name="SETANTA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="" audio-track="spa,eng", SETANTA SPORTS
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1, tvg-id="CCTV5" tvg-name="CCTV5 SPORTS" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="" audio-track="spa,eng", CCTV5
+http://220.158.149.28:8180/live/TV00000000000000000104@HHZT
+
+#EXTINF:-1, tvg-id="ABUDHABISPORTS1" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-1.png" group-title="" audio-track="spa,eng", ABU DHABI SPORTS 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1, tvg-id="ABUDHABISPORTS2" tvg-name="ABU DHABI SPORTS 2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-2.jpg" group-title="" audio-track="spa,eng", ABU DHABI SPORTS 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1, tvg-id="ABUDHABISPORTS3" tvg-name="ABU DHABI SPORTS 3" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-3-hd.png" group-title="" audio-track="spa,eng", ABU DHABI SPORTS 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1, tvg-id="ABUDHABISPORTS4" tvg-name="ABU DHABI SPORTS 4" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-4-hd.png" group-title="" audio-track="spa,eng", ABU DHABI SPORTS 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1, tvg-id="ABUDHABISPORTS5" tvg-name="ABU DHABI SPORTS 5" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-5.jpg" group-title="" audio-track="spa,eng", ABU DHABI SPORTS 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1, tvg-id="ABUDHABISPORTS6" tvg-name="ABU DHABI SPORTS 6" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-6.jpg" group-title="" audio-track="spa,eng", ABU DHABI SPORTS 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+
+#EXTINF:-1, tvg-id="DUBAISPORTS1" tvg-name="DUBAI SPORTS 1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/dubai-sports-1.gif" group-title="" audio-track="spa,eng", DUBAI SPORTS 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1, tvg-id="DUBAISPORTS2" tvg-name="DUBAI SPORTS 2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/dubai-sports-2.gif" group-title="" audio-track="spa,eng", DUBAI SPORTS 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+#EXTINF:-1, tvg-id="DUBAISPORTS3" tvg-name="DUBAI SPORTS 3" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/dubai-sports-3.gif" group-title="" audio-track="spa,eng", DUBAI SPORTS 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
+#EXTINF:-1, tvg-id="DUBAISPORTS4" tvg-name="DUBAI SPORTS 4" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/dubai-sports-4.png" group-title="" audio-track="spa,eng", DUBAI SPORTS 4
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports4
+#EXTINF:-1, tvg-id="DUBAISPORTS5" tvg-name="DUBAI SPORTS 5" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/dubai-sports-5.png" group-title="" audio-track="spa,eng", DUBAI SPORTS 5
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports5
+#EXTINF:-1, tvg-id="DUBAISPORTS6" tvg-name="DUBAI SPORTS 6" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/dubai-sports-6.png" group-title="" audio-track="spa,eng", DUBAI SPORTS 6
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports6
+
+#EXTINF:-1, tvg-id="LAS" tvg-name="LAS" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/deportes/las.png" group-title="" audio-track="spa,eng", LAS
+http://23.237.54.42/hls/LASMX.m3u8
+
 #EXTINF:-1, tvg-id="GOLFCHANNEL" tvg-name="GOLF CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png" group-title="" audio-track="spa,eng", GOLF CHANNEL
 http://23.237.32.130/hls/GOLFCHANNEL.m3u8
 
 #EXTINF:-1, tvg-id="FOXNEWS" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png" group-title="" audio-track="spa,eng", FOX NEWS CHANNEL
 http://23.237.32.130/hls/FOXNEWS.m3u8
+#EXTINF:-1, tvg-id="FOXNEWS" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png" group-title="" audio-track="spa,eng", FOX NEWS (op2)
+https://gma2.blab.email/btn.m3u8
 
 #EXTINF:-1, tvg-id="CNN" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" group-title="" audio-track="spa,eng", CNN INTERNACIONAL
 http://23.237.54.42/hls/CNNINTERNACIONALMX.m3u8
@@ -405,6 +533,12 @@ http://23.237.54.42/hls/CNNESPANOLMX.m3u8
 #EXTINF:-1, tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bloomberg-mediano.png" group-title="" audio-track="spa,eng", BLOOMBERG
 http://23.237.54.42/hls/BLOOMBERGMX.m3u8
 
+#EXTINF:-1, tvg-id="DW" tvg-name="DW EN ESPANOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png" group-title="" audio-track="spa,eng", DW EN ESPANOL
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1, tvg-id="DW" tvg-name="DW" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png" group-title="" audio-track="spa,eng", DW
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+
 #EXTINF:-1, tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnbc.png" group-title="" audio-track="spa,eng", CNBC
 http://23.237.32.130/hls/CNBC.m3u8
 
@@ -413,6 +547,30 @@ http://23.237.32.130/hls/FOROTV.m3u8
 
 #EXTINF:-1, tvg-id="RTESPANOL" tvg-name="RT EN ESPANOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rt_en_espanol-mediano.png" group-title="" audio-track="spa,eng", RT EN ESPAÑOL
 http://23.237.54.42/hls/RTENESPANOLMX.m3u8
+
+#EXTINF:-1, tvg-id="ABCNEWS" tvg-name="ABC NEWS" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2017/03/abc-news-24-logo-170x68.jpg"  group-title="" audio-track="spa,eng", ABC NEWS
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1, tvg-id="CBSNEWS" tvg-name="CBS NEWS" tvg-logo="https://image.roku.com/developer_channels/prod/a8b49a2607647324caaee72cfdcf174cb92d43100e12d9b2fff95370c9c6f7aa.png" group-title="" audio-track="spa,eng", CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1, tvg-id="BBCWORLDNEWS" tvg-name="BBC WORLD NEWS" tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__BBC_WorldNews.png" group-title="" audio-track="spa,eng", BBC WORLD NEWS
+http://ott-cdn.ucom.am/s24/04.m3u8
+
+#EXTINF:-1, tvg-id="FRANCE24" tvg-name="FRANCE 24 EN ESPANOL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/france24.png" group-title="" audio-track="spa,eng", FRANCE 24 EN ESPAÑOL
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, tvg-id="FRANCE24" tvg-name="FRANCE 24" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/france24.png" group-title="" audio-track="spa,eng", FRANCE 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, tvg-id="ALJAZZERA" tvg-name="AL JAZZERA NEWS" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/noticias/12.png" group-title="" audio-track="spa,eng", AL JAZZERA NEWS
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1, tvg-id="RUSSIA24" tvg-name="RUSSIA 24" tvg-logo="https://tvepg.eu/img/russia/logo/rossija_24_2.png" group-title="" audio-track="spa,eng", RUSSIA 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MOSCU24" tvg-name="MOSCU 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png/200px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png" group-title="" audio-track="spa,eng", MOSCU 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1, tvg-id="CANALDELCONGRESO" tvg-name="CANAL DEL CONGRESO" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/kjqm0uly.png" group-title="" audio-track="spa,eng", CANAL DEL CONGRESO
 http://23.237.54.42/hls/CANALDELCONGRESOMX.m3u8
@@ -448,7 +606,11 @@ http://23.237.54.42/hls/TELEHITMX.m3u8
 #EXTINF:-1, tvg-id="BANDAMAX" tvg-name="BANDAMAX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" group-title="" audio-track="spa,eng", BANDAMAX
 http://23.237.54.42/hls/BANDAMAXMX.m3u8
 
+#EXTINF:-1, tvg-id="TELERITMO" tvg-name="TELERITMO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/21645/teleritmo_colordark.png" group-title="" audio-track="spa,eng", TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1, tvg-id="DMF" tvg-name="MUSICA ALEMANA" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24463-1.png" group-title="" audio-track="spa,eng", MUSICA ALEMANA DMF
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 
 
 
