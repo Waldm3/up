@@ -2,6 +2,8 @@
 
 #EXTINF:-1, tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="" audio-track="spa,eng", TELEFORMULA
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1,CA: ABC 5  Boston (WCVB)
+http://ingrid.ltd:25461/live/Cc1/Cc1/67470.m3u8?checkedby
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8 
@@ -9,7 +11,29 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
 
+#EXTINF:-1,CA: CBS 4  Boston MA (WBZ)
+http://ingrid.ltd:25461/live/Cc1/Cc1/67471.m3u8?checkedby
 
+#EXTINF:-1,CA: NBC 8 Boston (WYCN)
+http://ingrid.ltd:25461/live/Cc1/Cc1/67473.m3u8?checkedby
+
+#EXTINF:-1,CA: FOX 2 Detroit MI (WJBK)
+http://ingrid.ltd:25461/live/Cc1/Cc1/67588.m3u8?checkedby
+
+EXTINF:-1,CA: CW 23 Buffalo NY (WNLO)
+http://ingrid.ltd:25461/live/Cc1/Cc1/67477.m3u8?checkedby
+
+#EXTINF:-1,CA: MY 49 Buffalo NY (WNYO)
+http://ingrid.ltd:25461/live/Cc1/Cc1/67591.m3u8?checkedby
+
+#EXTINF:-1,CA: CBC Toronto HD
+http://ingrid.ltd:25461/live/Cc1/Cc1/67311.m3u8?checkedby
+
+#EXTINF:-1,CA: Citytv Toronto HD
+http://ingrid.ltd:25461/live/Cc1/Cc1/67309.m3u8?checkedby
+
+#EXTINF:-1,CA: CTV Toronto HD
+http://ingrid.ltd:25461/live/Cc1/Cc1/67303.m3u8?checkedby
 
 #EXTINF:-1, tvg-id="FAILARMY" tvg-name="FAIL ARMY" tvg-logo="https://w7.pngwing.com/pngs/730/581/png-transparent-youtube-failarmy-television-show-humour-youtube-television-text-logo-thumbnail.png" group-title="" audio-track="spa,eng", FAIL ARMY 720P
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
