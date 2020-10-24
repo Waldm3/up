@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,MTY TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1603334298/ei/OpyQX-_BGNTB1AHLj56wBQ/ip/189.159.115.114/id/HRo9CfclUyo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPefnzPbZk1PbZQbogZxwPKsWkEMciTSzJyJL0PBT7IbAiEAyE-HsKSCOdiVkJzx7MQ5IgusvmfmxtnA-1PPXgFfQ30%3D/file/index.m3u8
-
 #EXTINF:-1, tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="" audio-track="spa,eng", TELEFORMULA
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
@@ -13,20 +10,6 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,PBS
-http://161.0.157.5/PLTV/88888888/224/3221226819/03.m3u8 
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8 
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FLOWSPORTS
-http://161.0.157.5/PLTV/88888888/224/3221226899/03.m3u8 
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,MAXPRIME
-http://161.0.157.5/PLTV/88888888/224/3221226834/03.m3u8 
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/03.m3u8
 
 #EXTINF:-1, tvg-id="FAILARMY" tvg-name="FAIL ARMY" tvg-logo="https://w7.pngwing.com/pngs/730/581/png-transparent-youtube-failarmy-television-show-humour-youtube-television-text-logo-thumbnail.png" group-title="" audio-track="spa,eng", FAIL ARMY 720P
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
@@ -70,38 +53,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC Op6
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cartoon network
-http://209.222.97.23:8080/margaret/123456/19618?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ae
-http://209.222.97.23:8080/margaret/123456/19533?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,amc
-http://209.222.97.23:8080/margaret/123456/19543?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,animalplanet
-http://209.222.97.23:8080/margaret/123456/19548?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,axn
-http://209.222.97.23:8080/margaret/123456/19560?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,bandsports
-http://209.222.97.23:8080/margaret/123456/19581?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,boomerang
-http://209.222.97.23:8080/margaret/123456/19595?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,canal brasil
-http://209.222.97.23:8080/margaret/123456/19600?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,futura
-http://209.222.97.23:8080/margaret/123456/19606?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,sony
-http://209.222.97.23:8080/margaret/123456/19611?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinemax
-http://209.222.97.23:8080/margaret/123456/19634?checkedby
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cnn español
 http://209.222.97.23:8080/margaret/123456/19641?checkedby
@@ -109,36 +60,6 @@ http://209.222.97.23:8080/margaret/123456/19641?checkedby
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cnn intl
 http://209.222.97.23:8080/margaret/123456/19642?checkedby
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,comedy central
-http://209.222.97.23:8080/margaret/123456/19649?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,dazn
-http://209.222.97.23:8080/margaret/123456/19674?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,discovery channel
-http://209.222.97.23:8080/margaret/123456/19675?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,home and health
-http://209.222.97.23:8080/margaret/123456/19683?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,science
-http://209.222.97.23:8080/margaret/123456/19693?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,theater
-http://209.222.97.23:8080/margaret/123456/19698?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,turbo
-http://209.222.97.23:8080/margaret/123456/19703?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,world
-http://209.222.97.23:8080/margaret/123456/19707?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,disney channel
-http://209.222.97.23:8080/margaret/123456/19715?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,disney xd
-http://209.222.97.23:8080/margaret/123456/19727?checkedby
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,dw
 http://209.222.97.23:8080/margaret/123456/19731?checkedby
@@ -146,211 +67,6 @@ http://209.222.97.23:8080/margaret/123456/19731?checkedby
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,dw español
 http://209.222.97.23:8080/margaret/123456/19732?checkedby
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,e
-http://209.222.97.23:8080/margaret/123456/19734?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,espn
-http://209.222.97.23:8080/margaret/123456/19749?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,espn br
-http://209.222.97.23:8080/margaret/123456/19750?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,espn extra
-http://209.222.97.23:8080/margaret/123456/19761?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,espn
-http://209.222.97.23:8080/margaret/123456/19765?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,espn
-http://209.222.97.23:8080/margaret/123456/19767?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,esporte interativo
-http://209.222.97.23:8080/margaret/123456/19773?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,fox
-http://209.222.97.23:8080/margaret/123456/19794?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,fox life
-http://209.222.97.23:8080/margaret/123456/19795?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,fox premium 1
-http://209.222.97.23:8080/margaret/123456/19803?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,fox premium 2
-http://209.222.97.23:8080/margaret/123456/19805?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,fox sports 1
-http://209.222.97.23:8080/margaret/123456/19810?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,fox sports 2
-http://209.222.97.23:8080/margaret/123456/19812?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,fx
-http://209.222.97.23:8080/margaret/123456/19822?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,globo news
-http://209.222.97.23:8080/margaret/123456/19855?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,gloob
-http://209.222.97.23:8080/margaret/123456/19903?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo
-http://209.222.97.23:8080/margaret/123456/19912?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo sd
-http://209.222.97.23:8080/margaret/123456/19932?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo plus
-http://209.222.97.23:8080/margaret/123456/19914?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo 2
-http://209.222.97.23:8080/margaret/123456/19923?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo family
-http://209.222.97.23:8080/margaret/123456/19924?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo mundi
-http://209.222.97.23:8080/margaret/123456/19976?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo pop
-http://209.222.97.23:8080/margaret/123456/19935?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo xtreme
-http://209.222.97.23:8080/margaret/123456/19982?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,hbo signature
-http://209.222.97.23:8080/margaret/123456/19937?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,history
-http://209.222.97.23:8080/margaret/123456/19952?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,history 2
-http://209.222.97.23:8080/margaret/123456/19947?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,id
-http://209.222.97.23:8080/margaret/123456/19961?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,mtv
-http://209.222.97.23:8080/margaret/123456/20001?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,multishow
-http://209.222.97.23:8080/margaret/123456/20003?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,natgeo
-http://209.222.97.23:8080/margaret/123456/20012?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,natgeo wild
-http://209.222.97.23:8080/margaret/123456/20025?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,nick jr
-http://209.222.97.23:8080/margaret/123456/20034?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,nickelodeon
-http://209.222.97.23:8080/margaret/123456/20037?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,paramount
-http://209.222.97.23:8080/margaret/123456/20047?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,playboy
-http://209.222.97.23:8080/margaret/123456/20053?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere 2
-http://209.222.97.23:8080/margaret/123456/20057?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere 3
-http://209.222.97.23:8080/margaret/123456/20063?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere 4
-http://209.222.97.23:8080/margaret/123456/20070?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere 5
-http://209.222.97.23:8080/margaret/123456/20077?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere 6
-http://209.222.97.23:8080/margaret/123456/20088?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere 7
-http://209.222.97.23:8080/margaret/123456/20089?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere 8
-http://209.222.97.23:8080/margaret/123456/20094?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premier box
-http://209.222.97.23:8080/margaret/123456/20102?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,sextreme
-http://209.222.97.23:8080/margaret/123456/20146?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,sexyhot
-http://209.222.97.23:8080/margaret/123456/20149?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,space
-http://209.222.97.23:8080/margaret/123456/20155?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,sportv
-http://209.222.97.23:8080/margaret/123456/20161?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,sportv2
-http://209.222.97.23:8080/margaret/123456/20162?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,sportv3
-http://209.222.97.23:8080/margaret/123456/20173?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,sportv4
-http://209.222.97.23:8080/margaret/123456/20179?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,studio universal
-http://209.222.97.23:8080/margaret/123456/20180?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,syfy
-http://209.222.97.23:8080/margaret/123456/20186?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,tbs
-http://209.222.97.23:8080/margaret/123456/20192?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,tcm
-http://209.222.97.23:8080/margaret/123456/20202?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,tnt
-http://209.222.97.23:8080/margaret/123456/20238?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,tnt series
-http://209.222.97.23:8080/margaret/123456/20246?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,tooncast
-http://209.222.97.23:8080/margaret/123456/20249?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,tvbrasil
-http://209.222.97.23:8080/margaret/123456/20255?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,universal
-http://209.222.97.23:8080/margaret/123456/20270?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,venus
-http://209.222.97.23:8080/margaret/123456/20277?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,vh1
-http://209.222.97.23:8080/margaret/123456/20280?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,warner bros
-http://209.222.97.23:8080/margaret/123456/20289?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,dazn1
-http://209.222.97.23:8080/margaret/123456/20302?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky
-http://209.222.97.23:8080/margaret/123456/23864?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky2
-http://209.222.97.23:8080/margaret/123456/23865?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky3
-http://209.222.97.23:8080/margaret/123456/23866?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky4
-http://209.222.97.23:8080/margaret/123456/23867?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky5
-http://209.222.97.23:8080/margaret/123456/23868?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky6
-http://209.222.97.23:8080/margaret/123456/23869?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky7
-http://209.222.97.23:8080/margaret/123456/23870?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky8
-http://209.222.97.23:8080/margaret/123456/23871?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky9
-http://209.222.97.23:8080/margaret/123456/23872?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cinesky10
-http://209.222.97.23:8080/margaret/123456/23873?checkedby
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,chaves em desenho
 http://209.222.97.23:8080/margaret/123456/24832?checkedby
@@ -358,27 +74,6 @@ http://209.222.97.23:8080/margaret/123456/24832?checkedby
 http://209.222.97.23:8080/margaret/123456/24833?checkedby
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,chapulin colorado
 http://209.222.97.23:8080/margaret/123456/24834?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,liga o justicia
-http://209.222.97.23:8080/margaret/123456/24851?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,los simpsons
-http://209.222.97.23:8080/margaret/123456/25266?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,looney tones
-http://209.222.97.23:8080/margaret/123456/25314?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,pica pau
-http://209.222.97.23:8080/margaret/123456/25265?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere clubes
-http://209.222.97.23:8080/margaret/123456/25272?checkedby
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,premiere clubes dual
-http://209.222.97.23:8080/margaret/123456/25278?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,globo sp
-http://209.222.97.23:8080/margaret/123456/27126?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,globo brasilia
-http://209.222.97.23:8080/margaret/123456/27083?checkedby
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,globo news
-http://209.222.97.23:8080/margaret/123456/27106?checkedby
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,conmebol
 http://209.222.97.23:8080/margaret/123456/27358?checkedby
@@ -398,8 +93,6 @@ http://toonxtv.net/hls/loco_ch/stream.m3u8
 #EXTINF:-1, tvg-id="NASA" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Worm_logo.svg/320px-NASA_Worm_logo.svg.png" group-title="" audio-track="spa,eng", NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:-1, tvg-id="RAI1" tvg-name="RAI 1" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/26109/rai1channel.png" group-title="" audio-track="spa,eng", RAI 1
-http://ott-cdn.ucom.am/s29/04.m3u8
 
 #EXTINF:-1, tvg-id="RAI3" tvg-name="RAI 3" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/26111/rai3channel.png" group-title="" audio-track="spa,eng", RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
@@ -425,8 +118,6 @@ https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1, tvg-id="BTSPORTS" tvg-name="BTSPORTS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/43511/btsport1hdtv.png" group-title="" audio-track="spa,eng", BTSPORTS
 http://cdnak8.cast4u.info/channels/2/10802.m3u8
 
-#EXTINF:-1, tvg-id="SETANTASPORTS" tvg-name="SETANTA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="" audio-track="spa,eng", SETANTA SPORTS
-http://ott-cdn.ucom.am/s81/04.m3u8
 
 #EXTINF:-1, tvg-id="CCTV5" tvg-name="CCTV5 SPORTS" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="" audio-track="spa,eng", CCTV5
 http://220.158.149.28:8180/live/TV00000000000000000104@HHZT
@@ -443,8 +134,6 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1, tvg-id="DW" tvg-name="DW" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png" group-title="" audio-track="spa,eng", DW
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
-#EXTINF:-1, tvg-id="DW" tvg-name="DW" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png" group-title="" audio-track="spa,eng", DW (OP2)
-https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
 
 #EXTINF:-1, tvg-id="ABCNEWS" tvg-name="ABC NEWS" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2017/03/abc-news-24-logo-170x68.jpg"  group-title="" audio-track="spa,eng", ABC NEWS
 https://gma2.blab.email/espn2.m3u8
@@ -477,8 +166,6 @@ http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
 
-#EXTINF:-1, tvg-id="THEWEATHERCHANNEL" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" group-title="" audio-track="spa,eng", THE WEATHER CHANNEL
-http://23.237.32.130/hls/THEWEATHERCHANNEL.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,bbc news
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8?checkedby
@@ -493,15 +180,8 @@ https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8?checkedby
 https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8?checkedby 
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,english spoken ch
-https://edge-1192-ch-gv.filmon.com/live/3166.low.stream/playlist.m3u8?checkedby
 
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,india today news
-https://edge-1192-ch-gv.filmon.com/live/3482.low.stream/playlist.m3u8?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,france24 fr
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,franceinfo
 https://edge-1192-ch-gv.filmon.com/live/3887.low.stream/playlist.m3u8?checkedby
 
 
@@ -509,30 +189,9 @@ https://edge-1192-ch-gv.filmon.com/live/3887.low.stream/playlist.m3u8?checkedby
 https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?checkedby
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,x
-https://edge-1192-ch-gv.filmon.com/live/4121.low.stream/playlist.m3u8?checkedby
-
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cnbc news
 https://edge-1192-ch-gv.filmon.com/live/4130.low.stream/playlist.m3u8?
 checkedby
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,360vr
-https://edge-1192-ch-gv.filmon.com/live/4136.low.stream/playlist.m3u8?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,english spoken ch
-https://edge-1192-ch-gv.filmon.com/live/4139.low.stream/playlist.m3u8?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,german spoken ch
-https://edge-1192-ch-gv.filmon.com/live/4727.low.stream/playlist.m3u8?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,german spoken ch
-https://edge-1192-ch-gv.filmon.com/live/4730.low.stream/playlist.m3u8?checkedby
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,x
-https://edge-1192-ch-gv.filmon.com/live/6152.low.stream/playlist.m3u8?checkedby
