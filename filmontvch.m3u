@@ -1,5 +1,625 @@
 #EXTM3U
 
+#EXTINF:0,France 24
+#EXTGRP:unsorted
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:0,DW
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=203&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,NASA Public
+#EXTGRP:unsorted
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0,Milenio
+#EXTGRP:unsorted
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,MegaTV (PR)
+#EXTGRP:unsorted
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
+#EXTINF:0,Azteca UNO
+#EXTGRP:unsorted
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/3b3095b0-458a-429d-a267-9ac9467e51bc:BRU/master.m3u8
+#EXTINF:0,Azteca 7
+#EXTGRP:unsorted
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
+#EXTINF:0,Vibe TV
+#EXTGRP:unsorted
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+#EXTINF:0,Canal 6 Monterrey
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Canal 6 CDMX
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0,Teleritmo
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,Canal ONCE
+#EXTGRP:unsorted
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:0,Quiero TV
+#EXTGRP:unsorted
+https://quierotvlive.tk/httplive/playlist.m3u8
+#EXTINF:0,NET TV
+#EXTGRP:unsorted
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,Multivision
+#EXTGRP:unsorted
+https://panel.dattalive.com/8250/8250/.m3u8
+#EXTINF:0,RCN
+#EXTGRP:unsorted
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+#EXTINF:0,NexTV
+#EXTGRP:unsorted
+http://198.1.123.99:1935/live/myStream/.m3u8
+#EXTINF:0,Euro Latina TV
+#EXTGRP:unsorted
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:0,Latinos UP
+#EXTGRP:unsorted
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+#EXTINF:0,TOP Latino
+#EXTGRP:unsorted
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:0,ACS Network
+#EXTGRP:unsorted
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+#EXTINF:0,Adult Swim TV
+#EXTGRP:unsorted
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
+#EXTINF:0,Cachipum TV
+#EXTGRP:unsorted
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:0,Locomotion
+#EXTGRP:unsorted
+http://toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:0,93.3 FM
+#EXTGRP:unsorted
+https://14543.live.streamtheworld.com/XHQQ_FM_SC
+#EXTINF:0,690 RG AM
+#EXTGRP:unsorted
+https://19303.live.streamtheworld.com/RG690_SC
+#EXTINF:0,LA MEJOR 92.5 FM
+#EXTGRP:unsorted
+https://16643.live.streamtheworld.com/XHSROFM_SC
+#EXTINF:0,LA CALIENTE 94.1
+#EXTGRP:unsorted
+https://14943.live.streamtheworld.com/XETFM_SC
+#EXTINF:0,LA LUPE 105.3
+#EXTGRP:unsorted
+https://16693.live.streamtheworld.com/XHPAGFM_SC*** NACIONALES ***
+#EXTINF:0,ONCE NINOS (CLASES)
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,AZTECA 7.3 (CLASES)
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,AZTECA UNO HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:0,AZ CLIC HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=11&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,LAS ESTRELLAS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,CANAL 5
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=20&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,AZTECA 7
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=21&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,NU9VE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=24&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,ONCE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=25&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,AZTECA UNO
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=27&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,TELEFORMULA SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=32&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,MEXIQUENSE TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=44&p=3&k=srregio&f=.m3u8
+#EXTINF:0,AZ CORAZON
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=70&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,AZ MUNDO
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=84&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,AZTECA 7 HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=317&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,AZTECA 7 HD (2)
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=322&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,IMAGEN TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MULTIMEDIOS MTY
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2305&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,APREDNE TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=401&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MULTIMEDIOS CDMX
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2352&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,NU9VE HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,LAS ESTRELLAS HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CANAL 5 HD (2)
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:0,ONCE HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MVS TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,TVC
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,CANAL 4
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CANAL 8
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,TELEVISA PUEBLA
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,A+
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,TVMAS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CANAL DEL CONGRESO
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,IMAGEN TV HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,ACADEMIA
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MULTIMEDIOS HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2882&p=3&k=srregio&f=.m3u8  *** INFANTILES ***
+#EXTINF:0,TOONCAST
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=108&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,DISCOVERY KIDS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=109&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,NICK
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=110&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,DISNEY XD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=111&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=112&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=113&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,BOOMERANG
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=115&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,BABY TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=116&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,NICK JR
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=117&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,DISNEY JR
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=118&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,NICKTOONS SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,BABY FIRST
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,NICK 2
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:0,NAT GEO KIDS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,BIT ME
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2591&p=3&k=srregio&f=.m3u8*** CINE ***
+#EXTINF:0,A3CINE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,TBS SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=81&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,DE PELICULA +
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=121&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,GOLDEN +
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=122&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,GOLDEN
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,GOLDEN EDGE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,TNT
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=126&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,TCM
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=128&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,SPACE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=129&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,AMC
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=328&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,STUDIO UNIVERSAL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=132&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,I SAT
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=135&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,EUROPA CHANNEL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=136&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FILMS & ARTS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=137&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FXM
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=138&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FXM SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=332&p=3&k=srregio&f=.m3u8
+#EXTINF:0,FOX SERIES
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=139&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MORBIDO
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=140&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX MOVIES
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=146&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CINECANAL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=149&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CINEMAX
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=158&p=3&k=srregio&f=.m3u8
+#EXTINF:0,DE PELICULA SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=335&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX ACTION
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=336&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,PARAMOUNT CHANNEL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX CINEMA SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX CLASSICS SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+#EXTINF:0,AZ CINEMA
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1787&p=3&k=srregio&f=.m3u8 *** ENTRETENIMIENTO ***
+#EXTINF:0,TELEMUNDO INTERNACIONAL HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=85&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=46&p=3&k=srregio&f=.m3u8
+#EXTINF:0,SONY
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=48&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,WARNER
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=52&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,E!
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=55&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,UNIVERSAL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=57&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,SYFY
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=59&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FX
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=60&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,A&E
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=62&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,AXN
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=64&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,UNICABLE SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=66&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,SUNDANCE TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=69&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,TNT SERIES
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=71&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,GLITZ
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=76&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,GOURMET
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:0,FOX LIFE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=77&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,DISTRITO COMEDIA SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=78&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,TRUTV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=79&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,TL NOVELAS SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=83&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,LIFETIME
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:0,ANTENA 3
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=199&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:0,WARNER HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=205&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,UNIVERSAL HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=207&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FX HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:0,TRUTV HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=215&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,HOLA TV HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=219&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=340&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,COMEDY CENTRAL SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=341&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,UNICABLE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MAS CHIC
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1842&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,A3SERIES
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2113&p=3&k=srregio&f=.m3u8 *** DEPORTES ***
+#EXTINF:0,ESPN +
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=167&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,ESPN
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=168&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,ESPN 2
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=169&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX SPORTS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=170&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX SPORTS 2
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=172&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,TUDN
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=174&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FOX SPORTS 3
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=178&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,GOLF
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=179&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,AYM SPORTS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=180&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,ESPN 3
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=345&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,TUDN HD (2)
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,ADRENALINA SPORTS HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,LAS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+#EXTINF:0,HAVOC
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2148&p=3&k=srregio&f=.m3u8
+#EXTINF:0,TVC DEPORTES
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CLARO SPORTS HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,FUEL TV HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2587&p=3&k=srregio&f=.m3u8 *** CULTURALES ***
+#EXTINF:0,DISCOVERY ID
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=68&p=3&k=srregio&f=.m3u8   
+#EXTINF:0,GARAGE TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=75&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=86&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,ANIMAL PLANET
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=88&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,HISTORY
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=89&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,NAT GEO
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=91&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,NAT GEO WILD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=92&p=3&k=srregio&f=.m3u8
+#EXTINF:0,DISCOVERY THEATER
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=95&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,H&H
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=96&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=97&p=3&k=srregio&f=.m3u8
+#EXTINF:0,DISCOVERY SCIENCE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=98&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,DISCOVERY CIVILIZATION
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=99&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,DISCOVERY WORLD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=101&p=3&k=srregio&f=.m3u8
+#EXTINF:0,TVE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=198&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,SHOPPING
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1943&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,FOOD NETWORK
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2145&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,STAR TVE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,DISCOVERY TURBO
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CURIOSITY STREAM
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2594&p=3&k=srregio&f=.m3u8  *** MUSICA ***
+#EXTINF:0,MTV LIVE
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=211&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MTV LIVE orig 
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw3MDElMkYqJmV4cGlyeT0xNjA0MTg5MzQzJmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLDNjMTdkZDVjOTNlMTAzMTQwODQ4ZjNkNmFiMGQzOWQ3NTE1NmU3Yzk5MjZhYWE0ZTdlMTNiMmUxYmYyNGZlMjM=/PROFILE03.m3u8
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=212&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MTV HITS SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=213&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,VH1 CLASSIC SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=214&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,VH1 SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=217&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,TELEHIT URBANO SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=218&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,TELEHIT +
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=220&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,BANDAMAX SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=221&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,AZ CLIC
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=223&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,VH1 HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=334&p=3&k=srregio&f=.m3u8  *** NOTICIAS ***
+#EXTINF:0,FOROTV HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:0,FOROTV SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=19&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,ADN40
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=40&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,ADN 40 HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CNN
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=185&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CNN SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=186&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,CNN Ñ SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=187&p=3&k=srregio&f=.m3u8
+#EXTINF:0,WOBI
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=102&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,FOXN EWS
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=188&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,BLOOMBERG
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=190&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,BBC SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=191&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,AL JAAZERA
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=192&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,NTN 24
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=194&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,JUSTICIA TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=196&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,HLN
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=197&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,RT
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=999&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MILENIO HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,MILENIO SD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,EXCELSIOR TV
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,EL FINANCIERO HD
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1649&p=3&k=srregio&f=.m3u8   
+#EXTINF:0,RT ESPAÑOL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
+#EXTINF:0,FRANCE 24
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2402&p=3&k=srregio&f=.m3u8     
 
 
 #EXTINF:-1, tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="" audio-track="spa,eng", TELEFORMULA
