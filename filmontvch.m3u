@@ -4,54 +4,54 @@
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 540p (KATC-LAFAYETTE LA) 
-http://185.232.53.5:2086/arellano/kgtL965n2Y/98673?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p Low Latency (WJLA- WASHINGTON DC)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90340?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90340.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p Low Latency (WZVN-FORT MYERS FL)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/98678?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98678.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p Low Latency (WSOC-CHARLOTTE NC)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90348?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90348.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p (KTVT- Fort Worth TX)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90359?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90359.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p Low Latency (KCBS TV– Los Angeles CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90233?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90233.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p Low Latency (KCTV– Kansas City MO)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90255?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90255.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p Low Latency (WWL– New Orleans LA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90235?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90235.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p Low Latency  (WIVB) BUFFALO NEW YORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/96786?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96786.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency (KSNV - Las Vegas NV)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90417?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90417.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency (KSDK - St. Louis MO)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90416?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90416.ts
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency (WOAI San Antonio TX)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90640?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90640.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency 2M (KSNB) Superior Nebraska
-http://185.232.53.5:2086/arellano/kgtL965n2Y/96860?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96860.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency 2M  (WTWO) Terre Haute Indiana
-http://185.232.53.5:2086/arellano/kgtL965n2Y/96936?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96936.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency  (WAGA - Atlanta GA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90395?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90395.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency (WBFF- Baltimore MD)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90396?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90396.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency (WTXF - Philadelphia PA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90405?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90405.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency 2M (WNAC) Providence Rhode Island
-http://185.232.53.5:2086/arellano/kgtL965n2Y/96815?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96815.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency 2M (WSYM) Lansing Michigan
-http://185.232.53.5:2086/arellano/kgtL965n2Y/96818?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96818.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CW 1080p Low latency (WPCW) Pittsburgh PA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90382?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90382.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CW 720p Low latency (WPSG) Philadelphia PN
-http://185.232.53.5:2086/arellano/kgtL965n2Y/90383?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90383.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,TBS 720p
-http://185.232.53.5:2086/arellano/kgtL965n2Y/301?checkedby
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/301.ts
 #EXTINF:-1, tvg-id="FAILARMY" tvg-name="FAIL ARMY" tvg-logo="https://w7.pngwing.com/pngs/730/581/png-transparent-youtube-failarmy-television-show-humour-youtube-television-text-logo-thumbnail.png" group-title="" audio-track="spa,eng", FAIL ARMY 720P
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 
@@ -96,34 +96,34 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cnn español
-http://209.222.97.23:8080/margaret/123456/19641?checkedby
+http://209.222.97.23:8080/live/margaret/123456/19641.ts
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cnn intl
-http://209.222.97.23:8080/margaret/123456/19642?checkedby
+http://209.222.97.23:8080/live/margaret/123456/19642.ts
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,dw
-http://209.222.97.23:8080/margaret/123456/19731?checkedby
+http://209.222.97.23:8080/live/margaret/123456/19731.ts
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,dw español
-http://209.222.97.23:8080/margaret/123456/19732?checkedby
+http://209.222.97.23:8080/live/margaret/123456/19732.ts
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,chaves em desenho
-http://209.222.97.23:8080/margaret/123456/24832?checkedby
+http://209.222.97.23:8080/live/margaret/123456/24832.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,chaves
-http://209.222.97.23:8080/margaret/123456/24833?checkedby
+http://209.222.97.23:8080/live/margaret/123456/24833.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,chapulin colorado
-http://209.222.97.23:8080/margaret/123456/24834?checkedby
+http://209.222.97.23:8080/live/margaret/123456/24834.ts
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,conmebol
-http://209.222.97.23:8080/margaret/123456/27358?checkedby
+http://209.222.97.23:8080/live/margaret/123456/27358.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,conmebol2
-http://209.222.97.23:8080/margaret/123456/27359?checkedby
+http://209.222.97.23:8080/live/margaret/123456/27359.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,conmebol3
-http://209.222.97.23:8080/margaret/123456/27360?checkedby
+http://209.222.97.23:8080/live/margaret/123456/27360.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,conmebol4
-http://209.222.97.23:8080/margaret/123456/27361?checkedby
+http://209.222.97.23:8080/live/margaret/123456/27361.ts
 
 #EXTINF:-1, tvg-id="HUNANCARTOON" tvg-name="HUNAN CARTOON CHINA" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="" audio-track="spa,eng", HUNAN CARTOON CHINA
 http://220.158.149.28:8180/live/TV00000000000000000020@HHZT
@@ -209,30 +209,29 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,bbc news
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8?checkedby
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,russia1
-https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8?checkedby 
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8 
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,russia24
-https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8?checkedby 
+https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8 
 
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,franceinfo
-https://edge-1192-ch-gv.filmon.com/live/3887.low.stream/playlist.m3u8?checkedby
+https://edge-1192-ch-gv.filmon.com/live/3887.low.stream/playlist.m3u8
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,france 3
-https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?checkedby
+https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8
 
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,cnbc news
-https://edge-1192-ch-gv.filmon.com/live/4130.low.stream/playlist.m3u8?
-checkedby
+https://edge-1192-ch-gv.filmon.com/live/4130.low.stream/playlist.m3u8?checkedby
 
 
