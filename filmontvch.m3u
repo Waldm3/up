@@ -1,67 +1,55 @@
 #EXTM3U
 
+
+
 #EXTINF:-1, tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="" audio-track="spa,eng", TELEFORMULA
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTM3U
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts 
-#EXTINF:10.0,
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 540p (LA) 
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
-#EXTINF:10.0,
-http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
-#EXTINF:9.0,
-http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
-#EXT-X-ENDLIST
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 540p (KATC-LAFAYETTE LA) 
-http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p Low Latency (WJLA- WASHINGTON DC)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p (DC)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90340.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p Low Latency (WZVN-FORT MYERS FL)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p (FL)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98678.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p Low Latency (WSOC-CHARLOTTE NC)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p (NC)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90348.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p (KTVT- Fort Worth TX)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p (TX)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90359.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p Low Latency (KCBS TV– Los Angeles CA)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p (CA)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90233.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p Low Latency (KCTV– Kansas City MO)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p (MO)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90255.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p Low Latency (WWL– New Orleans LA)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p (LA)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90235.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p Low Latency  (WIVB) BUFFALO NEW YORK
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CBS 720p (NY)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96786.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency (KSNV - Las Vegas NV)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p (NV)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90417.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency (KSDK - St. Louis MO)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p (MO)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90416.ts
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency (WOAI San Antonio TX)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p (TX)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90640.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency 2M (KSNB) Superior Nebraska
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p (NA)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96860.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p Low latency 2M  (WTWO) Terre Haute Indiana
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,NBC 720p (IA)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96936.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency  (WAGA - Atlanta GA)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p (GA)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90395.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency (WBFF- Baltimore MD)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p (MD)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90396.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency (WTXF - Philadelphia PA)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p (PA)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90405.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency 2M (WNAC) Providence Rhode Island
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p (NY)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96815.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p Low latency 2M (WSYM) Lansing Michigan
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,FOX 720p (MI)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96818.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CW 1080p Low latency (WPCW) Pittsburgh PA
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CW 1080p (PA)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90382.ts
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CW 720p Low latency (WPSG) Philadelphia PN
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,CW 720p (PN)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90383.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,TBS 720p
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/301.ts
