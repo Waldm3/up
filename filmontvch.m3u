@@ -2,7 +2,20 @@
 
 #EXTINF:-1, tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="" audio-track="spa,eng", TELEFORMULA
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts 
+#EXTINF:10.0,
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
+#EXTINF:10.0,
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
+#EXTINF:9.0,
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
+#EXT-X-ENDLIST
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 540p (KATC-LAFAYETTE LA) 
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98673.ts
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="" audio-track="spa,eng" ,ABC 720p Low Latency (WJLA- WASHINGTON DC)
