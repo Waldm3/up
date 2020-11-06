@@ -3,12 +3,17 @@
 #EXTINF:0,SYFY
 #EXTGRP:unsorted
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTclMkYqJmV4cGlyeT0xNjA0Mzc2NTc0JmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLDAwMzBkYjNlMjk3NzQ3MjVjMGE3YTdhYWQyYWNlZmZmZWFmNWNhNjNjZDhjNDg5ZGFkNDJjMTU3ZWY5NzljY2E=/PROFILE03.m3u8
+#EXTINF:0,SYFY
+#EXTGRP:unsorted
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTclMkYqJmV4cGlyeT0xNjA0NjQwMjY5JmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLDYxYWNmNjJkYTM3Nzk5OTVmZTBkNTYxYzJiOWFkM2RkMGI2NDJmOWM3OGVjMThhZGIwOWQxODJjZjRkNWMwNzM=/PROFILE03.m3u8
+#EXTINF:0,SYFY
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:0,FX
 #EXTGRP:unsorted
 http://regioflix.club/Sr_Regio20/tp.php?c=60&p=3&k=srregio&f=.m3u8  
-#EXTINF:0,FX ok
-#EXTGRP:unsorted
-http://regioflix.club/Sr_Regio20/tp.php?c=60&p=3&k=srregio&f=.m3u8  
+#EXTINF:0,US list ch iptv smarter list
+http://185.232.53.5:2086/arellano/kgtL965n2Y/16240?checkedby
 #EXTINF:-1, tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="" audio-track="spa,eng", TELEFORMULA
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1, tvg-id="ABC 540p (LA) " tvg-name="ABC 540p (LA) " tvg-logo="" group-title="" audio-track="spa,eng", ABC 540p (LA) 
