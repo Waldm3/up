@@ -1,16 +1,39 @@
 #EXTM3U
 
-#EXTINF:0,SYFY working
+#EXTINF:0,SYFY not working
 #EXTGRP:unsorted
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTclMkYqJmV4cGlyeT0xNjA0ODc1OTA0JmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLGIyY2NhZTdiNGEwYzhmM2ExMDM0MTY4NGIyNzBkNDA0MWU5NjE4MTNhMWE2MzU2Mzc2MDg4NWI2NDgyNmU4MTY=/PROFILE03.m3u8
+#EXTINF:0,SYFY not working
+#EXTGRP:unsorted
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
 #EXTINF:0,SYFY
 #EXTGRP:unsorted
 http://regioflix.club/Sr_Regio20/tp.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:0,FX
 #EXTGRP:unsorted
 http://regioflix.club/Sr_Regio20/tp.php?c=60&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1,US.EN - ABC NEW YORK
+http://tv.nousiptv.com:25462/rod/1234/54581
+#EXTINF:-1,LAT - FOX BOSTON
+http://tv.nousiptv.com:25462/rod/1234/45552
+#EXTINF:-1,LAT - NBC  BOSTON
+http://tv.nousiptv.com:25462/rod/1234/45551
+#EXTINF:-1,LAT - ESTRELLA TV
+http://tv.nousiptv.com:25462/rod/1234/41188
+#EXTINF:-1,LAT - CBS BOSTON
+http://tv.nousiptv.com:25462/rod/1234/45550
 #EXTINF:0,US list ch iptv smarter list
 http://185.232.53.5:2086/arellano/kgtL965n2Y/16240?checkedby
+#EXTINF:0,US list ch iptv smarter list
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30211?checkedby
+#EXTINF:0,US list ch iptv smarter list
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/3687?checkedby
+#EXTINF:0,US list ch iptv smarter list
+http://mains.vip:2086/craigg/1Lurn7m3F1/88755?checkedby
+#EXTINF:0,US list ch iptv smarter list
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/112229?checkedby
+#EXTINF:0,US list ch iptv smarter list
+http://tv.nousiptv.com:25462/live/rod/1234/3367.m3u8?checkedby
 #EXTINF:-1, tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="" audio-track="spa,eng", TELEFORMULA
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1, tvg-id="ABC 540p (LA) " tvg-name="ABC 540p (LA) " tvg-logo="" group-title="" audio-track="spa,eng", ABC 540p (LA) 
