@@ -3,18 +3,22 @@
 #EXTINF:0,SYFY working
 #EXTGRP:unsorted
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTclMkYqJmV4cGlyeT0xNjA1NzYwMzU5JmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLGU3NTZiM2MzNzdkOGVmZTdmNTFmMzllYTE0YjBiOWMwYzBkYjc3NTM1YjExNzgxYjNlZTc1NzhhNDU3ZTY1NGY=/PROFILE03.m3u8
-#EXTINF:0,SYFY not working
+#EXTINF:0,SYFY working
+#EXTGRP:unsorted
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTclMkYqJmV4cGlyeT0xNjA1ODIyNjQxJmZuPXNoYTI1NiZ4JTNBcz0zNTk5NDAwLDU1MDYwZTc5ZWE0NTYwY2MwZjEyN2FiODk1MDYzOTNmYWQzY2M3NWMzNDg3NDdkMDg0NDRhMTkwYzk2YjJjYjQ=/PROFILE03.m3u8
+
+#EXTINF:0,SYFY not working old
 #EXTGRP:unsorted
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
-#EXTINF:0,SYFY
+#EXTINF:0,SYFY old
 #EXTGRP:unsorted
 http://regioflix.club/Sr_Regio20/tp.php?c=59&p=3&k=srregio&f=.m3u8  
-#EXTINF:0,SYFY
+#EXTINF:0,SYFY srregio
 #EXTGRP:unsorted
 http://srregio.net/Sr_Regio151120/tp.php?c=59&p=3&k=srregio&f=.m3u8
-#EXTINF:0,FX
+#EXTINF:0,SYFY tecno
 #EXTGRP:unsorted
-http://regioflix.club/Sr_Regio20/tp.php?c=60&p=3&k=srregio&f=.m3u8  
+http://cinematicket.club/cantp.php?c=59&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1,US.EN - ABC NEW YORK
 http://tv.nousiptv.com:25462/rod/1234/54581
 #EXTINF:-1,LAT - FOX BOSTON
