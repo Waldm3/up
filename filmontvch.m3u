@@ -92,7 +92,11 @@ http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90340.ts
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/98678.ts
 #EXTINF:-1, tvg-id="ABC 720p (NC)" tvg-name="ABC 720p (NC)" tvg-logo="" group-title="" audio-track="spa,eng", ABC 720p (NC)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90348.ts
-#EXTINF:-1, tvg-id="CBS" tvg-name="CBS" tvg-logo="" group-title="" audio-track="spa,eng", CBS
+#EXTINF:-1, tvg-id="CBS" tvg-name="CBS" tvg-logo="" group-title="" audio-track="spa,eng", CBS 720
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8 
+#EXTINF:-1, tvg-id="CBS" tvg-name="CBS" tvg-logo="" group-title="" audio-track="spa,eng", CBS 480
+http://161.0.157.5/PLTV/88888888/224/3221227041/02.m3u8 
+#EXTINF:-1, tvg-id="CBS" tvg-name="CBS" tvg-logo="" group-title="" audio-track="spa,eng", CBS 360
 http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8 
 #EXTINF:-1, tvg-id="CBS 720p (TX)" tvg-name="CBS 720p (TX)" tvg-logo="" group-title="" audio-track="spa,eng", CBS 720p (TX)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90359.ts
@@ -104,7 +108,11 @@ http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90255.ts
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90235.ts
 #EXTINF:-1, tvg-id="CBS 720p (NY)" tvg-name="CBS 720p (NY)" tvg-logo="" group-title="" audio-track="spa,eng", CBS 720p (NY)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/96786.ts
-#EXTINF:-1, tvg-id="NBC" tvg-name="NBC" tvg-logo="" group-title="" audio-track="spa,eng", NBC
+#EXTINF:-1, tvg-id="NBC" tvg-name="NBC" tvg-logo="" group-title="" audio-track="spa,eng", NBC 720
+http://161.0.157.5/PLTV/88888888/224/3221227040/01.m3u8 
+#EXTINF:-1, tvg-id="NBC" tvg-name="NBC" tvg-logo="" group-title="" audio-track="spa,eng", NBC 480
+http://161.0.157.5/PLTV/88888888/224/3221227040/02.m3u8 
+#EXTINF:-1, tvg-id="NBC" tvg-name="NBC" tvg-logo="" group-title="" audio-track="spa,eng", NBC 360
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
 #EXTINF:-1, tvg-id="NBC 720p (NV)" tvg-name="NBC 720p (NV)" tvg-logo="" group-title="" audio-track="spa,eng", NBC 720p (NV)
 http://185.232.53.5:2086/live/arellano/kgtL965n2Y/90417.ts
