@@ -27,6 +27,8 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/12|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/13|User-Agent=sinplayer
 #EXTINF:-1,Canal Claro
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/14|User-Agent=sinplayer
+#EXTINF:-1,NA 15
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/15|User-Agent=sinplayer
 #EXTINF:-1,Caracol
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/16|User-Agent=sinplayer
 #EXTINF:-1,Caracol Internacional
@@ -65,6 +67,8 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/30|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/33|User-Agent=sinplayer
 #EXTINF:-1,De Pelicula Plus
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/34|User-Agent=sinplayer
+#EXTINF:-1,NA 35
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/35|User-Agent=sinplayer
 #EXTINF:-1,Discovery Channel
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/36|User-Agent=sinplayer
 #EXTINF:-1,Discovery Home and Health
@@ -133,10 +137,14 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/67|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/68|User-Agent=sinplayer
 #EXTINF:-1,Fx Movie Mex
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/69|User-Agent=sinplayer
+#EXTINF:-1,NA 70
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/70|User-Agent=sinplayer
 #EXTINF:-1,France 24
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/71|User-Agent=sinplayer
 #EXTINF:-1,Fox Sports 3 Sur
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/72|User-Agent=sinplayer
+#EXTINF:-1,NA 73
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/73|User-Agent=sinplayer
 #EXTINF:-1,Fox Sports 2 MX
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/74|User-Agent=sinplayer
 #EXTINF:-1,Fox Sports 2 Sur
@@ -263,6 +271,10 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/134|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/135|User-Agent=sinplayer
 #EXTINF:-1,MX | ADN 40
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/136|User-Agent=sinplayer
+#EXTINF:-1,NA 137
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/137|User-Agent=sinplayer
+#EXTINF:-1,NA 138
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/138|User-Agent=sinplayer
 #EXTINF:-1,MX | Az Clic
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/139|User-Agent=sinplayer
 #EXTINF:-1,MX | Az Cinema
@@ -311,6 +323,10 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/160|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/161|User-Agent=sinplayer
 #EXTINF:-1,MX | Espn 2
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/162|User-Agent=sinplayer
+#EXTINF:-1,NA 163
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/163|User-Agent=sinplayer
+#EXTINF:-1,NA 164
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/164|User-Agent=sinplayer
 #EXTINF:-1,MX | Fox Sports 3
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/165|User-Agent=sinplayer
 #EXTINF:-1,MX | RT Noticias
@@ -375,18 +391,32 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/194|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/195|User-Agent=sinplayer
 #EXTINF:-1,PE | Frecuencia Latina
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/196|User-Agent=sinplayer
+#EXTINF:-1,NA 197
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/197|User-Agent=sinplayer
 #EXTINF:-1,COL | Trece
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/198|User-Agent=sinplayer
+#EXTINF:-1,NA 199
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/199|User-Agent=sinplayer
 #EXTINF:-1,COL | RCN Internacional
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/200|User-Agent=sinplayer
 #EXTINF:-1,COL | RCN
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/201|User-Agent=sinplayer
 #EXTINF:-1,COL | NTN24
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/202|User-Agent=sinplayer
+#EXTINF:-1,NA 203
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/203|User-Agent=sinplayer
 #EXTINF:-1,COL | Caracol 2
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/204|User-Agent=sinplayer
 #EXTINF:-1,COL | Caracol
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/205|User-Agent=sinplayer
+#EXTINF:-1,NA 206
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/206|User-Agent=sinplayer
+#EXTINF:-1,NA 207
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/207|User-Agent=sinplayer
+#EXTINF:-1,NA 208
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/208|User-Agent=sinplayer
+#EXTINF:-1,NA 209
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/209|User-Agent=sinplayer
 #EXTINF:-1,COL | Cable Noticias
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/210|User-Agent=sinplayer
 #EXTINF:-1,CL | Fox Sports
@@ -403,94 +433,40 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/215|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/216|User-Agent=sinplayer
 #EXTINF:-1,CL | CDF
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/217|User-Agent=sinplayer
+#EXTINF:-1,NA 218
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/218|User-Agent=sinplayer
 #EXTINF:-1,AR | TNT Sports
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/219|User-Agent=sinplayer
-#EXTINF:-1,Wobi
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/337|User-Agent=sinplayer
-#EXTINF:-1,VH1 HD
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/336|User-Agent=sinplayer
-#EXTINF:-1,Start TVE
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/335|User-Agent=sinplayer
-#EXTINF:-1,TV Mas
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/334|User-Agent=sinplayer
-#EXTINF:-1,MVS
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/333|User-Agent=sinplayer
-#EXTINF:-1,Golden Plus
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/327|User-Agent=sinplayer
-#EXTINF:-1,Discovery Civilization
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/325|User-Agent=sinplayer
-#EXTINF:-1,De Pelicula
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/324|User-Agent=sinplayer
-#EXTINF:-1,Gol TV Internacional
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/338|User-Agent=sinplayer
-#EXTINF:-1,Tigo Sports 1
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/339|User-Agent=sinplayer
-#EXTINF:-1,Tigo Sports py
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/340|User-Agent=sinplayer
-#EXTINF:-1,Tigo Sports 3
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/341|User-Agent=sinplayer
-#EXTINF:-1,Estrella tv
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/342|User-Agent=sinplayer
-#EXTINF:-1,Bein sports ñ T
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/343|User-Agent=sinplayer
-#EXTINF:-1,Euro Sports 1
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/344|User-Agent=sinplayer
-#EXTINF:-1,Euro Sports 2
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/345|User-Agent=sinplayer
-#EXTINF:-1,Fightbox
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/346|User-Agent=sinplayer
-#EXTINF:-1,Fight Time
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/347|User-Agent=sinplayer
-#EXTINF:-1,MLB Network
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/349|User-Agent=sinplayer
-#EXTINF:-1,Motorsports TV
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/350|User-Agent=sinplayer
-#EXTINF:-1,RedBull
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/351|User-Agent=sinplayer
-#EXTINF:-1,Real Madrid tv
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/352|User-Agent=sinplayer
-#EXTINF:-1,UFC TV
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/353|User-Agent=sinplayer
-#EXTINF:-1,Bitme
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/354|User-Agent=sinplayer
-#EXTINF:-1,Locomotion
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/355|User-Agent=sinplayer
-#EXTINF:-1,movistar liga de Campeones
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/357|User-Agent=sinplayer
-#EXTINF:-1,nueve mx
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/356|User-Agent=sinplayer
-#EXTINF:-1,ISAT
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/369|User-Agent=sinplayer
-#EXTINF:-1,Film&Arts
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/370|User-Agent=sinplayer
-#EXTINF:-1,Syfy
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/371|User-Agent=sinplayer
-#EXTINF:-1,Ultra Tainment
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/373|User-Agent=sinplayer
-#EXTINF:-1,Win Sports+
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/374|User-Agent=sinplayer
-#EXTINF:-1,MX | Las Estrellas -2
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/375|User-Agent=sinplayer
-#EXTINF:-1,MX | EDUCA canal 1
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/376|User-Agent=sinplayer
-#EXTINF:-1,MX | EDUCA canal 2
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/377|User-Agent=sinplayer
-#EXTINF:-1,MX | EDUCA canal 3
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/378|User-Agent=sinplayer
-#EXTINF:-1,MX | EDUCA canal 4
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/379|User-Agent=sinplayer
-#EXTINF:-1,Canal Once
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/380|User-Agent=sinplayer
-#EXTINF:-1,Once Niños
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/381|User-Agent=sinplayer
-#EXTINF:-1,afizzionados
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/382|User-Agent=sinplayer
-#EXTINF:-1,Fox Deportes
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/384|User-Agent=sinplayer
-#EXTINF:-1,HGTV
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/385|User-Agent=sinplayer
-#EXTINF:-1,Adrenalina
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/386|User-Agent=sinplayer
+#EXTINF:-1,NA 220
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/220|User-Agent=sinplayer
+#EXTINF:-1,NA 221
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/221|User-Agent=sinplayer
+#EXTINF:-1,NA 222
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/222|User-Agent=sinplayer
+#EXTINF:-1,NA 223
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/223|User-Agent=sinplayer
+#EXTINF:-1,NA 224
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/224|User-Agent=sinplayer
+#EXTINF:-1,NA 225
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/225|User-Agent=sinplayer
+#EXTINF:-1,NA 226
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/226|User-Agent=sinplayer
+#EXTINF:-1,NA 227
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/227|User-Agent=sinplayer
+#EXTINF:-1,NA 228
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/228|User-Agent=sinplayer
+#EXTINF:-1,NA 229
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/229|User-Agent=sinplayer
+#EXTINF:-1,NA 230
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/230|User-Agent=sinplayer
+#EXTINF:-1,NA 231
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/231|User-Agent=sinplayer
+#EXTINF:-1,NA 232
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/232|User-Agent=sinplayer
+#EXTINF:-1,NA 233
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/233|User-Agent=sinplayer
+#EXTINF:-1,NA 234
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/234|User-Agent=sinplayer
 #EXTINF:-1,Lazy Town
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/235|User-Agent=sinplayer
 #EXTINF:-1,Barnie y sus amigos
@@ -637,6 +613,110 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/305|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/306|User-Agent=sinplayer
 #EXTINF:-1,MOFOS
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/307|User-Agent=sinplayer
+#EXTINF:-1,NA 308
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/308|User-Agent=sinplayer
+#EXTINF:-1,NA 309
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/309|User-Agent=sinplayer
+#EXTINF:-1,NA 310
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/310|User-Agent=sinplayer
+#EXTINF:-1,NA 311
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/311|User-Agent=sinplayer
+#EXTINF:-1,NA 312
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/312|User-Agent=sinplayer
+#EXTINF:-1,BEIN LA LIGA
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/313|User-Agent=sinplayer
+#EXTINF:-1,LA LIGA TV
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/314|User-Agent=sinplayer
+#EXTINF:-1,NA 315
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/315|User-Agent=sinplayer
+#EXTINF:-1,NA 316
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/316|User-Agent=sinplayer
+#EXTINF:-1,NA 317
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/317|User-Agent=sinplayer
+#EXTINF:-1,NA 318
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/318|User-Agent=sinplayer
+#EXTINF:-1,NA 319
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/319|User-Agent=sinplayer
+#EXTINF:-1,NA 320
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/320|User-Agent=sinplayer
+#EXTINF:-1,NA 321
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/321|User-Agent=sinplayer
+#EXTINF:-1,NA 322
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/322|User-Agent=sinplayer
+#EXTINF:-1,NA 323
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/323|User-Agent=sinplayer
+#EXTINF:-1,De Pelicula
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/324|User-Agent=sinplayer
+#EXTINF:-1,Discovery Civilization
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/325|User-Agent=sinplayer
+#EXTINF:-1,NA 326
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/326|User-Agent=sinplayer
+#EXTINF:-1,NA 327
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/327|User-Agent=sinplayer
+#EXTINF:-1,NA 328
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/328|User-Agent=sinplayer
+#EXTINF:-1,NA 329
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/329|User-Agent=sinplayer
+#EXTINF:-1,NA 330
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/330|User-Agent=sinplayer
+#EXTINF:-1,NA 331
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/331|User-Agent=sinplayer
+#EXTINF:-1,NA 332
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/332|User-Agent=sinplayer
+#EXTINF:-1,Wobi
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/337|User-Agent=sinplayer
+#EXTINF:-1,VH1 HD
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/336|User-Agent=sinplayer
+#EXTINF:-1,Start TVE
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/335|User-Agent=sinplayer
+#EXTINF:-1,TV Mas
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/334|User-Agent=sinplayer
+#EXTINF:-1,MVS
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/333|User-Agent=sinplayer
+
+
+#EXTINF:-1,Gol TV Internacional
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/338|User-Agent=sinplayer
+#EXTINF:-1,Tigo Sports 1
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/339|User-Agent=sinplayer
+#EXTINF:-1,Tigo Sports py
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/340|User-Agent=sinplayer
+#EXTINF:-1,Tigo Sports 3
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/341|User-Agent=sinplayer
+#EXTINF:-1,Estrella tv
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/342|User-Agent=sinplayer
+#EXTINF:-1,Bein sports ñ T
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/343|User-Agent=sinplayer
+#EXTINF:-1,Euro Sports 1
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/344|User-Agent=sinplayer
+#EXTINF:-1,Euro Sports 2
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/345|User-Agent=sinplayer
+#EXTINF:-1,Fightbox
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/346|User-Agent=sinplayer
+#EXTINF:-1,Fight Time
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/347|User-Agent=sinplayer
+#EXTINF:-1,NA 348
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/348|User-Agent=sinplayer
+#EXTINF:-1,MLB Network
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/349|User-Agent=sinplayer
+#EXTINF:-1,Motorsports TV
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/350|User-Agent=sinplayer
+#EXTINF:-1,RedBull
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/351|User-Agent=sinplayer
+#EXTINF:-1,Real Madrid tv
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/352|User-Agent=sinplayer
+#EXTINF:-1,UFC TV
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/353|User-Agent=sinplayer
+#EXTINF:-1,Bitme
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/354|User-Agent=sinplayer
+#EXTINF:-1,Locomotion
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/355|User-Agent=sinplayer
+#EXTINF:-1,movistar liga de Campeones
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/357|User-Agent=sinplayer
+#EXTINF:-1,NA 358
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/358|User-Agent=sinplayer
+#EXTINF:-1,nueve mx
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/356|User-Agent=sinplayer
 #EXTINF:-1,Riley Reid
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/367|User-Agent=sinplayer
 #EXTINF:-1,Playboy
@@ -655,7 +735,72 @@ http://23.237.36.170:25464/sinplayer/6GXomyB2p7/361|User-Agent=sinplayer
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/360|User-Agent=sinplayer
 #EXTINF:-1,Anal
 http://23.237.36.170:25464/sinplayer/6GXomyB2p7/359|User-Agent=sinplayer
-#EXTINF:-1,BEIN LA LIGA
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/313|User-Agent=sinplayer
-#EXTINF:-1,LA LIGA TV
-http://23.237.36.170:25464/sinplayer/6GXomyB2p7/314|User-Agent=sinplayer
+
+#EXTINF:-1,NA 368
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/368|User-Agent=sinplayer
+#EXTINF:-1,ISAT
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/369|User-Agent=sinplayer
+#EXTINF:-1,Film&Arts
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/370|User-Agent=sinplayer
+#EXTINF:-1,Syfy
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/371|User-Agent=sinplayer
+#EXTINF:-1,NA 372
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/372|User-Agent=sinplayer
+#EXTINF:-1,Ultra Tainment
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/373|User-Agent=sinplayer
+#EXTINF:-1,Win Sports+
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/374|User-Agent=sinplayer
+#EXTINF:-1,MX | Las Estrellas -2
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/375|User-Agent=sinplayer
+#EXTINF:-1,MX | EDUCA canal 1
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/376|User-Agent=sinplayer
+#EXTINF:-1,MX | EDUCA canal 2
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/377|User-Agent=sinplayer
+#EXTINF:-1,MX | EDUCA canal 3
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/378|User-Agent=sinplayer
+#EXTINF:-1,MX | EDUCA canal 4
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/379|User-Agent=sinplayer
+#EXTINF:-1,Canal Once
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/380|User-Agent=sinplayer
+#EXTINF:-1,Once Niños
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/381|User-Agent=sinplayer
+#EXTINF:-1,afizzionados
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/382|User-Agent=sinplayer
+#EXTINF:-1,NA 383
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/383|User-Agent=sinplayer
+#EXTINF:-1,Fox Deportes
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/384|User-Agent=sinplayer
+#EXTINF:-1,HGTV
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/385|User-Agent=sinplayer
+#EXTINF:-1,Adrenalina
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/386|User-Agent=sinplayer
+
+#EXTINF:-1,NA 387
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/387|User-Agent=sinplayer
+#EXTINF:-1,NA 388
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/388|User-Agent=sinplayer
+#EXTINF:-1,NA 389
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/389|User-Agent=sinplayer
+#EXTINF:-1,NA 390
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/390|User-Agent=sinplayer
+#EXTINF:-1,NA 391
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/391|User-Agent=sinplayer
+#EXTINF:-1,NA 392
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/392|User-Agent=sinplayer
+#EXTINF:-1,NA 393
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/393|User-Agent=sinplayer
+#EXTINF:-1,NA 394
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/394|User-Agent=sinplayer
+#EXTINF:-1,NA 395
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/395|User-Agent=sinplayer
+#EXTINF:-1,NA 396
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/396|User-Agent=sinplayer
+
+#EXTINF:-1,NA 397
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/397|User-Agent=sinplayer
+#EXTINF:-1,NA 398
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/398|User-Agent=sinplayer
+#EXTINF:-1,NA 399
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/399|User-Agent=sinplayer
+#EXTINF:-1,NA 400
+http://23.237.36.170:25464/sinplayer/6GXomyB2p7/400|User-Agent=sinplayer
