@@ -48,6 +48,10 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1932&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,A+
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2278&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Canal 4
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Televisa Mty
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -69,13 +73,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2149&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,TVC
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TVMas
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-
-#EXTINF:0,Mexiquense
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Televis del Bajio
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2355&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -89,9 +86,14 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=401&f=HLSAD&p=PROFILE01&s=2b
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1943&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
-#EXTINF:0,Canal 4
+#EXTINF:0,TVMas
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Mexiquense
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,TeleFormula
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
