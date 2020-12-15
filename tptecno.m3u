@@ -1,102 +1,140 @@
 #EXTM3U
-
-#EXTINF:0,Canal TP
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,ForoTV
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca Uno
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Az Clic
+#EXTINF:0,ADN40
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Las Estrellas
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,ForoTV
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Imagen Tv
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Excelsior Tv
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Canal 5
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-
+#EXTINF:0,Multimedios
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca 7
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=21&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Azteca 7 Mty
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1932&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,A+
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2278&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Televisa Mty
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Nueve
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Once
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=25&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Azteca Uno
+#EXTINF:0,Once Niños 
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TeleFormula
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2835&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,MVS Tv
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,ADN40
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2149&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TVC
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TVMas
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Mexiquense
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Televis del Bajio
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2355&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Televisa Puebla
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2312&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Aprende Tv
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=401&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Aprende En Casa 2
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1943&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Canal 4
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TeleFormula
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Milenio
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1250&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,El Financiero Bloomberg
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1649&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Fox
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=46&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Fox
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=47&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Sony
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=48&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Warner
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=52&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,E!
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Universal
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=57&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Sify
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=59&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,FX
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=60&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,E!
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Hola! Tv
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Unicable
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Sify
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=59&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,A&E
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=62&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,AXN
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Discovery ID
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=68&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Az Corazon
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=70&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TNT Series
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Gourmet
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=74&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,GarageTV
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=75&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Glitz
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=76&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Fox Life
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Distrito Comedia
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Comedy Central
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,TruTV
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=79&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -109,9 +147,45 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=83&f=HLSAD&p=PROFILE01&s=2b6
 #EXTINF:0,Az Mundo
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Az Clic
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Az Corazon
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=70&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Az Cinema
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Mas Chic
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1842&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Gourmet
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=74&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,GarageTV
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=75&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Glitz
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=76&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Havoc
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2148&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Curiosity Stream 
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2594&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Telemundo
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Food Network
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2145&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Discovery Channel
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -133,30 +207,22 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=94&f=HLSAD&p=PROFILE01&s=2b6
 #EXTINF:0,Discovery Theater
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=95&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Discovery H&H
+#EXTINF:0,Home & Health
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TLC
+#EXTINF:0,ID
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=68&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2379&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Discovery Science
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=98&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Discovery World
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=101&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Wobi
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=102&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,ForoTV
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=104&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,tooncast
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=108&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Discovery Kids
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=109&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=110&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -166,21 +232,65 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=111&f=HLSAD&p=PROFILE01&s=2b
 #EXTINF:0,Cartoon Network
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Bitme 
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Disney Channel
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=113&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Boomerang
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=115&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,BabyTv
+#EXTINF:0,tooncast
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=116&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=108&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Nick Music
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1708&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Teen Nick
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,NatGeo Kids
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2373&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Nick Jr
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=117&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Disney Jr
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=118&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=109&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Baby First
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1984&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,BabyTv
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=116&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,HLN
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=197&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TVE
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=198&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Star Tve
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Antena3
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,A3 Series
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2113&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,De Pelicula
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
 #EXTINF:0,De Pelicula Plus
 #EXTGRP:unsorted
@@ -197,24 +307,31 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&p=PROFILE01&s=2b
 #EXTINF:0,TNT
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TNT
+#EXTINF:0,TNT Series
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=127&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,TCM
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=128&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Space
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=129&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Space
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=130&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,AMC
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=131&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Studio Universal
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=132&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Cinecanal
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=149&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,I Sat
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=135&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -224,24 +341,38 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=136&f=HLSAD&p=PROFILE01&s=2b
 #EXTINF:0,film&arts
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=137&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Morbido Tv
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Action
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Family
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1724&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Comedy
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1725&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Cinema
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Classics
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,FXM
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Fox Series
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Morbido Tv
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Fox Movies
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Cinecanal
+#EXTINF:0,TUDN
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=149&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Cinemax
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Espn+
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -251,33 +382,56 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&p=PROFILE01&s=2b
 #EXTINF:0,Espn 2
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Fox Sports
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Fox Sports
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=171&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Fox Sports 2
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Fox Sports 2
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=173&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TUDN
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Fox Sports 3
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Claro Sports 
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,TVC Deportes
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fuel Tv 
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2587&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Nbc Golf
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=179&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,AyM Sports
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=180&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,ADN40
+#EXTINF:0,PX Sports
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=950&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Adrenalina Sports
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1799&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,LAS
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2089&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Basket Americas Tv
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2090&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,RT Noticias
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2091&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,RT
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=999&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,CNN
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=185&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -299,37 +453,26 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=191&f=HLSAD&p=PROFILE01&s=2b
 #EXTINF:0,Al Jazeera News
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=192&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,DW Noticias
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=203&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,France24 En Español 
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2402&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Wobi
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=102&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,NTN24
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=194&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Justicia Tv
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=196&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,HLN
+#EXTINF:0,Canal del Congreso
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=197&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TVE
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=198&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Antena3
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-
-#EXTINF:0,Fox
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,DW Noticias
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=203&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Warner
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=205&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Universal
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=207&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,FX
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2331&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Mtv Live
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=211&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -342,25 +485,72 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=213&f=HLSAD&p=PROFILE01&s=2b
 #EXTINF:0,Mtv 80s
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=214&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TruTv
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=215&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,VH1
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=217&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Telehit Musica
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Hola! Tv
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Telehit Musica Plus
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
+
 #EXTINF:0,Bandamax
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Canal TP
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Familia TP
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1977&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,ForoTV
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Azteca Uno
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=47&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,ForoTV
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=104&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TNT
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=127&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Space
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=130&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Sports
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=171&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=173&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,ADN40
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
+#EXTINF:0,Fox
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Warner
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=205&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,Universal
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=207&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,FX
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+#EXTINF:0,TruTv
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=215&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Az Clic
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=223&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -374,6 +564,7 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=322&f=HLSAD&p=PROFILE01&s=2b
 #EXTINF:0,AMC
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=328&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Nickelodeon
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=331&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -383,21 +574,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=332&f=HLSAD&p=PROFILE01&s=2b
 #EXTINF:0,VH1
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=334&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,De Pelicula
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Fox Action
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Comedy Central
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,ESPN 3
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Aprende Tv
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=401&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,ADN40
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=402&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -434,12 +610,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=749&f=HLSAD&p=PROFILE01&s=2b
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=849&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
-#EXTINF:0,PX Sports
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=950&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,RT
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=999&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
 
 
@@ -453,48 +623,15 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&p=PROFILE01&s=2
 
 #EXTINF:0,Milenio
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1250&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Milenio
-#EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1252&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Canal 6
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
 
-#EXTINF:0,Excelsior Tv
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Unicable
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
 
-#EXTINF:0,El Financiero Bloomberg
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1649&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,NatGeo
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1650&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Nick Music
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1708&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
-#EXTINF:0,Fox Family
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1724&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Fox Comedy
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1725&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Fox Cinema
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Fox Classics
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Hola! Tv
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1734&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -570,9 +707,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1785&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Nueve
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1786&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Az Cinema
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca 7
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1788&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -594,9 +728,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1795&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Nueve
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1798&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Adrenalina Sports
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1799&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
 #EXTINF:0,Azteca 7
 #EXTGRP:unsorted
@@ -631,9 +762,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1838&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Nueve
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1840&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Mas Chic
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1842&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca 7
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1869&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -725,9 +853,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1929&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Azteca Uno
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1931&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Azteca 7 NL
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1932&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca Uno
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1933&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -740,9 +865,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1935&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Once
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1942&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Aprende En Casa 2
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1943&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca 7
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1944&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -800,15 +922,10 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1973&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,TUDN
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1975&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Familia TP
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1977&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Studio Universal
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1982&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Baby First
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1984&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,ADN40
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1986&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -905,15 +1022,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2074&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Azteca Uno
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2076&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,LAS
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2089&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Basket Americas Tv
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2090&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,RT Noticias
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2091&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca 7
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2092&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -953,9 +1061,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2106&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Nueve
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2107&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,A3 Series
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2113&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca 7
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2115&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -999,24 +1104,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2136&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,ADN40
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2139&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Food Network
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2145&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Teen Nick
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Havoc
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2148&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,MVS Tv
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2149&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TVC
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TVC Deportes
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,El Financiero Bloomberg
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2167&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1300,33 +1387,18 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2269&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Canal 5
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2271&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Canal 4
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,A+
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2278&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Foro Tv
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2289&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Az Clic
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2293&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Imagen Tv
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Canal 6
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,MVS Tv
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2306&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Canal 8
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Televisa Puebla
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2312&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,A+
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2316&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1340,15 +1412,9 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2319&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Azteca 7
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2321&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,TVMas
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Las Estrellas
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2328&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Canal del Congreso
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2331&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca Uno
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2336&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1370,9 +1436,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2353&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Once
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2354&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Televis del Bajio
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2355&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca Uno
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2356&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1409,12 +1472,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2368&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Universal
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2369&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,NatGeo Kids
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2373&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Star Tve
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Investigation Discovery
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2376&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1424,9 +1481,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2377&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Animal Planet
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2378&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2379&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,TLC
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2380&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1490,9 +1544,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2399&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,ADN40
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2400&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,France24 En Español 
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2402&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Adrenalina Sports 
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2404&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1579,12 +1630,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2541&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Azteca 7 
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2542&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Claro Sports 
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Fuel Tv 
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2587&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Imagen Tv 
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2588&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1594,12 +1639,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2589&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Once 
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2590&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Bitme 
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Curiosity Stream 
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2594&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Imagen Tv 
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -1983,9 +2022,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2833&f=HLSAD&p=PROFILE01&s=2
 #EXTINF:0,Azteca 7 
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2834&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,Once Niños 
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2835&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Azteca Uno 
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2840&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
