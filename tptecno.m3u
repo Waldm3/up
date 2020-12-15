@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:0,Azteca Uno
 #EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,ADN40
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -514,6 +515,10 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLSAD&p=PROFILE01&s=2b
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
+#EXTINF:0,Azteca Uno FHD
+#EXTGRP:unsorted
+https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=7&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
+
 #EXTINF:0,Canal TP
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -525,9 +530,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1977&f=HLSAD&p=PROFILE01&s=2
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
-#EXTINF:0,Azteca Uno
-#EXTGRP:unsorted
-https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Fox
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=47&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
