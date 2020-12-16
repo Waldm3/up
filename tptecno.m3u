@@ -232,7 +232,7 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=92&f=HLSAD&p=PROFILE01&s=2b6
 #EXTINF:0,Discovery Theater
 #EXTGRP:Cultura
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=95&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:0,ID
+#EXTINF:0,Investigation Discovery
 #EXTGRP:Cultura
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=68&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,Discovery Turbo
@@ -613,7 +613,7 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=127&f=HLSAD&p=PROFILE01&s=2b
 #EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=130&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 #EXTINF:0,VH1
-#EXTGRP:Musica
+#EXTGRP:unsorted
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=217&f=HLSAD&p=PROFILE01&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
 
