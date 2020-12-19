@@ -1,32 +1,101 @@
 #EXTM3U
 
-#EXTINF:0,A+
+#EXTINF:0,AZTECA UNO
 #EXTGRP:Locales
-https://142.54.183.242:443/2/serverkey.m3u8
-#EXTINF:0,A&e
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/3/serverkey.m3u8
-#EXTINF:0,A3SERIES
-#EXTGRP:Internacionales
-https://142.54.183.242:443/4/serverkey.m3u8
+https://142.54.183.242:443/16/serverkey.m3u8
 #EXTINF:0,ADN40
 #EXTGRP:Locales
 https://142.54.183.242:443/5/serverkey.m3u8
-#EXTINF:0,Amc
-#EXTGRP:Peliculas
-https://142.54.183.242:443/6/serverkey.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Cultura
-https://142.54.183.242:443/7/serverkey.m3u8
-#EXTINF:0,ANTENA 3
-#EXTGRP:Internacionales
-https://142.54.183.242:443/8/serverkey.m3u8
+#EXTINF:0,LAS ESTRELLAS
+#EXTGRP:Locales
+https://142.54.183.242:443/107/serverkey.m3u8
+#EXTINF:0,ForoTv
+#EXTGRP:Locales
+https://142.54.183.242:443/62/serverkey.m3u8
+#EXTINF:0,Imagen Tv
+#EXTGRP:Locales
+https://142.54.183.242:443/103/serverkey.m3u8
+#EXTINF:0,CANAL 5
+#EXTGRP:Locales
+https://142.54.183.242:443/21/serverkey.m3u8
+#EXTINF:0,Azteca 7
+#EXTGRP:Locales
+https://142.54.183.242:443/15/serverkey.m3u8
+#EXTINF:0,A+
+#EXTGRP:Locales
+https://142.54.183.242:443/2/serverkey.m3u8
+#EXTINF:0,Once
+#EXTGRP:Locales
+https://142.54.183.242:443/23/serverkey.m3u8
+#EXTINF:0,Justicia TV
+#EXTGRP:Locales
+https://142.54.183.242:443/22/serverkey.m3u8
+#EXTINF:0,Fox Channel
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/63/serverkey.m3u8
+#EXTINF:0,Sony
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/132/serverkey.m3u8
+#EXTINF:0,Universal
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/159/serverkey.m3u8
+#EXTINF:0,Warner channel
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/163/serverkey.m3u8
+#EXTINF:0,UNIVISION
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/152/serverkey.m3u8
+#EXTINF:0,UNIcable
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/158/serverkey.m3u8
+#EXTINF:0,E!
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/50/serverkey.m3u8
+#EXTINF:0,Hola! Tv
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/101/serverkey.m3u8
+#EXTINF:0,SYFY
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/137/serverkey.m3u8
+#EXTINF:0,Tbs
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/138/serverkey.m3u8
+#EXTINF:0,A&e
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/3/serverkey.m3u8
 #EXTINF:0,Axn
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/9/serverkey.m3u8
-#EXTINF:0,AYM SPORTS
-#EXTGRP:Deportes
-https://142.54.183.242:443/10/serverkey.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/64/serverkey.m3u8
+#EXTINF:0,Fx
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/90/serverkey.m3u8
+#EXTINF:0,TruTv
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/149/serverkey.m3u8
+#EXTINF:0,Home&Health
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/37/serverkey.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/47/serverkey.m3u8
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/30/serverkey.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/109/serverkey.m3u8
+#EXTINF:0,MASCHIC
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/111/serverkey.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/151/serverkey.m3u8
+#EXTINF:0,TLNOVELAS
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/145/serverkey.m3u8
 #EXTINF:0,AZTECA CINEMA
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/11/serverkey.m3u8
@@ -39,75 +108,36 @@ https://142.54.183.242:443/13/serverkey.m3u8
 #EXTINF:0,Az Mundo
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/14/serverkey.m3u8
-#EXTINF:0,Azteca 7
-#EXTGRP:Locales
-https://142.54.183.242:443/15/serverkey.m3u8
-#EXTINF:0,AZTECA UNO
-#EXTGRP:Locales
-https://142.54.183.242:443/16/serverkey.m3u8
-#EXTINF:0,Baby tv
-#EXTGRP:Niños
-https://142.54.183.242:443/17/serverkey.m3u8
-#EXTINF:0,BANDAMAX
-#EXTGRP:Musica
-https://142.54.183.242:443/18/serverkey.m3u8
-#EXTINF:0,EL FINANCIERO
-#EXTGRP:Noticias y Documentales
-https://142.54.183.242:443/19/serverkey.m3u8
-#EXTINF:0,Bloomberg
-#EXTGRP:Noticias y Documentales
-https://142.54.183.242:443/20/serverkey.m3u8s
-#EXTINF:0,CANAL 5
-#EXTGRP:Locales
-https://142.54.183.242:443/21/serverkey.m3u8
-#EXTINF:0,Justicia TV
-#EXTGRP:Locales
-https://142.54.183.242:443/22/serverkey.m3u8
-#EXTINF:0,Once
-#EXTGRP:Locales
-https://142.54.183.242:443/23/serverkey.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:Niños
-https://142.54.183.242:443/24/serverkey.m3u8
-#EXTINF:0,Cinecanal
-#EXTGRP:Peliculas
-https://142.54.183.242:443/25/serverkey.m3u8
-#EXTINF:0,Cinemax
-#EXTGRP:Peliculas
-https://142.54.183.242:443/26/serverkey.m3u8
-#EXTINF:0,CNN ESPAÑOL
-#EXTGRP:Noticias y Documentales
-https://142.54.183.242:443/27/serverkey.m3u8
-#EXTINF:0,CNN ESPAÑOL
-#EXTGRP:Noticias y Documentales
-https://142.54.183.242:443/28/serverkey.m3u8
-#EXTINF:0,CNN Intl
-#EXTGRP:Noticias y Documentales
-https://142.54.183.242:443/29/serverkey.m3u8
-#EXTINF:0,COMEDY CENTRAL
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/30/serverkey.m3u8
-#EXTINF:0,CONGRESO TV
-#EXTGRP:Noticias y Documentales
-https://142.54.183.242:443/31/serverkey.m3u8
-#EXTINF:0,Claro Sports 2
-#EXTGRP:Deportes
-https://142.54.183.242:443/32/serverkey.m3u8
-#EXTINF:0,DePelicula
-#EXTGRP:Peliculas
-https://142.54.183.242:443/34/serverkey.m3u8
-#EXTINF:0,Discovery Channel
-#EXTGRP:Cultura
-https://142.54.183.242:443/35/serverkey.m3u8
 #EXTINF:0,HGTV
 #EXTGRP:Variedad
 https://142.54.183.242:443/36/serverkey.m3u8
-#EXTINF:0,Discovery H&H
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/37/serverkey.m3u8
-#EXTINF:0,DISCOVERY KIDS
-#EXTGRP:Niños
-https://142.54.183.242:443/38/serverkey.m3u8
+#EXTINF:0,El Gourmet
+#EXTGRP:Variedad
+https://142.54.183.242:443/49/serverkey.m3u8
+#EXTINF:0,FOOD NETWORK
+#EXTGRP:Variedad
+https://142.54.183.242:443/61/serverkey.m3u8
+#EXTINF:0,GARAGE TV
+#EXTGRP:Variedad
+https://142.54.183.242:443/93/serverkey.m3u8
+#EXTINF:0,Glitz
+#EXTGRP:Variedad
+https://142.54.183.242:443/94/serverkey.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:Cultura
+https://142.54.183.242:443/35/serverkey.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Cultura
+https://142.54.183.242:443/7/serverkey.m3u8
+#EXTINF:0,History
+#EXTGRP:Cultura
+https://142.54.183.242:443/99/serverkey.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Cultura
+https://142.54.183.242:443/122/serverkey.m3u8
+#EXTINF:0,H2
+#EXTGRP:Cultura
+https://142.54.183.242:443/100/serverkey.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP:Cultura
 https://142.54.183.242:443/39/serverkey.m3u8
@@ -123,66 +153,90 @@ https://142.54.183.242:443/42/serverkey.m3u8
 #EXTINF:0,DISCOVERY WORLD
 #EXTGRP:Cultura
 https://142.54.183.242:443/43/serverkey.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:Niños
+https://142.54.183.242:443/24/serverkey.m3u8
 #EXTINF:0,Disney Channel
 #EXTGRP:Niños
 https://142.54.183.242:443/44/serverkey.m3u8
 #EXTINF:0,Disney JR
 #EXTGRP:Niños
 https://142.54.183.242:443/45/serverkey.m3u8
+#EXTINF:0,NATGEO KIDS
+#EXTGRP:Niños
+https://142.54.183.242:443/121/serverkey.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:Niños
+https://142.54.183.242:443/123/serverkey.m3u8
+#EXTINF:0,TEEN NICK
+#EXTGRP:Niños
+https://142.54.183.242:443/124/serverkey.m3u8
+#EXTINF:0,Tooncast
+#EXTGRP:Niños
+https://142.54.183.242:443/148/serverkey.m3u8
+#EXTINF:0,NICK JR
+#EXTGRP:Niños
+https://142.54.183.242:443/125/serverkey.m3u8
+#EXTINF:0,NICK MUSIC
+#EXTGRP:Niños
+https://142.54.183.242:443/126/serverkey.m3u8
 #EXTINF:0,Disney XD
 #EXTGRP:Niños
 https://142.54.183.242:443/46/serverkey.m3u8
-#EXTINF:0,DISTRITO COMEDIA
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/47/serverkey.m3u8
-#EXTINF:0,El Gourmet
-#EXTGRP:Variedad
-https://142.54.183.242:443/49/serverkey.m3u8
-#EXTINF:0,E!
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/50/serverkey.m3u8
-#EXTINF:0,Espn (MEX)
-#EXTGRP:Deportes
-https://142.54.183.242:443/51/serverkey.m3u8
-#EXTINF:0,Espn 2 (MEX)
-#EXTGRP:Deportes
-https://142.54.183.242:443/52/serverkey.m3u8
-#EXTINF:0,Espn 3 (MEX)
-#EXTGRP:Deportes
-https://142.54.183.242:443/53/serverkey.m3u8
-#EXTINF:0,ESPN EXTRA
-#EXTGRP:Deportes
-https://142.54.183.242:443/54/serverkey.m3u8
-#EXTINF:0,Espn 1 (latm)
-#EXTGRP:Deportes
-https://142.54.183.242:443/55/serverkey.m3u8
-#EXTINF:0,Espn 2 (latm)
-#EXTGRP:Deportes
-https://142.54.183.242:443/56/serverkey.m3u8
-#EXTINF:0,Espn 3 (latm)
-#EXTGRP:Deportes
-https://142.54.183.242:443/57/serverkey.m3u8
-#EXTINF:0,Espn Plus (latm)
-#EXTGRP:Deportes
-https://142.54.183.242:443/58/serverkey.m3u8
+#EXTINF:0,DISCOVERY KIDS
+#EXTGRP:Niños
+https://142.54.183.242:443/38/serverkey.m3u8
+#EXTINF:0,Baby tv
+#EXTGRP:Niños
+https://142.54.183.242:443/17/serverkey.m3u8
+#EXTINF:0,ANTENA 3
+#EXTGRP:Internacionales
+https://142.54.183.242:443/8/serverkey.m3u8
+#EXTINF:0,A3SERIES
+#EXTGRP:Internacionales
+https://142.54.183.242:443/4/serverkey.m3u8
+#EXTINF:0,DePelicula
+#EXTGRP:Peliculas
+https://142.54.183.242:443/34/serverkey.m3u8
+#EXTINF:0,Golden
+#EXTGRP:Peliculas
+https://142.54.183.242:443/95/serverkey.m3u8
+#EXTINF:0,Golden Edge
+#EXTGRP:Peliculas
+https://142.54.183.242:443/96/serverkey.m3u8
+#EXTINF:0,Tnt
+#EXTGRP:Peliculas
+https://142.54.183.242:443/146/serverkey.m3u8
+#EXTINF:0,Tnt Series
+#EXTGRP:Peliculas
+https://142.54.183.242:443/147/serverkey.m3u8
+#EXTINF:0,Cinecanal
+#EXTGRP:Peliculas
+https://142.54.183.242:443/25/serverkey.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:Peliculas
+https://142.54.183.242:443/26/serverkey.m3u8
+#EXTINF:0,Studio Universal
+#EXTGRP:Peliculas
+https://142.54.183.242:443/134/serverkey.m3u8
+#EXTINF:0,Tcm
+#EXTGRP:Peliculas
+https://142.54.183.242:443/139/serverkey.m3u8
+#EXTINF:0,Amc
+#EXTGRP:Peliculas
+https://142.54.183.242:443/6/serverkey.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:Peliculas
+https://142.54.183.242:443/127/serverkey.m3u8
+#EXTINF:0,I Sat
+#EXTGRP:Peliculas
+https://142.54.183.242:443/102/serverkey.m3u8
 #EXTINF:0,Europa
 #EXTGRP:Peliculas
 https://142.54.183.242:443/59/serverkey.m3u8
 #EXTINF:0,FILMS&ARTS
 #EXTGRP:Peliculas
 https://142.54.183.242:443/60/serverkey.m3u8
-#EXTINF:0,FOOD NETWORK
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/61/serverkey.m3u8
-#EXTINF:0,ForoTv
-#EXTGRP:unsorted
-https://142.54.183.242:443/62/serverkey.m3u8
-#EXTINF:0,Fox Channel
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/63/serverkey.m3u8
-#EXTINF:0,Fox Life
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/64/serverkey.m3u8
 #EXTINF:0,Fox Action
 #EXTGRP:Peliculas
 https://142.54.183.242:443/65/serverkey.m3u8
@@ -237,6 +291,33 @@ https://142.54.183.242:443/81/serverkey.m3u8
 #EXTINF:0,HBO EXTREME
 #EXTGRP:Peliculas
 https://142.54.183.242:443/82/serverkey.m3u8
+#EXTINF:0,Univision TUDN
+#EXTGRP:Deportes
+https://142.54.183.242:443/150/serverkey.m3u8
+#EXTINF:0,Espn (MEX)
+#EXTGRP:Deportes
+https://142.54.183.242:443/51/serverkey.m3u8
+#EXTINF:0,Espn 2 (MEX)
+#EXTGRP:Deportes
+https://142.54.183.242:443/52/serverkey.m3u8
+#EXTINF:0,Espn 3 (MEX)
+#EXTGRP:Deportes
+https://142.54.183.242:443/53/serverkey.m3u8
+#EXTINF:0,ESPN EXTRA
+#EXTGRP:Deportes
+https://142.54.183.242:443/54/serverkey.m3u8
+#EXTINF:0,Espn 1 (latm)
+#EXTGRP:Deportes
+https://142.54.183.242:443/55/serverkey.m3u8
+#EXTINF:0,Espn 2 (latm)
+#EXTGRP:Deportes
+https://142.54.183.242:443/56/serverkey.m3u8
+#EXTINF:0,Espn 3 (latm)
+#EXTGRP:Deportes
+https://142.54.183.242:443/57/serverkey.m3u8
+#EXTINF:0,Espn Plus (latm)
+#EXTGRP:Deportes
+https://142.54.183.242:443/58/serverkey.m3u8
 #EXTINF:0,Fox Sports 1 [MEX]
 #EXTGRP:Deportes
 https://142.54.183.242:443/83/serverkey.m3u8
@@ -255,48 +336,36 @@ https://142.54.183.242:443/87/serverkey.m3u8
 #EXTINF:0,Fox Sports 3 [latm]
 #EXTGRP:Deportes
 https://142.54.183.242:443/88/serverkey.m3u8
-#EXTINF:0,Fx
-#EXTGRP:Peliculas
-https://142.54.183.242:443/90/serverkey.m3u8
-#EXTINF:0,GARAGE TV
-#EXTGRP:Variedad
-https://142.54.183.242:443/93/serverkey.m3u8
-#EXTINF:0,Glitz
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/94/serverkey.m3u8
-#EXTINF:0,Golden
-#EXTGRP:Peliculas
-https://142.54.183.242:443/95/serverkey.m3u8
-#EXTINF:0,Golden Edge
-#EXTGRP:Peliculas
-https://142.54.183.242:443/96/serverkey.m3u8
+#EXTINF:0,Claro Sports 2
+#EXTGRP:Deportes
+https://142.54.183.242:443/32/serverkey.m3u8
 #EXTINF:0,Golf Channel
 #EXTGRP:Deportes
 https://142.54.183.242:443/97/serverkey.m3u8
-#EXTINF:0,History
-#EXTGRP:Cultura
-https://142.54.183.242:443/99/serverkey.m3u8
-#EXTINF:0,H2
-#EXTGRP:Cultura
-https://142.54.183.242:443/100/serverkey.m3u8
-#EXTINF:0,Hola TV
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/101/serverkey.m3u8
-#EXTINF:0,I Sat
-#EXTGRP:Peliculas
-https://142.54.183.242:443/102/serverkey.m3u8
-#EXTINF:0,Imagen Tv
-#EXTGRP:Locales
-https://142.54.183.242:443/103/serverkey.m3u8
-#EXTINF:0,LAS ESTRELLAS
-#EXTGRP:Locales
-https://142.54.183.242:443/107/serverkey.m3u8
-#EXTINF:0,Lifetime
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/109/serverkey.m3u8
-#EXTINF:0,MASCHIC
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/111/serverkey.m3u8
+#EXTINF:0,AYM SPORTS
+#EXTGRP:Deportes
+https://142.54.183.242:443/10/serverkey.m3u8
+#EXTINF:0,CNN ESPAÑOL
+#EXTGRP:Noticias y Documentales
+https://142.54.183.242:443/27/serverkey.m3u8
+#EXTINF:0,CNN ESPAÑOL
+#EXTGRP:Noticias y Documentales
+https://142.54.183.242:443/28/serverkey.m3u8
+#EXTINF:0,CNN Intl
+#EXTGRP:Noticias y Documentales
+https://142.54.183.242:443/29/serverkey.m3u8
+#EXTINF:0,EL FINANCIERO
+#EXTGRP:Noticias y Documentales
+https://142.54.183.242:443/19/serverkey.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:Noticias y Documentales
+https://142.54.183.242:443/20/serverkey.m3u8
+#EXTINF:0,WOBI
+#EXTGRP:Noticias y Documentales
+https://142.54.183.242:443/162/serverkey.m3u8
+#EXTINF:0,CONGRESO TV
+#EXTGRP:Noticias y Documentales
+https://142.54.183.242:443/31/serverkey.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Musica
 https://142.54.183.242:443/115/serverkey.m3u8
@@ -306,84 +375,16 @@ https://142.54.183.242:443/116/serverkey.m3u8
 #EXTINF:0,MTV Live
 #EXTGRP:Musica
 https://142.54.183.242:443/117/serverkey.m3u8
-#EXTINF:0,NATGEO KIDS
-#EXTGRP:Niños
-https://142.54.183.242:443/121/serverkey.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:Cultura
-https://142.54.183.242:443/122/serverkey.m3u8
-#EXTINF:0,Nickelodeon
-#EXTGRP:Niños
-https://142.54.183.242:443/123/serverkey.m3u8
-#EXTINF:0,TEEN NICK
-#EXTGRP:Niños
-https://142.54.183.242:443/124/serverkey.m3u8
-#EXTINF:0,NICK JR
-#EXTGRP:Niños
-https://142.54.183.242:443/125/serverkey.m3u8
-#EXTINF:0,NICK MUSIC
-#EXTGRP:Niños
-https://142.54.183.242:443/126/serverkey.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:Peliculas
-https://142.54.183.242:443/127/serverkey.m3u8
-#EXTINF:0,Sony
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/132/serverkey.m3u8
-#EXTINF:0,Studio Universal
-#EXTGRP:Peliculas
-https://142.54.183.242:443/134/serverkey.m3u8
-#EXTINF:0,SYFY
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/137/serverkey.m3u8
-#EXTINF:0,Tbs
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/138/serverkey.m3u8
-#EXTINF:0,Tcm
-#EXTGRP:Peliculas
-https://142.54.183.242:443/139/serverkey.m3u8
-#EXTINF:0,TLNOVELAS
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/145/serverkey.m3u8
-#EXTINF:0,Tnt
-#EXTGRP:Peliculas
-https://142.54.183.242:443/146/serverkey.m3u8
-#EXTINF:0,Tnt Series
-#EXTGRP:Peliculas
-https://142.54.183.242:443/147/serverkey.m3u8
-#EXTINF:0,Tooncast
-#EXTGRP:Niños
-https://142.54.183.242:443/148/serverkey.m3u8
-#EXTINF:0,TruTv
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/149/serverkey.m3u8
-#EXTINF:0,Univision TUDN
-#EXTGRP:Deportes
-https://142.54.183.242:443/150/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/151/serverkey.m3u8
-#EXTINF:0,UNIVISION
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/152/serverkey.m3u8
-#EXTINF:0,UNIcable
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/158/serverkey.m3u8
-#EXTINF:0,Universal
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/159/serverkey.m3u8
 #EXTINF:0,Vh1
 #EXTGRP:Musica
 https://142.54.183.242:443/160/serverkey.m3u8
 #EXTINF:0,Vh1 Classics
 #EXTGRP:Musica
 https://142.54.183.242:443/161/serverkey.m3u8
-#EXTINF:0,WOBI
-#EXTGRP:Noticias y Documentales
-https://142.54.183.242:443/162/serverkey.m3u8
-#EXTINF:0,Warner channel
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/163/serverkey.m3u8
+#EXTINF:0,BANDAMAX
+#EXTGRP:Musica
+https://142.54.183.242:443/18/serverkey.m3u8
+
 #EXTINF:0,Directv Sports
 #EXTGRP:Deportes
 https://142.54.183.242:443/164/serverkey.m3u8
@@ -393,6 +394,7 @@ https://142.54.183.242:443/165/serverkey.m3u8
 #EXTINF:0,DIRECTV SPORTS +
 #EXTGRP:Deportes
 https://142.54.183.242:443/166/serverkey.m3u8
+
 #EXTINF:0,No signal
 #EXTGRP:Ecuador
 https://142.54.183.242:443/167/serverkey.m3u8
