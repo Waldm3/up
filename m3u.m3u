@@ -464,6 +464,12 @@ https://142.54.183.242:443/190/serverkey.m3u8
 #EXTINF:0,Garage Tv
 #EXTGRP:Argentina
 https://142.54.183.242:443/191/serverkey.m3u8
+EXTINF:0,El Nueve
+#EXTGRP:Argentina
+https://142.54.183.242:443/192/serverkey.m3u8
+EXTINF:0,El Trece
+#EXTGRP:Argentina
+https://142.54.183.242:443/193/serverkey.m3u8
 #EXTINF:0,Encuentro Arg
 #EXTGRP:Argentina
 https://142.54.183.242:443/194/serverkey.m3u8
@@ -482,6 +488,9 @@ https://142.54.183.242:443/199/serverkey.m3u8
 #EXTINF:0,Tnt Sports Arg
 #EXTGRP:Deportes
 https://142.54.183.242:443/200/serverkey.m3u8
+EXTINF:0,Trece
+#EXTGRP:Chile
+https://142.54.183.242:443/201/serverkey.m3u8
 #EXTINF:0,13i
 #EXTGRP:Chile
 https://142.54.183.242:443/202/serverkey.m3u8
@@ -491,24 +500,54 @@ https://142.54.183.242:443/203/serverkey.m3u8
 #EXTINF:0,24 noticias
 #EXTGRP:Chile
 https://142.54.183.242:443/204/serverkey.m3u8
+EXTINF:0,CDF Chi
+#EXTGRP:Deportes
+https://142.54.183.242:443/206/serverkey.m3u8
 #EXTINF:0,CDF Chi
 #EXTGRP:Deportes
 https://142.54.183.242:443/207/serverkey.m3u8
+EXTINF:0,CDD Chi
+#EXTGRP:Deportes
+https://142.54.183.242:443/208/serverkey.m3u8
+EXTINF:0,CDD Chi
+#EXTGRP:Deportes
+https://142.54.183.242:443/210/serverkey.m3u8
+EXTINF:0,Chilevision
+#EXTGRP:Chile
+https://142.54.183.242:443/211/serverkey.m3u8
+EXTINF:0,CNN Chi
+#EXTGRP:Chile
+https://142.54.183.242:443/212/serverkey.m3u8
 #EXTINF:0,La Red
 #EXTGRP:Chile
 https://142.54.183.242:443/214/serverkey.m3u8
 #EXTINF:0,MVS Arg
-#EXTGRP:Uruguay
+#EXTGRP:Chile
 https://142.54.183.242:443/215/serverkey.m3u8
+EXTINF:0,TVN Chi
+#EXTGRP:Chile
+https://142.54.183.242:443/217/serverkey.m3u8
 #EXTINF:0,R Tele
 #EXTGRP:Uruguay
 https://142.54.183.242:443/218/serverkey.m3u8
+EXTINF:0,Vera+
+#EXTGRP:Uruguay
+https://142.54.183.242:443/219/serverkey.m3u8
 #EXTINF:0,VTV +
 #EXTGRP:Uruguay
 https://142.54.183.242:443/220/serverkey.m3u8
+EXTINF:0,Chicos Vtv
+#EXTGRP:Uruguay
+https://142.54.183.242:443/222/serverkey.m3u8
+EXTINF:0,Atv Pe
+#EXTGRP:Peru
+https://142.54.183.242:443/224/serverkey.m3u8
 #EXTINF:0,Chicos IPe
 #EXTGRP:Peru
 https://142.54.183.242:443/225/serverkey.m3u8
+EXTINF:0,Atv Noticias
+#EXTGRP:Peru
+https://142.54.183.242:443/226/serverkey.m3u8
 #EXTINF:0,Capital
 #EXTGRP:Peru
 https://142.54.183.242:443/227/serverkey.m3u8
@@ -518,6 +557,9 @@ https://142.54.183.242:443/228/serverkey.m3u8
 #EXTINF:0,No Signal
 #EXTGRP:Peru
 https://142.54.183.242:443/229/serverkey.m3u8
+EXTINF:0,latele
+#EXTGRP:Peru
+https://142.54.183.242:443/230/serverkey.m3u8
 #EXTINF:0,No signal
 #EXTGRP:Peru
 https://142.54.183.242:443/231/serverkey.m3u8
@@ -593,15 +635,24 @@ https://142.54.183.242:443/263/serverkey.m3u8
 #EXTINF:0,88 Stereo
 #EXTGRP:Costa Rica
 https://142.54.183.242:443/264/serverkey.m3u8
+EXTINF:0,Ticavision
+#EXTGRP:Costa Rica
+https://142.54.183.242:443/265/serverkey.m3u8
 #EXTINF:0,Unicanal
-#EXTGRP:Venezuela
+#EXTGRP:Paraguay
 https://142.54.183.242:443/269/serverkey.m3u8
 #EXTINF:0,GOL
-#EXTGRP:Venezuela
+#EXTGRP:Paraguay
 https://142.54.183.242:443/270/serverkey.m3u8
+EXTINF:0,PYTV
+#EXTGRP:Paraguay
+https://142.54.183.242:443/271/serverkey.m3u8
 #EXTINF:0,TeleSur
 #EXTGRP:Venezuela
 https://142.54.183.242:443/272/serverkey.m3u8
+EXTINF:0,Canal Ve
+#EXTGRP:Venezuela
+https://142.54.183.242:443/283/serverkey.m3u8
 #EXTINF:0,V
 #EXTGRP:Venezuela
 https://142.54.183.242:443/291/serverkey.m3u8
