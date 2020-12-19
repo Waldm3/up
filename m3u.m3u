@@ -1,25 +1,133 @@
 #EXTM3U
-#EXTINF:0,Concert Channel
+#EXTINF:0,CANALSIN00
 #EXTGRP:unsorted
-https://142.54.183.242:443/143/serverkey.m3u8
-#EXTINF:0,Vh1
+https://142.54.183.242:443/1/serverkey.m3u8
+#EXTINF:0,CANALSIN01
 #EXTGRP:unsorted
-https://142.54.183.242:443/160/serverkey.m3u8
-#EXTINF:0,Vh1 Classics
+https://142.54.183.242:443/2/serverkey.m3u8
+#EXTINF:0,A&e
 #EXTGRP:unsorted
-https://142.54.183.242:443/161/serverkey.m3u8
+https://142.54.183.242:443/3/serverkey.m3u8
+#EXTINF:0,A3SERIES
+#EXTGRP:unsorted
+https://142.54.183.242:443/4/serverkey.m3u8
+#EXTINF:0,ADN40
+#EXTGRP:unsorted
+https://142.54.183.242:443/5/serverkey.m3u8
+#EXTINF:0,Amc
+#EXTGRP:unsorted
+https://142.54.183.242:443/6/serverkey.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:unsorted
+https://142.54.183.242:443/7/serverkey.m3u8
+#EXTINF:0,ANTENA 3
+#EXTGRP:unsorted
+https://142.54.183.242:443/8/serverkey.m3u8
+#EXTINF:0,Axn
+#EXTGRP:unsorted
+https://142.54.183.242:443/9/serverkey.m3u8
+#EXTINF:0,AYM SPORTS
+#EXTGRP:unsorted
+https://142.54.183.242:443/10/serverkey.m3u8
+#EXTINF:0,AZTECA CINEMA
+#EXTGRP:unsorted
+https://142.54.183.242:443/11/serverkey.m3u8
+#EXTINF:0,AZTECA CLIC
+#EXTGRP:unsorted
+https://142.54.183.242:443/12/serverkey.m3u8
+#EXTINF:0,Az Corazon
+#EXTGRP:unsorted
+https://142.54.183.242:443/13/serverkey.m3u8
+#EXTINF:0,Az Mundo
+#EXTGRP:unsorted
+https://142.54.183.242:443/14/serverkey.m3u8
+#EXTINF:0,Cnn internacional [USA]
+#EXTGRP:unsorted
+https://142.54.183.242:443/15/serverkey.m3u8
+#EXTINF:0,AZTECA UNO
+#EXTGRP:unsorted
+https://142.54.183.242:443/16/serverkey.m3u8
 #EXTINF:0,Baby tv (X)
 #EXTGRP:unsorted
 https://142.54.183.242:443/17/serverkey.m3u8
+#EXTINF:0,BANDAMAX
+#EXTGRP:unsorted
+https://142.54.183.242:443/18/serverkey.m3u8
+#EXTINF:0,EL FINANCIERO
+#EXTGRP:unsorted
+https://142.54.183.242:443/19/serverkey.m3u8
 #EXTINF:0,Boomerang (X)
 #EXTGRP:unsorted
 https://142.54.183.242:443/20/serverkey.m3u8s
+#EXTINF:0,CANAL 5
+#EXTGRP:unsorted
+https://142.54.183.242:443/21/serverkey.m3u8
+#EXTINF:0,Justicia TV
+#EXTGRP:unsorted
+https://142.54.183.242:443/22/serverkey.m3u8
+#EXTINF:0,Cine Latino
+#EXTGRP:unsorted
+https://142.54.183.242:443/23/serverkey.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:unsorted
 https://142.54.183.242:443/24/serverkey.m3u8
+#EXTINF:0,Cine canal
+#EXTGRP:unsorted
+https://142.54.183.242:443/25/serverkey.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:unsorted
+https://142.54.183.242:443/26/serverkey.m3u8
+#EXTINF:0,CNN ESPAÑOL
+#EXTGRP:unsorted
+https://142.54.183.242:443/27/serverkey.m3u8
+#EXTINF:0,CNN ESPAÑOL 02
+#EXTGRP:unsorted
+https://142.54.183.242:443/28/serverkey.m3u8
+#EXTINF:0,NASA
+#EXTGRP:unsorted
+https://142.54.183.242:443/29/serverkey.m3u8
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:unsorted
+https://142.54.183.242:443/30/serverkey.m3u8
+#EXTINF:0,CONGRESO TV
+#EXTGRP:unsorted
+https://142.54.183.242:443/31/serverkey.m3u8
+#EXTINF:0,CANALSIN03
+#EXTGRP:unsorted
+https://142.54.183.242:443/32/serverkey.m3u8
+#EXTINF:0,CANALSIN03
+#EXTGRP:unsorted
+https://142.54.183.242:443/33/serverkey.m3u8
+#EXTINF:0,DHE
+#EXTGRP:unsorted
+https://142.54.183.242:443/34/serverkey.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:unsorted
+https://142.54.183.242:443/35/serverkey.m3u8
 #EXTINF:0,Discovery Kids
 #EXTGRP:unsorted
 https://142.54.183.242:443/36/serverkey.m3u8
+#EXTINF:0,Discovery H&H
+#EXTGRP:unsorted
+https://142.54.183.242:443/37/serverkey.m3u8
+#EXTINF:0,DISCOVERY KIDS
+#EXTGRP:unsorted
+https://142.54.183.242:443/38/serverkey.m3u8
+#EXTINF:0,Discovery Sciences
+#EXTGRP:unsorted
+https://142.54.183.242:443/39/serverkey.m3u8
+#EXTINF:0,Discovery Theater
+#EXTGRP:unsorted
+https://142.54.183.242:443/40/serverkey.m3u8
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+https://142.54.183.242:443/41/serverkey.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:unsorted
+https://142.54.183.242:443/42/serverkey.m3u8
+#EXTINF:0,DISCOVERY WORLD
+#EXTGRP:unsorted
+https://142.54.183.242:443/43/serverkey.m3u8
 #EXTINF:0,Disney Channel
 #EXTGRP:unsorted
 https://142.54.183.242:443/44/serverkey.m3u8
@@ -29,225 +137,30 @@ https://142.54.183.242:443/45/serverkey.m3u8
 #EXTINF:0,Disney XD
 #EXTGRP:unsorted
 https://142.54.183.242:443/46/serverkey.m3u8
-#EXTINF:0,Natgeo Kids
+#EXTINF:0,DISTRITO COMEDIA
 #EXTGRP:unsorted
-https://142.54.183.242:443/102/serverkey.m3u8
-#EXTINF:0,Nickelodeon
+https://142.54.183.242:443/47/serverkey.m3u8
+#EXTINF:0,GOURMET
 #EXTGRP:unsorted
-https://142.54.183.242:443/104/serverkey.m3u8
-#EXTINF:0,Nick 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/105/serverkey.m3u8
-#EXTINF:0,Nick JR
-#EXTGRP:unsorted
-https://142.54.183.242:443/106/serverkey.m3u8
-#EXTINF:0,Tooncast
-#EXTGRP:unsorted
-https://142.54.183.242:443/129/serverkey.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:unsorted
-https://142.54.183.242:443/7/serverkey.m3u8
-#EXTINF:0,Discovery Channel
-#EXTGRP:unsorted
-https://142.54.183.242:443/35/serverkey.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTGRP:unsorted
-https://142.54.183.242:443/42/serverkey.m3u8
-#EXTINF:0,Discovery Theater
-#EXTGRP:unsorted
-https://142.54.183.242:443/40/serverkey.m3u8
-#EXTINF:0,Discovery Sciences
-#EXTGRP:unsorted
-https://142.54.183.242:443/39/serverkey.m3u8
-#EXTINF:0,Discovery H&H
-#EXTGRP:unsorted
-https://142.54.183.242:443/37/serverkey.m3u8
-#EXTINF:0,Investigation Discovery
-#EXTGRP:unsorted
-https://142.54.183.242:443/105/serverkey.m3u8
-#EXTINF:0,History
-#EXTGRP:unsorted
-https://142.54.183.242:443/99/serverkey.m3u8
-#EXTINF:0,H2
-#EXTGRP:unsorted
-https://142.54.183.242:443/100/serverkey.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:unsorted
-https://142.54.183.242:443/122/serverkey.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:unsorted
-https://142.54.183.242:443/120/serverkey.m3u8
+https://142.54.183.242:443/48/serverkey.m3u8
 #EXTINF:0,El Gourmet
 #EXTGRP:unsorted
 https://142.54.183.242:443/49/serverkey.m3u8
-#EXTINF:0,Justicia TV
+#EXTINF:0,E!
 #EXTGRP:unsorted
-https://142.54.183.242:443/22/serverkey.m3u8
-#EXTINF:0,Amc
+https://142.54.183.242:443/50/serverkey.m3u8
+#EXTINF:0,Espn (MEX)
 #EXTGRP:unsorted
-https://142.54.183.242:443/6/serverkey.m3u8
-#EXTINF:0,A&e
+https://142.54.183.242:443/51/serverkey.m3u8
+#EXTINF:0,Espn 2 (MEX)
 #EXTGRP:unsorted
-https://142.54.183.242:443/3/serverkey.m3u8
-#EXTINF:0,Warner channenel
+https://142.54.183.242:443/52/serverkey.m3u8
+#EXTINF:0,Espn 3 (MEX)
 #EXTGRP:unsorted
-https://142.54.183.242:443/163/serverkey.m3u8
-#EXTINF:0,Fox Channel
+https://142.54.183.242:443/53/serverkey.m3u8
+#EXTINF:0,ESPN EXTRA
 #EXTGRP:unsorted
-https://142.54.183.242:443/63/serverkey.m3u8
-#EXTINF:0,Universal
-#EXTGRP:unsorted
-https://142.54.183.242:443/159/serverkey.m3u8
-#EXTINF:0,Fox Life
-#EXTGRP:unsorted
-https://142.54.183.242:443/64/serverkey.m3u8
-#EXTINF:0,Axn
-#EXTGRP:unsorted
-https://142.54.183.242:443/9/serverkey.m3u8
-#EXTINF:0,Sony
-#EXTGRP:unsorted
-https://142.54.183.242:443/132/serverkey.m3u8
-#EXTINF:0,Tnt
-#EXTGRP:unsorted
-https://142.54.183.242:443/146/serverkey.m3u8
-#EXTINF:0,Space
-#EXTGRP:unsorted
-https://142.54.183.242:443/133/serverkey.m3u8
-#EXTINF:0,Studio Universal
-#EXTGRP:unsorted
-https://142.54.183.242:443/134/serverkey.m3u8
-#EXTINF:0,Fx
-#EXTGRP:unsorted
-https://142.54.183.242:443/90/serverkey.m3u8
-#EXTINF:0,Fx Movie
-#EXTGRP:unsorted
-https://142.54.183.242:443/91/serverkey.m3u8
-#EXTINF:0,Tbs
-#EXTGRP:unsorted
-https://142.54.183.242:443/138/serverkey.m3u8
-#EXTINF:0,Tcm
-#EXTGRP:unsorted
-https://142.54.183.242:443/139/serverkey.m3u8
-#EXTINF:0,Cine canal
-#EXTGRP:unsorted
-https://142.54.183.242:443/25/serverkey.m3u8
-#EXTINF:0,Cinemax
-#EXTGRP:unsorted
-https://142.54.183.242:443/26/serverkey.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:unsorted
-https://142.54.183.242:443/127/serverkey.m3u8
-#EXTINF:0,Comedy Central
-#EXTGRP:unsorted
-https://142.54.183.242:443/123/serverkey.m3u8
-#EXTINF:0,Sundance tv
-#EXTGRP:unsorted
-https://142.54.183.242:443/135/serverkey.m3u8
-#EXTINF:0,Cine Latino
-#EXTGRP:unsorted
-https://142.54.183.242:443/23/serverkey.m3u8
-#EXTINF:0,Tnt Series
-#EXTGRP:unsorted
-https://142.54.183.242:443/147/serverkey.m3u8
-#EXTINF:0,Fox Premium Action
-#EXTGRP:unsorted
-https://142.54.183.242:443/65/serverkey.m3u8
-#EXTINF:0,Fox Premium Cinema
-#EXTGRP:unsorted
-https://142.54.183.242:443/67/serverkey.m3u8
-#EXTINF:0,Fox Premium Comedy
-#EXTGRP:unsorted
-https://142.54.183.242:443/69/serverkey.m3u8
-#EXTINF:0,Fox Premium Classics
-#EXTGRP:unsorted
-https://142.54.183.242:443/68/serverkey.m3u8
-#EXTINF:0,Fox Premium Family
-#EXTGRP:unsorted
-https://142.54.183.242:443/70/serverkey.m3u8
-#EXTINF:0,Fox Premium Series
-#EXTGRP:unsorted
-https://142.54.183.242:443/72/serverkey.m3u8
-#EXTINF:0,Fox Premium Movies
-#EXTGRP:unsorted
-https://142.54.183.242:443/71/serverkey.m3u8
-#EXTINF:0,Golden
-#EXTGRP:unsorted
-https://142.54.183.242:443/95/serverkey.m3u8
-#EXTINF:0,Golden Premier
-#EXTGRP:unsorted
-https://142.54.183.242:443/96/serverkey.m3u8
-#EXTINF:0,HBO
-#EXTGRP:unsorted
-https://142.54.183.242:443/74/serverkey.m3u8
-#EXTINF:0,HBO 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/75/serverkey.m3u8
-#EXTINF:0,HBO plus
-#EXTGRP:unsorted
-https://142.54.183.242:443/78/serverkey.m3u8
-#EXTINF:0,HBO Family
-#EXTGRP:unsorted
-https://142.54.183.242:443/76/serverkey.m3u8
-#EXTINF:0,HBO Signature
-#EXTGRP:unsorted
-https://142.54.183.242:443/80/serverkey.m3u8
-#EXTINF:0,HBO Mundi
-#EXTGRP:unsorted
-https://142.54.183.242:443/77/serverkey.m3u8
-#EXTINF:0,HBO Pop
-#EXTGRP:unsorted
-https://142.54.183.242:443/79/serverkey.m3u8
-#EXTINF:0,HBO EXTREME
-#EXTGRP:unsorted
-https://142.54.183.242:443/82/serverkey.m3u8
-#EXTINF:0,Az Corazon
-#EXTGRP:unsorted
-https://142.54.183.242:443/13/serverkey.m3u8
-#EXTINF:0,Lifetime
-#EXTGRP:unsorted
-https://142.54.183.242:443/109/serverkey.m3u8
-#EXTINF:0,Mas Chic
-#EXTGRP:unsorted
-https://142.54.183.242:443/110/serverkey.m3u8
-#EXTINF:0,Az Mundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/14/serverkey.m3u8
-#EXTINF:0,Hola TV
-#EXTGRP:unsorted
-https://142.54.183.242:443/101/serverkey.m3u8
-#EXTINF:0,Multimedios
-#EXTGRP:unsorted
-https://142.54.183.242:443/100/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/151/serverkey.m3u8
-#EXTINF:0,DHE
-#EXTGRP:unsorted
-https://142.54.183.242:443/34/serverkey.m3u8
-#EXTINF:0,Directv Sports
-#EXTGRP:unsorted
-https://142.54.183.242:443/164/serverkey.m3u8
-#EXTINF:0,Directv sports-2
-#EXTGRP:unsorted
-https://142.54.183.242:443/165/serverkey.m3u8
-#EXTINF:0,Fox Sports 1 [latm]
-#EXTGRP:unsorted
-https://142.54.183.242:443/86/serverkey.m3u8
-#EXTINF:0,Fox Sports 2 [latm]
-#EXTGRP:unsorted
-https://142.54.183.242:443/87/serverkey.m3u8
-#EXTINF:0,Fox Sports 3 [latm]
-#EXTGRP:unsorted
-https://142.54.183.242:443/88/serverkey.m3u8
-#EXTINF:0,Fox Sports 1 [MEX]
-#EXTGRP:unsorted
-https://142.54.183.242:443/83/serverkey.m3u8
-#EXTINF:0,Fox Sports 2 [MEX]
-#EXTGRP:unsorted
-https://142.54.183.242:443/84/serverkey.m3u8
-#EXTINF:0,Fox Sports 3 [MEX]
-#EXTGRP:unsorted
-https://142.54.183.242:443/85/serverkey.m3u8
+https://142.54.183.242:443/54/serverkey.m3u8
 #EXTINF:0,Espn 1 (latm)
 #EXTGRP:unsorted
 https://142.54.183.242:443/55/serverkey.m3u8
@@ -260,45 +173,732 @@ https://142.54.183.242:443/57/serverkey.m3u8
 #EXTINF:0,Espn Plus (latm)
 #EXTGRP:unsorted
 https://142.54.183.242:443/58/serverkey.m3u8
-#EXTINF:0,Espn (MEX)
+#EXTINF:0,EUROPA EUROPA
 #EXTGRP:unsorted
-https://142.54.183.242:443/51/serverkey.m3u8
-#EXTINF:0,Espn 2 (MEX)
+https://142.54.183.242:443/59/serverkey.m3u8
+#EXTINF:0,FILMS&ARTS
 #EXTGRP:unsorted
-https://142.54.183.242:443/52/serverkey.m3u8
-#EXTINF:0,Espn 3 (MEX)
+https://142.54.183.242:443/60/serverkey.m3u8
+#EXTINF:0,FOOD NETWORK
 #EXTGRP:unsorted
-https://142.54.183.242:443/53/serverkey.m3u8
-#EXTINF:0,Univision TUDN
+https://142.54.183.242:443/61/serverkey.m3u8
+#EXTINF:0,CANALSIN04 HD
 #EXTGRP:unsorted
-https://142.54.183.242:443/150/serverkey.m3u8
-#EXTINF:0,Claro Sports Latinoamerica
+https://142.54.183.242:443/62/serverkey.m3u8
+#EXTINF:0,Fox Channel
 #EXTGRP:unsorted
-https://142.54.183.242:443/142/serverkey.m3u8
+https://142.54.183.242:443/63/serverkey.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:unsorted
+https://142.54.183.242:443/64/serverkey.m3u8
+#EXTINF:0,Fox Premium Action
+#EXTGRP:unsorted
+https://142.54.183.242:443/65/serverkey.m3u8
+#EXTINF:0,FOX ACTION
+#EXTGRP:unsorted
+https://142.54.183.242:443/66/serverkey.m3u8
+#EXTINF:0,Fox Premium Cinema
+#EXTGRP:unsorted
+https://142.54.183.242:443/67/serverkey.m3u8
+#EXTINF:0,Fox Premium Classics
+#EXTGRP:unsorted
+https://142.54.183.242:443/68/serverkey.m3u8
+#EXTINF:0,Fox Premium Comedy
+#EXTGRP:unsorted
+https://142.54.183.242:443/69/serverkey.m3u8
+#EXTINF:0,Fox Premium Family
+#EXTGRP:unsorted
+https://142.54.183.242:443/70/serverkey.m3u8
+#EXTINF:0,Fox Premium Movies
+#EXTGRP:unsorted
+https://142.54.183.242:443/71/serverkey.m3u8
+#EXTINF:0,Fox Premium Series
+#EXTGRP:unsorted
+https://142.54.183.242:443/72/serverkey.m3u8
+#EXTINF:0,CANALSIN07
+#EXTGRP:unsorted
+https://142.54.183.242:443/73/serverkey.m3u8
+#EXTINF:0,HBO
+#EXTGRP:unsorted
+https://142.54.183.242:443/74/serverkey.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/75/serverkey.m3u8
+#EXTINF:0,HBO Family
+#EXTGRP:unsorted
+https://142.54.183.242:443/76/serverkey.m3u8
+#EXTINF:0,HBO Mundi
+#EXTGRP:unsorted
+https://142.54.183.242:443/77/serverkey.m3u8
+#EXTINF:0,HBO plus
+#EXTGRP:unsorted
+https://142.54.183.242:443/78/serverkey.m3u8
+#EXTINF:0,HBO Pop
+#EXTGRP:unsorted
+https://142.54.183.242:443/79/serverkey.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:unsorted
+https://142.54.183.242:443/80/serverkey.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:unsorted
+https://142.54.183.242:443/81/serverkey.m3u8
+#EXTINF:0,HBO EXTREME
+#EXTGRP:unsorted
+https://142.54.183.242:443/82/serverkey.m3u8
+#EXTINF:0,Fox Sports 1 [MEX]
+#EXTGRP:unsorted
+https://142.54.183.242:443/83/serverkey.m3u8
+#EXTINF:0,Fox Sports 2 [MEX]
+#EXTGRP:unsorted
+https://142.54.183.242:443/84/serverkey.m3u8
+#EXTINF:0,Fox Sports 3 [MEX]
+#EXTGRP:unsorted
+https://142.54.183.242:443/85/serverkey.m3u8
+#EXTINF:0,Fox Sports 1 [latm]
+#EXTGRP:unsorted
+https://142.54.183.242:443/86/serverkey.m3u8
+#EXTINF:0,Fox Sports 2 [latm]
+#EXTGRP:unsorted
+https://142.54.183.242:443/87/serverkey.m3u8
+#EXTINF:0,Fox Sports 3 [latm]
+#EXTGRP:unsorted
+https://142.54.183.242:443/88/serverkey.m3u8
+#EXTINF:0,Fox Sports 3 [latm]
+#EXTGRP:unsorted
+https://142.54.183.242:443/89/serverkey.m3u8
+#EXTINF:0,Fx
+#EXTGRP:unsorted
+https://142.54.183.242:443/90/serverkey.m3u8
+#EXTINF:0,Fx Movie
+#EXTGRP:unsorted
+https://142.54.183.242:443/91/serverkey.m3u8
+#EXTINF:0,FXM
+#EXTGRP:unsorted
+https://142.54.183.242:443/92/serverkey.m3u8
+#EXTINF:0,GARAGE TV
+#EXTGRP:unsorted
+https://142.54.183.242:443/93/serverkey.m3u8
+#EXTINF:0,TNT SPORTS
+#EXTGRP:unsorted
+https://142.54.183.242:443/94/serverkey.m3u8
+#EXTINF:0,Golden
+#EXTGRP:unsorted
+https://142.54.183.242:443/95/serverkey.m3u8
+#EXTINF:0,Golden Premier
+#EXTGRP:unsorted
+https://142.54.183.242:443/96/serverkey.m3u8
 #EXTINF:0,Golf Channel
 #EXTGRP:unsorted
 https://142.54.183.242:443/97/serverkey.m3u8
-#EXTINF:0,Cnn espanol
+#EXTINF:0,Golf Channel
 #EXTGRP:unsorted
-https://142.54.183.242:443/14/serverkey.m3u8
-#EXTINF:0,Cnn internacional [USA]
+https://142.54.183.242:443/98/serverkey.m3u8
+#EXTINF:0,History
 #EXTGRP:unsorted
-https://142.54.183.242:443/15/serverkey.m3u8
-#EXTINF:0,ADN 40
+https://142.54.183.242:443/99/serverkey.m3u8
+#EXTINF:0,H2
 #EXTGRP:unsorted
-https://142.54.183.242:443/148/serverkey.m3u8
+https://142.54.183.242:443/100/serverkey.m3u8
+#EXTINF:0,Hola TV
+#EXTGRP:unsorted
+https://142.54.183.242:443/101/serverkey.m3u8
+#EXTINF:0,Natgeo Kids
+#EXTGRP:unsorted
+https://142.54.183.242:443/102/serverkey.m3u8
+#EXTINF:0,Natgeo Kids
+#EXTGRP:unsorted
+https://142.54.183.242:443/103/serverkey.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:unsorted
+https://142.54.183.242:443/104/serverkey.m3u8
+#EXTINF:0,Nick 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/105/serverkey.m3u8
+#EXTINF:0,Nick JR
+#EXTGRP:unsorted
+https://142.54.183.242:443/106/serverkey.m3u8
+#EXTINF:0,LAS ESTRELLAS
+#EXTGRP:unsorted
+https://142.54.183.242:443/107/serverkey.m3u8
+#EXTINF:0,LIFETIME
+#EXTGRP:unsorted
+https://142.54.183.242:443/108/serverkey.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:unsorted
+https://142.54.183.242:443/109/serverkey.m3u8
+#EXTINF:0,Mas Chic
+#EXTGRP:unsorted
+https://142.54.183.242:443/110/serverkey.m3u8
+#EXTINF:0,MASCHIC
+#EXTGRP:unsorted
+https://142.54.183.242:443/111/serverkey.m3u8
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/112/serverkey.m3u8
+#EXTINF:0,MTV HITS
+#EXTGRP:unsorted
+https://142.54.183.242:443/113/serverkey.m3u8
+#EXTINF:0,MTV LIVE
+#EXTGRP:unsorted
+https://142.54.183.242:443/114/serverkey.m3u8
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/115/serverkey.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:unsorted
+https://142.54.183.242:443/116/serverkey.m3u8
 #EXTINF:0,MTV Live
 #EXTGRP:unsorted
 https://142.54.183.242:443/117/serverkey.m3u8
 #EXTINF:0,MTV Hits
 #EXTGRP:unsorted
-https://142.54.183.242:443/116/serverkey.m3u8
-#EXTINF:0,HTV
+https://142.54.183.242:443/118/serverkey.m3u8
+#EXTINF:0,MTV Live
+#EXTGRP:unsorted
+https://142.54.183.242:443/119/serverkey.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:unsorted
+https://142.54.183.242:443/120/serverkey.m3u8
+#EXTINF:0,NATGEO KIDS
+#EXTGRP:unsorted
+https://142.54.183.242:443/121/serverkey.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:unsorted
+https://142.54.183.242:443/122/serverkey.m3u8
+#EXTINF:0,Comedy Central
+#EXTGRP:unsorted
+https://142.54.183.242:443/123/serverkey.m3u8
+#EXTINF:0,TEEN NICK
+#EXTGRP:unsorted
+https://142.54.183.242:443/124/serverkey.m3u8
+#EXTINF:0,NICK JR
+#EXTGRP:unsorted
+https://142.54.183.242:443/125/serverkey.m3u8
+#EXTINF:0,NICK MUSIC
+#EXTGRP:unsorted
+https://142.54.183.242:443/126/serverkey.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:unsorted
+https://142.54.183.242:443/127/serverkey.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:unsorted
+https://142.54.183.242:443/128/serverkey.m3u8
+#EXTINF:0,Tooncast
+#EXTGRP:unsorted
+https://142.54.183.242:443/129/serverkey.m3u8
+#EXTINF:0,TOONCAST
+#EXTGRP:unsorted
+https://142.54.183.242:443/130/serverkey.m3u8
+#EXTINF:0,RT ESPAÑOL
+#EXTGRP:unsorted
+https://142.54.183.242:443/131/serverkey.m3u8
+#EXTINF:0,Sony
+#EXTGRP:unsorted
+https://142.54.183.242:443/132/serverkey.m3u8
+#EXTINF:0,Space
+#EXTGRP:unsorted
+https://142.54.183.242:443/133/serverkey.m3u8
+#EXTINF:0,Studio Universal
+#EXTGRP:unsorted
+https://142.54.183.242:443/134/serverkey.m3u8
+#EXTINF:0,Sundance tv
+#EXTGRP:unsorted
+https://142.54.183.242:443/135/serverkey.m3u8
+#EXTINF:0,SUNDANCE
+#EXTGRP:unsorted
+https://142.54.183.242:443/136/serverkey.m3u8
+#EXTINF:0,SYFY
+#EXTGRP:unsorted
+https://142.54.183.242:443/137/serverkey.m3u8
+#EXTINF:0,Tbs
+#EXTGRP:unsorted
+https://142.54.183.242:443/138/serverkey.m3u8
+#EXTINF:0,Tcm
+#EXTGRP:unsorted
+https://142.54.183.242:443/139/serverkey.m3u8
+#EXTINF:0,Claro Sports Latinoamerica
+#EXTGRP:unsorted
+https://142.54.183.242:443/140/serverkey.m3u8
+#EXTINF:0,Concert Channel
+#EXTGRP:unsorted
+https://142.54.183.242:443/141/serverkey.m3u8
+#EXTINF:0,Claro Sports Latinoamerica
+#EXTGRP:unsorted
+https://142.54.183.242:443/142/serverkey.m3u8
+#EXTINF:0,Concert Channel
+#EXTGRP:unsorted
+https://142.54.183.242:443/143/serverkey.m3u8
+#EXTINF:0,CONCERT
+#EXTGRP:unsorted
+https://142.54.183.242:443/144/serverkey.m3u8
+#EXTINF:0,TLNOVELAS
+#EXTGRP:unsorted
+https://142.54.183.242:443/145/serverkey.m3u8
+#EXTINF:0,Tnt
+#EXTGRP:unsorted
+https://142.54.183.242:443/146/serverkey.m3u8
+#EXTINF:0,Tnt Series
+#EXTGRP:unsorted
+https://142.54.183.242:443/147/serverkey.m3u8
+#EXTINF:0,ADN 40
+#EXTGRP:unsorted
+https://142.54.183.242:443/148/serverkey.m3u8
+#EXTINF:0,CANALSIN09
+#EXTGRP:unsorted
+https://142.54.183.242:443/149/serverkey.m3u8
+#EXTINF:0,Univision TUDN
+#EXTGRP:unsorted
+https://142.54.183.242:443/150/serverkey.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://142.54.183.242:443/151/serverkey.m3u8
+#EXTINF:0,UNIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/152/serverkey.m3u8
+#EXTINF:0,UNIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/153/serverkey.m3u8
+#EXTINF:0,UNIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/154/serverkey.m3u8
+#EXTINF:0,UNIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/155/serverkey.m3u8
+#EXTINF:0,UNIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/156/serverkey.m3u8
+#EXTINF:0,UNIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/157/serverkey.m3u8
+#EXTINF:0,UNIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/158/serverkey.m3u8
+#EXTINF:0,Universal
+#EXTGRP:unsorted
+https://142.54.183.242:443/159/serverkey.m3u8
+#EXTINF:0,Vh1
+#EXTGRP:unsorted
+https://142.54.183.242:443/160/serverkey.m3u8
+#EXTINF:0,Vh1 Classics
+#EXTGRP:unsorted
+https://142.54.183.242:443/161/serverkey.m3u8
+#EXTINF:0,WOBI
+#EXTGRP:unsorted
+https://142.54.183.242:443/162/serverkey.m3u8
+#EXTINF:0,Warner channenel
+#EXTGRP:unsorted
+https://142.54.183.242:443/163/serverkey.m3u8
+#EXTINF:0,Directv Sports
 #EXTGRP:unsorted
 https://142.54.183.242:443/164/serverkey.m3u8
-#EXTINF:0,TLC
+#EXTINF:0,Directv sports-2
 #EXTGRP:unsorted
-https://142.54.183.242:443/41/serverkey.m3u8
-#EXTINF:0,MTV
+https://142.54.183.242:443/165/serverkey.m3u8
+#EXTINF:0,DIRECTV SPORTS +
 #EXTGRP:unsorted
-https://142.54.183.242:443/115/serverkey.m3u8
+https://142.54.183.242:443/166/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/167/serverkey.m3u8
+#EXTINF:0,ECDF
+#EXTGRP:unsorted
+https://142.54.183.242:443/168/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/169/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/170/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/171/serverkey.m3u8
+#EXTINF:0,GOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/172/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/173/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/174/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/175/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/176/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/177/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/178/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/179/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/180/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/181/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/182/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/183/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/184/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/185/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/186/serverkey.m3u8
+#EXTINF:0,RCN
+#EXTGRP:unsorted
+https://142.54.183.242:443/187/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/188/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/189/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/190/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/191/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/192/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/193/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/194/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/195/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/196/serverkey.m3u8
+#EXTINF:0,RCN
+#EXTGRP:unsorted
+https://142.54.183.242:443/197/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/198/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/199/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/200/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/201/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/202/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/203/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/204/serverkey.m3u8
+#EXTINF:0,CDF
+#EXTGRP:unsorted
+https://142.54.183.242:443/205/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/206/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/207/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/208/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/209/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/210/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/211/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/212/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/213/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/214/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/215/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/216/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/217/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/218/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/219/serverkey.m3u8
+#EXTINF:0,VTV +
+#EXTGRP:unsorted
+https://142.54.183.242:443/220/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/221/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/222/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/223/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/224/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/225/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/226/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/227/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/228/serverkey.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:unsorted
+https://142.54.183.242:443/229/serverkey.m3u8
+#EXTINF:0,VTV +
+#EXTGRP:unsorted
+https://142.54.183.242:443/230/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/231/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/232/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/233/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/234/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/235/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/236/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/237/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/238/serverkey.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:unsorted
+https://142.54.183.242:443/239/serverkey.m3u8
+#EXTINF:0,VTV +
+#EXTGRP:unsorted
+https://142.54.183.242:443/240/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/241/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/242/serverkey.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://142.54.183.242:443/243/serverkey.m3u8
+#EXTINF:0,Univision
+#EXTGRP:unsorted
+https://142.54.183.242:443/244/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/245/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/246/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/247/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/248/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/249/serverkey.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:unsorted
+https://142.54.183.242:443/250/serverkey.m3u8
+#EXTINF:0,VTV +
+#EXTGRP:unsorted
+https://142.54.183.242:443/251/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/252/serverkey.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://142.54.183.242:443/253/serverkey.m3u8
+#EXTINF:0,Univision
+#EXTGRP:unsorted
+https://142.54.183.242:443/254/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/255/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/256/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/257/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/258/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/259/serverkey.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:unsorted
+https://142.54.183.242:443/260/serverkey.m3u8
+#EXTINF:0,VTV +
+#EXTGRP:unsorted
+https://142.54.183.242:443/261/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/262/serverkey.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://142.54.183.242:443/263/serverkey.m3u8
+#EXTINF:0,Univision
+#EXTGRP:unsorted
+https://142.54.183.242:443/264/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/265/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/266/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/267/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/268/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/269/serverkey.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:unsorted
+https://142.54.183.242:443/270/serverkey.m3u8
+#EXTINF:0,VTV +
+#EXTGRP:unsorted
+https://142.54.183.242:443/271/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/272/serverkey.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://142.54.183.242:443/273/serverkey.m3u8
+#EXTINF:0,Univision
+#EXTGRP:unsorted
+https://142.54.183.242:443/274/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/275/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/276/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/277/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/278/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/279/serverkey.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:unsorted
+https://142.54.183.242:443/280/serverkey.m3u8
+#EXTINF:0,VTV +
+#EXTGRP:unsorted
+https://142.54.183.242:443/281/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/282/serverkey.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://142.54.183.242:443/283/serverkey.m3u8
+#EXTINF:0,Univision
+#EXTGRP:unsorted
+https://142.54.183.242:443/284/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/285/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/286/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/287/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/288/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/289/serverkey.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:unsorted
+https://142.54.183.242:443/290/serverkey.m3u8
+#EXTINF:0,VTV +
+#EXTGRP:unsorted
+https://142.54.183.242:443/291/serverkey.m3u8
+#EXTINF:0,CARACOLTV
+#EXTGRP:unsorted
+https://142.54.183.242:443/292/serverkey.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://142.54.183.242:443/293/serverkey.m3u8
+#EXTINF:0,Univision
+#EXTGRP:unsorted
+https://142.54.183.242:443/294/serverkey.m3u8
+#EXTINF:0,CANALSIN11
+#EXTGRP:unsorted
+https://142.54.183.242:443/295/serverkey.m3u8
+#EXTINF:0,MULTIVISION
+#EXTGRP:unsorted
+https://142.54.183.242:443/296/serverkey.m3u8
+#EXTINF:0,CDF 2
+#EXTGRP:unsorted
+https://142.54.183.242:443/297/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/298/serverkey.m3u8
+#EXTINF:0,CDF P
+#EXTGRP:unsorted
+https://142.54.183.242:443/299/serverkey.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:unsorted
+https://142.54.183.242:443/300/serverkey.m3u8
+#EXTINF:0,VTV + 301
+#EXTGRP:unsorted
+https://142.54.183.242:443/301/serverkey.m3u8
