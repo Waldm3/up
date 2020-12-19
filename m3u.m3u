@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,CANAL
-#EXTGRP:unsorted
+#EXTINF:0,A+
+#EXTGRP:Locales
 https://142.54.183.242:443/2/serverkey.m3u8
 #EXTINF:0,A&e
 #EXTGRP:Entretenimiento
@@ -39,7 +39,7 @@ https://142.54.183.242:443/13/serverkey.m3u8
 #EXTINF:0,Az Mundo
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/14/serverkey.m3u8
-#EXTINF:0,Canal
+#EXTINF:0,Azteca 7
 #EXTGRP:Locales
 https://142.54.183.242:443/15/serverkey.m3u8
 #EXTINF:0,AZTECA UNO
@@ -165,13 +165,16 @@ https://142.54.183.242:443/57/serverkey.m3u8
 #EXTINF:0,Espn Plus (latm)
 #EXTGRP:Deportes
 https://142.54.183.242:443/58/serverkey.m3u8
+#EXTINF:0,Europa
+#EXTGRP:Peliculas
+https://142.54.183.242:443/59/serverkey.m3u8
 #EXTINF:0,FILMS&ARTS
 #EXTGRP:Peliculas
 https://142.54.183.242:443/60/serverkey.m3u8
 #EXTINF:0,FOOD NETWORK
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/61/serverkey.m3u8
-#EXTINF:0,CANAL HD
+#EXTINF:0,ForoTv
 #EXTGRP:unsorted
 https://142.54.183.242:443/62/serverkey.m3u8
 #EXTINF:0,Fox Channel
@@ -282,8 +285,8 @@ https://142.54.183.242:443/101/serverkey.m3u8
 #EXTINF:0,I Sat
 #EXTGRP:Peliculas
 https://142.54.183.242:443/102/serverkey.m3u8
-#EXTINF:0,Canal
-#EXTGRP:unsorted
+#EXTINF:0,Imagen Tv
+#EXTGRP:Locales
 https://142.54.183.242:443/103/serverkey.m3u8
 #EXTINF:0,LAS ESTRELLAS
 #EXTGRP:Locales
@@ -378,7 +381,7 @@ https://142.54.183.242:443/161/serverkey.m3u8
 #EXTINF:0,WOBI
 #EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/162/serverkey.m3u8
-#EXTINF:0,Warner channenel
+#EXTINF:0,Warner channel
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/163/serverkey.m3u8
 #EXTINF:0,Directv Sports
@@ -391,239 +394,242 @@ https://142.54.183.242:443/165/serverkey.m3u8
 #EXTGRP:Deportes
 https://142.54.183.242:443/166/serverkey.m3u8
 #EXTINF:0,No signal
-#EXTGRP:unsorted
+#EXTGRP:Ecuador
 https://142.54.183.242:443/167/serverkey.m3u8
 #EXTINF:0,ECDF Ecu
 #EXTGRP:Deportes
 https://142.54.183.242:443/168/serverkey.m3u8
 #EXTINF:0,No signal
-#EXTGRP:unsorted
+#EXTGRP:Ecuador
 https://142.54.183.242:443/169/serverkey.m3u8
 #EXTINF:0,CANAL Ecuavision
-#EXTGRP:unsorted
+#EXTGRP:Ecuador
 https://142.54.183.242:443/170/serverkey.m3u8
-#EXTINF:0,CANAL Ecu
-#EXTGRP:unsorted
+#EXTINF:0,ECDF Ecu
+#EXTGRP:Ecuador
 https://142.54.183.242:443/171/serverkey.m3u8
 #EXTINF:0,GOLTV Ecu
 #EXTGRP:Deportes
 https://142.54.183.242:443/172/serverkey.m3u8
-#EXTINF:0,CANAL
-#EXTGRP:unsorted
+#EXTINF:0,Oromar Tv
+#EXTGRP:Ecuador
 https://142.54.183.242:443/173/serverkey.m3u8
-#EXTINF:0,CANAL
-#EXTGRP:unsorted
+#EXTINF:0,Rts
+#EXTGRP:Ecuador
 https://142.54.183.242:443/174/serverkey.m3u8
 #EXTINF:0,CANAL
-#EXTGRP:unsorted
+#EXTGRP:Ecuador
 https://142.54.183.242:443/175/serverkey.m3u8
-#EXTINF:0,CANAL
-#EXTGRP:unsorted
+#EXTINF:0,Tvc Ecu
+#EXTGRP:Ecuador
 https://142.54.183.242:443/177/serverkey.m3u8
 #EXTINF:0,GolTv Col
 #EXTGRP:Deportes
 https://142.54.183.242:443/178/serverkey.m3u8
 #EXTINF:0,Cablenoticias Col
-#EXTGRP:unsorted
+#EXTGRP:Colombia
 https://142.54.183.242:443/179/serverkey.m3u8
-#EXTINF:0,CANAL 13
-#EXTGRP:unsorted
+#EXTINF:0,Trece
+#EXTGRP:Colombia
 https://142.54.183.242:443/180/serverkey.m3u8
 #EXTINF:0,CANAL 1
-#EXTGRP:unsorted
+#EXTGRP:Colombia
 https://142.54.183.242:443/181/serverkey.m3u8
 #EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
+#EXTGRP:Colombia
 https://142.54.183.242:443/183/serverkey.m3u8
 #EXTINF:0,City Tv
-#EXTGRP:unsorted
+#EXTGRP:Colombia
 https://142.54.183.242:443/184/serverkey.m3u8
 #EXTINF:0,El Tiempo Tv
-#EXTGRP:unsorted
+#EXTGRP:Colombia
 https://142.54.183.242:443/185/serverkey.m3u8
-#EXTINF:0,NTN
-#EXTGRP:unsorted
+#EXTINF:0,NTN 24
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/186/serverkey.m3u8
 #EXTINF:0,RCN
-#EXTGRP:unsorted
+#EXTGRP:Colombia
 https://142.54.183.242:443/187/serverkey.m3u8
-#EXTINF:0,CANAL Arg
-#EXTGRP:unsorted
+#EXTINF:0,A24 Arg
+#EXTGRP:Argentina
 https://142.54.183.242:443/188/serverkey.m3u8
 #EXTINF:0,CANAL Arg
-#EXTGRP:unsorted
+#EXTGRP:Argentina
 https://142.54.183.242:443/189/serverkey.m3u8
-#EXTINF:0,CANAL 26 noticias Arg
-#EXTGRP:unsorted
+#EXTINF:0,Euronews 26
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/190/serverkey.m3u8
 #EXTINF:0,Garage Tv
-#EXTGRP:unsorted
+#EXTGRP:Argentina
 https://142.54.183.242:443/191/serverkey.m3u8
 #EXTINF:0,Encuentro Arg
-#EXTGRP:unsorted
+#EXTGRP:Argentina
 https://142.54.183.242:443/194/serverkey.m3u8
 #EXTINF:0,Telefe Arg
-#EXTGRP:unsorted
+#EXTGRP:Argentina
 https://142.54.183.242:443/195/serverkey.m3u8
 #EXTINF:0,Telemax Arg
-#EXTGRP:unsorted
+#EXTGRP:Argentina
 https://142.54.183.242:443/196/serverkey.m3u8
 #EXTINF:0,Tv Publica Arg
-#EXTGRP:unsorted
+#EXTGRP:Argentina
 https://142.54.183.242:443/197/serverkey.m3u8
 #EXTINF:0,Telered
-#EXTGRP:unsorted
+#EXTGRP:Argentina
 https://142.54.183.242:443/199/serverkey.m3u8
 #EXTINF:0,Tnt Sports Arg
 #EXTGRP:Deportes
 https://142.54.183.242:443/200/serverkey.m3u8
 #EXTINF:0,13i
-#EXTGRP:unsorted
+#EXTGRP:Chile
 https://142.54.183.242:443/202/serverkey.m3u8
-#EXTINF:0,Linea Editorial
-#EXTGRP:unsorted
+#EXTINF:0,13
+#EXTGRP:Chile
 https://142.54.183.242:443/203/serverkey.m3u8
 #EXTINF:0,24 noticias
-#EXTGRP:unsorted
+#EXTGRP:Chile
 https://142.54.183.242:443/204/serverkey.m3u8
+#EXTINF:0,CDF Chi
+#EXTGRP:Deportes
+https://142.54.183.242:443/207/serverkey.m3u8
 #EXTINF:0,La Red
-#EXTGRP:unsorted
+#EXTGRP:Chile
 https://142.54.183.242:443/214/serverkey.m3u8
+#EXTINF:0,MVS Arg
+#EXTGRP:Uruguay
+https://142.54.183.242:443/215/serverkey.m3u8
 #EXTINF:0,R Tele
-#EXTGRP:unsorted
+#EXTGRP:Uruguay
 https://142.54.183.242:443/218/serverkey.m3u8
-#EXTINF:0,Vera +
-#EXTGRP:unsorted
-https://142.54.183.242:443/219/serverkey.m3u8
 #EXTINF:0,VTV +
-#EXTGRP:unsorted
+#EXTGRP:Uruguay
 https://142.54.183.242:443/220/serverkey.m3u8
-#EXTINF:0,Canal IPe
-#EXTGRP:unsorted
+#EXTINF:0,Chicos IPe
+#EXTGRP:Peru
 https://142.54.183.242:443/225/serverkey.m3u8
 #EXTINF:0,Capital
-#EXTGRP:unsorted
+#EXTGRP:Peru
 https://142.54.183.242:443/227/serverkey.m3u8
 #EXTINF:0,Latina
-#EXTGRP:unsorted
+#EXTGRP:Peru
 https://142.54.183.242:443/228/serverkey.m3u8
 #EXTINF:0,No Signal
-#EXTGRP:unsorted
+#EXTGRP:Peru
 https://142.54.183.242:443/229/serverkey.m3u8
 #EXTINF:0,No signal
-#EXTGRP:unsorted
+#EXTGRP:Peru
 https://142.54.183.242:443/231/serverkey.m3u8
 #EXTINF:0,No signal
-#EXTGRP:unsorted
+#EXTGRP:Peru
 https://142.54.183.242:443/232/serverkey.m3u8
-#EXTINF:0,Peru 9
-#EXTGRP:unsorted
+#EXTINF:0,Panamericana Tv
+#EXTGRP:Peru
 https://142.54.183.242:443/234/serverkey.m3u8
 #EXTINF:0,TvPe
-#EXTGRP:unsorted
+#EXTGRP:Peru
 https://142.54.183.242:443/235/serverkey.m3u8
 #EXTINF:0,Latina
-#EXTGRP:unsorted
+#EXTGRP:Peru
 https://142.54.183.242:443/236/serverkey.m3u8
 #EXTINF:0,Wipr
-#EXTGRP:unsorted
+#EXTGRP:Puerto Rico
 https://142.54.183.242:443/237/serverkey.m3u8
 #EXTINF:0,MegaTv
-#EXTGRP:unsorted
+#EXTGRP:Puerto Rico
 https://142.54.183.242:443/238/serverkey.m3u8
 #EXTINF:0,Telemundo
-#EXTGRP:unsorted
+#EXTGRP:Puerto Rico
 https://142.54.183.242:443/239/serverkey.m3u8
 #EXTINF:0,Univision
-#EXTGRP:unsorted
+#EXTGRP:Puerto Rico
 https://142.54.183.242:443/240/serverkey.m3u8
 #EXTINF:0,WapaTv
-#EXTGRP:unsorted
+#EXTGRP:Puerto Rico
 https://142.54.183.242:443/241/serverkey.m3u8
-#EXTINF:0,NBA
-#EXTGRP:unsorted
+#EXTINF:0,Wapa Deportes
+#EXTGRP:Puerto Rico
 https://142.54.183.242:443/242/serverkey.m3u8
-#EXTINF:0,Directv ch
-#EXTGRP:unsorted
+#EXTINF:0,Wapa America
+#EXTGRP:Puerto Rico
 https://142.54.183.242:443/243/serverkey.m3u8
 #EXTINF:0,NEX
-#EXTGRP:unsorted
+#EXTGRP:Panama
 https://142.54.183.242:443/247/serverkey.m3u8
 #EXTINF:0,RPC
-#EXTGRP:unsorted
+#EXTGRP:Panama
 https://142.54.183.242:443/248/serverkey.m3u8
 #EXTINF:0,RPC
-#EXTGRP:unsorted
+#EXTGRP:Panama
 https://142.54.183.242:443/249/serverkey.m3u8
 #EXTINF:0,SerTv
-#EXTGRP:unsorted
+#EXTGRP:Panama
 https://142.54.183.242:443/250/serverkey.m3u8
 #EXTINF:0,QuienTv Panama
-#EXTGRP:unsorted
+#EXTGRP:Panama
 https://142.54.183.242:443/251/serverkey.m3u8
 #EXTINF:0,TV Max 9
-#EXTGRP:unsorted
+#EXTGRP:Panama
 https://142.54.183.242:443/252/serverkey.m3u8
-#EXTINF:0,No signal
-#EXTGRP:unsorted
+#EXTINF:0,Tvn
+#EXTGRP:Costa Rica
 https://142.54.183.242:443/253/serverkey.m3u8
 #EXTINF:0,Canal UCR
-#EXTGRP:unsorted
+#EXTGRP:Costa Rica
 https://142.54.183.242:443/256/serverkey.m3u8
 #EXTINF:0,Teletica 7
-#EXTGRP:unsorted
+#EXTGRP:Costa Rica
 https://142.54.183.242:443/258/serverkey.m3u8
 #EXTINF:0,Canal 4
-#EXTGRP:unsorted
+#EXTGRP:Costa Rica
 https://142.54.183.242:443/259/serverkey.m3u8
 #EXTINF:0,Teletica 7
-#EXTGRP:unsorted
+#EXTGRP:Costa Rica
 https://142.54.183.242:443/262/serverkey.m3u8
 #EXTINF:0,Teleuno
-#EXTGRP:unsorted
+#EXTGRP:Costa Rica
 https://142.54.183.242:443/263/serverkey.m3u8
 #EXTINF:0,88 Stereo
-#EXTGRP:unsorted
+#EXTGRP:Costa Rica
 https://142.54.183.242:443/264/serverkey.m3u8
 #EXTINF:0,Unicanal
-#EXTGRP:unsorted
+#EXTGRP:Venezuela
 https://142.54.183.242:443/269/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:Deportes
+#EXTINF:0,GOL
+#EXTGRP:Venezuela
 https://142.54.183.242:443/270/serverkey.m3u8
 #EXTINF:0,TeleSur
-#EXTGRP:unsorted
+#EXTGRP:Venezuela
 https://142.54.183.242:443/272/serverkey.m3u8
-#EXTINF:0,VTV
-#EXTGRP:unsorted
+#EXTINF:0,V
+#EXTGRP:Venezuela
 https://142.54.183.242:443/291/serverkey.m3u8
-#EXTINF:0,Ve
-#EXTGRP:unsorted
+#EXTINF:0,Ve plus
+#EXTGRP:Venezuela
 https://142.54.183.242:443/292/serverkey.m3u8
 #EXTINF:0,3abn latino
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/296/serverkey.m3u8
 #EXTINF:0,Logos tv
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/297/serverkey.m3u8
 #EXTINF:0,AV
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/298/serverkey.m3u8
 #EXTINF:0,CCI
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/299/serverkey.m3u8
 #EXTINF:0,EJTV
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/301/serverkey.m3u8
 #EXTINF:0,MVTV
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/302/serverkey.m3u8
 #EXTINF:0,Religion tv
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/303/serverkey.m3u8
 #EXTINF:0,Solidaria tv
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/304/serverkey.m3u8
 #EXTINF:0,3abn kids tv
-#EXTGRP:unsorted
+#EXTGRP:Religion
 https://142.54.183.242:443/305/serverkey.m3u8
