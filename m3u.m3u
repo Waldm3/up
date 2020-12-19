@@ -1,1804 +1,629 @@
 #EXTM3U
-#EXTINF:0,CANALSIN00
-#EXTGRP:unsorted
-https://142.54.183.242:443/1/serverkey.m3u8
-#EXTINF:0,CANALSIN01
+
+#EXTINF:0,CANAL
 #EXTGRP:unsorted
 https://142.54.183.242:443/2/serverkey.m3u8
 #EXTINF:0,A&e
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/3/serverkey.m3u8
 #EXTINF:0,A3SERIES
-#EXTGRP:unsorted
+#EXTGRP:Internacionales
 https://142.54.183.242:443/4/serverkey.m3u8
 #EXTINF:0,ADN40
-#EXTGRP:unsorted
+#EXTGRP:Locales
 https://142.54.183.242:443/5/serverkey.m3u8
 #EXTINF:0,Amc
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/6/serverkey.m3u8
 #EXTINF:0,Animal Planet
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/7/serverkey.m3u8
 #EXTINF:0,ANTENA 3
-#EXTGRP:unsorted
+#EXTGRP:Internacionales
 https://142.54.183.242:443/8/serverkey.m3u8
 #EXTINF:0,Axn
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/9/serverkey.m3u8
 #EXTINF:0,AYM SPORTS
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/10/serverkey.m3u8
 #EXTINF:0,AZTECA CINEMA
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/11/serverkey.m3u8
 #EXTINF:0,AZTECA CLIC
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/12/serverkey.m3u8
 #EXTINF:0,Az Corazon
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/13/serverkey.m3u8
 #EXTINF:0,Az Mundo
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/14/serverkey.m3u8
-#EXTINF:0,Cnn internacional [USA]
-#EXTGRP:unsorted
+#EXTINF:0,Canal
+#EXTGRP:Locales
 https://142.54.183.242:443/15/serverkey.m3u8
 #EXTINF:0,AZTECA UNO
-#EXTGRP:unsorted
+#EXTGRP:Locales
 https://142.54.183.242:443/16/serverkey.m3u8
-#EXTINF:0,Baby tv (X)
-#EXTGRP:unsorted
+#EXTINF:0,Baby tv
+#EXTGRP:Niños
 https://142.54.183.242:443/17/serverkey.m3u8
 #EXTINF:0,BANDAMAX
-#EXTGRP:unsorted
+#EXTGRP:Musica
 https://142.54.183.242:443/18/serverkey.m3u8
 #EXTINF:0,EL FINANCIERO
-#EXTGRP:unsorted
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/19/serverkey.m3u8
-#EXTINF:0,Boomerang (X)
-#EXTGRP:unsorted
+#EXTINF:0,Bloomberg
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/20/serverkey.m3u8s
 #EXTINF:0,CANAL 5
-#EXTGRP:unsorted
+#EXTGRP:Locales
 https://142.54.183.242:443/21/serverkey.m3u8
 #EXTINF:0,Justicia TV
-#EXTGRP:unsorted
+#EXTGRP:Locales
 https://142.54.183.242:443/22/serverkey.m3u8
-#EXTINF:0,Cine Latino
-#EXTGRP:unsorted
+#EXTINF:0,Once
+#EXTGRP:Locales
 https://142.54.183.242:443/23/serverkey.m3u8
 #EXTINF:0,Cartoon Network
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/24/serverkey.m3u8
-#EXTINF:0,Cine canal
-#EXTGRP:unsorted
+#EXTINF:0,Cinecanal
+#EXTGRP:Peliculas
 https://142.54.183.242:443/25/serverkey.m3u8
 #EXTINF:0,Cinemax
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/26/serverkey.m3u8
 #EXTINF:0,CNN ESPAÑOL
-#EXTGRP:unsorted
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/27/serverkey.m3u8
-#EXTINF:0,CNN ESPAÑOL 02
-#EXTGRP:unsorted
+#EXTINF:0,CNN ESPAÑOL
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/28/serverkey.m3u8
-#EXTINF:0,NASA
-#EXTGRP:unsorted
+#EXTINF:0,CNN Intl
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/29/serverkey.m3u8
 #EXTINF:0,COMEDY CENTRAL
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/30/serverkey.m3u8
 #EXTINF:0,CONGRESO TV
-#EXTGRP:unsorted
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/31/serverkey.m3u8
-#EXTINF:0,CANALSIN03
-#EXTGRP:unsorted
+#EXTINF:0,Claro Sports 2
+#EXTGRP:Deportes
 https://142.54.183.242:443/32/serverkey.m3u8
-#EXTINF:0,CANALSIN03
-#EXTGRP:unsorted
-https://142.54.183.242:443/33/serverkey.m3u8
-#EXTINF:0,DHE
-#EXTGRP:unsorted
+#EXTINF:0,DePelicula
+#EXTGRP:Peliculas
 https://142.54.183.242:443/34/serverkey.m3u8
 #EXTINF:0,Discovery Channel
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/35/serverkey.m3u8
-#EXTINF:0,Discovery Kids
-#EXTGRP:unsorted
+#EXTINF:0,HGTV
+#EXTGRP:Variedad
 https://142.54.183.242:443/36/serverkey.m3u8
 #EXTINF:0,Discovery H&H
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/37/serverkey.m3u8
 #EXTINF:0,DISCOVERY KIDS
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/38/serverkey.m3u8
-#EXTINF:0,Discovery Sciences
-#EXTGRP:unsorted
+#EXTINF:0,Discovery Science
+#EXTGRP:Cultura
 https://142.54.183.242:443/39/serverkey.m3u8
 #EXTINF:0,Discovery Theater
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/40/serverkey.m3u8
 #EXTINF:0,TLC
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/41/serverkey.m3u8
 #EXTINF:0,Discovery Turbo
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/42/serverkey.m3u8
 #EXTINF:0,DISCOVERY WORLD
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/43/serverkey.m3u8
 #EXTINF:0,Disney Channel
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/44/serverkey.m3u8
 #EXTINF:0,Disney JR
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/45/serverkey.m3u8
 #EXTINF:0,Disney XD
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/46/serverkey.m3u8
 #EXTINF:0,DISTRITO COMEDIA
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/47/serverkey.m3u8
-#EXTINF:0,GOURMET
-#EXTGRP:unsorted
-https://142.54.183.242:443/48/serverkey.m3u8
 #EXTINF:0,El Gourmet
-#EXTGRP:unsorted
+#EXTGRP:Variedad
 https://142.54.183.242:443/49/serverkey.m3u8
 #EXTINF:0,E!
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/50/serverkey.m3u8
 #EXTINF:0,Espn (MEX)
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/51/serverkey.m3u8
 #EXTINF:0,Espn 2 (MEX)
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/52/serverkey.m3u8
 #EXTINF:0,Espn 3 (MEX)
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/53/serverkey.m3u8
 #EXTINF:0,ESPN EXTRA
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/54/serverkey.m3u8
 #EXTINF:0,Espn 1 (latm)
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/55/serverkey.m3u8
 #EXTINF:0,Espn 2 (latm)
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/56/serverkey.m3u8
 #EXTINF:0,Espn 3 (latm)
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/57/serverkey.m3u8
 #EXTINF:0,Espn Plus (latm)
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/58/serverkey.m3u8
-#EXTINF:0,EUROPA EUROPA
-#EXTGRP:unsorted
-https://142.54.183.242:443/59/serverkey.m3u8
 #EXTINF:0,FILMS&ARTS
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/60/serverkey.m3u8
 #EXTINF:0,FOOD NETWORK
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/61/serverkey.m3u8
-#EXTINF:0,CANALSIN04 HD
+#EXTINF:0,CANAL HD
 #EXTGRP:unsorted
 https://142.54.183.242:443/62/serverkey.m3u8
 #EXTINF:0,Fox Channel
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/63/serverkey.m3u8
 #EXTINF:0,Fox Life
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/64/serverkey.m3u8
-#EXTINF:0,Fox Premium Action
-#EXTGRP:unsorted
+#EXTINF:0,Fox Action
+#EXTGRP:Peliculas
 https://142.54.183.242:443/65/serverkey.m3u8
 #EXTINF:0,FOX ACTION
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/66/serverkey.m3u8
-#EXTINF:0,Fox Premium Cinema
-#EXTGRP:unsorted
+#EXTINF:0,Fox Cinema
+#EXTGRP:Peliculas
 https://142.54.183.242:443/67/serverkey.m3u8
-#EXTINF:0,Fox Premium Classics
-#EXTGRP:unsorted
+#EXTINF:0,Fox Classics
+#EXTGRP:Peliculas
 https://142.54.183.242:443/68/serverkey.m3u8
-#EXTINF:0,Fox Premium Comedy
-#EXTGRP:unsorted
+#EXTINF:0,Fox Comedy
+#EXTGRP:Peliculas
 https://142.54.183.242:443/69/serverkey.m3u8
-#EXTINF:0,Fox Premium Family
-#EXTGRP:unsorted
+#EXTINF:0,Fox Family
+#EXTGRP:Peliculas
 https://142.54.183.242:443/70/serverkey.m3u8
-#EXTINF:0,Fox Premium Movies
-#EXTGRP:unsorted
+#EXTINF:0,Fox Movies
+#EXTGRP:Peliculas
 https://142.54.183.242:443/71/serverkey.m3u8
-#EXTINF:0,Fox Premium Series
-#EXTGRP:unsorted
+#EXTINF:0,Fox Series
+#EXTGRP:Peliculas
 https://142.54.183.242:443/72/serverkey.m3u8
-#EXTINF:0,CANALSIN07
-#EXTGRP:unsorted
+#EXTINF:0,Fox Series
+#EXTGRP:Peliculas
 https://142.54.183.242:443/73/serverkey.m3u8
 #EXTINF:0,HBO
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/74/serverkey.m3u8
 #EXTINF:0,HBO 2
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/75/serverkey.m3u8
 #EXTINF:0,HBO Family
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/76/serverkey.m3u8
 #EXTINF:0,HBO Mundi
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/77/serverkey.m3u8
 #EXTINF:0,HBO plus
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/78/serverkey.m3u8
 #EXTINF:0,HBO Pop
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/79/serverkey.m3u8
 #EXTINF:0,HBO Signature
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/80/serverkey.m3u8
-#EXTINF:0,HBO Signature
-#EXTGRP:unsorted
+#EXTINF:0,HBO
+#EXTGRP:Peliculas
 https://142.54.183.242:443/81/serverkey.m3u8
 #EXTINF:0,HBO EXTREME
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/82/serverkey.m3u8
 #EXTINF:0,Fox Sports 1 [MEX]
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/83/serverkey.m3u8
 #EXTINF:0,Fox Sports 2 [MEX]
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/84/serverkey.m3u8
 #EXTINF:0,Fox Sports 3 [MEX]
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/85/serverkey.m3u8
 #EXTINF:0,Fox Sports 1 [latm]
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/86/serverkey.m3u8
 #EXTINF:0,Fox Sports 2 [latm]
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/87/serverkey.m3u8
 #EXTINF:0,Fox Sports 3 [latm]
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/88/serverkey.m3u8
-#EXTINF:0,Fox Sports 3 [latm]
-#EXTGRP:unsorted
-https://142.54.183.242:443/89/serverkey.m3u8
 #EXTINF:0,Fx
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/90/serverkey.m3u8
-#EXTINF:0,Fx Movie
-#EXTGRP:unsorted
-https://142.54.183.242:443/91/serverkey.m3u8
-#EXTINF:0,FXM
-#EXTGRP:unsorted
-https://142.54.183.242:443/92/serverkey.m3u8
 #EXTINF:0,GARAGE TV
-#EXTGRP:unsorted
+#EXTGRP:Variedad
 https://142.54.183.242:443/93/serverkey.m3u8
-#EXTINF:0,TNT SPORTS
-#EXTGRP:unsorted
+#EXTINF:0,Glitz
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/94/serverkey.m3u8
 #EXTINF:0,Golden
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/95/serverkey.m3u8
-#EXTINF:0,Golden Premier
-#EXTGRP:unsorted
+#EXTINF:0,Golden Edge
+#EXTGRP:Peliculas
 https://142.54.183.242:443/96/serverkey.m3u8
 #EXTINF:0,Golf Channel
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/97/serverkey.m3u8
-#EXTINF:0,Golf Channel
-#EXTGRP:unsorted
-https://142.54.183.242:443/98/serverkey.m3u8
 #EXTINF:0,History
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/99/serverkey.m3u8
 #EXTINF:0,H2
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/100/serverkey.m3u8
 #EXTINF:0,Hola TV
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/101/serverkey.m3u8
-#EXTINF:0,Natgeo Kids
-#EXTGRP:unsorted
+#EXTINF:0,I Sat
+#EXTGRP:Peliculas
 https://142.54.183.242:443/102/serverkey.m3u8
-#EXTINF:0,Natgeo Kids
+#EXTINF:0,Canal
 #EXTGRP:unsorted
 https://142.54.183.242:443/103/serverkey.m3u8
-#EXTINF:0,Nickelodeon
-#EXTGRP:unsorted
-https://142.54.183.242:443/104/serverkey.m3u8
-#EXTINF:0,Nick 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/105/serverkey.m3u8
-#EXTINF:0,Nick JR
-#EXTGRP:unsorted
-https://142.54.183.242:443/106/serverkey.m3u8
 #EXTINF:0,LAS ESTRELLAS
-#EXTGRP:unsorted
+#EXTGRP:Locales
 https://142.54.183.242:443/107/serverkey.m3u8
-#EXTINF:0,LIFETIME
-#EXTGRP:unsorted
-https://142.54.183.242:443/108/serverkey.m3u8
 #EXTINF:0,Lifetime
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/109/serverkey.m3u8
-#EXTINF:0,Mas Chic
-#EXTGRP:unsorted
-https://142.54.183.242:443/110/serverkey.m3u8
 #EXTINF:0,MASCHIC
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/111/serverkey.m3u8
 #EXTINF:0,MTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/112/serverkey.m3u8
-#EXTINF:0,MTV HITS
-#EXTGRP:unsorted
-https://142.54.183.242:443/113/serverkey.m3u8
-#EXTINF:0,MTV LIVE
-#EXTGRP:unsorted
-https://142.54.183.242:443/114/serverkey.m3u8
-#EXTINF:0,MTV
-#EXTGRP:unsorted
+#EXTGRP:Musica
 https://142.54.183.242:443/115/serverkey.m3u8
 #EXTINF:0,MTV Hits
-#EXTGRP:unsorted
+#EXTGRP:Musica
 https://142.54.183.242:443/116/serverkey.m3u8
 #EXTINF:0,MTV Live
-#EXTGRP:unsorted
+#EXTGRP:Musica
 https://142.54.183.242:443/117/serverkey.m3u8
-#EXTINF:0,MTV Hits
-#EXTGRP:unsorted
-https://142.54.183.242:443/118/serverkey.m3u8
-#EXTINF:0,MTV Live
-#EXTGRP:unsorted
-https://142.54.183.242:443/119/serverkey.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:unsorted
-https://142.54.183.242:443/120/serverkey.m3u8
 #EXTINF:0,NATGEO KIDS
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/121/serverkey.m3u8
 #EXTINF:0,Nat Geo Wild
-#EXTGRP:unsorted
+#EXTGRP:Cultura
 https://142.54.183.242:443/122/serverkey.m3u8
-#EXTINF:0,Comedy Central
-#EXTGRP:unsorted
+#EXTINF:0,Nickelodeon
+#EXTGRP:Niños
 https://142.54.183.242:443/123/serverkey.m3u8
 #EXTINF:0,TEEN NICK
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/124/serverkey.m3u8
 #EXTINF:0,NICK JR
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/125/serverkey.m3u8
 #EXTINF:0,NICK MUSIC
-#EXTGRP:unsorted
+#EXTGRP:Niños
 https://142.54.183.242:443/126/serverkey.m3u8
 #EXTINF:0,Paramount
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/127/serverkey.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:unsorted
-https://142.54.183.242:443/128/serverkey.m3u8
-#EXTINF:0,Tooncast
-#EXTGRP:unsorted
-https://142.54.183.242:443/129/serverkey.m3u8
-#EXTINF:0,TOONCAST
-#EXTGRP:unsorted
-https://142.54.183.242:443/130/serverkey.m3u8
-#EXTINF:0,RT ESPAÑOL
-#EXTGRP:unsorted
-https://142.54.183.242:443/131/serverkey.m3u8
 #EXTINF:0,Sony
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/132/serverkey.m3u8
-#EXTINF:0,Space
-#EXTGRP:unsorted
-https://142.54.183.242:443/133/serverkey.m3u8
 #EXTINF:0,Studio Universal
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/134/serverkey.m3u8
-#EXTINF:0,Sundance tv
-#EXTGRP:unsorted
-https://142.54.183.242:443/135/serverkey.m3u8
-#EXTINF:0,SUNDANCE
-#EXTGRP:unsorted
-https://142.54.183.242:443/136/serverkey.m3u8
 #EXTINF:0,SYFY
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/137/serverkey.m3u8
 #EXTINF:0,Tbs
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/138/serverkey.m3u8
 #EXTINF:0,Tcm
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/139/serverkey.m3u8
-#EXTINF:0,Claro Sports Latinoamerica
-#EXTGRP:unsorted
-https://142.54.183.242:443/140/serverkey.m3u8
-#EXTINF:0,Concert Channel
-#EXTGRP:unsorted
-https://142.54.183.242:443/141/serverkey.m3u8
-#EXTINF:0,Claro Sports Latinoamerica
-#EXTGRP:unsorted
-https://142.54.183.242:443/142/serverkey.m3u8
-#EXTINF:0,Concert Channel
-#EXTGRP:unsorted
-https://142.54.183.242:443/143/serverkey.m3u8
-#EXTINF:0,CONCERT
-#EXTGRP:unsorted
-https://142.54.183.242:443/144/serverkey.m3u8
 #EXTINF:0,TLNOVELAS
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/145/serverkey.m3u8
 #EXTINF:0,Tnt
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/146/serverkey.m3u8
 #EXTINF:0,Tnt Series
-#EXTGRP:unsorted
+#EXTGRP:Peliculas
 https://142.54.183.242:443/147/serverkey.m3u8
-#EXTINF:0,ADN 40
-#EXTGRP:unsorted
+#EXTINF:0,Tooncast
+#EXTGRP:Niños
 https://142.54.183.242:443/148/serverkey.m3u8
-#EXTINF:0,CANALSIN09
-#EXTGRP:unsorted
+#EXTINF:0,TruTv
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/149/serverkey.m3u8
 #EXTINF:0,Univision TUDN
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/150/serverkey.m3u8
 #EXTINF:0,Telemundo
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/151/serverkey.m3u8
 #EXTINF:0,UNIVISION
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/152/serverkey.m3u8
-#EXTINF:0,UNIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/153/serverkey.m3u8
-#EXTINF:0,UNIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/154/serverkey.m3u8
-#EXTINF:0,UNIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/155/serverkey.m3u8
-#EXTINF:0,UNIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/156/serverkey.m3u8
-#EXTINF:0,UNIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/157/serverkey.m3u8
-#EXTINF:0,UNIVISION
-#EXTGRP:unsorted
+#EXTINF:0,UNIcable
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/158/serverkey.m3u8
 #EXTINF:0,Universal
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/159/serverkey.m3u8
 #EXTINF:0,Vh1
-#EXTGRP:unsorted
+#EXTGRP:Musica
 https://142.54.183.242:443/160/serverkey.m3u8
 #EXTINF:0,Vh1 Classics
-#EXTGRP:unsorted
+#EXTGRP:Musica
 https://142.54.183.242:443/161/serverkey.m3u8
 #EXTINF:0,WOBI
-#EXTGRP:unsorted
+#EXTGRP:Noticias y Documentales
 https://142.54.183.242:443/162/serverkey.m3u8
 #EXTINF:0,Warner channenel
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 https://142.54.183.242:443/163/serverkey.m3u8
 #EXTINF:0,Directv Sports
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/164/serverkey.m3u8
-#EXTINF:0,Directv sports-2
-#EXTGRP:unsorted
+#EXTINF:0,Directv sports 2
+#EXTGRP:Deportes
 https://142.54.183.242:443/165/serverkey.m3u8
 #EXTINF:0,DIRECTV SPORTS +
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/166/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,No signal
 #EXTGRP:unsorted
 https://142.54.183.242:443/167/serverkey.m3u8
-#EXTINF:0,ECDF
-#EXTGRP:unsorted
+#EXTINF:0,ECDF Ecu
+#EXTGRP:Deportes
 https://142.54.183.242:443/168/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,No signal
 #EXTGRP:unsorted
 https://142.54.183.242:443/169/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL Ecuavision
 #EXTGRP:unsorted
 https://142.54.183.242:443/170/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL Ecu
 #EXTGRP:unsorted
 https://142.54.183.242:443/171/serverkey.m3u8
-#EXTINF:0,GOLTV
-#EXTGRP:unsorted
+#EXTINF:0,GOLTV Ecu
+#EXTGRP:Deportes
 https://142.54.183.242:443/172/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL
 #EXTGRP:unsorted
 https://142.54.183.242:443/173/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL
 #EXTGRP:unsorted
 https://142.54.183.242:443/174/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL
 #EXTGRP:unsorted
 https://142.54.183.242:443/175/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/176/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL
 #EXTGRP:unsorted
 https://142.54.183.242:443/177/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
+#EXTINF:0,GolTv Col
+#EXTGRP:Deportes
 https://142.54.183.242:443/178/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Cablenoticias Col
 #EXTGRP:unsorted
 https://142.54.183.242:443/179/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL 13
 #EXTGRP:unsorted
 https://142.54.183.242:443/180/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL 1
 #EXTGRP:unsorted
 https://142.54.183.242:443/181/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/182/serverkey.m3u8
 #EXTINF:0,CARACOLTV
 #EXTGRP:unsorted
 https://142.54.183.242:443/183/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,City Tv
 #EXTGRP:unsorted
 https://142.54.183.242:443/184/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,El Tiempo Tv
 #EXTGRP:unsorted
 https://142.54.183.242:443/185/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,NTN
 #EXTGRP:unsorted
 https://142.54.183.242:443/186/serverkey.m3u8
 #EXTINF:0,RCN
 #EXTGRP:unsorted
 https://142.54.183.242:443/187/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL Arg
 #EXTGRP:unsorted
 https://142.54.183.242:443/188/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL Arg
 #EXTGRP:unsorted
 https://142.54.183.242:443/189/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,CANAL 26 noticias Arg
 #EXTGRP:unsorted
 https://142.54.183.242:443/190/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Garage Tv
 #EXTGRP:unsorted
 https://142.54.183.242:443/191/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/192/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/193/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Encuentro Arg
 #EXTGRP:unsorted
 https://142.54.183.242:443/194/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Telefe Arg
 #EXTGRP:unsorted
 https://142.54.183.242:443/195/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Telemax Arg
 #EXTGRP:unsorted
 https://142.54.183.242:443/196/serverkey.m3u8
-#EXTINF:0,RCN
+#EXTINF:0,Tv Publica Arg
 #EXTGRP:unsorted
 https://142.54.183.242:443/197/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/198/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Telered
 #EXTGRP:unsorted
 https://142.54.183.242:443/199/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
+#EXTINF:0,Tnt Sports Arg
+#EXTGRP:Deportes
 https://142.54.183.242:443/200/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/201/serverkey.m3u8
-#EXTINF:0,CARACOLTV
+#EXTINF:0,13i
 #EXTGRP:unsorted
 https://142.54.183.242:443/202/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Linea Editorial
 #EXTGRP:unsorted
 https://142.54.183.242:443/203/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,24 noticias
 #EXTGRP:unsorted
 https://142.54.183.242:443/204/serverkey.m3u8
-#EXTINF:0,CDF
-#EXTGRP:unsorted
-https://142.54.183.242:443/205/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/206/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/207/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/208/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/209/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/210/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/211/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/212/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/213/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,La Red
 #EXTGRP:unsorted
 https://142.54.183.242:443/214/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/215/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/216/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/217/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,R Tele
 #EXTGRP:unsorted
 https://142.54.183.242:443/218/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Vera +
 #EXTGRP:unsorted
 https://142.54.183.242:443/219/serverkey.m3u8
 #EXTINF:0,VTV +
 #EXTGRP:unsorted
 https://142.54.183.242:443/220/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/221/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/222/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/223/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/224/serverkey.m3u8
-#EXTINF:0,MULTIVISION
+#EXTINF:0,Canal IPe
 #EXTGRP:unsorted
 https://142.54.183.242:443/225/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/226/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,Capital
 #EXTGRP:unsorted
 https://142.54.183.242:443/227/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,Latina
 #EXTGRP:unsorted
 https://142.54.183.242:443/228/serverkey.m3u8
-#EXTINF:0,GOLPERU
+#EXTINF:0,No Signal
 #EXTGRP:unsorted
 https://142.54.183.242:443/229/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/230/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,No signal
 #EXTGRP:unsorted
 https://142.54.183.242:443/231/serverkey.m3u8
-#EXTINF:0,CARACOLTV
+#EXTINF:0,No signal
 #EXTGRP:unsorted
 https://142.54.183.242:443/232/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/233/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Peru 9
 #EXTGRP:unsorted
 https://142.54.183.242:443/234/serverkey.m3u8
-#EXTINF:0,MULTIVISION
+#EXTINF:0,TvPe
 #EXTGRP:unsorted
 https://142.54.183.242:443/235/serverkey.m3u8
-#EXTINF:0,CDF 2
+#EXTINF:0,Latina
 #EXTGRP:unsorted
 https://142.54.183.242:443/236/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,Wipr
 #EXTGRP:unsorted
 https://142.54.183.242:443/237/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,MegaTv
 #EXTGRP:unsorted
 https://142.54.183.242:443/238/serverkey.m3u8
-#EXTINF:0,GOLPERU
+#EXTINF:0,Telemundo
 #EXTGRP:unsorted
 https://142.54.183.242:443/239/serverkey.m3u8
-#EXTINF:0,VTV +
+#EXTINF:0,Univision
 #EXTGRP:unsorted
 https://142.54.183.242:443/240/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,WapaTv
 #EXTGRP:unsorted
 https://142.54.183.242:443/241/serverkey.m3u8
-#EXTINF:0,CARACOLTV
+#EXTINF:0,NBA
 #EXTGRP:unsorted
 https://142.54.183.242:443/242/serverkey.m3u8
-#EXTINF:0,Telemundo
+#EXTINF:0,Directv ch
 #EXTGRP:unsorted
 https://142.54.183.242:443/243/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/244/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/245/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/246/serverkey.m3u8
-#EXTINF:0,CDF 2
+#EXTINF:0,NEX
 #EXTGRP:unsorted
 https://142.54.183.242:443/247/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,RPC
 #EXTGRP:unsorted
 https://142.54.183.242:443/248/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,RPC
 #EXTGRP:unsorted
 https://142.54.183.242:443/249/serverkey.m3u8
-#EXTINF:0,GOLPERU
+#EXTINF:0,SerTv
 #EXTGRP:unsorted
 https://142.54.183.242:443/250/serverkey.m3u8
-#EXTINF:0,VTV +
+#EXTINF:0,QuienTv Panama
 #EXTGRP:unsorted
 https://142.54.183.242:443/251/serverkey.m3u8
-#EXTINF:0,CARACOLTV
+#EXTINF:0,TV Max 9
 #EXTGRP:unsorted
 https://142.54.183.242:443/252/serverkey.m3u8
-#EXTINF:0,Telemundo
+#EXTINF:0,No signal
 #EXTGRP:unsorted
 https://142.54.183.242:443/253/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/254/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/255/serverkey.m3u8
-#EXTINF:0,MULTIVISION
+#EXTINF:0,Canal UCR
 #EXTGRP:unsorted
 https://142.54.183.242:443/256/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/257/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,Teletica 7
 #EXTGRP:unsorted
 https://142.54.183.242:443/258/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,Canal 4
 #EXTGRP:unsorted
 https://142.54.183.242:443/259/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/260/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/261/serverkey.m3u8
-#EXTINF:0,CARACOLTV
+#EXTINF:0,Teletica 7
 #EXTGRP:unsorted
 https://142.54.183.242:443/262/serverkey.m3u8
-#EXTINF:0,Telemundo
+#EXTINF:0,Teleuno
 #EXTGRP:unsorted
 https://142.54.183.242:443/263/serverkey.m3u8
-#EXTINF:0,Univision
+#EXTINF:0,88 Stereo
 #EXTGRP:unsorted
 https://142.54.183.242:443/264/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/265/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/266/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/267/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/268/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,Unicanal
 #EXTGRP:unsorted
 https://142.54.183.242:443/269/serverkey.m3u8
 #EXTINF:0,GOLPERU
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 https://142.54.183.242:443/270/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/271/serverkey.m3u8
-#EXTINF:0,CARACOLTV
+#EXTINF:0,TeleSur
 #EXTGRP:unsorted
 https://142.54.183.242:443/272/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/273/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/274/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/275/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/276/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/277/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/278/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/279/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/280/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/281/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/282/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/283/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/284/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/285/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/286/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/287/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/288/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/289/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/290/serverkey.m3u8
-#EXTINF:0,VTV +
+#EXTINF:0,VTV
 #EXTGRP:unsorted
 https://142.54.183.242:443/291/serverkey.m3u8
-#EXTINF:0,CARACOLTV
+#EXTINF:0,Ve
 #EXTGRP:unsorted
 https://142.54.183.242:443/292/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/293/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/294/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/295/serverkey.m3u8
-#EXTINF:0,MULTIVISION
+#EXTINF:0,3abn latino
 #EXTGRP:unsorted
 https://142.54.183.242:443/296/serverkey.m3u8
-#EXTINF:0,CDF 2
+#EXTINF:0,Logos tv
 #EXTGRP:unsorted
 https://142.54.183.242:443/297/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,AV
 #EXTGRP:unsorted
 https://142.54.183.242:443/298/serverkey.m3u8
-#EXTINF:0,CDF P
+#EXTINF:0,CCI
 #EXTGRP:unsorted
 https://142.54.183.242:443/299/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/300/serverkey.m3u8
 #EXTINF:0,EJTV
 #EXTGRP:unsorted
 https://142.54.183.242:443/301/serverkey.m3u8
-#EXTINF:0,CARACOLTV
+#EXTINF:0,MVTV
 #EXTGRP:unsorted
 https://142.54.183.242:443/302/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Religion tv
 #EXTGRP:unsorted
 https://142.54.183.242:443/303/serverkey.m3u8
-#EXTINF:0,CANALSIN11
+#EXTINF:0,Solidaria tv
 #EXTGRP:unsorted
 https://142.54.183.242:443/304/serverkey.m3u8
-#EXTINF:0,CDF
+#EXTINF:0,3abn kids tv
 #EXTGRP:unsorted
 https://142.54.183.242:443/305/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/306/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/307/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/308/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/309/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/310/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/311/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/312/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/313/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/314/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/315/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/316/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/317/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/318/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/319/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/320/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/321/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/322/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/323/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/324/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/325/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/326/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/327/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/328/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/329/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/330/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/331/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/332/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/333/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/334/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/335/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/336/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/337/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/338/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/339/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/340/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/341/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/342/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/343/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/344/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/345/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/346/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/347/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/348/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/349/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/350/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/351/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/352/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/353/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/354/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/355/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/356/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/357/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/358/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/359/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/360/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/361/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/362/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/363/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/364/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/365/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/366/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/367/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/368/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/369/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/370/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/371/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/372/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/373/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/374/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/375/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/376/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/377/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/378/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/379/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/380/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/381/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/382/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/383/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/384/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/385/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/386/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/387/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/388/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/389/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/390/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/391/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/392/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/393/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/394/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/395/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/396/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/397/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/398/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/399/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/400/serverkey.m3u8
-#EXTINF:0,VTV + 301
-#EXTGRP:unsorted
-https://142.54.183.242:443/401/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/402/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/403/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/404/serverkey.m3u8
-#EXTINF:0,CDF
-#EXTGRP:unsorted
-https://142.54.183.242:443/405/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/406/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/407/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/408/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/409/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/410/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/411/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/412/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/413/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/414/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/415/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/416/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/417/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/418/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/419/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/420/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/421/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/422/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/423/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/424/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/425/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/426/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/427/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/428/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/429/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/430/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/431/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/432/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/433/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/434/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/435/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/436/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/437/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/438/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/439/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/440/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/441/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/442/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/443/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/444/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/445/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/446/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/447/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/448/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/449/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/450/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/451/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/452/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/453/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/454/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/455/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/456/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/457/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/458/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/459/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/460/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/461/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/462/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/463/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/464/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/465/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/466/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/467/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/468/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/469/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/470/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/471/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/472/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/473/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/474/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/475/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/476/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/477/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/478/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/479/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/480/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/481/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/482/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/483/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/484/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/485/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/486/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/487/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/488/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/489/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/490/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/491/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/492/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/493/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/494/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/495/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/496/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/497/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/498/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/499/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/500/serverkey.m3u8
-#EXTINF:0,VTV + 301
-#EXTGRP:unsorted
-https://142.54.183.242:443/501/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/502/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/503/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/504/serverkey.m3u8
-#EXTINF:0,CDF
-#EXTGRP:unsorted
-https://142.54.183.242:443/505/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/506/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/507/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/508/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/509/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/510/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/511/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/512/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/513/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/514/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/515/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/516/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/517/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/518/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/519/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/520/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/521/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/522/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/523/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/524/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/525/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/526/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/527/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/528/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/529/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/530/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/531/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/532/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/533/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/534/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/535/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/536/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/537/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/538/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/539/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/540/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/541/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/542/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/543/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/544/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/545/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/546/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/547/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/548/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/549/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/550/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/551/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/552/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/553/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/554/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/555/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/556/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/557/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/558/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/559/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/560/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/561/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/562/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/563/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/564/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/565/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/566/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/567/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/568/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/569/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/570/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/571/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/572/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/573/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/574/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/575/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/576/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/577/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/578/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/579/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/580/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/581/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/582/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/583/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/584/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/585/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/586/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/587/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/588/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/589/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/590/serverkey.m3u8
-#EXTINF:0,VTV +
-#EXTGRP:unsorted
-https://142.54.183.242:443/591/serverkey.m3u8
-#EXTINF:0,CARACOLTV
-#EXTGRP:unsorted
-https://142.54.183.242:443/592/serverkey.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-https://142.54.183.242:443/593/serverkey.m3u8
-#EXTINF:0,Univision
-#EXTGRP:unsorted
-https://142.54.183.242:443/594/serverkey.m3u8
-#EXTINF:0,CANALSIN11
-#EXTGRP:unsorted
-https://142.54.183.242:443/595/serverkey.m3u8
-#EXTINF:0,MULTIVISION
-#EXTGRP:unsorted
-https://142.54.183.242:443/596/serverkey.m3u8
-#EXTINF:0,CDF 2
-#EXTGRP:unsorted
-https://142.54.183.242:443/597/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/598/serverkey.m3u8
-#EXTINF:0,CDF P
-#EXTGRP:unsorted
-https://142.54.183.242:443/599/serverkey.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
-https://142.54.183.242:443/600/serverkey.m3u8
-#EXTINF:0,VTV + 301
-#EXTGRP:unsorted
-https://142.54.183.242:443/601/serverkey.m3u8
