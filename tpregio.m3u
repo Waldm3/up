@@ -6,6 +6,23 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0,Nbc
 #EXTGRP:Locales
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
+#EXTINF:0,Abc HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/2734|User-Agent=magicoiptv
+#EXTINF:0,Cbs HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/2740|User-Agent=magicoiptv
+#EXTINF:0,Nbc HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/2743|User-Agent=magicoiptv
+
+#EXTINF:0,Cw HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/2298|User-Agent=magicoiptv
+#EXTINF:0,Fox HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/2317|User-Agent=magicoiptv
+
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
