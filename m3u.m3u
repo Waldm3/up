@@ -22,6 +22,18 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/83201|User-Agent=magicoiptv
 #EXTGRP:Locales
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/35050|User-Agent=magicoiptv
 
+#EXTINF:0,Bbc 1 HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/697|User-Agent=magicoiptv
+#EXTINF:0,Bbc 2 HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197209|User-Agent=magicoiptv
+#EXTINF:0,itv 1 HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/689|User-Agent=magicoiptv
+#EXTINF:0,itv 2 HD
+#EXTGRP:Locales
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/690|User-Agent=magicoiptv
 
 #EXTINF:0,AZTECA UNO
 #EXTGRP:Locales
@@ -77,12 +89,16 @@ https://142.54.183.242:443/50/serverkey.m3u8
 #EXTINF:0,Hola! Tv
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/101/serverkey.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/47/serverkey.m3u8
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/30/serverkey.m3u8
 #EXTINF:0,SYFY
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/137/serverkey.m3u8
-#EXTINF:0,Tbs
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/138/serverkey.m3u8
+
 #EXTINF:0,A&e
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/3/serverkey.m3u8
@@ -95,33 +111,28 @@ https://142.54.183.242:443/64/serverkey.m3u8
 #EXTINF:0,Fx
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/90/serverkey.m3u8
+#EXTINF:0,Tbs
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/138/serverkey.m3u8
 #EXTINF:0,TruTv
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/149/serverkey.m3u8
-#EXTINF:0,Locomotion 
-#EXTGRP:Entretenimiento
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:0,KanadeTv 
-#EXTGRP:Entretenimiento
-http://155.138.216.118:8080/hls/show.m3u8
-#EXTINF:0,Home&Health
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/37/serverkey.m3u8
-#EXTINF:0,DISTRITO COMEDIA
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/47/serverkey.m3u8
-#EXTINF:0,COMEDY CENTRAL
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/30/serverkey.m3u8
-#EXTINF:0,Lifetime
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/109/serverkey.m3u8
-#EXTINF:0,MASCHIC
-#EXTGRP:Entretenimiento
-https://142.54.183.242:443/111/serverkey.m3u8
+
 #EXTINF:0,Telemundo
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/151/serverkey.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/109/serverkey.m3u8
+#EXTINF:0,Home&Health
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/37/serverkey.m3u8
+
+
+#EXTINF:0,MASCHIC
+#EXTGRP:Entretenimiento
+https://142.54.183.242:443/111/serverkey.m3u8
+
 #EXTINF:0,TLNOVELAS
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/145/serverkey.m3u8
@@ -185,6 +196,15 @@ https://142.54.183.242:443/43/serverkey.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:Niños
 https://142.54.183.242:443/24/serverkey.m3u8
+#EXTINF:0,Locomotion 
+#EXTGRP:Entretenimiento
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0,KanadeTv 
+#EXTGRP:Entretenimiento
+http://155.138.216.118:8080/hls/show.m3u8
+#EXTINF:0,Toonizaki 
+#EXTGRP:Entretenimiento
+https://inliveserver.com:1936/m3ulive/m3ulive/playlist.m3u8
 #EXTINF:0,Disney Channel
 #EXTGRP:Niños
 https://142.54.183.242:443/44/serverkey.m3u8
