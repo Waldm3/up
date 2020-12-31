@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:0,Cbs
+#EXTGRP:Locales
+http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8 
+#EXTINF:0,Nbc
+#EXTGRP:Locales
+http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
 #EXTINF:0,AZTECA UNO
 #EXTGRP:Locales
 https://142.54.183.242:443/16/serverkey.m3u8
@@ -75,6 +80,12 @@ https://142.54.183.242:443/90/serverkey.m3u8
 #EXTINF:0,TruTv
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/149/serverkey.m3u8
+#EXTINF:0,Locomotion 
+#EXTGRP:Entretenimiento
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0,KanadeTv 
+#EXTGRP:Entretenimiento
+http://155.138.216.118:8080/hls/show.m3u8
 #EXTINF:0,Home&Health
 #EXTGRP:Entretenimiento
 https://142.54.183.242:443/37/serverkey.m3u8
