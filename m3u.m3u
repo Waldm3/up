@@ -7,33 +7,32 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
 #EXTINF:0,Abc HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/2734|User-Agent=magicoiptv
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/2734
 #EXTINF:0,Cbs HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/2740|User-Agent=magicoiptv
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/2740
 #EXTINF:0,Nbc HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/2743|User-Agent=magicoiptv
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/2743
 
 #EXTINF:0,Cw HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/83201|User-Agent=magicoiptv
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/83201
 #EXTINF:0,Fox HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/35050|User-Agent=magicoiptv
-
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/35050
 #EXTINF:0,Bbc 1 HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/697|User-Agent=magicoiptv
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/697
 #EXTINF:0,Bbc 2 HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/197209|User-Agent=magicoiptv
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/197209
 #EXTINF:0,itv 1 HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/689|User-Agent=magicoiptv
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/689
 #EXTINF:0,itv 2 HD
 #EXTGRP:Locales
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/690|User-Agent=magicoiptv
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/690
 
 #EXTINF:0,AZTECA UNO
 #EXTGRP:Locales
