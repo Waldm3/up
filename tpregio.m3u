@@ -260,7 +260,9 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=197&f=HLSAD&p=PROFILE01&s=ze
 #EXTINF:0,HGTV
 #EXTGRP:Variedades
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=3105&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-
+#EXTINF:0,RewindTv Cl
+#EXTGRP:Variedad
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:0,TLC
 #EXTGRP:Cultura
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8

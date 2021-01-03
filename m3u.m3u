@@ -150,6 +150,9 @@ https://142.54.183.242:443/14/serverkey.m3u8
 #EXTINF:0,HGTV
 #EXTGRP:Variedad
 https://142.54.183.242:443/36/serverkey.m3u8
+#EXTINF:0,RewindTv Cl
+#EXTGRP:Variedad
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:0,El Gourmet
 #EXTGRP:Variedad
 https://142.54.183.242:443/49/serverkey.m3u8
