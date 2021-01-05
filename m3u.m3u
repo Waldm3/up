@@ -170,7 +170,7 @@ https://142.54.183.242:443/43/serverkey.m3u8
 https://142.54.183.242:443/24/serverkey.m3u8
 #EXTINF:0,KanadeTv 
 #EXTGRP:Entretenimiento
-http://155.138.216.118:8080/hls/show.m3u8
+http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:0,Locomotion 
 #EXTGRP:Entretenimiento
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
