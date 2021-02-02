@@ -33,6 +33,9 @@ http://blackghost.live/play/telegratis-129.php?id=canal-sony-en-vivo
 #EXTINF:0,Warner Bros TV
 #EXTGRP:Entretenimiento
 http://blackghost.live/play/telegratis-129.php?id=warner-bros-tv-en-vivo
+#EXTINF:0,E!
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/telegratis-129.php?id=everything-en-vivo
 
 #EXTINF:0,FX
 #EXTGRP:Entretenimiento
@@ -94,19 +97,17 @@ http://blackghost.live/play/telegratis-129.php?id=tlnovelas-en-vivo
 #EXTINF:0,Pasiones
 #EXTGRP:Entretenimiento
 http://blackghost.live/play/telegratis-129.php?id=pasiones-en-vivo
-#EXTINF:0,everything
-#EXTGRP:Variedades
-http://blackghost.live/play/telegratis-129.php?id=everything-en-vivo
 #EXTINF:0,Lifetime
 #EXTGRP:Variedades
 http://blackghost.live/play/telegratis-129.php?id=lifetime-en-vivo
-#EXTINF:0,TLC
-#EXTGRP:Variedades
-http://blackghost.live/play/telegratis-129.php?id=discovery-tlc-en-vivo
 
 #EXTINF:0,Gourmet
 #EXTGRP:Variedades
 http://blackghost.live/play/telegratis-129.php?id=el-gourmet-en-vivo
+#EXTINF:0,TLC
+#EXTGRP:Variedades
+http://blackghost.live/play/telegratis-129.php?id=discovery-tlc-en-vivo
+
 #EXTINF:0,Discovery Channel
 #EXTGRP:Cultura
 http://blackghost.live/play/telegratis-129.php?id=discovery-channel-en-vivo
@@ -259,9 +260,6 @@ http://blackghost.live/play/telegratis-129.php?id=isat-en-vivo
 #EXTINF:0,FXM
 #EXTGRP:Peliculas
 http://blackghost.live/play/telegratis-129.php?id=fxm-en-vivo
-#EXTINF:0,Fox Premium
-#EXTGRP:Peliculas
-http://blackghost.live/play/telegratis-129.php?id=fox-sports-premium-en-vivo
 
 #EXTINF:0,Fox Premium Movies
 #EXTGRP:Peliculas
@@ -298,6 +296,15 @@ http://blackghost.live/play/telegratis-129.php?id=hbo-pop-en-vivo
 #EXTINF:0,TUDN
 #EXTGRP:Deportes
 http://blackghost.live/play/telegratis-129.php?id=tudn-en-vivo
+#EXTINF:0,Espn Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=espn-mexico-en-vivo
+#EXTINF:0,Espn 2 Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=espn-2-mexico-en-vivo
+#EXTINF:0,Espn 3 Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=espn-3-mexico-en-vivo
 
 #EXTINF:0,Fox Sports Mexico
 #EXTGRP:Deportes
@@ -308,49 +315,13 @@ http://blackghost.live/play/telegratis-129.php?id=fox-sports-2-mexico-en-vivo
 #EXTINF:0,Fox Sports 3 Mexico
 #EXTGRP:Deportes
 http://blackghost.live/play/telegratis-129.php?id=fox-sports-3-mexico-en-vivo
-#EXTINF:0,Espn Mexico
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=espn-mexico-en-vivo
-#EXTINF:0,Espn 2 Mexico
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=espn-2-mexico-en-vivo
-#EXTINF:0,Espn 3 Mexico
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=espn-3-mexico-en-vivo
 #EXTINF:0,Izzi Afizzionados
 #EXTGRP:Deportes
 http://blackghost.live/play/telegratis-129.php?id=izzi-afizzionados-en-vivo
-#EXTINF:0,TYC Sports
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=tyc-sports-en-vivo
-#EXTINF:0,TNT Sports
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=tnt-sports-en-vivo
-
-#EXTINF:0,Fox Sports
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=fox-sports-en-vivo
-#EXTINF:0,Fox Sports 2
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=fox-sports-2-en-vivo
-#EXTINF:0,Fox Sports 3
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=fox-sports-3-en-vivo
 #EXTINF:0,ESPN Deportes
 #EXTGRP:Deportes
 http://blackghost.live/play/telegratis-129.php?id=espn-deportes-en-vivo
-#EXTINF:0,ESPN Plus
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=espn-plus-en-vivo
-#EXTINF:0,ESPN
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=espn-en-vivo
-#EXTINF:0,ESPN 2
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=espn-2-en-vivo
-#EXTINF:0,ESPN 3
-#EXTGRP:Deportes
-http://blackghost.live/play/telegratis-129.php?id=espn-3-en-vivo
+
 #EXTINF:0,Directv Sports
 #EXTGRP:Deportes
 http://blackghost.live/play/telegratis-129.php?id=directv-sports-en-vivo
@@ -363,6 +334,38 @@ http://blackghost.live/play/telegratis-129.php?id=directv-sports-plus-en-vivo
 #EXTINF:0,Bein La Liga
 #EXTGRP:Deportes
 http://blackghost.live/play/telegratis-129.php?id=bein-la-liga-en-vivo
+
+#EXTINF:0,TYC Sports
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=tyc-sports-en-vivo
+#EXTINF:0,TNT Sports
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=tnt-sports-en-vivo
+#EXTINF:0,Fox Sports Premium
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=fox-sports-premium-en-vivo
+
+#EXTINF:0,Fox Sports
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=fox-sports-en-vivo
+#EXTINF:0,Fox Sports 2
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=fox-sports-2-en-vivo
+#EXTINF:0,Fox Sports 3
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=fox-sports-3-en-vivo
+#EXTINF:0,ESPN Plus
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=espn-plus-en-vivo
+#EXTINF:0,ESPN
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=espn-en-vivo
+#EXTINF:0,ESPN 2
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=espn-2-en-vivo
+#EXTINF:0,ESPN 3
+#EXTGRP:Deportes
+http://blackghost.live/play/telegratis-129.php?id=espn-3-en-vivo
 
 #EXTINF:0,TVC Deportes
 #EXTGRP:Deportes
