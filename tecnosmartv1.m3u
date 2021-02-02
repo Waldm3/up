@@ -50,7 +50,7 @@ http://blackghost.live/play/telegratis-129.php?id=fox-en-vivo
 #EXTINF:0,Sony
 #EXTGRP:Entretenimiento
 http://blackghost.live/play/telegratis-129.php?id=canal-sony-en-vivo
-#EXTINF:0,Warner Bros TV
+#EXTINF:0,Warner
 #EXTGRP:Entretenimiento
 http://blackghost.live/play/telegratis-129.php?id=warner-bros-tv-en-vivo
 #EXTINF:0,E!
@@ -64,7 +64,7 @@ http://blackghost.live/play/telegratis-129.php?id=fx-en-vivo
 #EXTINF:0,Fox Life
 #EXTGRP:Entretenimiento
 http://blackghost.live/play/telegratis-129.php?id=fox-life-en-vivo
-#EXTINF:0,Universal Channel
+#EXTINF:0,Universal
 #EXTGRP:Entretenimiento
 http://blackghost.live/play/telegratis-129.php?id=universal-channel-en-vivo
 #EXTINF:0,A&E
@@ -218,7 +218,10 @@ http://blackghost.live/play/telegratis-129.php?id=latina-en-vivo
 #EXTINF:0,America TV
 #EXTGRP:Internacionales
 http://blackghost.live/play/telegratis-129.php?id=america-tv-en-vivo
-#EXTINF:0,RAI3
+#EXTINF:0,RAI 1
+#EXTGRP:Internacionales
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:0,RAI 3
 #EXTGRP:Internacionales
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:0,MULTIVISON
