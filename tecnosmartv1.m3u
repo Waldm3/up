@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:0,Cbs
+#EXTGRP:Locales
+http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8 
+#EXTINF:0,Nbc
+#EXTGRP:Locales
+http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
+
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
 http://blackghost.live/play/telegratis-129.php?id=azteca-uno-en-vivo
@@ -126,6 +133,9 @@ http://blackghost.live/play/telegratis-129.php?id=nat-geo-wild-en-vivo
 #EXTINF:0,Animal Planet
 #EXTGRP:Cultura
 http://blackghost.live/play/telegratis-129.php?id=animal-planet-en-vivo
+#EXTINF:0,NASA TV
+#EXTGRP:Cultura
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:0,Discovery Turbo
 #EXTGRP:Cultura
@@ -208,6 +218,37 @@ http://blackghost.live/play/telegratis-129.php?id=latina-en-vivo
 #EXTINF:0,America TV
 #EXTGRP:Internacionales
 http://blackghost.live/play/telegratis-129.php?id=america-tv-en-vivo
+#EXTINF:0,RAI3
+#EXTGRP:Internacionales
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:0,MULTIVISON
+#EXTGRP:Internacionales
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+#EXTINF:0,CANAL 10 ARG
+#EXTGRP:Internacionales
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
+#EXTINF:0,RUSSIA 1
+#EXTGRP:Internacionales
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,CGTN
+#EXTGRP:Internacionales
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:0,FAIL ARMY
+#EXTGRP:Internacionales
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,REDBULL TV
+#EXTGRP:Internacionales
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:0,Rick & Morty
+#EXTGRP:Internacionales
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_2.m3u8
+#EXTINF:0,Robot Chicken
+#EXTGRP:Internacionales
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_2.m3u8
+#EXTINF:0, Aqua Teen
+#EXTGRP:Internacionales
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_2.m3u8
+
 #EXTINF:0,Dpelicula
 #EXTGRP:Peliculas
 http://blackghost.live/play/telegratis-129.php?id=dpelicula-en-vivo
@@ -382,6 +423,9 @@ http://blackghost.live/play/telegratis-129.php?id=cdf-premium-en-vivo
 #EXTINF:0,Win Sports
 #EXTGRP:Deportes
 http://blackghost.live/play/telegratis-129.php?id=win-sports-en-vivo
+#EXTINF:0,CCTV5 SPORTS
+http://220.158.149.28:8180/live/TV00000000000000000104@HHZT
+
 #EXTINF:0,WWE Network
 #EXTGRP:Deportes
 http://blackghost.live/play/telegratis-129.php?id=wwe-network-en-vivo
@@ -397,6 +441,43 @@ http://blackghost.live/play/telegratis-129.php?id=cnn-espanol-en-vivo
 #EXTINF:0,RT Noticias
 #EXTGRP:Noticias y Documentales
 http://blackghost.live/play/telegratis-129.php?id=rt-noticias-en-vivo
+#EXTINF:0,DW EN ESPANOL
+#EXTGRP:Noticias y Documentales
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0,DW
+#EXTGRP:Noticias y Documentales
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:0,ABC NEWS
+#EXTGRP:Noticias y Documentales
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:0,CBS NEWS
+#EXTGRP:Noticias y Documentales
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0,NBC NEWS
+#EXTGRP:Noticias y Documentales
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
+#EXTINF:0,BBC WORLD NEWS
+#EXTGRP:Noticias y Documentales
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:0,FRANCE 24 EN ESPANOL
+#EXTGRP:Noticias y Documentales
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:0,FRANCE24
+#EXTGRP:Noticias y Documentales
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,CGTNNEWS
+#EXTGRP:Noticias y Documentales
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0, AL JAZZERA NEWS
+#EXTGRP:Noticias y Documentales
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:0,RUSSIA 24
+#EXTGRP:Noticias y Documentales
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:0,MOSCU 24
+#EXTGRP:Noticias y Documentales
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+
 #EXTINF:0,MTV
 #EXTGRP:Musica
 http://blackghost.live/play/telegratis-129.php?id=mtv-en-vivo
