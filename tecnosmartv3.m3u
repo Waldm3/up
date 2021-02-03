@@ -1,37 +1,37 @@
 #EXTM3U
 #EXTINF:0,ESPN 3 MEXICO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=espn3mx&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn3mx&f=.m3u8
 #EXTINF:0,Futbol MEXICO TUDN (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=td&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=td&f=.m3u8
 #EXTINF:0,Futbol Ecuador 4 (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=ecua3&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=ecua3&f=.m3u8
 #EXTINF:0,Futbol Ecuador 3 (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=ecua2&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=ecua2&f=.m3u8
 #EXTINF:0,Futbol Ecuador 2 (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=ecua1&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=ecua1&f=.m3u8
 #EXTINF:0,Futbol Ecuador (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=c4&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=c4&f=.m3u8
 #EXTINF:0,Futbol Argentina tntsport (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=sptnt&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=sptnt&f=.m3u8
 #EXTINF:0,Futbol Argentina fox premium (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fx&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fx&f=.m3u8
 #EXTINF:0,Futbol Chile (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=c2&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=c2&f=.m3u8
 #EXTINF:0,Futbol Colombia (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=c13&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=c13&f=.m3u8
 #EXTINF:0,Futbol España Bein Sports (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=beinsports&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=beinsports&f=.m3u8
 #EXTINF:0,kidstv
 #EXTGRP:unsorted
 http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=kidstv&f=.m3u8
@@ -121,280 +121,280 @@ http://blackghost.live/play/wistream-202.php?cat=latinos&ch=history2&f=.m3u8
 http://blackghost.live/play/wistream-202.php?cat=latinos&ch=history&f=.m3u8
 #EXTINF:0,WARNER
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=warner&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=warner&f=.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=universalchannel&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=universalchannel&f=.m3u8
 #EXTINF:0,STUDIO UNIVERSAL
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=studiouniversal&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=studiouniversal&f=.m3u8
 #EXTINF:0,SONY
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=sony&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=sony&f=.m3u8
 #EXTINF:0,PARAMOUNT CHANNEL LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=paramountchannel&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=paramountchannel&f=.m3u8
 #EXTINF:0,COMEDY CENTRAL LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=comedycentral&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=comedycentral&f=.m3u8
 #EXTINF:0,FX
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fx&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fx&f=.m3u8
 #EXTINF:0,SYFY LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=syfy&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=syfy&f=.m3u8
 #EXTINF:0,TCM LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tcm&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tcm&f=.m3u8
 #EXTINF:0,AMC LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=amc&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=amc&f=.m3u8
 #EXTINF:0,AXN LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=axn&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=axn&f=.m3u8
 #EXTINF:0,TNT SERIES
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tntseries&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tntseries&f=.m3u8
 #EXTINF:0,TNT LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tnt&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tnt&f=.m3u8
 #EXTINF:0,GOLDEN EDGE
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=goldenedge&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=goldenedge&f=.m3u8
 #EXTINF:0,GOLDEN PLUS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=goldenplus&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=goldenplus&f=.m3u8
 #EXTINF:0,HBO MUNDI
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=maxlatino&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=maxlatino&f=.m3u8
 #EXTINF:0,HBO XTREME
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=maxprime&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=maxprime&f=.m3u8
 #EXTINF:0,HBO SIGNATURE
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=hbosignature&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbosignature&f=.m3u8
 #EXTINF:0,HBO FAMILY
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=hbofamily&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbofamily&f=.m3u8
 #EXTINF:0,HBO PLUS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=hboplus&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=hboplus&f=.m3u8
 #EXTINF:0,HBO LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=hbo&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbo&f=.m3u8
 #EXTINF:0,FOX LIFE LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=foxlife&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxlife&f=.m3u8
 #EXTINF:0,FOX PREMIUM MOVIES
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=foxmovies&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxmovies&f=.m3u8
 #EXTINF:0,FOX PREMIUM CLASICS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=foxclassics&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxclassics&f=.m3u8
 #EXTINF:0,FOX PREMIUM COMEDY
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=foxcomedy&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxcomedy&f=.m3u8
 #EXTINF:0,FOX PREMIUM CINEMA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=foxcinema&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxcinema&f=.m3u8
 #EXTINF:0,FOX PREMIUM FAMILY
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=foxfamily&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxfamily&f=.m3u8
 #EXTINF:0,FOX PREMIUM SERIES
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=foxseries&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxseries&f=.m3u8
 #EXTINF:0,FOX LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fox&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox&f=.m3u8
 #EXTINF:0,MTV LATINO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=mtv&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=mtv&f=.m3u8
 #EXTINF:0,TLNOVELAS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=telenovelas&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=telenovelas&f=.m3u8
 #EXTINF:0,CANAL LAS ESTRELLAS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=canalestrellas&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=canalestrellas&f=.m3u8
 #EXTINF:0,AZTECA CORAZON
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=aztecacorazon&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=aztecacorazon&f=.m3u8
 #EXTINF:0,AZTECA MUNDO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=aztecamundo&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=aztecamundo&f=.m3u8
 #EXTINF:0,AZTECA CINEMA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=aztecacinema&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=aztecacinema&f=.m3u8
 #EXTINF:0,AZTECA MAS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=aztecamas&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=aztecamas&f=.m3u8
 #EXTINF:0,AZTECA SIETE
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=azteca7&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=azteca7&f=.m3u8
 #EXTINF:0,AZTECA 1
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=azteca&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=azteca&f=.m3u8
 #EXTINF:0,CANAL 5 TELEVISA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=canal5televisa&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=canal5televisa&f=.m3u8
 #EXTINF:0,TELEVISA DEL BAJIO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=canalbajio&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=canalbajio&f=.m3u8
 #EXTINF:0,A 24
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=a24&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=a24&f=.m3u8
 #EXTINF:0,CIUDAD MAGAZINE
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=ciudadmagazine&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
 #EXTINF:0,CRONICA TV
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=cronicatv&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=cronicatv&f=.m3u8
 #EXTINF:0,CANAL 26
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=canal26ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=canal26ar&f=.m3u8
 #EXTINF:0,EL NUEVE
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=canal9ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=canal9ar&f=.m3u8
 #EXTINF:0,C5N ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=c5n&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=c5n&f=.m3u8
 #EXTINF:0,TN ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tn&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tn&f=.m3u8
 #EXTINF:0,TV PUBLICA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tvpublica&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tvpublica&f=.m3u8
 #EXTINF:0,AMERICA TV
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=america2&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=america2&f=.m3u8
 #EXTINF:0,EL TRECE
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=eltrece&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=eltrece&f=.m3u8
 #EXTINF:0,TELEFE
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=telefe&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=telefe&f=.m3u8
 #EXTINF:0,UNIVISION DEPORTES
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=univisiondeportes&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=univisiondeportes&f=.m3u8
 #EXTINF:0,AYM SPORTS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=aymsports&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=aymsports&f=.m3u8
 #EXTINF:0,ADRENALINA SPORTS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=adrenalinatv&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=adrenalinatv&f=.m3u8
 #EXTINF:0,FOX PREMIUM ACTION
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=foxaction&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxaction&f=.m3u8
 #EXTINF:0,TYC SPORTS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tyc&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tyc&f=.m3u8
 #EXTINF:0,DIRECTV SPORTS PLUS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=directv-sports-plus&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
 #EXTINF:0,DIRECTV SPORTS 2
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=directv-sports2&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=directv-sports2&f=.m3u8
 #EXTINF:0,DIRECTV SPORTS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=directv-sports&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=directv-sports&f=.m3u8
 #EXTINF:0,ESPN + ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=espn+ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn+ar&f=.m3u8
 #EXTINF:0,Futbol MEXICO Foxsports (datv)*
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fx2&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fx2&f=.m3u8
 #EXTINF:0,ESPN 2 MEXICO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=espn2mx&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn2mx&f=.m3u8
 #EXTINF:0,ESPN MEXICO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=espn1mx&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn1mx&f=.m3u8
 #EXTINF:0,FOX SPORTS 3 MEXICO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fox-sports3mx&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
 #EXTINF:0,FOX SPORTS 2 MEXICO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fox-sports2mx&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
 #EXTINF:0,FOX SPORTS MEXICO
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fox-sports1mx&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
 #EXTINF:0,ESPN 3 ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=espn3ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn3ar&f=.m3u8
 #EXTINF:0,ESPN 2 ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=espn2ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn2ar&f=.m3u8
 #EXTINF:0,ESPN ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=espn1ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn1ar&f=.m3u8
 #EXTINF:0,FOX SPORTS 3 ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fox-sports3ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports3ar&f=.m3u8
 #EXTINF:0,FOX SPORTS 2 ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fox-sports2ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports2ar&f=.m3u8
 #EXTINF:0,FOX SPORTS ARGENTINA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fox-sports1ar&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
 #EXTINF:0,CDF
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=cdfpremium&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=cdfpremium&f=.m3u8
 #EXTINF:0,GOL PERU
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=golperu&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=golperu&f=.m3u8
 #EXTINF:0,CARACOL TV
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=caracoltv&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=caracoltv&f=.m3u8
 #EXTINF:0,VTV URUGUAY
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=vtv&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=vtv&f=.m3u8
 #EXTINF:0,Bein Sports Latino en vivo Online
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=beinlatino&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=beinlatino&f=.m3u8
 #EXTINF:0,GOLTV Latino en vivo Online
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=goltvlatino&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=goltvlatino&f=.m3u8
 #EXTINF:0,TUDN
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tudn&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tudn&f=.m3u8
 #EXTINF:0,FOX SPORTS PREMIUM
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fox-sports-premium&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports-premium&f=.m3u8
 #EXTINF:0,TNT SPORTS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tnt-sports&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tnt-sports&f=.m3u8
 #EXTINF:0,DE PELICULA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=depelicula&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=depelicula&f=.m3u8
 #EXTINF:0,CINEMAX
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=cinemax&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=cinemax&f=.m3u8
 #EXTINF:0,CINECANAL
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=cinecanal&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=cinecanal&f=.m3u8
 #EXTINF:0,DISTRITO COMEDIA
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=distritocomedia
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=distritocomedia
 #EXTINF:0,HBO 2
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=hbo2&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbo2&f=.m3u8
 #EXTINF:0,GOLDEN
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=golden&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=golden&f=.m3u8
 #EXTINF:0,WIN SPORTS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=winsports&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=winsports&f=.m3u8
 #EXTINF:0,GOLF CHANNEL
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=golflatino&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=golflatino&f=.m3u8
 #EXTINF:0,SPACE
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=space&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=space&f=.m3u8
 #EXTINF:0,FXM
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=fxm&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=fxm&f=.m3u8
 #EXTINF:0,HBO POP
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=maxup&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=maxup&f=.m3u8
 #EXTINF:0,TBS
 #EXTGRP:unsorted
-http://blackghost.live/play/wistream2.php?canal=tbs&f=.m3u8
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tbs&f=.m3u8
