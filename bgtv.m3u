@@ -1,9 +1,4 @@
-#EXTM3U 
-
-
-
-
-
+#EXTM3U
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" group-title="Lista latino",[latino]  Cartoon Network [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=CARTOON&format=.m3u8
