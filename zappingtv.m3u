@@ -1,0 +1,202 @@
+#EXTM3U
+
+#EXTINF:0,Fox Channel
+http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,Fox Life
+http://nano.zappingtv.com:1935/foxlife/fox.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,FX
+http://nano.zappingtv.com:1935/fx/fx.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,ID
+http://nano.zappingtv.com:1935/id/mobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,Maschic
+http://nano.zappingtv.com:1935/maschic/maschic.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:0,Home & Health
+http://nano.zappingtv.com:1935/homeandhealth/fox.smil/chunklist_b3628000_sles.m3u8
+
+#EXTINF:0,TLC
+http://nano.zappingtv.com:1935/tlc/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:0,HTV
+http://nano.zappingtv.com:1935/htv/htv.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,El Gourmet
+http://nano.zappingtv.com:1935/gourmet/gourmet.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:0,Food Network
+http://nano.zappingtv.com:1935/foodnetwork/default.smil/chunklist_b1628000_sles.m3u8
+
+#EXTINF:0,ETC TV
+http://nano.zappingtv.com:1935/etctv/etctv.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,Animal Planet
+http://nano.zappingtv.com:1935/animalplanet/mobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,Discovery Science
+http://nano.zappingtv.com:1935/science/live2/chunklist.m3u8
+#EXTINF:0,Discovery Theater
+http://nano.zappingtv.com:1935/theater/live2/chunklist.m3u8
+#EXTINF:0,Discovery Turbo
+http://nano.zappingtv.com:1935/turbo/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:0,Discovery World
+http://nano.zappingtv.com:1935/discovery/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:0,Home & Garden
+http://nano.zappingtv.com:1935/hgtv/default.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,NatGeo
+http://nano.zappingtv.com:1935/ng/ng.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,NatGeo Wild
+http://nano.zappingtv.com:1935/ngwild/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+
+#EXTINF:0,Baby TV
+http://nano.zappingtv.com:1935/babytv/babytv.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,Boomerang
+http://nano.zappingtv.com:1935/boomerang/boomerang.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,Cartoon Network
+http://nano.zappingtv.com:1935/cn/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:0,Discovery Kids
+http://nano.zappingtv.com:1935/discoverykids/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:0,Disney
+http://nano.zappingtv.com:1935/disney/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,Disney Jr
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/disneyjr/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+
+#EXTINF:0,Disney XD
+http://nano.zappingtv.com:1935/disneyxd/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,NatGeo Kids
+http://nano.zappingtv.com:1935/ngkids/ng.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,Tateti
+http://nano.zappingtv.com:1935/tateti/tvmas.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,Tooncast
+http://nano.zappingtv.com:1935/tooncast/cnnes.smil/chunklist_b2128000_sles.m3u8
+#EXTINF:0,Locomotion
+#EXTGRP:unsorted
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0,Kanade
+#EXTGRP:unsorted
+http://207.246.84.143:8080/hls/Kanade.m3u8
+#EXTINF:0,Futurama Manía
+#EXTGRP:unsorted
+https://m3u-editor.com/serve/rokumaniatest/156476844
+#EXTINF:0,Simpson
+#EXTGRP:unsorted
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:0,El Chavo
+#EXTGRP:unsorted
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
+#EXTINF:0,Space
+http://nano.zappingtv.com:1935/space/world.smil/chunklist_b3828000_sles.m3u8
+#EXTINF:0,tcm
+http://nano.zappingtv.com:1935/tcm/tcm.smil/chunklist_b2128000_sles.m3u8
+#EXTINF:0,TNT
+http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,TNT Series
+http://nano.zappingtv.com:1935/tntseries/tnt.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,amc
+http://nano.zappingtv.com:1935/amc/live2/chunklist.m3u8
+#EXTINF:0,Cinecanal
+http://nano.zappingtv.com:1935/cinecanal/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+
+#EXTINF:0,Eurochannel
+http://nano.zappingtv.com:1935/eurochannel/rtes.smil/chunklist_b2828000_sles.m3u8
+#EXTINF:0,Europa Europa
+http://nano.zappingtv.com:1935/europa/europa.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:0,Film & Arts
+http://nano.zappingtv.com:1935/filmandart/filmandart.smil/chunklist_b4128000_sles.m3u8
+
+#EXTINF:0,FX Movies
+http://nano.zappingtv.com:1935/fxmovies/live2/chunklist.m3u8
+#EXTINF:0,Fox Series
+http://nano.zappingtv.com:1935/foxseries/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
+
+#EXTINF:0,Fox Classics
+http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,Fox Comedy
+http://nano.zappingtv.com:1935/foxcomedy/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,Fox Family
+http://nano.zappingtv.com:1935/foxfamily/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,Fox Movies
+http://nano.zappingtv.com:1935/foxmovies/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,GINX Esports TV
+http://nano.zappingtv.com:1935/ginx/ginx.smil/chunklist_b3628000_sles.m3u8
+
+#EXTINF:0,Espn Extra
+http://nano.zappingtv.com:1935/espnplus/fsmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:0,Fox Sports
+http://nano.zappingtv.com:1935/foxsportsb/espn.smil/chunklist_b728000_sles.m3u8
+#EXTINF:0,Fox Sports 1
+http://nano.zappingtv.com:1935/foxsports1/espn.smil/chunklist_b5328000_sles.m3u8
+#EXTINF:0,Fox Sports 2
+http://nano.zappingtv.com:1935/foxsports2/fsmobile.smil/live.m3u8
+#EXTINF:0,Fox Sports 3
+http://nano.zappingtv.com:1935/foxsports3/espn.smil/chunklist_b5328000_sles.m3u8
+#EXTINF:0,CDF Basico
+http://nano.zappingtv.com:1935/cdfb/cdfbasico.smil/chunklist_b4328000_sles.m3u8
+#EXTINF:0,CDF HD
+http://nano.zappingtv.com:1935/cdfhdo/cdfhdmobile.smil/chunklist_b1628000_sles.m3u8
+
+#EXTINF:0,Golf Channel
+http://nano.zappingtv.com:1935/golfchannel/rtes.smil/chunklist_b2828000_sles.m3u8
+
+#EXTINF:0,Canal 24 Horas
+http://nano.zappingtv.com:1935/24h/24h.smil/chunklist_b1928000_sles.m3u8
+#EXTINF:0,CNN Chile
+http://nano.zappingtv.com:1935/cnnchile/cnnchile.smil/chunklist_b1928000_sles.m3u8
+#EXTINF:0,CNN Español
+http://nano.zappingtv.com:1935/cnnes/cnnesmobile.smil/chunklist_b1128000_sles.m3u8
+#EXTINF:0,NASA TV
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/nasatv/nasatv.smil/chunklist_b3628000_sles.m3u8
+
+#EXTINF:0,UCV3
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/ucv3o/ucv3.smil/chunklist_b2128000_sles.m3u8
+#EXTINF:0,TV+
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/tvm/tvmas.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,Rec TV
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/rectv/rectv.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,Mega Plus
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/megaplus/megaplus.smil/chunklist_b3128000_sles.m3u8
+#EXTINF:0,La Red
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/lared/tvmas.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,Canal 13
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/13/13h.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,13c
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/13c/13c.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:0,T13
+#EXTGRP:unsorted
+http://nano.zappingtv.com:1935/132/132.smil/chunklist_b3628000_sles.m3u8
+
+#EXTINF:0,Educa  TV
+#EXTGRP:unsorted
+https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
+#EXTINF:0,Ipe
+#EXTGRP:unsorted
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,TV Educa Chile
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:0,Retro TV Palmares
+#EXTGRP:unsorted
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:0,Mi TV
+#EXTGRP:unsorted
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:0,Dreiko TV
+#EXTGRP:unsorted
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:0,Monstruos de Verdad
+#EXTGRP:unsorted
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
+#EXTINF:0,Cachipum
+#EXTGRP:unsorted
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:0,Snick
+#EXTGRP:unsorted
+http://8.9.4.128:8080/hls/snick.m3u8
+
+#EXTINF:0,TV Galicia Xabarín
+#EXTGRP:unsorted
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+
