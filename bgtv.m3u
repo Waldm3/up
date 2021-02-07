@@ -1,209 +1,127 @@
 #EXTM3U
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" ,[latino]  Cartoon Network [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CARTOON&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" ,[latino]  Cartoon Network [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CARTOON_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" ,[latino]  Cartoon Network [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CARTOON_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil" ,[latino]  Disney Channel [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil" ,[latino]  Disney Channel [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=DISNEY_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil" ,[latino]  Disney Channel [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=DISNEY_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil" ,[latino]  Disney XD [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYXD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil" ,[latino]  Disney XD  [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=DISNEYXD_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil" ,[latino]  Disney Jr [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYJR&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil" ,[latino]  Disney Jr [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=DISNEYJR_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil" ,[latino]  NATGEO Kids [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOKIDS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil" ,[latino]  NATGEO Kids [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=NATGEOKIDS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  NICK [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICK&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  NICK [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=NICK_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  TEEN NICK [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TEENNICK&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  TEEN NICK [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  TEEN NICK [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  NICK MUSIC [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICKMUSIC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  NICK MUSIC [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=NICKMUSIC_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil" ,[latino]  NICK JR [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICKJR&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil" ,[latino]  Discovery Kids [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=DKIDS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil" ,[latino]  Discovery Kids [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=DKIDS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil" ,[latino]  Tooncast [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TOONCAST&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil" ,[latino]  Tooncast [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TOONCAST_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/agCjY8n.png" group-title="Infantil" ,[latino]  Boomerang [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=BOOMERANG_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/n3eZIO3.png" group-title="Infantil" ,[latino]  BabyTV [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=BABYTV&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/k3NGPAh.jpg" group-title="Noticias" ,[latino]  CNN Internacional [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNINT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias" ,[latino]  CNN en Espanol [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias" ,[latino]  CNN en Espanol 2 [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL2&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias" ,[latino]  CNN en Espanol [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CNNESPANOL_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/E1selri.png" group-title="Noticias" ,[latino]  CNN Chile [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNN_CHILE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/k3NGPAh.jpg" group-title="Noticias" ,[latino]  CNN Brasil [Club]
-https://tv.teleclub.xyz/noah/live-channel?ver=CNN_BRASIL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ngBYCo9.png" group-title="Noticias" ,[latino]  24 Horas [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=24HORAS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/JQFsU7i.png" group-title="Noticias" ,[latino]  ADN40 [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=ADN40&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/JQFsU7i.png" group-title="Noticias" ,[latino]  ADN40 [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=ADN40_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tOhWEpD.jpg" group-title="Noticias" ,[latino]  RT en Espanol [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=RTESPANOL_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EL6CRvw.png" group-title="Noticias" ,[latino]  ForoTV [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOROTV_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/LaCSaOU.png" group-title="Noticias" ,[latino]  ABC NEWS [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=ABCNEWS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/2Qje64Q.jpg" group-title="Noticias" ,[latino]  FOX NEWS [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXNEWS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/bEebu04.png" group-title="Noticias" ,[latino]  Bloomberg [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERGLAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/bEebu04.png" group-title="Noticias" ,[latino]  Bloomberg [2] [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERG_LAT&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Externa" ,[latino]  ARG | Telefé Bahia Blanca [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_BAHIA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Externa" ,[latino]  ARG | Telefé Rosario [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_ROSARIO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/KZBCcjc.png" group-title="Externa" ,[latino]  ARG | America TV Tucumán [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=AMERICATV_TUCUMAN&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/2ASFXGc.png" group-title="Externa" ,[latino]  ARG | Canal IP [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=IP_ARG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="Externa" ,[latino]  ARG | 26 TV
-https://tv.teleclub.xyz/noah/live-channel?ver=26TV_ARG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/oXfwH1i.png" group-title="Externa" ,[latino]  ARG | Telemax [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEMAX_ARG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/UmUz3h6.png" group-title="Externa" ,[latino]  UY | Canal 10 [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=CANAL10_UY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/QQrz67n.jpg" group-title="Externa" ,[latino]  PY | ABC [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=ABC_PY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/74cdEvY.jpg" group-title="Externa" ,[latino]  PY | Unicanal [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=UNICANAL_PY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ygkvd6Y.jpg" group-title="Externa" ,[latino]  CL | RewindTV [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=REWINDTV_CL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/lCaYkmC.png" group-title="Externa" ,[latino]  CL | Zapping Music [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=ZAPPINGMUSIC_CL&format=.m3u8
-#EXTINF:0, tvg-logo="https://blackaddon.com/black/img/icon.png" group-title="Externa" ,[latino]  CL | Camara de Diputados [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=CAMARA_CL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/D8TetXe.jpg" group-title="Externa" ,[latino]  CL | STGO TV [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=STGOTV_CL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/SdWLG7O.png" group-title="Externa" ,[latino]  Love Nature [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=LOVENATURE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa" ,[latino]  Telesur LAT [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa" ,[latino]  Telesur English [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_ENGLISH&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Zoh8rT7.jpg" group-title="Externa" ,[latino]  CBS News Los Angeles [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=CBSNEWS_LA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4Tb47L0.jpg" group-title="Externa" ,[latino]  NHK World [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=NHK_WORLD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ICGdETe.png" group-title="Externa" ,[latino]  RTVE1 [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=RTVE1&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Tlet6RL.png" group-title="Externa" ,[latino]  RTVE24 [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=RTVE24&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EVVY9o6.png" group-title="Externa" ,[latino]  UCL Television LAT [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=UCL_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dInDwa0.png" group-title="Externa" ,[latino]  Tierramia [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TIERRAMIA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Ai3ZUG5.jpg" group-title="Externa" ,[latino]  TopMusic [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TOPMUSIC_247&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/cW8RoFm.jpg" group-title="Externa" ,[latino]  EC | CCTV Quevedo [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=QUEVEDO_EC&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/hMon4qd.png" group-title="Mundo" ,[latino]  CHV [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CHV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="Mundo" ,[latino]  El nueve [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELNUEVE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo" ,[latino]  Telefe [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TELEFE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo" ,[latino]  ARG | Telefe [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TELEFE_ARG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="Mundo" ,[latino]  El trece [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELTRECE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="Mundo" ,[latino]  ARG | El Trece [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=ELTRECE_ARG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo" ,[latino]  Lifetime [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=LIFETIME&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo" ,[latino]  Lifetime [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=LIFETIME_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/kp0Ikcj.png" group-title="Mundo" ,[latino]  MasChic [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=MASCHIC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="Mundo" ,[latino]  Hola! [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=HOLATV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="Mundo" ,[latino]  Hola! [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=HOLATV_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/55x9NTr.jpg" group-title="Mundo" ,[latino]  Telemundo [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TELEMUNDO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/55x9NTr.jpg" group-title="Mundo" ,[latino]  Telemundo Internacional [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TELEMUNDO_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/64NEN8V.png" group-title="Mundo" ,[latino]  Tlnovelas [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TLNOVELAS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/64NEN8V.png" group-title="Mundo" ,[latino]  Tlnovelas [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TLNOVELAS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/osmtnbz.png" group-title="Mundo" ,[latino]  Azteca Uno [Club]
+#EXTINF:0, tvg-logo="https://i.imgur.com/osmtnbz.png" group-title="Local" ,[latino]  Azteca Uno [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA1&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/osmtnbz.png" group-title="Mundo" ,[latino]  Azteca 7 [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA7&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/R5EdxXG.png" group-title="Mundo" ,[latino]  Az Corazon [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=AZCORAZON&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Mundo" ,[latino]  Univision [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVISION&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Mundo" ,[latino]  Univision [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=UNIVISION_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/0jYyq4K.jpg" group-title="Mundo" ,[latino]  Caracol TV [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CARACOLTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/0jYyq4K.jpg" group-title="Mundo" ,[latino]  Caracol TV [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CARACOLTV_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/0jYyq4K.jpg" group-title="Mundo" ,[latino]  Caracol TV [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CARACOLTV_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo" ,[latino]  Las Estrellas TV [Club]
+#EXTINF:0, tvg-logo="https://i.imgur.com/JQFsU7i.png" group-title="Local" ,[latino]  ADN40 [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=ADN40&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/JQFsU7i.png" group-title="Local" ,[latino]  ADN40 [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=ADN40_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Local" ,[latino]  Las Estrellas TV [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=LASESTRELLAS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo" ,[latino]  Las Estrellas TV [SD]
+#EXTINF:0, tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Local" ,[latino]  Las Estrellas TV [SD]
 https://tv.teleclub.xyz/noah/live-channel?latino=LASESTRELLAS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo" ,[latino]  Las Estrellas TV [HD]
+#EXTINF:0, tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Local" ,[latino]  Las Estrellas TV [HD]
 https://tv.teleclub.xyz/noah/live-channel?latino=LASESTRELLAS_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/W87JPaQ.png" group-title="Mundo" ,[latino]  Unicable [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=UNICABLE_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/xvgKK5S.png" group-title="Mundo" ,[latino]  RCN  [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=RCN&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/xvgKK5S.png" group-title="Mundo" ,[latino]  RCN Nuestra Tele Internacional [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=RCN_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/6s8k8ia.png" group-title="Mundo" ,[latino]  5 Cinco [SD]
+#EXTINF:0, tvg-logo="https://i.imgur.com/EL6CRvw.png" group-title="Local" ,[latino]  ForoTV [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOROTV_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/6s8k8ia.png" group-title="Local" ,[latino]  5 Cinco [SD]
 https://tv.teleclub.xyz/noah/live-channel?latino=CINCO_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4EQM99H.jpg" group-title="Mundo" ,[latino]  A3 Series [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=A3SERIES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fISPUww.jpg" group-title="Mundo" ,[latino]  Antena 3 [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=A3&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/pMWxBGL.png" group-title="Mundo" ,[latino]  TruTV [Club]
+#EXTINF:0, tvg-logo="https://i.imgur.com/osmtnbz.png" group-title="Local" ,[latino]  Azteca 7 [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA7&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="Local" ,[latino]  El nueve [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=ELNUEVE&format=.m3u8
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Entretenimiento" ,[latino]  Univision [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVISION&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Entretenimiento" ,[latino]  Univision [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=UNIVISION_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/55x9NTr.jpg" group-title="Entretenimiento" ,[latino]  Telemundo [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TELEMUNDO&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/W87JPaQ.png" group-title="Entretenimiento" ,[latino]  Unicable [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=UNICABLE_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento" ,[latino]  Fox Channel [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOX&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento" ,[latino]  Fox Channel [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOX_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento" ,[latino]  Fox Channel [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOX_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="Entretenimiento" ,[latino]  Fox Life [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXLIFE&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="Entretenimiento" ,[latino]  Fox Life [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXLIFE_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento" ,[latino]  Warner TV [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=WARNER&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento" ,[latino]  Warner TV [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=WARNER_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento" ,[latino]  Universal TV [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVERSAL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento" ,[latino]  Universal TV [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=UNIVERSAL_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento" ,[latino]  Universal TV [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=UNIVERSAL_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento" ,[latino]  FX [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FX&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento" ,[latino]  FX [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FX_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento" ,[latino]  FX [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FX_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento" ,[latino]  Sony [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=SONY&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento" ,[latino]  Sony [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=SONY_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento" ,[latino]  Sony [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=SONY_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento" ,[latino]  Studio Universal [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=STUDIOUNIVERSAL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento" ,[latino]  Studio Universal [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=STUDIOUNIVERSAL_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento" ,[latino]  Studio Universal [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=STUDIOUNIVERSAL_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento" ,[latino]  TBS [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TBS&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/TKyvkOK.png" group-title="Entretenimiento" ,[latino]  SYFY [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=SYFY_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento" ,[latino]  AXN [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=AXN&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento" ,[latino]  AXN  [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=AXN_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento" ,[latino]  AXN  [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=AXN_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Entretenimiento" ,[latino]  A&E [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=AYE&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Entretenimiento" ,[latino]  A&E [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=AYE_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Entretenimiento" ,[latino]  A&E [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=AYE_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Entretenimiento" ,[latino]  ComedyCentral [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=COMEDYCENTRAL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Entretenimiento" ,[latino]  ComedyCentral [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=COMEDYCENTRAL_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/pWW9ljW.jpg" group-title="Entretenimiento" ,[latino]  Distrito Comedia [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISTRITOCOMEDIA&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/pWW9ljW.jpg" group-title="Entretenimiento" ,[latino]  Distrito Comedia [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=DISTRITOCOMEDIA_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/pMWxBGL.png" group-title="Entretenimiento" ,[latino]  TruTV [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=TRUTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/1WgmrLn.png" group-title="Mundo" ,[latino]  Glitz [Club]
+#EXTINF:0, tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="Entretenimiento" ,[latino]  Hola! [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=HOLATV&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="Entretenimiento" ,[latino]  Hola! [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=HOLATV_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/55x9NTr.jpg" group-title="Entretenimiento" ,[latino]  Telemundo Internacional [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TELEMUNDO_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/64NEN8V.png" group-title="Entretenimiento" ,[latino]  Tlnovelas [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TLNOVELAS&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/64NEN8V.png" group-title="Entretenimiento" ,[latino]  Tlnovelas [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TLNOVELAS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/R5EdxXG.png" group-title="Entretenimiento" ,[latino]  Az Corazon [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=AZCORAZON&format=.m3u8
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Variedad" ,[latino]  Lifetime [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=LIFETIME&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Variedad" ,[latino]  Lifetime [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=LIFETIME_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/kp0Ikcj.png" group-title="Variedad" ,[latino]  MasChic [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=MASCHIC&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/1WgmrLn.png" group-title="Variedad" ,[latino]  Glitz [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=GLITZ&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Variedad" ,[latino]  El Gourmet [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=ELGOURMET&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Variedad" ,[latino]  El Gourmet [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=ELGOURMET_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/FjWnkUZ.png" group-title="Variedad" ,[latino]  GARAGE TV [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=GARAGETV&format=.m3u8
 
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura" ,[latino]  Animal Planet [Club]
@@ -272,24 +190,174 @@ https://tv.teleclub.xyz/noah/live-channel?latino=NATGEO_SD&format=.m3u8
 https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOWILD&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura" ,[latino]  NATGEO Wild [HD]
 https://tv.teleclub.xyz/noah/live-channel?latino=NATGEOWILD_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura" ,[latino]  A&E [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=AYE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura" ,[latino]  A&E [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=AYE_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura" ,[latino]  A&E [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=AYE_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura" ,[latino]  El Gourmet [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELGOURMET&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura" ,[latino]  El Gourmet [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=ELGOURMET_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Cultura" ,[latino]  ComedyCentral [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=COMEDYCENTRAL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Cultura" ,[latino]  ComedyCentral [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=COMEDYCENTRAL_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/pWW9ljW.jpg" group-title="Cultura" ,[latino]  Distrito Comedia [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISTRITOCOMEDIA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/pWW9ljW.jpg" group-title="Cultura" ,[latino]  Distrito Comedia [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=DISTRITOCOMEDIA_SD&format=.m3u8
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" ,[latino]  Cartoon Network [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CARTOON&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" ,[latino]  Cartoon Network [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CARTOON_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" ,[latino]  Cartoon Network [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CARTOON_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil" ,[latino]  Disney Channel [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEY&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil" ,[latino]  Disney Channel [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=DISNEY_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil" ,[latino]  Disney Channel [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=DISNEY_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil" ,[latino]  Disney XD [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYXD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil" ,[latino]  Disney XD  [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=DISNEYXD_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil" ,[latino]  Disney Jr [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYJR&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil" ,[latino]  Disney Jr [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=DISNEYJR_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil" ,[latino]  NATGEO Kids [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOKIDS&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil" ,[latino]  NATGEO Kids [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=NATGEOKIDS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  NICK [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=NICK&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  NICK [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=NICK_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  TEEN NICK [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TEENNICK&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  TEEN NICK [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  TEEN NICK [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  NICK MUSIC [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=NICKMUSIC&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[latino]  NICK MUSIC [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=NICKMUSIC_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil" ,[latino]  NICK JR [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=NICKJR&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil" ,[latino]  Discovery Kids [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=DKIDS&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil" ,[latino]  Discovery Kids [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=DKIDS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil" ,[latino]  Tooncast [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TOONCAST&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil" ,[latino]  Tooncast [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TOONCAST_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/agCjY8n.png" group-title="Infantil" ,[latino]  Boomerang [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=BOOMERANG_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/n3eZIO3.png" group-title="Infantil" ,[latino]  BabyTV [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=BABYTV&format=.m3u8
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/4EQM99H.jpg" group-title="Internacional" ,[latino]  A3 Series [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=A3SERIES&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/fISPUww.jpg" group-title="Internacional" ,[latino]  Antena 3 [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=A3&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/4Tb47L0.jpg" group-title="Internacional" ,[latino]  NHK World [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=NHK_WORLD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ICGdETe.png" group-title="Internacional" ,[latino]  RTVE1 [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=RTVE1&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Tlet6RL.png" group-title="Internacional" ,[latino]  RTVE24 [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=RTVE24&format=.m3u8
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/w9FRWYm.png" group-title="Peliculas" ,[latino]  DEPELICULA [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=DEPELICULA&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/w9FRWYm.png" group-title="Peliculas" ,[latino]  DEPELICULA [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=DEPELICULA_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Peliculas" ,[latino]  Golden [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDEN&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Peliculas" ,[latino]  Golden [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENEDGE_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Peliculas" ,[latino]  Golden + [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPLUS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Peliculas" ,[latino]  Golden + [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPLUS_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Peliculas" ,[latino]  Golden Premier [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDENPREMIER&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Peliculas" ,[latino]  Golden Premier [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPREMIER_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Peliculas" ,[latino]  Golden Premier [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPREMIER_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Peliculas" ,[latino]  TNT [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TNT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Peliculas" ,[latino]  TNT [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Peliculas" ,[latino]  TNT [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TNT_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Peliculas" ,[latino]  TNT Series [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSERIES&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Peliculas" ,[latino]  TNT Series [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TNTSERIES_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Peliculas" ,[latino]  Space [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=SPACE&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Peliculas" ,[latino]  Space [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=SPACE_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Peliculas" ,[latino]  Space [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=SPACE_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Peliculas" ,[latino]  AMC [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=AMC&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Peliculas" ,[latino]  FXM [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FXM&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Peliculas" ,[latino]  FXM [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FXM_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="Peliculas" ,[latino]  TCM [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TCM&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Peliculas" ,[latino]  Cinecanal [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CINECANAL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Peliculas" ,[latino]  Cinecanal [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CINECANAL_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Peliculas" ,[latino]  Cinecanal [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CINECANAL_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Peliculas" ,[latino]  Cinemax [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CINEMAX&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Peliculas" ,[latino]  Cinemax [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CINEMAX_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Peliculas" ,[latino]  Cinemax [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CINEMAX_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Peliculas" ,[latino]  Paramount Channel [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=PARAMOUNT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Peliculas" ,[latino]  Paramount Channel [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=PARAMOUNT_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Peliculas" ,[latino]  Paramount Channel [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=PARAMOUNT_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/1eKZASl.png" group-title="Peliculas" ,[latino]  CINELATINO [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CINELATINO&format=.m3u8
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Action [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXACTION&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Action [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Action [2][SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_SD2&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Action [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/RefOTUQ.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Cinema [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCINEMA&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/RefOTUQ.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Cinema [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCINEMA_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Comedy [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCOMEDY&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Comedy [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCOMEDY_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Comedy [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCOMEDY_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Classic [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCLASSIC&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Classic [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCLASSIC_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Classic [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCLASSIC_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/FtsDvN9.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Family [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXFAMILY&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/FtsDvN9.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Family [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXFAMILY_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/fyA3yba.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Series [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSERIES&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/fyA3yba.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Series [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSERIES_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Movies [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXMOVIES&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Movies [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXMOVIES_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Movies [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXMOVIES_HD&format=.m3u8
 
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBOPremium" ,[latino]  HBO [Club]
@@ -337,193 +405,8 @@ https://tv.teleclub.xyz/noah/live-channel?latino=HBOXTREME_SD&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBOPremium" ,[latino]  HBO XTREME [HD]
 https://tv.teleclub.xyz/noah/live-channel?latino=HBOXTREME_HD&format=.m3u8
 
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Action [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXACTION&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Action [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Action [2][SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_SD2&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Action [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/RefOTUQ.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Cinema [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCINEMA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/RefOTUQ.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Cinema [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCINEMA_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Comedy [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCOMEDY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Comedy [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCOMEDY_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Comedy [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCOMEDY_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Classic [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCLASSIC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Classic [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCLASSIC_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Classic [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCLASSIC_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/FtsDvN9.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Family [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXFAMILY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/FtsDvN9.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Family [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXFAMILY_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fyA3yba.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Series [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSERIES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fyA3yba.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Series [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSERIES_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Movies [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXMOVIES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Movies [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXMOVIES_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium" ,[latino]  Fox Premium Movies [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXMOVIES_HD&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento" ,[latino]  Fox Channel [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento" ,[latino]  Fox Channel [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOX_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento" ,[latino]  Fox Channel [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOX_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="Entretenimiento" ,[latino]  Fox Life [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXLIFE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="Entretenimiento" ,[latino]  Fox Life [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXLIFE_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento" ,[latino]  AMC [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=AMC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento" ,[latino]  Warner TV [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=WARNER&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento" ,[latino]  Warner TV [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=WARNER_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento" ,[latino]  Universal TV [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVERSAL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento" ,[latino]  Universal TV [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=UNIVERSAL_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento" ,[latino]  Universal TV [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=UNIVERSAL_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento" ,[latino]  FX [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento" ,[latino]  FX [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FX_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento" ,[latino]  FX [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FX_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Entretenimiento" ,[latino]  FXM [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FXM&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Entretenimiento" ,[latino]  FXM [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FXM_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento" ,[latino]  AXN [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=AXN&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento" ,[latino]  AXN  [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=AXN_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento" ,[latino]  AXN  [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=AXN_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento" ,[latino]  Sony [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=SONY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento" ,[latino]  Sony [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=SONY_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento" ,[latino]  Sony [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=SONY_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento" ,[latino]  TNT [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TNT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento" ,[latino]  TNT [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento" ,[latino]  TNT [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TNT_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento" ,[latino]  TNT Series [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSERIES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento" ,[latino]  TNT Series [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TNTSERIES_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento" ,[latino]  Space [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=SPACE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento" ,[latino]  Space [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=SPACE_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento" ,[latino]  Space [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=SPACE_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento" ,[latino]  Studio Universal [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=STUDIOUNIVERSAL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento" ,[latino]  Studio Universal [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=STUDIOUNIVERSAL_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento" ,[latino]  Studio Universal [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=STUDIOUNIVERSAL_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento" ,[latino]  TBS [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TBS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="Entretenimiento" ,[latino]  TCM [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TCM&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Entretenimiento" ,[latino]  Cinecanal [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINECANAL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Entretenimiento" ,[latino]  Cinecanal [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CINECANAL_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Entretenimiento" ,[latino]  Cinecanal [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CINECANAL_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento" ,[latino]  Cinemax [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINEMAX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento" ,[latino]  Cinemax [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CINEMAX_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento" ,[latino]  Cinemax [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CINEMAX_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento" ,[latino]  Paramount Channel [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=PARAMOUNT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento" ,[latino]  Paramount Channel [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=PARAMOUNT_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento" ,[latino]  Paramount Channel [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=PARAMOUNT_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/1eKZASl.png" group-title="Entretenimiento" ,[latino]  CINELATINO [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINELATINO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[latino]  Golden [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDEN&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[latino]  Golden [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENEDGE_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[latino]  Golden + [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPLUS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[latino]  Golden + [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPLUS_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[latino]  Golden Premier [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDENPREMIER&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[latino]  Golden Premier [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPREMIER_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[latino]  Golden Premier [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPREMIER_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/w9FRWYm.png" group-title="Entretenimiento" ,[latino]  DEPELICULA [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=DEPELICULA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/w9FRWYm.png" group-title="Entretenimiento" ,[latino]  DEPELICULA [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=DEPELICULA_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/TKyvkOK.png" group-title="Entretenimiento" ,[latino]  SYFY [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=SYFY_SD&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/aqVHPQT.png" group-title="Musica" ,[latino]  HTV [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=HTV_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=MTV_SD&format=.m3u8 
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV 80s [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=MTV80_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV Hits [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTVHITS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV Hits [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=MTVHITS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV Live [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTVLIVE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica" ,[latino]  VH1 CLASSIC
-https://tv.teleclub.xyz/noah/live-channel?smartv=VH1CLASSIC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica" ,[latino]  VH1 [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=VH1&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica" ,[latino]  VH1 [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=VH1_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Jk14nuw.png" group-title="Musica" ,[latino]  Bandamax [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=BANDAMAX_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/RRk487L.png" group-title="Musica" ,[latino]  TELEHIT [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TELEHIT_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/B0OQBrT.png" group-title="Musica" ,[latino]  TOPLATINO [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=TOPLATINO_SD&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte" ,[latino]  CLARO SPORTS [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CLARO_SPORTS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte" ,[latino]  CLARO SPORTS [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CLARO_SPORTS_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte" ,[latino]  CLARO SPORT 2 [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=CLAROSPORT2&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deporte" ,[latino]  TUDN USA [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TUDN_USA&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deporte" ,[latino]  GOLTV [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=GOLTV&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deporte" ,[latino]  GOLTV_2 [Club]
@@ -538,14 +421,6 @@ https://tv.teleclub.xyz/noah/live-channel?latino=TYCSPORTS_SD&format=.m3u8
 https://tv.teleclub.xyz/noah/live-channel?latino=TYCSPORTS_SD&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/IZrqVI0.png" group-title="Deporte" ,[latino]  Afizzionados [SD]
 https://tv.teleclub.xyz/noah/live-channel?latino=AFIZZIONADOS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/oHJO4ah.png" group-title="Deporte" ,[latino]  WIN SPORT [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/XLaOzes.png" group-title="Deporte" ,[latino]  WIN SPORT PLUS [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_PLUS_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/oHJO4ah.png" group-title="Deporte" ,[latino]  WIN SPORT [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/XLaOzes.png" group-title="Deporte" ,[latino]  WIN SPORT PLUS [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_PLUS_HD&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deporte" ,[latino]  TNT SPORT [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSPORTS&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deporte" ,[latino]  TNT SPORT [SD]
@@ -554,10 +429,12 @@ https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SPORT_SD&format=.m3u8
 https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SPORT_HD&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/MRuyzZs.png" group-title="Deporte" ,[latino]  BEIN SPORT [SD]
 https://tv.teleclub.xyz/noah/live-channel?latino=BEIN_SPORT_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/lEq3ntw.jpg" group-title="Deporte" ,[latino]  CDF [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CDF_P_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/lEq3ntw.jpg" group-title="Deporte" ,[latino]  CDF [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=CDF_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Deporte" ,[espana]  Movistar | FORMULA 1
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_FORMULA1_ES&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Deporte" ,[espana]  Movistar | LaLiga
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_LALIGA_ES&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Deporte" ,[espana]  Movistar | Liga de Campeones
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_LIGADECAMPEONES_ES&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte" ,[latino]  DIRECTV SPORT [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORT&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte" ,[latino]  DIRECTV SPORT 2 [Club]
@@ -576,46 +453,6 @@ https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT_HD&format=.m3u8
 https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT2_HD&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte" ,[latino]  DIRECTV SPORT PLUS [HD]
 https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORTPLUS_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/TIGfZjN.jpg" group-title="Deporte" ,[latino]  AyM Sport [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=AYMSPORT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deporte" ,[latino]  Fox Sport Premium [Club]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORTS_PREMIUM&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport LAT [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 LAT [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 LAT [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport LAT [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_LAT_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 LAT [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_LAT_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 LAT [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_LAT_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport LAT [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_LAT_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 LAT [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_LAT_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 LAT [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_LAT_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport MEX [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 MEX [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 MEX [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport MEX [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_MEX_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 MEX [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_MEX_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 MEX [SD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_MEX_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport MEX [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_MEX_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 MEX [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_MEX_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 MEX [HD]
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_MEX_HD&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[latino]  ESPN LAT [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN_LAT&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[latino]  ESPN 2 LAT [Club]
@@ -658,14 +495,187 @@ https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_MEX_HD&format=.m3u8
 https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_MEX_HD&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[latino]  ESPN 3 MEX [HD]
 https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_MEX_HD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/lLeq98m.png" group-title="Deporte" ,[latino]  ECDF : El Canal del Futbol [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=ECDF&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deporte" ,[latino]  TUDN USA [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TUDN_USA&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte" ,[latino]  CLARO SPORTS [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CLARO_SPORTS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte" ,[latino]  CLARO SPORTS [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CLARO_SPORTS_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte" ,[latino]  CLARO SPORT 2 [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CLAROSPORT2&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deporte" ,[latino]  Fox Sport Premium [Club]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORTS_PREMIUM&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport LAT [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_LAT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 LAT [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_LAT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 LAT [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_LAT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport LAT [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_LAT_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 LAT [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_LAT_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 LAT [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_LAT_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport LAT [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_LAT_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 LAT [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_LAT_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 LAT [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_LAT_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport MEX [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_MEX&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 MEX [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_MEX&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 MEX [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_MEX&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport MEX [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_MEX_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 MEX [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_MEX_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 MEX [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_MEX_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport MEX [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_MEX_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 2 MEX [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_MEX_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[latino]  Fox Sport 3 MEX [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_MEX_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/TIGfZjN.jpg" group-title="Deporte" ,[latino]  AyM Sport [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=AYMSPORT&format=.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/qyrzMjg.jpg" group-title="Deporte" ,[latino]  GOLF TV [Club]
 https://tv.teleclub.xyz/noah/live-channel?smartv=GOLFTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/FjWnkUZ.png" group-title="Deporte" ,[latino]  GARAGE TV [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=GARAGETV&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/oHJO4ah.png" group-title="Deporte" ,[latino]  WIN SPORT [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/XLaOzes.png" group-title="Deporte" ,[latino]  WIN SPORT PLUS [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_PLUS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/oHJO4ah.png" group-title="Deporte" ,[latino]  WIN SPORT [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/XLaOzes.png" group-title="Deporte" ,[latino]  WIN SPORT PLUS [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_PLUS_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/lEq3ntw.jpg" group-title="Deporte" ,[latino]  CDF [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CDF_P_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/lEq3ntw.jpg" group-title="Deporte" ,[latino]  CDF [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CDF_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/lLeq98m.png" group-title="Deporte" ,[latino]  ECDF : El Canal del Futbol [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=ECDF&format=.m3u8
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/k3NGPAh.jpg" group-title="Noticias" ,[latino]  CNN Internacional [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CNNINT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias" ,[latino]  CNN en Espanol [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias" ,[latino]  CNN en Espanol 2 [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL2&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias" ,[latino]  CNN en Espanol [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CNNESPANOL_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/E1selri.png" group-title="Noticias" ,[latino]  CNN Chile [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CNN_CHILE&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/k3NGPAh.jpg" group-title="Noticias" ,[latino]  CNN Brasil [Club]
+https://tv.teleclub.xyz/noah/live-channel?ver=CNN_BRASIL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ngBYCo9.png" group-title="Noticias" ,[latino]  24 Horas [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=24HORAS&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/tOhWEpD.jpg" group-title="Noticias" ,[latino]  RT en Espanol [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=RTESPANOL_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/LaCSaOU.png" group-title="Noticias" ,[latino]  ABC NEWS [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=ABCNEWS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/2Qje64Q.jpg" group-title="Noticias" ,[latino]  FOX NEWS [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXNEWS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/bEebu04.png" group-title="Noticias" ,[latino]  Bloomberg [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERGLAT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/bEebu04.png" group-title="Noticias" ,[latino]  Bloomberg [2] [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERG_LAT&format=.m3u8
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/aqVHPQT.png" group-title="Musica" ,[latino]  HTV [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=HTV_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=MTV&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=MTV_SD&format=.m3u8 
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV 80s [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=MTV80_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV Hits [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=MTVHITS&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV Hits [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=MTVHITS_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[latino]  MTV Live [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=MTVLIVE&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica" ,[latino]  VH1 CLASSIC
+https://tv.teleclub.xyz/noah/live-channel?smartv=VH1CLASSIC&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica" ,[latino]  VH1 [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=VH1&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica" ,[latino]  VH1 [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=VH1_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Jk14nuw.png" group-title="Musica" ,[latino]  Bandamax [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=BANDAMAX_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/RRk487L.png" group-title="Musica" ,[latino]  TELEHIT [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TELEHIT_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/B0OQBrT.png" group-title="Musica" ,[latino]  TOPLATINO [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TOPLATINO_SD&format=.m3u8
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Argentina" ,[latino]  ARG | Telefé Bahia Blanca [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_BAHIA&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Argentina" ,[latino]  ARG | Telefé Rosario [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_ROSARIO&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/KZBCcjc.png" group-title="Argentina" ,[latino]  ARG | America TV Tucumán [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=AMERICATV_TUCUMAN&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/2ASFXGc.png" group-title="Argentina" ,[latino]  ARG | Canal IP [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=IP_ARG&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="Argentina" ,[latino]  ARG | 26 TV
+https://tv.teleclub.xyz/noah/live-channel?ver=26TV_ARG&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/oXfwH1i.png" group-title="Argentina" ,[latino]  ARG | Telemax [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=TELEMAX_ARG&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/UmUz3h6.png" group-title="Uruguay" ,[latino]  UY | Canal 10 [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=CANAL10_UY&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/QQrz67n.jpg" group-title="Paraguay" ,[latino]  PY | ABC [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=ABC_PY&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/74cdEvY.jpg" group-title="Paraguay" ,[latino]  PY | Unicanal [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=UNICANAL_PY&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ygkvd6Y.jpg" group-title="Chile" ,[latino]  CL | RewindTV [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=REWINDTV_CL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/lCaYkmC.png" group-title="Chile" ,[latino]  CL | Zapping Music [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=ZAPPINGMUSIC_CL&format=.m3u8
+#EXTINF:0, tvg-logo="https://blackaddon.com/black/img/icon.png" group-title="Chile" ,[latino]  CL | Camara de Diputados [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=CAMARA_CL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/D8TetXe.jpg" group-title="Chile" ,[latino]  CL | STGO TV [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=STGOTV_CL&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/SdWLG7O.png" group-title="Externa" ,[latino]  Love Nature [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=LOVENATURE&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa" ,[latino]  Telesur LAT [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_LAT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa" ,[latino]  Telesur English [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_ENGLISH&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Zoh8rT7.jpg" group-title="Externa" ,[latino]  CBS News Los Angeles [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=CBSNEWS_LA&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/EVVY9o6.png" group-title="Externa" ,[latino]  UCL Television LAT [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=UCL_LAT&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/dInDwa0.png" group-title="Externa" ,[latino]  Tierramia [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=TIERRAMIA&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Ai3ZUG5.jpg" group-title="Externa" ,[latino]  TopMusic [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=TOPMUSIC_247&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/cW8RoFm.jpg" group-title="Ecuador" ,[latino]  EC | CCTV Quevedo [*]
+https://tv.teleclub.xyz/noah/live-channel?ver=QUEVEDO_EC&format=.m3u8
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/hMon4qd.png" group-title="Chile" ,[latino]  CHV [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CHV&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Argentina" ,[latino]  Telefe [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=TELEFE&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Argentina" ,[latino]  ARG | Telefe [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=TELEFE_ARG&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="Argentina" ,[latino]  El trece [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=ELTRECE&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="Argentina" ,[latino]  ARG | El Trece [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=ELTRECE_ARG&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/0jYyq4K.jpg" group-title="Venezuela" ,[latino]  Caracol TV [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=CARACOLTV&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/0jYyq4K.jpg" group-title="Venezuela" ,[latino]  Caracol TV [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CARACOLTV_SD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/0jYyq4K.jpg" group-title="Venezuela" ,[latino]  Caracol TV [HD]
+https://tv.teleclub.xyz/noah/live-channel?latino=CARACOLTV_HD&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/xvgKK5S.png" group-title="Colombia" ,[latino]  RCN  [Club]
+https://tv.teleclub.xyz/noah/live-channel?smartv=RCN&format=.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/xvgKK5S.png" group-title="Colombia" ,[latino]  RCN Nuestra Tele Internacional [SD]
+https://tv.teleclub.xyz/noah/live-channel?latino=RCN_SD&format=.m3u8
 
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[latino]  24/7 | Los Simpsons
@@ -769,517 +779,97 @@ https://tv.teleclub.xyz/noah/live-channel?plutotv=THEWALKINGDEAD&format=.m3u8#EX
 
 
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[espana]  Nick
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="ESP Infantil" ,[espana]  Nick
 https://tv.teleclub.xyz/noah/live-channel?espana=NICK_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[espana]  Nick Jr
+#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="ESP Infantil" ,[espana]  Nick Jr
 https://tv.teleclub.xyz/noah/live-channel?espana=NICKJR_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil" ,[espana]  Disney Jr
+#EXTINF:0, tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="ESP Infantil" ,[espana]  Disney Jr
 https://tv.teleclub.xyz/noah/live-channel?espana=DISNEYJR_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil" ,[espana]  Disney Channel
+#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="ESP Infantil" ,[espana]  Disney Channel
 https://tv.teleclub.xyz/noah/live-channel?espana=DISNEYXD_ES&format=.m3u8
 
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/qBMI4F0.png" group-title="Spain" ,[espana]  Viajar
+#EXTINF:0, tvg-logo="https://i.imgur.com/qBMI4F0.png" group-title="ESP Local" ,[espana]  Viajar
 https://tv.teleclub.xyz/noah/live-channel?espana=VIAJAR_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/1TMiHMF.jpg" group-title="Spain" ,[espana]  TOROS
+#EXTINF:0, tvg-logo="https://i.imgur.com/1TMiHMF.jpg" group-title="ESP Local" ,[espana]  TOROS
 https://tv.teleclub.xyz/noah/live-channel?espana=TOROS_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ICGdETe.png" group-title="Spain" ,[espana]  1 TVE
+#EXTINF:0, tvg-logo="https://i.imgur.com/ICGdETe.png" group-title="ESP Local" ,[espana]  1 TVE
 https://tv.teleclub.xyz/noah/live-channel?espana=1_TVE_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/mlFfyEi.png" group-title="Spain" ,[espana]  2 TVE
+#EXTINF:0, tvg-logo="https://i.imgur.com/mlFfyEi.png" group-title="ESP Local" ,[espana]  2 TVE
 https://tv.teleclub.xyz/noah/live-channel?espana=2_TVE_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Tlet6RL.png" group-title="Spain" ,[espana]  24H TVE
+#EXTINF:0, tvg-logo="https://i.imgur.com/Tlet6RL.png" group-title="ESP Local" ,[espana]  24H TVE
 https://tv.teleclub.xyz/noah/live-channel?espana=24H_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fISPUww.jpg" group-title="Spain" ,[espana]  ANTENA 3
+#EXTINF:0, tvg-logo="https://i.imgur.com/fISPUww.jpg" group-title="ESP Local" ,[espana]  ANTENA 3
 https://tv.teleclub.xyz/noah/live-channel?espana=ANTENA3_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4EQM99H.jpg" group-title="Spain" ,[espana]  A3 Series
+#EXTINF:0, tvg-logo="https://i.imgur.com/4EQM99H.jpg" group-title="ESP Local" ,[espana]  A3 Series
 https://tv.teleclub.xyz/noah/live-channel?espana=A3SERIES_SD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/iBmpBPF.png" group-title="Spain" ,[espana]  Cuatro
+#EXTINF:0, tvg-logo="https://i.imgur.com/iBmpBPF.png" group-title="ESP Local" ,[espana]  Cuatro
 https://tv.teleclub.xyz/noah/live-channel?espana=CUATRO_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/e5PPnDc.png" group-title="Spain" ,[espana]  Cinco
+#EXTINF:0, tvg-logo="https://i.imgur.com/e5PPnDc.png" group-title="ESP Local" ,[espana]  Cinco
 https://tv.teleclub.xyz/noah/live-channel?espana=CINCO_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/MMVNcYX.jpg" group-title="Spain" ,[espana]  La sexta
+#EXTINF:0, tvg-logo="https://i.imgur.com/MMVNcYX.jpg" group-title="ESP Local" ,[espana]  La sexta
 https://tv.teleclub.xyz/noah/live-channel?espana=6_TVE_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Kq9Ixr9.jpg" group-title="Spain" ,[espana]  NOVA
+#EXTINF:0, tvg-logo="https://i.imgur.com/Kq9Ixr9.jpg" group-title="ESP Local" ,[espana]  NOVA
 https://tv.teleclub.xyz/noah/live-channel?espana=NOVA_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/WlMuW9S.jpg" group-title="Spain" ,[espana]  MEGA
+#EXTINF:0, tvg-logo="https://i.imgur.com/WlMuW9S.jpg" group-title="ESP Local" ,[espana]  MEGA
 https://tv.teleclub.xyz/noah/live-channel?espana=MEGA_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/6lDSjVE.png" group-title="Spain" ,[espana]  NEOX
+#EXTINF:0, tvg-logo="https://i.imgur.com/6lDSjVE.png" group-title="ESP Local" ,[espana]  NEOX
 https://tv.teleclub.xyz/noah/live-channel?espana=NEOX_ES&format=.m3u8
 
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento" ,[espana]  Fox
+#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="ESP Entretenimiento" ,[espana]  Fox
 https://tv.teleclub.xyz/noah/live-channel?espana=FOX_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Entretenimiento" ,[espana]  History
+#EXTINF:0, tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="ESP Entretenimiento" ,[espana]  History
 https://tv.teleclub.xyz/noah/live-channel?espana=HISTORY_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento" ,[espana]  TNT
+#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="ESP Entretenimiento" ,[espana]  TNT
 https://tv.teleclub.xyz/noah/live-channel?espana=TNT_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/kByhIxL.png" group-title="Entretenimiento" ,[espana]  TCM 
+#EXTINF:0, tvg-logo="https://i.imgur.com/kByhIxL.png" group-title="ESP Entretenimiento" ,[espana]  TCM 
 https://tv.teleclub.xyz/noah/live-channel?espana=TCM_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/TKyvkOK.png" group-title="Entretenimiento" ,[espana]  SYFY
+#EXTINF:0, tvg-logo="https://i.imgur.com/TKyvkOK.png" group-title="ESP Entretenimiento" ,[espana]  SYFY
 https://tv.teleclub.xyz/noah/live-channel?espana=SYFY_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dt541X0.png" group-title="Entretenimiento" ,[espana]  SundanceTV
+#EXTINF:0, tvg-logo="https://i.imgur.com/dt541X0.png" group-title="ESP Entretenimiento" ,[espana]  SundanceTV
 https://tv.teleclub.xyz/noah/live-channel?espana=SUNDANCETV_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/bFL2nGX.jpg" group-title="Entretenimiento" ,[espana]  Paramount Network
+#EXTINF:0, tvg-logo="https://i.imgur.com/bFL2nGX.jpg" group-title="ESP Entretenimiento" ,[espana]  Paramount Network
 https://tv.teleclub.xyz/noah/live-channel?espana=PARAMOUNT_NETWORK_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Q35YgBv.png" group-title="Entretenimiento" ,[espana]  Cine Dinamita
+#EXTINF:0, tvg-logo="https://i.imgur.com/Q35YgBv.png" group-title="ESP Entretenimiento" ,[espana]  Cine Dinamita
 https://tv.teleclub.xyz/noah/live-channel?espana=CINEDINAMITA_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Entretenimiento" ,[espana]  MTV
+#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="ESP Entretenimiento" ,[espana]  MTV
 https://tv.teleclub.xyz/noah/live-channel?espana=MTV_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="Entretenimiento" ,[espana]  Fox Life
+#EXTINF:0, tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="ESP Entretenimiento" ,[espana]  Fox Life
 https://tv.teleclub.xyz/noah/live-channel?espana=FOXLIFE_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Entretenimiento" ,[espana]  Discovery
+#EXTINF:0, tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="ESP Entretenimiento" ,[espana]  Discovery
 https://tv.teleclub.xyz/noah/live-channel?espana=DISCOVERY_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Entretenimiento" ,[espana]  NATGEO Wild
+#EXTINF:0, tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="ESP Entretenimiento" ,[espana]  NATGEO Wild
 https://tv.teleclub.xyz/noah/live-channel?espana=NATGEOWILD_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Entretenimiento" ,[espana]  NATGEO 
+#EXTINF:0, tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="ESP Entretenimiento" ,[espana]  NATGEO 
 https://tv.teleclub.xyz/noah/live-channel?espana=NATGEO_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Entretenimiento" ,[espana]  Comedy Central
+#EXTINF:0, tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="ESP Entretenimiento" ,[espana]  Comedy Central
 https://tv.teleclub.xyz/noah/live-channel?espana=COMEDYCENTRAL_ES&format=.m3u8
 
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Disney +
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="ESP Movistar" ,[espana]  Movistar | Disney +
 https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_DISNEY_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Comedia
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="ESP Movistar" ,[espana]  Movistar | Comedia
 https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_COMEDIA_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Acción
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="ESP Movistar" ,[espana]  Movistar | Acción
 https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_ACCION_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Estrenos
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="ESP Movistar" ,[espana]  Movistar | Estrenos
 https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_ESTRENOS_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | FORMULA 1
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_FORMULA1_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Golf
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="ESP Movistar" ,[espana]  Movistar | Golf
 https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_GOLF_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Cine DOC&ROLL
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="ESP Movistar" ,[espana]  Movistar | Cine DOC&ROLL
 https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_CINE_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Drama
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="ESP Movistar" ,[espana]  Movistar | Drama
 https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_DRAMA_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | LaLiga
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_LALIGA_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Liga de Campeones
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_LIGADECAMPEONES_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="Movistar" ,[espana]  Movistar | Series Maria
+#EXTINF:0, tvg-logo="https://i.imgur.com/wEpd59N.png" group-title="ESP Movistar" ,[espana]  Movistar | Series Maria
 https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_SERIESMARIA_ES&format=.m3u8
 
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/5Hfhpq4.png" group-title="Deportes" ,[espana]  TeleDeporte
+#EXTINF:0, tvg-logo="https://i.imgur.com/5Hfhpq4.png" group-title="ESP Deportes" ,[espana]  TeleDeporte
 https://tv.teleclub.xyz/noah/live-channel?espana=TELEDEPORTE_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/imxymgy.png" group-title="Deportes" ,[espana]  Euro Sport
+#EXTINF:0, tvg-logo="https://i.imgur.com/imxymgy.png" group-title="ESP Deportes" ,[espana]  Euro Sport
 https://tv.teleclub.xyz/noah/live-channel?espana=EUROSPORT_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/imxymgy.png" group-title="Deportes" ,[espana]  Euro Sport 2
+#EXTINF:0, tvg-logo="https://i.imgur.com/imxymgy.png" group-title="ESP Deportes" ,[espana]  Euro Sport 2
 https://tv.teleclub.xyz/noah/live-channel?espana=EUROSPORT2_ES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/jHYcj91.jpg" group-title="Deportes" ,[espana]  La liga TV Bar
+#EXTINF:0, tvg-logo="https://i.imgur.com/jHYcj91.jpg" group-title="ESP Deportes" ,[espana]  La liga TV Bar
 https://tv.teleclub.xyz/noah/live-channel?espana=LALIGATVBAR_ES&format=.m3u8#EXTM3U
-
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil" ,[smartv]  Cartoon Network
-https://tv.teleclub.xyz/noah/live-channel?smartv=CARTOON&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil" ,[smartv]  Disney Channel
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil" ,[smartv]  Disney XD
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYXD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil" ,[smartv]  Disney Jr
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYJR&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil" ,[smartv]  NATGEO Kids
-https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOKIDS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[smartv]  NICK
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICK&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[smartv]  TEEN NICK
-https://tv.teleclub.xyz/noah/live-channel?smartv=TEENNICK&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil" ,[smartv]  NICK MUSIC
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICKMUSIC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil" ,[smartv]  NICK JR
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICKJR&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/n3eZIO3.png" group-title="Infantil" ,[smartv]  BabyTV
-https://tv.teleclub.xyz/noah/live-channel?smartv=BABYTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil" ,[smartv]  Discovery Kids
-https://tv.teleclub.xyz/noah/live-channel?smartv=DKIDS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil" ,[smartv]  Tooncast
-https://tv.teleclub.xyz/noah/live-channel?smartv=TOONCAST&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/k3NGPAh.jpg" group-title="Noticias" ,[smartv]  CNN Internacional
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNINT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias" ,[smartv]  CNN en Espanol
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias" ,[smartv]  CNN en Espanol 2
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL2&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/E1selri.png" group-title="Noticias" ,[smartv]  CNN Chile
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNN_CHILE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/k3NGPAh.jpg" group-title="Noticias" ,[smartv]  CNN Brasil
-https://tv.teleclub.xyz/noah/live-channel?ver=CNN_BRASIL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ngBYCo9.png" group-title="Noticias" ,[smartv]  24 Horas
-https://tv.teleclub.xyz/noah/live-channel?smartv=24HORAS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/JQFsU7i.png" group-title="Noticias" ,[smartv]  ADN40
-https://tv.teleclub.xyz/noah/live-channel?smartv=ADN40&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/bEebu04.png" group-title="Noticias" ,[smartv]  Bloomberg
-https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERGLAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/bEebu04.png" group-title="Noticias" ,[smartv]  Bloomberg [2]
-https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERG_LAT&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Externa" ,[smartv]  ARG | Telefé Bahia Blanca [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_BAHIA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Externa" ,[smartv]  ARG | Telefé Rosario [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_ROSARIO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/KZBCcjc.png" group-title="Externa" ,[smartv]  ARG | America TV Tucumán [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=AMERICATV_TUCUMAN&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/2ASFXGc.png" group-title="Externa" ,[smartv]  ARG | Canal IP [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=IP_ARG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="Externa" ,[smartv]  ARG | 26 TV
-https://tv.teleclub.xyz/noah/live-channel?ver=26TV_ARG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/oXfwH1i.png" group-title="Externa" ,[smartv]  ARG | Telemax [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEMAX_ARG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/UmUz3h6.png" group-title="Externa" ,[smartv]  UY | Canal 10 [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=CANAL10_UY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/QQrz67n.jpg" group-title="Externa" ,[smartv]  PY | ABC [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=ABC_PY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/74cdEvY.jpg" group-title="Externa" ,[smartv]  PY | Unicanal [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=UNICANAL_PY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ygkvd6Y.jpg" group-title="Externa" ,[smartv]  CL | RewindTV [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=REWINDTV_CL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/lCaYkmC.png" group-title="Externa" ,[smartv]  CL | Zapping Music [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=ZAPPINGMUSIC_CL&format=.m3u8
-#EXTINF:0, tvg-logo="https://blackaddon.com/black/img/icon.png" group-title="Externa" ,[smartv]  CL | Camara de Diputados [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=CAMARA_CL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/D8TetXe.jpg" group-title="Externa" ,[smartv]  CL | STGO TV [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=STGOTV_CL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/SdWLG7O.png" group-title="Externa" ,[smartv]  Love Nature [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=LOVENATURE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa" ,[smartv]  Telesur LAT [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa" ,[smartv]  Telesur English [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_ENGLISH&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Zoh8rT7.jpg" group-title="Externa" ,[smartv]  CBS News Los Angeles [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=CBSNEWS_LA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4Tb47L0.jpg" group-title="Externa" ,[smartv]  NHK World [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=NHK_WORLD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ICGdETe.png" group-title="Externa" ,[smartv]  RTVE1 [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=RTVE1&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Tlet6RL.png" group-title="Externa" ,[smartv]  RTVE24 [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=RTVE24&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EVVY9o6.png" group-title="Externa" ,[smartv]  UCL Television LAT [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=UCL_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dInDwa0.png" group-title="Externa" ,[smartv]  Tierramia [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TIERRAMIA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Ai3ZUG5.jpg" group-title="Externa" ,[smartv]  TopMusic [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=TOPMUSIC_247&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/cW8RoFm.jpg" group-title="Externa" ,[smartv]  EC | CCTV Quevedo [*]
-https://tv.teleclub.xyz/noah/live-channel?ver=QUEVEDO_EC&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/hMon4qd.png" group-title="Mundo" ,[smartv]  CHV
-https://tv.teleclub.xyz/noah/live-channel?smartv=CHV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/VZH3c3O.png" group-title="Mundo" ,[smartv]  El nueve
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELNUEVE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo" ,[smartv]  Telefe
-https://tv.teleclub.xyz/noah/live-channel?smartv=TELEFE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="Mundo" ,[smartv]  El trece 
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELTRECE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo" ,[smartv]  Lifetime
-https://tv.teleclub.xyz/noah/live-channel?smartv=LIFETIME&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/kp0Ikcj.png" group-title="Mundo" ,[smartv]  MasChic
-https://tv.teleclub.xyz/noah/live-channel?smartv=MASCHIC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="Mundo" ,[smartv]  Hola!
-https://tv.teleclub.xyz/noah/live-channel?smartv=HOLATV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/55x9NTr.jpg" group-title="Mundo" ,[smartv]  Telemundo
-https://tv.teleclub.xyz/noah/live-channel?smartv=TELEMUNDO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/64NEN8V.png" group-title="Mundo" ,[smartv]  Tlnovelas
-https://tv.teleclub.xyz/noah/live-channel?smartv=TLNOVELAS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/osmtnbz.png" group-title="Mundo" ,[smartv]  Azteca Uno
-https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA1&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/osmtnbz.png" group-title="Mundo" ,[smartv]  Azteca 7
-https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA7&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/R5EdxXG.png" group-title="Mundo" ,[smartv]  Az Corazon
-https://tv.teleclub.xyz/noah/live-channel?smartv=AZCORAZON&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Mundo" ,[smartv]  Univision
-https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVISION&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/0jYyq4K.jpg" group-title="Mundo" ,[smartv]  Caracol TV
-https://tv.teleclub.xyz/noah/live-channel?smartv=CARACOLTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/4EQM99H.jpg" group-title="Mundo" ,[smartv]  A3 Series
-https://tv.teleclub.xyz/noah/live-channel?smartv=A3SERIES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fISPUww.jpg" group-title="Mundo" ,[smartv]  Antena 3
-https://tv.teleclub.xyz/noah/live-channel?smartv=A3&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/pMWxBGL.png" group-title="Mundo" ,[smartv]  TruTV
-https://tv.teleclub.xyz/noah/live-channel?smartv=TRUTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/1WgmrLn.png" group-title="Mundo" ,[smartv]  Glitz
-https://tv.teleclub.xyz/noah/live-channel?smartv=GLITZ&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo" ,[smartv]  Las Estrellas TV
-https://tv.teleclub.xyz/noah/live-channel?smartv=LASESTRELLAS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/xvgKK5S.png" group-title="Mundo" ,[smartv]  RCN 
-https://tv.teleclub.xyz/noah/live-channel?smartv=RCN&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura" ,[smartv]  Animal Planet
-https://tv.teleclub.xyz/noah/live-channel?smartv=ANIMALPLANET&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura" ,[smartv]  Discovery Channel
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISCOVERY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura" ,[smartv]  Discovery Turbo
-https://tv.teleclub.xyz/noah/live-channel?smartv=DTURBO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura" ,[smartv]  Discovery World
-https://tv.teleclub.xyz/noah/live-channel?smartv=DWORLD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura" ,[smartv]  Discovery Theater
-https://tv.teleclub.xyz/noah/live-channel?smartv=DTHEATER&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura" ,[smartv]  Discovery Sciences
-https://tv.teleclub.xyz/noah/live-channel?smartv=DSCIENCES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura" ,[smartv]  Discovery H&H
-https://tv.teleclub.xyz/noah/live-channel?smartv=DHYH&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Zp8RIL3.jpg" group-title="Cultura" ,[smartv]  Investigation Discovery
-https://tv.teleclub.xyz/noah/live-channel?smartv=ID&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura" ,[smartv]  TLC
-https://tv.teleclub.xyz/noah/live-channel?smartv=TLC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura" ,[smartv]  History Channel
-https://tv.teleclub.xyz/noah/live-channel?smartv=HISTORY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura" ,[smartv]  History 2
-https://tv.teleclub.xyz/noah/live-channel?smartv=H2&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura" ,[smartv]  NATGEO
-https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura" ,[smartv]  NATGEO Wild
-https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOWILD&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura" ,[smartv]  A&E
-https://tv.teleclub.xyz/noah/live-channel?smartv=AYE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura" ,[smartv]  El Gourmet
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELGOURMET&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Cultura" ,[smartv]  ComedyCentral
-https://tv.teleclub.xyz/noah/live-channel?smartv=COMEDYCENTRAL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/pWW9ljW.jpg" group-title="Cultura" ,[smartv]  Distrito Comedia
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISTRITOCOMEDIA&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBOPremium" ,[smartv]  HBO
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="HBOPremium" ,[smartv]  HBO2
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBO2&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="HBOPremium" ,[smartv]  HBO PLUS
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOPLUS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="HBOPremium" ,[smartv]  HBO FAMILY
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOFAMILY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="HBOPremium" ,[smartv]  HBO SIGNATURE
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOSIGNATURE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="HBOPremium" ,[smartv]  HBO MUNDI
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOMUNDI&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="HBOPremium" ,[smartv]  HBO POP
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOPOP&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBOPremium" ,[smartv]  HBO XTREME
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOXTREME&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium" ,[smartv]  Fox Premium Action
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXACTION&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/RefOTUQ.jpg" group-title="FOXPremium" ,[smartv]  Fox Premium Cinema
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCINEMA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium" ,[smartv]  Fox Premium Comedy
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCOMEDY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium" ,[smartv]  Fox Premium Classic
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCLASSIC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/FtsDvN9.jpg" group-title="FOXPremium" ,[smartv]  Fox Premium Family
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXFAMILY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fyA3yba.jpg" group-title="FOXPremium" ,[smartv]  Fox Premium Series
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSERIES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium" ,[smartv]  Fox Premium Movies
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXMOVIES&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento" ,[smartv]  Fox Channel
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="Entretenimiento" ,[smartv]  Fox Life
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXLIFE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento" ,[smartv]  AMC
-https://tv.teleclub.xyz/noah/live-channel?smartv=AMC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento" ,[smartv]  Warner TV
-https://tv.teleclub.xyz/noah/live-channel?smartv=WARNER&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento" ,[smartv]  Universal TV
-https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVERSAL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento" ,[smartv]  FX
-https://tv.teleclub.xyz/noah/live-channel?smartv=FX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Entretenimiento" ,[smartv]  FXM
-https://tv.teleclub.xyz/noah/live-channel?smartv=FXM&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento" ,[smartv]  AXN 
-https://tv.teleclub.xyz/noah/live-channel?smartv=AXN&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento" ,[smartv]  Sony Channel
-https://tv.teleclub.xyz/noah/live-channel?smartv=SONY&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento" ,[smartv]  TNT
-https://tv.teleclub.xyz/noah/live-channel?smartv=TNT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento" ,[smartv]  TNT Series
-https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSERIES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento" ,[smartv]  Space
-https://tv.teleclub.xyz/noah/live-channel?smartv=SPACE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento" ,[smartv]  Studio Universal
-https://tv.teleclub.xyz/noah/live-channel?smartv=STUDIOUNIVERSAL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento" ,[smartv]  TBS
-https://tv.teleclub.xyz/noah/live-channel?smartv=TBS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="Entretenimiento" ,[smartv]  TCM
-https://tv.teleclub.xyz/noah/live-channel?smartv=TCM&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="Entretenimiento" ,[smartv]  Cinecanal
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINECANAL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento" ,[smartv]  Cinemax
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINEMAX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento" ,[smartv]  Paramount Channel
-https://tv.teleclub.xyz/noah/live-channel?smartv=PARAMOUNT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/1eKZASl.png" group-title="Entretenimiento" ,[smartv]  CINELATINO
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINELATINO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[smartv]  Golden
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDEN&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento" ,[smartv]  Golden Premier
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDENPREMIER&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/w9FRWYm.png" group-title="Entretenimiento" ,[smartv]  DEPELICULA
-https://tv.teleclub.xyz/noah/live-channel?smartv=DEPELICULA&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[smartv]  MTV
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[smartv]  MTV Live
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTVLIVE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica" ,[smartv]  MTV Hits
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTVHITS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica" ,[smartv]  VH1 CLASSIC
-https://tv.teleclub.xyz/noah/live-channel?smartv=VH1CLASSIC&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica" ,[smartv]  VH1
-https://tv.teleclub.xyz/noah/live-channel?smartv=VH1&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deporte" ,[smartv]  TNT SPORT
-https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSPORTS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte" ,[smartv]  DIRECTV SPORT
-https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte" ,[smartv]  DIRECTV SPORT 2
-https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORT2&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte" ,[smartv]  DIRECTV SPORT PLUS
-https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORTPLUS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/TIGfZjN.jpg" group-title="Deporte" ,[smartv]  AyM Sport
-https://tv.teleclub.xyz/noah/live-channel?smartv=AYMSPORT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[smartv]  Fox Sport LAT 
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[smartv]  Fox Sport 2 LAT
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[smartv]  Fox Sport 3 LAT
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[smartv]  Fox Sport MEX 
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[smartv]  Fox Sport 2 MEX
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte" ,[smartv]  Fox Sport 3 MEX
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[smartv]  ESPN LAT
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[smartv]  ESPN 2 LAT
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN2_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[smartv]  ESPN 3 LAT
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN3_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[smartv]  ESPN EXTRA LAT
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPNPLUS_LAT&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[smartv]  ESPN MEX
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[smartv]  ESPN 2 MEX
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN2_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[smartv]  ESPN 3 MEX
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN3_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte" ,[smartv]  ESPN EXTRA MEX
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPNPLUS_MEX&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/lLeq98m.png" group-title="Deporte" ,[smartv]  ECDF : El Canal del Futbol 
-https://tv.teleclub.xyz/noah/live-channel?smartv=ECDF&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deporte" ,[smartv]  GOLTV 
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deporte" ,[smartv]  GOLTV ALT
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLTV2&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte" ,[smartv]  CLARO SPORT 2
-https://tv.teleclub.xyz/noah/live-channel?smartv=CLAROSPORT2&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deporte" ,[smartv]  TUDN USA
-https://tv.teleclub.xyz/noah/live-channel?smartv=TUDN_USA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/qyrzMjg.jpg" group-title="Deporte" ,[smartv]  GOLF TV
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLFTV&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/FjWnkUZ.png" group-title="Deporte" ,[smartv]  GARAGE TV
-https://tv.teleclub.xyz/noah/live-channel?smartv=GARAGETV&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Thunder Cats
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_THUNDERCATS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Los Simpsons
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_SIMPSONS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Los Simpsons [2]
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_SIMPSON&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Malcolm el de enmedio
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_MALCOLM&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Alf 
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_ALF&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Animaniatics
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_ANIMANIATICS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Bob Esponja
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_BOBESPONJA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | El Chavo del 8
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_CHAVO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Futurama
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_FUTURAMA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Pantera Rosa
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_PANTERAROSA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Teoria del Bing Bang
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_BINGBANG&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Pokemon
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_POKEMON&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Smallville
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_SMALLVILLE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Como conoci a tu madre
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_MADRE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Supercampeones
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_SUPERCAMPEONES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7" ,[smartv]  24/7 | Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_PELICULAS&format=.m3u8
-
-
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Anime
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIME&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Anime Accion
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIME_ACCION&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Nick
-https://tv.teleclub.xyz/noah/live-channel?plutotv=NICK&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Nick Clasico
-https://tv.teleclub.xyz/noah/live-channel?plutotv=NICK_CLASICO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Rugrats Crecidos
-https://tv.teleclub.xyz/noah/live-channel?plutotv=RUGRATS_CRECIDOS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Series
-https://tv.teleclub.xyz/noah/live-channel?plutotv=SERIES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Series Latino
-https://tv.teleclub.xyz/noah/live-channel?plutotv=SERIES_LATINO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Familiar
-https://tv.teleclub.xyz/noah/live-channel?plutotv=FAMILIA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Cine Estelar
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_ESTELAR&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Cine Accion
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_ACCION&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Cine Comedia
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_COMEDIA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Cine Drama
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_DRAMA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Cine Terror
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_TERROR&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Cine Latino
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_LATINO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Suspenso
-https://tv.teleclub.xyz/noah/live-channel?plutotv=SUSPENSO&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Investiga
-https://tv.teleclub.xyz/noah/live-channel?plutotv=INVESTIGA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Archivos del FBI
-https://tv.teleclub.xyz/noah/live-channel?plutotv=FBI&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Animales
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIMALES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Viajes
-https://tv.teleclub.xyz/noah/live-channel?plutotv=VIAJES&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Telefe Clasico
-https://tv.teleclub.xyz/noah/live-channel?plutotv=TELEFE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Cocina
-https://tv.teleclub.xyz/noah/live-channel?plutotv=COCINA&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Romance
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ROMANCE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Archivos Forenses
-https://tv.teleclub.xyz/noah/live-channel?plutotv=FORENSE&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | ArmyFAIL
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ARMYFAIL&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Humor
-https://tv.teleclub.xyz/noah/live-channel?plutotv=HUMOR&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Misterios Medicos
-https://tv.teleclub.xyz/noah/live-channel?plutotv=MISTERIOSMEDICOS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | Narcos
-https://tv.teleclub.xyz/noah/live-channel?plutotv=NARCOS&format=.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV" ,[smartv]  PlutoTV | The Walking Dead
-https://tv.teleclub.xyz/noah/live-channel?plutotv=THEWALKINGDEAD&format=.m3u8
-
