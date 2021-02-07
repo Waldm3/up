@@ -8,117 +8,117 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA1&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA1&format=.m3u8&file=.m3u
 #EXTINF:0,ADN40
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?smartv=ADN40&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ADN40&format=.m3u8&file=.m3u
 #EXTINF:0,Las Estrellas TV
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?smartv=LASESTRELLAS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=LASESTRELLAS&format=.m3u8&file=.m3u
 #EXTINF:0,ForoTV [SD]
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?latino=FOROTV_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOROTV_SD&format=.m3u8&file=.m3u
 #EXTINF:0,5 Cinco [SD]
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?latino=CINCO_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CINCO_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Azteca 7
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA7&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=AZTECA7&format=.m3u8&file=.m3u
 #EXTINF:0,Bloomberg
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERGLAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERGLAT&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Univision
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVISION&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVISION&format=.m3u8&file=.m3u
 #EXTINF:0,Univision [HD]
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?latino=UNIVISION_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=UNIVISION_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Telemundo
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?smartv=TELEMUNDO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TELEMUNDO&format=.m3u8&file=.m3u
 #EXTINF:0,Telemundo Internacional [SD]
 #EXTGRP:Locales
-https://tv.teleclub.xyz/noah/live-channel?latino=TELEMUNDO_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TELEMUNDO_SD&format=.m3u8&file=.m3u
 
 #EXTINF:0,Fox Channel
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOX&format=.m3u8&file=.m3u
 #EXTINF:0,Sony
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=SONY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=SONY&format=.m3u8&file=.m3u
 #EXTINF:0,Warner TV
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=WARNER&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=WARNER&format=.m3u8&file=.m3u
 #EXTINF:0,Universal TV
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVERSAL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=UNIVERSAL&format=.m3u8&file=.m3u
 #EXTINF:0,FX
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=FX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FX&format=.m3u8&file=.m3u
 #EXTINF:0,Studio Universal
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=STUDIOUNIVERSAL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=STUDIOUNIVERSAL&format=.m3u8&file=.m3u
 #EXTINF:0,Unicable [SD]
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?latino=UNICABLE_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=UNICABLE_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Life
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXLIFE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXLIFE&format=.m3u8&file=.m3u
 #EXTINF:0,TBS
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=TBS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TBS&format=.m3u8&file=.m3u
 #EXTINF:0,AXN
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=AXN&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=AXN&format=.m3u8&file=.m3u
 #EXTINF:0,A&E
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=AYE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=AYE&format=.m3u8&file=.m3u
 #EXTINF:0,ComedyCentral
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=COMEDYCENTRAL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=COMEDYCENTRAL&format=.m3u8&file=.m3u
 #EXTINF:0,Distrito Comedia
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISTRITOCOMEDIA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISTRITOCOMEDIA&format=.m3u8&file=.m3u
 #EXTINF:0,TruTV
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=TRUTV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TRUTV&format=.m3u8&file=.m3u
 #EXTINF:0,Hola!
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=HOLATV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HOLATV&format=.m3u8&file=.m3u
 #EXTINF:0,Home&Health
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=DHYH&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DHYH&format=.m3u8&file=.m3u
 #EXTINF:0,ID
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=ID&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ID&format=.m3u8&file=.m3u
 #EXTINF:0,TLC
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=TLC&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TLC&format=.m3u8&file=.m3u
 #EXTINF:0,Tlnovelas
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=TLNOVELAS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TLNOVELAS&format=.m3u8&file=.m3u
 #EXTINF:0,Az Corazon
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=AZCORAZON&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=AZCORAZON&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Lifetime
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=LIFETIME&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=LIFETIME&format=.m3u8&file=.m3u
 #EXTINF:0,MasChic
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=MASCHIC&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=MASCHIC&format=.m3u8&file=.m3u
 #EXTINF:0,Glitz
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=GLITZ&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=GLITZ&format=.m3u8&file=.m3u
 #EXTINF:0,El Gourmet
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELGOURMET&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ELGOURMET&format=.m3u8&file=.m3u
 #EXTINF:0,GARAGE TV
 #EXTGRP:Entretenimiento
-https://tv.teleclub.xyz/noah/live-channel?smartv=GARAGETV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=GARAGETV&format=.m3u8&file=.m3u
 #EXTINF:0,FAIL ARMY
 #EXTGRP:Entretenimiento
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
@@ -129,66 +129,66 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISCOVERY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISCOVERY&format=.m3u8&file=.m3u
 #EXTINF:0,Animal Planet
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=ANIMALPLANET&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ANIMALPLANET&format=.m3u8&file=.m3u
 #EXTINF:0,History Channel
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=HISTORY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HISTORY&format=.m3u8&file=.m3u
 #EXTINF:0,H2
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=H2&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=H2&format=.m3u8&file=.m3u
 #EXTINF:0,NATGEO
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEO&format=.m3u8&file=.m3u
 #EXTINF:0,NATGEO Wild
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOWILD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOWILD&format=.m3u8&file=.m3u
 #EXTINF:0,World
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=DWORLD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DWORLD&format=.m3u8&file=.m3u
 #EXTINF:0,Theater
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=DTHEATER&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DTHEATER&format=.m3u8&file=.m3u
 #EXTINF:0,Turbo
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=DTURBO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DTURBO&format=.m3u8&file=.m3u
 #EXTINF:0,Sciences
 #EXTGRP:Cultura
-https://tv.teleclub.xyz/noah/live-channel?smartv=DSCIENCES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DSCIENCES&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Cartoon Network
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=CARTOON&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CARTOON&format=.m3u8&file=.m3u
 #EXTINF:0,Disney Channel
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEY&format=.m3u8&file=.m3u
 #EXTINF:0,Disney XD
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYXD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYXD&format=.m3u8&file=.m3u
 #EXTINF:0,Disney Jr
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYJR&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DISNEYJR&format=.m3u8&file=.m3u
 #EXTINF:0,NATGEO Kids
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOKIDS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=NATGEOKIDS&format=.m3u8&file=.m3u
 #EXTINF:0,NICK
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICK&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=NICK&format=.m3u8&file=.m3u
 #EXTINF:0,TEEN NICK
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=TEENNICK&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TEENNICK&format=.m3u8&file=.m3u
 #EXTINF:0,NICK MUSIC
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICKMUSIC&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=NICKMUSIC&format=.m3u8&file=.m3u
 #EXTINF:0,NICK JR
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=NICKJR&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=NICKJR&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery Kids
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=DKIDS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DKIDS&format=.m3u8&file=.m3u
 #EXTINF:0,KanadeTv 
 #EXTGRP:Niños
 http://207.246.84.143:8080/hls/Kanade.m3u8
@@ -209,7 +209,7 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
 #EXTINF:0,Futurama
 #EXTGRP:Niños
-https://m3u-editor.com/serve/rokumaniatest/156476844&file=.m3u8
+https://m3u-editor.com/serve/rokumaniatest/156476844&format=.m3u8&file=.m3u
 #EXTINF:0,Los Simpsons
 #EXTGRP:Niños
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
@@ -228,26 +228,26 @@ https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_2.m3u8
 
 #EXTINF:0,Tooncast
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=TOONCAST&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TOONCAST&format=.m3u8&file=.m3u
 #EXTINF:0,BabyTV
 #EXTGRP:Niños
-https://tv.teleclub.xyz/noah/live-channel?smartv=BABYTV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=BABYTV&format=.m3u8&file=.m3u
 
 #EXTINF:0,A3 Series
 #EXTGRP:Internacionales
-https://tv.teleclub.xyz/noah/live-channel?smartv=A3SERIES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=A3SERIES&format=.m3u8&file=.m3u
 #EXTINF:0,Antena 3
 #EXTGRP:Internacionales
-https://tv.teleclub.xyz/noah/live-channel?smartv=A3&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=A3&format=.m3u8&file=.m3u
 #EXTINF:0,NHK World [*]
 #EXTGRP:Internacionales
-https://tv.teleclub.xyz/noah/live-channel?ver=NHK_WORLD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=NHK_WORLD&format=.m3u8&file=.m3u
 #EXTINF:0,RTVE1 [*]
 #EXTGRP:Internacionales
-https://tv.teleclub.xyz/noah/live-channel?ver=RTVE1&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=RTVE1&format=.m3u8&file=.m3u
 #EXTINF:0,RTVE24 [*]
 #EXTGRP:Internacionales
-https://tv.teleclub.xyz/noah/live-channel?ver=RTVE24&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=RTVE24&format=.m3u8&file=.m3u
 #EXTINF:0,RAI 1
 #EXTGRP:Internacionaleses
 http://ott-cdn.ucom.am/s29/04.m3u8
@@ -267,211 +267,211 @@ http://livees.cgtn.com/500e/prog_index.m3u8
 
 #EXTINF:0,DEPELICULA
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=DEPELICULA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DEPELICULA&format=.m3u8&file=.m3u
 #EXTINF:0,Golden
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDEN&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDEN&format=.m3u8&file=.m3u
 #EXTINF:0,Golden [SD]
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENEDGE_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENEDGE_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Golden + [SD]
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPLUS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPLUS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Golden Premier
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDENPREMIER&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=GOLDENPREMIER&format=.m3u8&file=.m3u
 #EXTINF:0,TNT
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=TNT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TNT&format=.m3u8&file=.m3u
 #EXTINF:0,TNT Series
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSERIES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSERIES&format=.m3u8&file=.m3u
 #EXTINF:0,Space
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=SPACE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=SPACE&format=.m3u8&file=.m3u
 #EXTINF:0,AMC
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=AMC&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=AMC&format=.m3u8&file=.m3u
 #EXTINF:0,FXM
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=FXM&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FXM&format=.m3u8&file=.m3u
 #EXTINF:0,TCM
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=TCM&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TCM&format=.m3u8&file=.m3u
 #EXTINF:0,Cinecanal
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINECANAL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CINECANAL&format=.m3u8&file=.m3u
 #EXTINF:0,Cinemax
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINEMAX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CINEMAX&format=.m3u8&file=.m3u
 #EXTINF:0,Paramount Channel
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=PARAMOUNT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=PARAMOUNT&format=.m3u8&file=.m3u
 #EXTINF:0,CINELATINO
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=CINELATINO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CINELATINO&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Fox Action
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXACTION&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXACTION&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Action [2][SD]
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_SD2&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_SD2&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Cinema
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCINEMA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCINEMA&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Comedy
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCOMEDY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCOMEDY&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Classic
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCLASSIC&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXCLASSIC&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Family
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXFAMILY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXFAMILY&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Series
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSERIES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSERIES&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Movies
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXMOVIES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXMOVIES&format=.m3u8&file=.m3u
 
 
 
 #EXTINF:0,HBO
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HBO&format=.m3u8&file=.m3u
 #EXTINF:0,HBO2
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBO2&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HBO2&format=.m3u8&file=.m3u
 #EXTINF:0,HBO PLUS
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOPLUS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HBOPLUS&format=.m3u8&file=.m3u
 #EXTINF:0,HBO FAMILY
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOFAMILY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HBOFAMILY&format=.m3u8&file=.m3u
 #EXTINF:0,HBO SIGNATURE
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOSIGNATURE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HBOSIGNATURE&format=.m3u8&file=.m3u
 #EXTINF:0,HBO MUNDI
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOMUNDI&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HBOMUNDI&format=.m3u8&file=.m3u
 #EXTINF:0,HBO POP
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOPOP&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HBOPOP&format=.m3u8&file=.m3u
 #EXTINF:0,HBO XTREME
 #EXTGRP:Peliculas
-https://tv.teleclub.xyz/noah/live-channel?smartv=HBOXTREME&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=HBOXTREME&format=.m3u8&file=.m3u
 
 #EXTINF:0,TUDN USA
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=TUDN_USA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TUDN_USA&format=.m3u8&file=.m3u
 #EXTINF:0,Afizzionados [SD]
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?latino=AFIZZIONADOS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=AFIZZIONADOS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,GOLTV
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLTV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=GOLTV&format=.m3u8&file=.m3u
 #EXTINF:0,GOLTV_2
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLTV2&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=GOLTV2&format=.m3u8&file=.m3u
 #EXTINF:0,TyC Sports [SD]
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?latino=TYCSPORTS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TYCSPORTS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,TNT SPORT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSPORTS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TNTSPORTS&format=.m3u8&file=.m3u
 #EXTINF:0,BEIN SPORT [SD]
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?latino=BEIN_SPORT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=BEIN_SPORT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,FORMULA 1
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_FORMULA1_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_FORMULA1_ES&format=.m3u8&file=.m3u
 #EXTINF:0,LaLiga
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_LALIGA_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_LALIGA_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Liga de Campeones
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_LIGADECAMPEONES_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_LIGADECAMPEONES_ES&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORT&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT 2
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORT2&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORT2&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT PLUS
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORTPLUS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=DIRECTV_SPORTPLUS&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN LAT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 2 LAT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN2_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN2_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 3 LAT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN3_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN3_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN EXTRA LAT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPNPLUS_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ESPNPLUS_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN MEX
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN_MEX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN_MEX&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 2 MEX
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN2_MEX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN2_MEX&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 3 MEX
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN3_MEX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ESPN3_MEX&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN EXTRA MEX
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ESPNPLUS_MEX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ESPNPLUS_MEX&format=.m3u8&file=.m3u
 #EXTINF:0,CLARO SPORTS [SD]
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?latino=CLARO_SPORTS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CLARO_SPORTS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,CLARO SPORT 2
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=CLAROSPORT2&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CLAROSPORT2&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport Premium
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORTS_PREMIUM&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORTS_PREMIUM&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport LAT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 2 LAT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 3 LAT
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport MEX
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_MEX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT_MEX&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 2 MEX
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_MEX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT2_MEX&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 3 MEX
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_MEX&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=FOXSPORT3_MEX&format=.m3u8&file=.m3u
 #EXTINF:0,AyM Sport
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=AYMSPORT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=AYMSPORT&format=.m3u8&file=.m3u
 #EXTINF:0,GOLF TV
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=GOLFTV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=GOLFTV&format=.m3u8&file=.m3u
 #EXTINF:0,WIN SPORT [SD]
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,WIN SPORT PLUS [SD]
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_PLUS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_PLUS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,CDF [SD]
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?latino=CDF_P_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CDF_P_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ECDF : El Canal del Futbol
 #EXTGRP:Deportes
-https://tv.teleclub.xyz/noah/live-channel?smartv=ECDF&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ECDF&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 1 US
 #EXTGRP:Deportes
 https://gma2.blab.email/fs2.m3u8
@@ -484,37 +484,37 @@ https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:0,CNN Internacional
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNINT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CNNINT&format=.m3u8&file=.m3u
 #EXTINF:0,CNN en Espanol
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL&format=.m3u8&file=.m3u
 #EXTINF:0,CNN en Espanol 2
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL2&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CNNESPANOL2&format=.m3u8&file=.m3u
 #EXTINF:0,CNN Sudamerica
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?smartv=CNN_Sudamerica&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CNN_Sudamerica&format=.m3u8&file=.m3u
 #EXTINF:0,CNN Brasil
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?ver=CNN_BRASIL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=CNN_BRASIL&format=.m3u8&file=.m3u
 #EXTINF:0,24 Horas
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?smartv=24HORAS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=24HORAS&format=.m3u8&file=.m3u
 #EXTINF:0,RT en Espanol [SD]
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?latino=RTESPANOL_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=RTESPANOL_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ABC NEWS [SD]
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?latino=ABCNEWS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ABCNEWS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,FOX NEWS [SD]
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXNEWS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXNEWS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Bloomberg [2]
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERG_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERG_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,CBS News Los Angeles [*]
 #EXTGRP:Noticias
-https://tv.teleclub.xyz/noah/live-channel?ver=CBSNEWS_LA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=CBSNEWS_LA&format=.m3u8&file=.m3u
 #EXTINF:0,DW EN ESPANOL
 #EXTGRP:Noticias
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
@@ -550,843 +550,843 @@ http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:0,HTV [SD]
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?latino=HTV_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HTV_SD&format=.m3u8&file=.m3u
 #EXTINF:0,MTV
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=MTV&format=.m3u8&file=.m3u
 #EXTINF:0,MTV 80s [SD]
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?latino=MTV80_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=MTV80_SD&format=.m3u8&file=.m3u
 #EXTINF:0,MTV Hits
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTVHITS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=MTVHITS&format=.m3u8&file=.m3u
 #EXTINF:0,MTV Live
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?smartv=MTVLIVE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=MTVLIVE&format=.m3u8&file=.m3u
 #EXTINF:0,VH1 CLASSIC
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?smartv=VH1CLASSIC&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=VH1CLASSIC&format=.m3u8&file=.m3u
 #EXTINF:0,VH1
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?smartv=VH1&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=VH1&format=.m3u8&file=.m3u
 #EXTINF:0,Bandamax [SD]
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?latino=BANDAMAX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=BANDAMAX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,TELEHIT [SD]
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?latino=TELEHIT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TELEHIT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,TOPLATINO [SD]
 #EXTGRP:Musica
-https://tv.teleclub.xyz/noah/live-channel?latino=TOPLATINO_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TOPLATINO_SD&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,ADN40 [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ADN40_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ADN40_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Las Estrellas TV [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=LASESTRELLAS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=LASESTRELLAS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Channel [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Sony [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=SONY_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=SONY_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Warner TV [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=WARNER_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=WARNER_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Universal TV [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=UNIVERSAL_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=UNIVERSAL_SD&format=.m3u8&file=.m3u
 #EXTINF:0,FX [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Studio Universal [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=STUDIOUNIVERSAL_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=STUDIOUNIVERSAL_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Life [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXLIFE_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXLIFE_SD&format=.m3u8&file=.m3u
 #EXTINF:0,SYFY [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=SYFY_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=SYFY_SD&format=.m3u8&file=.m3u
 #EXTINF:0,AXN  [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=AXN_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=AXN_SD&format=.m3u8&file=.m3u
 #EXTINF:0,A&E [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=AYE_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=AYE_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ComedyCentral [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=COMEDYCENTRAL_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=COMEDYCENTRAL_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Distrito Comedia [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DISTRITOCOMEDIA_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DISTRITOCOMEDIA_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Hola! [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HOLATV_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HOLATV_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Home&Health [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DHYH_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DHYH_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Investigation Discovery [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ID_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ID_SD&format=.m3u8&file=.m3u
 #EXTINF:0,TLC [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=TLC_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TLC_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Tlnovelas [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=TLNOVELAS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TLNOVELAS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Lifetime [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=LIFETIME_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=LIFETIME_SD&format=.m3u8&file=.m3u
 #EXTINF:0,El Gourmet [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ELGOURMET_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ELGOURMET_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery Channel [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DISCOVERY_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DISCOVERY_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Animal Planet [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ANIMALPLANET_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ANIMALPLANET_SD&format=.m3u8&file=.m3u
 #EXTINF:0,History Channel [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HISTORY_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HISTORY_SD&format=.m3u8&file=.m3u
 #EXTINF:0,H2 [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=H2_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=H2_SD&format=.m3u8&file=.m3u
 #EXTINF:0,NATGEO [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=NATGEO_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=NATGEO_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery World [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DWORLD_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DWORLD_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery Theater [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DTHEATER_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DTHEATER_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery Turbo [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DTURBO_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DTURBO_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Cartoon Network [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=CARTOON_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CARTOON_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Disney Channel [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DISNEY_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DISNEY_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Disney XD  [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DISNEYXD_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DISNEYXD_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Disney Jr [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DISNEYJR_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DISNEYJR_SD&format=.m3u8&file=.m3u
 #EXTINF:0,NATGEO Kids [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=NATGEOKIDS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=NATGEOKIDS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,NICK [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=NICK_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=NICK_SD&format=.m3u8&file=.m3u
 #EXTINF:0,TEEN NICK [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_SD&format=.m3u8&file=.m3u
 #EXTINF:0,NICK MUSIC [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=NICKMUSIC_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=NICKMUSIC_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery Kids [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DKIDS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DKIDS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Tooncast [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=TOONCAST_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TOONCAST_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Boomerang [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=BOOMERANG_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=BOOMERANG_SD&format=.m3u8&file=.m3u
 #EXTINF:0,DEPELICULA [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DEPELICULA_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DEPELICULA_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Golden Premier [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPREMIER_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPREMIER_SD&format=.m3u8&file=.m3u
 #EXTINF:0,TNT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,TNT Series [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=TNTSERIES_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TNTSERIES_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Space [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=SPACE_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=SPACE_SD&format=.m3u8&file=.m3u
 #EXTINF:0,FXM [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FXM_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FXM_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Cinecanal [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=CINECANAL_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CINECANAL_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Cinemax [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=CINEMAX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CINEMAX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Paramount Channel [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=PARAMOUNT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=PARAMOUNT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Action [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Comedy [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCOMEDY_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCOMEDY_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Classic [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCLASSIC_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCLASSIC_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Family [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXFAMILY_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXFAMILY_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Series [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSERIES_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSERIES_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Movies [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXMOVIES_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXMOVIES_SD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBO_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBO_SD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO2 [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBO2_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBO2_SD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO PLUS [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOPLUS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOPLUS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO FAMILY [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOFAMILY_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOFAMILY_SD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO SIGNATURE [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOSIGNATURE_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOSIGNATURE_SD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO MUNDI [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOMUNDI_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOMUNDI_SD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO POP [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOPOP_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOPOP_SD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO XTREME [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOXTREME_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOXTREME_SD&format=.m3u8&file=.m3u
 #EXTINF:0,GolTV [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLTV_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLTV_SD&format=.m3u8&file=.m3u
 #EXTINF:0,GolTV_2 [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLTV2_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLTV2_SD&format=.m3u8&file=.m3u
 #EXTINF:0,TNT SPORT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SPORT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SPORT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT 2 [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT2_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT2_SD&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT PLUS [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORTPLUS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORTPLUS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN LAT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_LAT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_LAT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 2 LAT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_LAT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_LAT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 3 LAT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_LAT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_LAT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN EXTRA LAT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_LAT_EXTRA_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_LAT_EXTRA_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN MEX [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_MEX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_MEX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 2 MEX [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_MEX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_MEX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 3 MEX [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_MEX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_MEX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport LAT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_LAT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_LAT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 2 LAT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_LAT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_LAT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 3 LAT [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_LAT_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_LAT_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport MEX [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_MEX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_MEX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 2 MEX [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_MEX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_MEX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 3 MEX [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_MEX_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_MEX_SD&format=.m3u8&file=.m3u
 #EXTINF:0,CNN en Espanol [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=CNNESPANOL_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CNNESPANOL_SD&format=.m3u8&file=.m3u
 #EXTINF:0,MTV [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=MTV_SD &file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=MTV_SD &format=.m3u8&file=.m3u
 #EXTINF:0,MTV Hits [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=MTVHITS_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=MTVHITS_SD&format=.m3u8&file=.m3u
 #EXTINF:0,VH1 [SD]
 #EXTGRP:SD
-https://tv.teleclub.xyz/noah/live-channel?latino=VH1_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=VH1_SD&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Las Estrellas TV [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=LASESTRELLAS_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=LASESTRELLAS_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Channel [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Sony [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=SONY_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=SONY_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Universal TV [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=UNIVERSAL_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=UNIVERSAL_HD&format=.m3u8&file=.m3u
 #EXTINF:0,FX [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Studio Universal [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=STUDIOUNIVERSAL_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=STUDIOUNIVERSAL_HD&format=.m3u8&file=.m3u
 #EXTINF:0,A&E [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=AYE_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=AYE_HD&format=.m3u8&file=.m3u
 #EXTINF:0,AXN  [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=AXN_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=AXN_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Home&Health [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DHYH_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DHYH_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Investigation Discovery [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=ID_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ID_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery Channel [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DISCOVERY_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DISCOVERY_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery World [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DWORLD_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DWORLD_HD&format=.m3u8&file=.m3u
 #EXTINF:0,History Channel [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=HISTORY_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HISTORY_HD&format=.m3u8&file=.m3u
 #EXTINF:0,H2 [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=H2_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=H2_HD&format=.m3u8&file=.m3u
 #EXTINF:0,NATGEO Wild [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=NATGEOWILD_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=NATGEOWILD_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery Theater [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DTHEATER_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DTHEATER_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery Sciences [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DSCIENCES_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DSCIENCES_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Cartoon Network [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=CARTOON_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CARTOON_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Disney Channel [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DISNEY_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DISNEY_HD&format=.m3u8&file=.m3u
 #EXTINF:0,TEEN NICK [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Golden + [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPLUS_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPLUS_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Golden Premier [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPREMIER_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=GOLDENPREMIER_HD&format=.m3u8&file=.m3u
 #EXTINF:0,TNT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=TNT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TNT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Space [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=SPACE_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=SPACE_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Cinecanal [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=CINECANAL_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CINECANAL_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Cinemax [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=CINEMAX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CINEMAX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Paramount Channel [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=PARAMOUNT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=PARAMOUNT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Action [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXACTION_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Cinema [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCINEMA_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCINEMA_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Comedy [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCOMEDY_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCOMEDY_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Classic [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXCLASSIC_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXCLASSIC_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Movies [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXMOVIES_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXMOVIES_HD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBO_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBO_HD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO2 [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBO2_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBO2_HD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO PLUS [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOPLUS_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOPLUS_HD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO SIGNATURE [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOSIGNATURE_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOSIGNATURE_HD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO MUNDI [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOMUNDI_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOMUNDI_HD&format=.m3u8&file=.m3u
 #EXTINF:0,HBO XTREME [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=HBOXTREME_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=HBOXTREME_HD&format=.m3u8&file=.m3u
 #EXTINF:0,TNT SPORT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SPORT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TNT_SPORT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT 2 [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT2_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORT2_HD&format=.m3u8&file=.m3u
 #EXTINF:0,DIRECTV SPORT PLUS [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORTPLUS_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=DIRECTV_SPORTPLUS_HD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN LAT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_LAT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_LAT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 2 LAT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_LAT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_LAT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 3 LAT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_LAT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_LAT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN MEX [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_MEX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN_MEX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 2 MEX [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_MEX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN2_MEX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,ESPN 3 MEX [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_MEX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ESPN3_MEX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,CLARO SPORTS [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=CLARO_SPORTS_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CLARO_SPORTS_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport LAT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_LAT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_LAT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 2 LAT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_LAT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_LAT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 3 LAT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_LAT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_LAT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport MEX [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_MEX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT_MEX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 2 MEX [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_MEX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT2_MEX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Sport 3 MEX [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_MEX_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=FOXSPORT3_MEX_HD&format=.m3u8&file=.m3u
 #EXTINF:0,WIN SPORT [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_HD&format=.m3u8&file=.m3u
 #EXTINF:0,WIN SPORT PLUS [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_PLUS_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=WIN_SPORT_PLUS_HD&format=.m3u8&file=.m3u
 #EXTINF:0,CDF [HD]
 #EXTGRP:FHD
-https://tv.teleclub.xyz/noah/live-channel?latino=CDF_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CDF_HD&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Los Simpsons
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?ver=VER_SIMPSONS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=VER_SIMPSONS&format=.m3u8&file=.m3u
 #EXTINF:0,Alf
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?latino=ALF_247&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ALF_247&format=.m3u8&file=.m3u
 #EXTINF:0,South Park
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?latino=SOUTHPARK_247&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=SOUTHPARK_247&format=.m3u8&file=.m3u
 #EXTINF:0,El chavo del 8 
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?latino=CHAVO_247&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CHAVO_247&format=.m3u8&file=.m3u
 #EXTINF:0,Thunder Cats
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_THUNDERCATS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_THUNDERCATS&format=.m3u8&file=.m3u
 #EXTINF:0,Los Simpsons
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_SIMPSONS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_SIMPSONS&format=.m3u8&file=.m3u
 #EXTINF:0,Los Simpsons [2]
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_SIMPSON&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_SIMPSON&format=.m3u8&file=.m3u
 #EXTINF:0,Malcolm el de enmedio
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_MALCOLM&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_MALCOLM&format=.m3u8&file=.m3u
 #EXTINF:0,Alf 
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_ALF&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_ALF&format=.m3u8&file=.m3u
 #EXTINF:0,Animaniatics
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_ANIMANIATICS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_ANIMANIATICS&format=.m3u8&file=.m3u
 #EXTINF:0,Bob Esponja
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_BOBESPONJA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_BOBESPONJA&format=.m3u8&file=.m3u
 #EXTINF:0,El Chavo del 8
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_CHAVO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_CHAVO&format=.m3u8&file=.m3u
 #EXTINF:0,Futurama
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_FUTURAMA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_FUTURAMA&format=.m3u8&file=.m3u
 #EXTINF:0,Pantera Rosa
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_PANTERAROSA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_PANTERAROSA&format=.m3u8&file=.m3u
 #EXTINF:0,Teoria del Bing Bang
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_BINGBANG&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_BINGBANG&format=.m3u8&file=.m3u
 #EXTINF:0,Pokemon
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_POKEMON&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_POKEMON&format=.m3u8&file=.m3u
 #EXTINF:0,Smallville
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_SMALLVILLE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_SMALLVILLE&format=.m3u8&file=.m3u
 #EXTINF:0,Como conoci a tu madre
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_MADRE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_MADRE&format=.m3u8&file=.m3u
 #EXTINF:0,Supercampeones
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_SUPERCAMPEONES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_SUPERCAMPEONES&format=.m3u8&file=.m3u
 #EXTINF:0,Peliculas
 #EXTGRP:24/7
-https://tv.teleclub.xyz/noah/live-channel?smartv=247_PELICULAS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_PELICULAS&format=.m3u8&file=.m3u
 #EXTINF:0,Viajar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=VIAJAR_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=VIAJAR_ES&format=.m3u8&file=.m3u
 #EXTINF:0,TOROS
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=TOROS_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=TOROS_ES&format=.m3u8&file=.m3u
 #EXTINF:0,1 TVE
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=1_TVE_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=1_TVE_ES&format=.m3u8&file=.m3u
 #EXTINF:0,2 TVE
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=2_TVE_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=2_TVE_ES&format=.m3u8&file=.m3u
 #EXTINF:0,24H TVE
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=24H_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=24H_ES&format=.m3u8&file=.m3u
 #EXTINF:0,ANTENA 3
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=ANTENA3_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=ANTENA3_ES&format=.m3u8&file=.m3u
 #EXTINF:0,A3 Series
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=A3SERIES_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=A3SERIES_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Cuatro
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=CUATRO_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=CUATRO_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Cinco
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=CINCO_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=CINCO_ES&format=.m3u8&file=.m3u
 #EXTINF:0,La sexta
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=6_TVE_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=6_TVE_ES&format=.m3u8&file=.m3u
 #EXTINF:0,NOVA
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=NOVA_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=NOVA_ES&format=.m3u8&file=.m3u
 #EXTINF:0,MEGA
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MEGA_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MEGA_ES&format=.m3u8&file=.m3u
 #EXTINF:0,NEOX
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=NEOX_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=NEOX_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Fox
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=FOX_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=FOX_ES&format=.m3u8&file=.m3u
 #EXTINF:0,History
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=HISTORY_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=HISTORY_ES&format=.m3u8&file=.m3u
 #EXTINF:0,TNT
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=TNT_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=TNT_ES&format=.m3u8&file=.m3u
 #EXTINF:0,TCM 
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=TCM_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=TCM_ES&format=.m3u8&file=.m3u
 #EXTINF:0,SYFY
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=SYFY_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=SYFY_ES&format=.m3u8&file=.m3u
 #EXTINF:0,SundanceTV
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=SUNDANCETV_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=SUNDANCETV_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Paramount Network
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=PARAMOUNT_NETWORK_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=PARAMOUNT_NETWORK_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Cine Dinamita
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=CINEDINAMITA_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=CINEDINAMITA_ES&format=.m3u8&file=.m3u
 #EXTINF:0,MTV
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MTV_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MTV_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Fox Life
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=FOXLIFE_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=FOXLIFE_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Discovery
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=DISCOVERY_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=DISCOVERY_ES&format=.m3u8&file=.m3u
 #EXTINF:0,NATGEO Wild
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=NATGEOWILD_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=NATGEOWILD_ES&format=.m3u8&file=.m3u
 #EXTINF:0,NATGEO 
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=NATGEO_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=NATGEO_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Comedy Central
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=COMEDYCENTRAL_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=COMEDYCENTRAL_ES&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Nick
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=NICK_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=NICK_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Nick Jr
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=NICKJR_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=NICKJR_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Disney Jr
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=DISNEYJR_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=DISNEYJR_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Disney Channel
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=DISNEYXD_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=DISNEYXD_ES&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Disney+ Movistar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_DISNEY_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_DISNEY_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Comedia Movistar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_COMEDIA_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_COMEDIA_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Acción Movistar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_ACCION_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_ACCION_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Estrenos Movistar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_ESTRENOS_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_ESTRENOS_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Golf Movistar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_GOLF_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_GOLF_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Cine DOC&ROLL Movistar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_CINE_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_CINE_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Drama Movistar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_DRAMA_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_DRAMA_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Series Maria Movistar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_SERIESMARIA_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=MOVISTAR_SERIESMARIA_ES&format=.m3u8&file=.m3u
 
 #EXTINF:0,TeleDeporte
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=TELEDEPORTE_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=TELEDEPORTE_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Euro Sport
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=EUROSPORT_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=EUROSPORT_ES&format=.m3u8&file=.m3u
 #EXTINF:0,Euro Sport 2
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=EUROSPORT2_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=EUROSPORT2_ES&format=.m3u8&file=.m3u
 #EXTINF:0,La liga TV Bar
 #EXTGRP:España
-https://tv.teleclub.xyz/noah/live-channel?espana=LALIGATVBAR_ES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?espana=LALIGATVBAR_ES&format=.m3u8&file=.m3u
 
 #EXTINF:0,Telefé Bahia Blanca [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_BAHIA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_BAHIA&format=.m3u8&file=.m3u
 #EXTINF:0,Telefé Rosario [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_ROSARIO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=TELEFE_ROSARIO&format=.m3u8&file=.m3u
 #EXTINF:0,America TV Tucumán [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=AMERICATV_TUCUMAN&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=AMERICATV_TUCUMAN&format=.m3u8&file=.m3u
 #EXTINF:0,Canal IP [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=IP_ARG&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=IP_ARG&format=.m3u8&file=.m3u
 #EXTINF:0,26 TV
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=26TV_ARG&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=26TV_ARG&format=.m3u8&file=.m3u
 #EXTINF:0,Telemax [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=TELEMAX_ARG&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=TELEMAX_ARG&format=.m3u8&file=.m3u
 #EXTINF:0,Telefe
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?smartv=TELEFE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=TELEFE&format=.m3u8&file=.m3u
 #EXTINF:0,Telefe [SD]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?latino=TELEFE_ARG&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=TELEFE_ARG&format=.m3u8&file=.m3u
 #EXTINF:0,El nueve
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELNUEVE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ELNUEVE&format=.m3u8&file=.m3u
 #EXTINF:0,El trece
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?smartv=ELTRECE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=ELTRECE&format=.m3u8&file=.m3u
 #EXTINF:0,El Trece [SD]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?latino=ELTRECE_ARG&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=ELTRECE_ARG&format=.m3u8&file=.m3u
 #EXTINF:0,Canal 10 [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=CANAL10_UY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=CANAL10_UY&format=.m3u8&file=.m3u
 #EXTINF:0,ABC [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=ABC_PY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=ABC_PY&format=.m3u8&file=.m3u
 #EXTINF:0,Unicanal [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=UNICANAL_PY&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=UNICANAL_PY&format=.m3u8&file=.m3u
 #EXTINF:0,RewindTV [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=REWINDTV_CL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=REWINDTV_CL&format=.m3u8&file=.m3u
 #EXTINF:0,Zapping Music [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=ZAPPINGMUSIC_CL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=ZAPPINGMUSIC_CL&format=.m3u8&file=.m3u
 #EXTINF:0,Camara de Diputados [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=CAMARA_CL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=CAMARA_CL&format=.m3u8&file=.m3u
 #EXTINF:0,STGO TV [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=STGOTV_CL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=STGOTV_CL&format=.m3u8&file=.m3u
 #EXTINF:0,CHV
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?smartv=CHV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CHV&format=.m3u8&file=.m3u
 #EXTINF:0,CCTV Quevedo [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=QUEVEDO_EC&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=QUEVEDO_EC&format=.m3u8&file=.m3u
 #EXTINF:0,Caracol TV
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?smartv=CARACOLTV&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=CARACOLTV&format=.m3u8&file=.m3u
 #EXTINF:0,Caracol TV [SD]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?latino=CARACOLTV_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CARACOLTV_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Caracol TV [HD]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?latino=CARACOLTV_HD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=CARACOLTV_HD&format=.m3u8&file=.m3u
 #EXTINF:0,RCN 
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?smartv=RCN&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?smartv=RCN&format=.m3u8&file=.m3u
 #EXTINF:0,RCN Nuestra Tele Internacional [SD]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?latino=RCN_SD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?latino=RCN_SD&format=.m3u8&file=.m3u
 #EXTINF:0,Love Nature [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=LOVENATURE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=LOVENATURE&format=.m3u8&file=.m3u
 #EXTINF:0,Telesur LAT [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,Telesur English [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_ENGLISH&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=TELESUR_ENGLISH&format=.m3u8&file=.m3u
 #EXTINF:0,UCL Television LAT [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=UCL_LAT&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=UCL_LAT&format=.m3u8&file=.m3u
 #EXTINF:0,Tierramia [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=TIERRAMIA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=TIERRAMIA&format=.m3u8&file=.m3u
 #EXTINF:0,TopMusic [*]
 #EXTGRP:Sudamerica
-https://tv.teleclub.xyz/noah/live-channel?ver=TOPMUSIC_247&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?ver=TOPMUSIC_247&format=.m3u8&file=.m3u
 
 
 #EXTINF:0,Anime
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIME&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIME&format=.m3u8&file=.m3u
 #EXTINF:0,Anime Accion
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIME_ACCION&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIME_ACCION&format=.m3u8&file=.m3u
 #EXTINF:0,Nick
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=NICK&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=NICK&format=.m3u8&file=.m3u
 #EXTINF:0,Nick Clasico
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=NICK_CLASICO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=NICK_CLASICO&format=.m3u8&file=.m3u
 #EXTINF:0,Rugrats Crecidos
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=RUGRATS_CRECIDOS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=RUGRATS_CRECIDOS&format=.m3u8&file=.m3u
 #EXTINF:0,Series
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=SERIES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=SERIES&format=.m3u8&file=.m3u
 #EXTINF:0,Series Latino
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=SERIES_LATINO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=SERIES_LATINO&format=.m3u8&file=.m3u
 #EXTINF:0,Familiar
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=FAMILIA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=FAMILIA&format=.m3u8&file=.m3u
 #EXTINF:0,Cine Estelar
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_ESTELAR&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_ESTELAR&format=.m3u8&file=.m3u
 #EXTINF:0,Cine Accion
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_ACCION&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_ACCION&format=.m3u8&file=.m3u
 #EXTINF:0,Cine Comedia
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_COMEDIA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_COMEDIA&format=.m3u8&file=.m3u
 #EXTINF:0,Cine Drama
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_DRAMA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_DRAMA&format=.m3u8&file=.m3u
 #EXTINF:0,Cine Terror
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_TERROR&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_TERROR&format=.m3u8&file=.m3u
 #EXTINF:0,Cine Latino
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_LATINO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=CINE_LATINO&format=.m3u8&file=.m3u
 #EXTINF:0,Suspenso
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=SUSPENSO&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=SUSPENSO&format=.m3u8&file=.m3u
 #EXTINF:0,Investiga
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=INVESTIGA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=INVESTIGA&format=.m3u8&file=.m3u
 #EXTINF:0,Archivos del FBI
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=FBI&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=FBI&format=.m3u8&file=.m3u
 #EXTINF:0,Animales
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIMALES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=ANIMALES&format=.m3u8&file=.m3u
 #EXTINF:0,Viajes
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=VIAJES&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=VIAJES&format=.m3u8&file=.m3u
 #EXTINF:0,Telefe Clasico
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=TELEFE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=TELEFE&format=.m3u8&file=.m3u
 #EXTINF:0,Cocina
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=COCINA&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=COCINA&format=.m3u8&file=.m3u
 #EXTINF:0,Romance
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ROMANCE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=ROMANCE&format=.m3u8&file=.m3u
 #EXTINF:0,Archivos Forenses
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=FORENSE&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=FORENSE&format=.m3u8&file=.m3u
 #EXTINF:0,ArmyFAIL
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=ARMYFAIL&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=ARMYFAIL&format=.m3u8&file=.m3u
 #EXTINF:0,Humor
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=HUMOR&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=HUMOR&format=.m3u8&file=.m3u
 #EXTINF:0,Misterios Medicos
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=MISTERIOSMEDICOS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=MISTERIOSMEDICOS&format=.m3u8&file=.m3u
 #EXTINF:0,Narcos
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=NARCOS&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=NARCOS&format=.m3u8&file=.m3u
 #EXTINF:0,The Walking Dead
 #EXTGRP:PlutoTV
-https://tv.teleclub.xyz/noah/live-channel?plutotv=THEWALKINGDEAD&file=.m3u8
+https://tv.teleclub.xyz/noah/live-channel?plutotv=THEWALKINGDEAD&format=.m3u8&file=.m3u
