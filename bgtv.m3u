@@ -520,38 +520,38 @@ https://tv.teleclub.xyz/noah/live-channel?smartv=BLOOMBERG_LAT&format=.m3u8
 #EXTGRP:Noticias
 https://tv.teleclub.xyz/noah/live-channel?ver=CBSNEWS_LA&format=.m3u8
 #EXTINF:0,DW EN ESPANOL
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:0,DW
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
 #EXTINF:0,CBS NEWS
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:0,NBC NEWS
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
 #EXTINF:0,BBC WORLD NEWS
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 http://ott-cdn.ucom.am/s24/04.m3u8
 #EXTINF:0,FRANCE 24 EN ESPANOL
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:0,FRANCE24
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0,CGTN NEWS
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:0, AL JAZZERA NEWS
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:0,RUSSIA 24
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:0,MOSCU 24
-#EXTGRP:Noticias y Documentales
+#EXTGRP:Noticias
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
 #EXTINF:0,HTV [SD]
