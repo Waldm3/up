@@ -11,7 +11,7 @@ http://ipeteve.com/php/regio080220/smartv.php?c=127_&f=.m3u8
 #EXTINF:0,LAS ESTRELLAS
 #EXTGRP:Locales
 http://ipeteve.com/php/regio080220/smartv.php?c=236_&f=.m3u8
-#EXTINF:0,CANAL DE LAS ESTRELLAS
+#EXTINF:0,LAS ESTRELLAS SD
 #EXTGRP:Locales
 http://ipeteve.com/php/regio080220/smartv.php?c=57_&f=.m3u8
 
@@ -37,10 +37,10 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,CANAL 6 CDMX
 #EXTGRP:Locales
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0,CANAL ONCE
+#EXTINF:0,ONCE
 #EXTGRP:Locales
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:0,ONCE NIÑOS
+#EXTINF:0,ONCE SD
 #EXTGRP:Locales
 http://ipeteve.com/php/regio080220/smartv.php?c=132_&f=.m3u8
 #EXTINF:0,MILENIO
@@ -49,7 +49,12 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:0,TVC
 #EXTGRP:Locales
 http://ipeteve.com/php/regio080220/smartv.php?c=60_&f=.m3u8
-
+#EXTINF:0,QUIERO TV
+#EXTGRP:Locales
+https://quierotvlive.tk/httplive/playlist.m3u8
+#EXTINF:0,TELEPLAY
+#EXTGRP:Locales
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 
 #EXTINF:0,UNIVERSO
 #EXTGRP:Locales
@@ -93,6 +98,9 @@ http://ipeteve.com/php/regio080220/smartv.php?c=70_&f=.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL
 #EXTGRP:Entretenimiento
 http://ipeteve.com/php/regio080220/smartv.php?c=79_&f=.m3u8
+#EXTINF:0,STUDIO UNIVERSAL
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=80_&f=.m3u8
 #EXTINF:0,FOX LIFE
 #EXTGRP:Entretenimiento
 http://ipeteve.com/php/regio080220/smartv.php?c=72_&f=.m3u8
@@ -138,6 +146,9 @@ http://ipeteve.com/php/regio080220/smartv.php?c=51_&f=.m3u8
 #EXTINF:0,TELEMUNDO NOVELAS
 #EXTGRP:Entretenimiento
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
+#EXTINF:0,TLN
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=56_&f=.m3u8
 
 #EXTINF:0,LIFETIME
 #EXTGRP:Entretenimiento
@@ -243,6 +254,9 @@ http://ipeteve.com/php/regio080220/smartv.php?c=146_&f=.m3u8
 #EXTINF:0,CHAVO DEL 8
 #EXTGRP:Niños
 http://ipeteve.com/php/regio080220/smartv.php?c=150_&f=.m3u8
+#EXTINF:0,ALF
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=128_&f=.m3u8
 #EXTINF:0,KDE TV
 #EXTGRP:Niños
 http://207.246.84.143:8080/hls/Kanade.m3u8
@@ -255,6 +269,14 @@ http://ipeteve.com/php/regio080220/smartv.php?c=332_&f=.m3u8
 #EXTINF:0,A3CINE
 #EXTGRP:Internacionales
 http://stream.pcriot.com/ZyH3/a3.php/a3cine-index.m3u8
+
+#EXTINF:0,A3Series
+#EXTGRP:Internacionales
+http://ipeteve.com/php/regio080220/smartv.php?c=131_&f=.m3u8
+#EXTINF:0,WILLAX
+#EXTGRP:Internacionales
+http://ipeteve.com/php/regio080220/smartv.php?c=153_&f=.m3u8
+
 #EXTINF:0,CNC CHINA
 #EXTGRP:Internacionales
 https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
@@ -265,6 +287,9 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:0,DE PELICULA +
 #EXTGRP:Peliculas
 http://ipeteve.com/php/regio080220/smartv.php?c=85_&f=.m3u8
+#EXTINF:0,GOLDEN
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=202_&f=.m3u8
 #EXTINF:0,GOLDEN EDGE
 #EXTGRP:Peliculas
 http://ipeteve.com/php/regio080220/smartv.php?c=74_&f=.m3u8
@@ -343,6 +368,9 @@ http://ipeteve.com/php/regio080220/smartv.php?c=33_&f=.m3u8
 #EXTINF:0,HBO 2
 #EXTGRP:Peliculas
 http://ipeteve.com/php/regio080220/smartv.php?c=32_&f=.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=129_&f=.m3u8
 #EXTINF:0,HBO FAMILY
 #EXTGRP:Peliculas
 http://ipeteve.com/php/regio080220/smartv.php?c=34_&f=.m3u8
@@ -361,24 +389,36 @@ http://ipeteve.com/php/regio080220/smartv.php?c=3_&f=.m3u8
 #EXTINF:0,AFIZZIONADOS
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=30_&f=.m3u8
-#EXTINF:0,ESPN
+#EXTINF:0,ESPN MX
 #EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=17_&f=.m3u8
-#EXTINF:0,ESPN 2
+http://ipeteve.com/php/regio080220/smartv.php?c=28_&f=.m3u8
+#EXTINF:0,ESPN 2 MX
 #EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=18_&f=.m3u8
-#EXTINF:0,ESPN 3
+http://ipeteve.com/php/regio080220/smartv.php?c=27_&f=.m3u8
+
+#EXTINF:0,ESPN 3 MX
 #EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=19_&f=.m3u8
-#EXTINF:0,ESPN EXTRA
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=16_&f=.m3u8
-#EXTINF:0,MOVISTAR LA LIGA
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=350_&f=.m3u8
+http://ipeteve.com/php/regio080220/smartv.php?c=29_&f=.m3u8
 #EXTINF:0,ESPN DEPORTES
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=15_&f=.m3u8
+#EXTINF:0,ESPN EXTRA SUR
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=16_&f=.m3u8
+#EXTINF:0,ESPN SUR
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=17_&f=.m3u8
+#EXTINF:0,ESPN 2 SUR
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=18_&f=.m3u8
+#EXTINF:0,ESPN 3 SUR
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=19_&f=.m3u8
+
+#EXTINF:0,MOVISTAR LA LIGA
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=350_&f=.m3u8
+
 #EXTINF:0,BEIN SPORTS Ñ
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=23_&f=.m3u8
@@ -388,6 +428,18 @@ http://ipeteve.com/php/regio080220/smartv.php?c=9_&f=.m3u8
 #EXTINF:0,MOVISTAR FORMULA 1
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=339_&f=.m3u8
+#EXTINF:0,FOX SPORTS MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=24_&f=.m3u8
+#EXTINF:0,FOX SPORTS 2 MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=25_&f=.m3u8
+#EXTINF:0,FOX SPORTS 3 MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=26_&f=.m3u8
+#EXTINF:0,FOX SPORTS PREMIUM
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=10_&f=.m3u8
 #EXTINF:0,FOX SPORTS
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=12_&f=.m3u8
@@ -397,9 +449,7 @@ http://ipeteve.com/php/regio080220/smartv.php?c=13_&f=.m3u8
 #EXTINF:0,FOX SPORTS 3
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=14_&f=.m3u8
-#EXTINF:0,FOX SPORTS PREMIUM
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=10_&f=.m3u8
+
 #EXTINF:0,TYC SPORTS
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=11_&f=.m3u8
@@ -414,24 +464,8 @@ http://ipeteve.com/php/regio080220/smartv.php?c=21_&f=.m3u8
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=22_&f=.m3u8
 
-#EXTINF:0,FOX SPORTS MX
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=24_&f=.m3u8
-#EXTINF:0,FOX SPORTS 2 MX
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=25_&f=.m3u8
-#EXTINF:0,FOX SPORTS 3 MX
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=26_&f=.m3u8
-#EXTINF:0,ESPN 2 MX
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=27_&f=.m3u8
-#EXTINF:0,ESPN MX
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=28_&f=.m3u8
-#EXTINF:0,ESPN 3 MX
-#EXTGRP:Deportes
-http://ipeteve.com/php/regio080220/smartv.php?c=29_&f=.m3u8
+
+
 #EXTINF:0,TIGO SPORTS
 #EXTGRP:Deportes
 http://ipeteve.com/php/regio080220/smartv.php?c=201_&f=.m3u8
@@ -517,6 +551,9 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0,TOP LATINO
 #EXTGRP:Musica
 http://ipeteve.com/php/regio080220/smartv.php?c=123_&f=.m3u8
+#EXTINF:0,LIFE TV
+#EXTGRP:Musica
+http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
 
 
 #EXTINF:0,RCN
@@ -543,76 +580,21 @@ http://ipeteve.com/php/regio080220/smartv.php?c=59_&f=.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Sudamerica
 http://ipeteve.com/php/regio080220/smartv.php?c=61_&f=.m3u8
-
-
-#EXTINF:0,LIFE TV
-#EXTGRP:unsorted
-http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
 #EXTINF:0,PEQUERADIO
-#EXTGRP:unsorted
+#EXTGRP:Sudamerica
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0,VIBETV
-#EXTGRP:unsorted
+#EXTGRP:Sudamerica
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:0,QUIERO TV
-#EXTGRP:unsorted
-https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:0,TELEPLAY
-#EXTGRP:unsorted
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:0,NET TV
-#EXTGRP:unsorted
+#EXTGRP:Sudamerica
 https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:0,TEC TV
-#EXTGRP:unsorted
+#EXTGRP:Sudamerica
 http://g5.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 #EXTINF:0,NEXTV
-#EXTGRP:unsorted
+#EXTGRP:Sudamerica
 http://198.1.123.99:1935/live/myStream/.m3u8
-#EXTINF:0,FIGHTIME
-#EXTGRP:unsorted
-https://cloud1.senyprojects.com/live.m3u8
-#EXTINF:0,CACHIPUM TV
-#EXTGRP:unsorted
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF:0,WOW TV
-#EXTGRP:unsorted
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
-#EXTINF:0,TOROS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=352_&f=.m3u8
-#EXTINF:0,MIAMI LATINO
-#EXTGRP:Unsorted
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
-
-
-#EXTINF:0,SINCANAL02
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=56_&f=.m3u8
-#EXTINF:0,SINCANAL03
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=80_&f=.m3u8
-#EXTINF:0,SINCANAL04
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=119_&f=.m3u8
-#EXTINF:0,SINCANAL05
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=128_&f=.m3u8
-#EXTINF:0,SINCANAL06
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=130_&f=.m3u8
-#EXTINF:0,SINCANAL07
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=131_&f=.m3u8
-#EXTINF:0,SINCANAL08
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=145_&f=.m3u8
-
-
-
-#EXTINF:0,TERROR
-#EXTGRP:PlutoTV
-http://ipeteve.com/php/regio080220/smartv.php?c=129_&f=.m3u8
 #EXTINF:0,PLUTO
 #EXTGRP:PlutoTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceVersion=87.0.4280.141&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&deviceType=web&deviceMake=Chrome&sid=e468c450-5c67-11eb-a30a-0242ac110002&advertisingId=&deviceLat=25.6449&deviceLon=-100.3110&deviceDNT=0&deviceModel=web&userId=&appName=web
@@ -620,13 +602,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff0009
 #EXTGRP:PlutoTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9f61&deviceDNT=0&deviceModel=0
 
-#EXTINF:0,WILLAX
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=153_&f=.m3u8
 
-#EXTINF:0,SINCANAL09
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=202_&f=.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:0,AZTECA 7 HD
 #EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=203_&f=.m3u8
@@ -663,8 +648,6 @@ http://ipeteve.com/php/regio080220/smartv.php?c=235_&f=.m3u8
 #EXTINF:0,ANIMAL PLANET HD
 #EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=272_&f=.m3u8
-
-
 #EXTINF:0,DISCOVERY SCIENCE HD
 #EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=230_&f=.m3u8
@@ -757,7 +740,7 @@ http://ipeteve.com/php/regio080220/smartv.php?c=249_&f=.m3u8
 #EXTINF:0,ESPN 3 HD SUR
 #EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=250_&f=.m3u8
-#EXTINF:0,SINCANALHD01
+#EXTINF:0,ESPN 2 HD SUR
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=251_&f=.m3u8
 
@@ -788,12 +771,13 @@ http://ipeteve.com/php/regio080220/smartv.php?c=328_&f=.m3u8
 #EXTINF:0,LA DOS
 #EXTGRP:España
 http://ipeteve.com/php/regio080220/smartv.php?c=329_&f=.m3u8
-#EXTINF:0,LA SEXTA
-#EXTGRP:España
-http://ipeteve.com/php/regio080220/smartv.php?c=333_&f=.m3u8
 #EXTINF:0,LA 2
 #EXTGRP:España
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:0,LA SEXTA
+#EXTGRP:España
+http://ipeteve.com/php/regio080220/smartv.php?c=333_&f=.m3u8
+
 #EXTINF:0,CUATRO
 #EXTGRP:España
 https://live.mitele.es/hls/live/2004102/cuatro/01.m3u8
@@ -812,11 +796,28 @@ https://live.mitele.es/hls/live/2005333/bemad/01.m3u8
 #EXTINF:0,BOING
 #EXTGRP:España
 https://live.mitele.es/hls/live/2005334/boing/01.m3u8
+#EXTINF:0,BoingTV
+#EXTGRP:España
+http://ipeteve.com/php/regio080220/smartv.php?c=119_&f=.m3u8
+#EXTINF:0,CACHIPUM TV
+#EXTGRP:España
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:0,WOW TV
+#EXTGRP:España
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:0,MOVISTAR ACCION
 #EXTGRP:España
 http://ipeteve.com/php/regio080220/smartv.php?c=337_&f=.m3u8
 #EXTINF:0,MOVISTAR ESTRENOS
 #EXTGRP:España
 http://ipeteve.com/php/regio080220/smartv.php?c=338_&f=.m3u8
-
+#EXTINF:0,FIGHTIME
+#EXTGRP:España
+https://cloud1.senyprojects.com/live.m3u8
+#EXTINF:0,TOROS
+#EXTGRP:España
+http://ipeteve.com/php/regio080220/smartv.php?c=352_&f=.m3u8
+#EXTINF:0,MIAMI LATINO
+#EXTGRP:España
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
 
