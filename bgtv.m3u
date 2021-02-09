@@ -741,7 +741,7 @@ http://ipeteve.com/php/regio080220/smartv.php?c=249_&f=.m3u8
 #EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=250_&f=.m3u8
 #EXTINF:0,ESPN 2 HD SUR
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=251_&f=.m3u8
 
 #EXTINF:0,TNTSPORTS HD
