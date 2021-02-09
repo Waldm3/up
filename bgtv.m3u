@@ -1,312 +1,559 @@
 #EXTM3U
-
-#EXTINF:0,A&E
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=99_&f=.m3u8
-#EXTINF:0,ADN40
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=127_&f=.m3u8
-#EXTINF:0,ANIMAL PLANET
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=94_&f=.m3u8
-#EXTINF:0,ANTENA 3
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=332_&f=.m3u8
-#EXTINF:0,AXN
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=78_&f=.m3u8
-#EXTINF:0,AZTECA CINEMA
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=54_&f=.m3u8
-#EXTINF:0,AZTECA 7
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=1_&f=.m3u8
+#EXTINF:0,NBC NEW YORK
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=147_&f=.m3u8
 #EXTINF:0,AZTECA UNO
-#EXTGRP:canales 1
+#EXTGRP:Locales
 http://ipeteve.com/php/regio080220/smartv.php?c=52_&f=.m3u8
-#EXTINF:0,BANDAMAX
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=90_&f=.m3u8
-#EXTINF:0,CANAL 5
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=2_&f=.m3u8
-#EXTINF:0,CANAL ONCE
-#EXTGRP:canales 1
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:0,CARTOON NETWORK
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=114_&f=.m3u8
-#EXTINF:0,CINECANAL
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=223_&f=.m3u8
-#EXTINF:0,CINEMAX
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=43_&f=.m3u8
-#EXTINF:0,COMEDY CENTRAL
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=91_&f=.m3u8
-#EXTINF:0,DE PELICULA +
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=85_&f=.m3u8
-#EXTINF:0,DISCOVERY CHANNEL
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=95_&f=.m3u8
-#EXTINF:0,DISCOVERY H&H
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=97_&f=.m3u8
-#EXTINF:0,DISCOVERY KIDS
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=117_&f=.m3u8
-#EXTINF:0,DISCOVERY THEATER
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=101_&f=.m3u8
-#EXTINF:0,DISCOVERY TLC
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=100_&f=.m3u8
-#EXTINF:0,DISCOVERY TURBO
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=96_&f=.m3u8
-#EXTINF:0,DISCOVERY WORLD
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=102_&f=.m3u8
-#EXTINF:0,DISNEY CHANNEL
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=107_&f=.m3u8
-#EXTINF:0,DISNEY JR
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=109_&f=.m3u8
-#EXTINF:0,DISNEY XD
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=108_&f=.m3u8
-#EXTINF:0,DISTRITO COMEDIA
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=47_&f=.m3u8
-#EXTINF:0,GOURMET
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=106_&f=.m3u8
-#EXTINF:0,E!
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=103_&f=.m3u8
-#EXTINF:0,ESPN
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=17_&f=.m3u8
-#EXTINF:0,ESPN 2
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=18_&f=.m3u8
-#EXTINF:0,ESPN 3
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=19_&f=.m3u8
-#EXTINF:0,ESPN EXTRA
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=16_&f=.m3u8
-#EXTINF:0,FOX CHANNEL
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=42_&f=.m3u8
-#EXTINF:0,FOX LIFE
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=72_&f=.m3u8
-#EXTINF:0,HBO
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=31_&f=.m3u8
-#EXTINF:0,HBO 2
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=32_&f=.m3u8
-#EXTINF:0,HBO FAMILY
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=34_&f=.m3u8
-#EXTINF:0,HBO MUNDI
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=212_&f=.m3u8
-#EXTINF:0,HBO POP
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=36_&f=.m3u8
-#EXTINF:0,HBO XTREME
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=213_&f=.m3u8
-#EXTINF:0,FOX SPORTS
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=12_&f=.m3u8
-#EXTINF:0,FOX SPORTS 2
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=13_&f=.m3u8
-#EXTINF:0,FOX SPORTS 3
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=14_&f=.m3u8
-#EXTINF:0,FX
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=70_&f=.m3u8
-#EXTINF:0,FXM
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=71_&f=.m3u8
-#EXTINF:0,TNT SPORTS
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=9_&f=.m3u8
-#EXTINF:0,GOLDEN EDGE
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=74_&f=.m3u8
-#EXTINF:0,HISTORY
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=49_&f=.m3u8
-#EXTINF:0,H2
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=50_&f=.m3u8
-#EXTINF:0,HOLATV
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=136_&f=.m3u8
+#EXTINF:0,ADN40
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=127_&f=.m3u8
 #EXTINF:0,LAS ESTRELLAS
-#EXTGRP:canales 1
+#EXTGRP:Locales
 http://ipeteve.com/php/regio080220/smartv.php?c=236_&f=.m3u8
-#EXTINF:0,LIFETIME
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=104_&f=.m3u8
-#EXTINF:0,NICK
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=110_&f=.m3u8
-#EXTINF:0,TEEN NICK
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=268_&f=.m3u8
-#EXTINF:0,NICK JR
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=112_&f=.m3u8
-#EXTINF:0,NICK MUSIC
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=111_&f=.m3u8
-#EXTINF:0,SONY
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=77_&f=.m3u8
-#EXTINF:0,SPACE
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=39_&f=.m3u8
-#EXTINF:0,SYFY
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=58_&f=.m3u8
-#EXTINF:0,TBS
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=105_&f=.m3u8
-#EXTINF:0,TCM
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=152_&f=.m3u8
-#EXTINF:0,TNT
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=41_&f=.m3u8
-#EXTINF:0,TNT SERIES
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=76_&f=.m3u8
-#EXTINF:0,TOONCAST
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=116_&f=.m3u8
-#EXTINF:0,TUDN
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=3_&f=.m3u8
+#EXTINF:0,CANAL DE LAS ESTRELLAS
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=57_&f=.m3u8
+
+
+#EXTINF:0,FOROTV
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=143_&f=.m3u8
+#EXTINF:0,IMAGEN TV
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=65_&f=.m3u8
+
+#EXTINF:0,CANAL 5
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=2_&f=.m3u8
+#EXTINF:0,AZTECA 7
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=1_&f=.m3u8
+
+
+#EXTINF:0,CANAL 6 MONTERREY
+#EXTGRP:Locales
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,CANAL 6 CDMX
+#EXTGRP:Locales
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0,CANAL ONCE
+#EXTGRP:Locales
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:0,ONCE NIÑOS
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=132_&f=.m3u8
+#EXTINF:0,MILENIO
+#EXTGRP:Locales
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,TVC
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=60_&f=.m3u8
+
+
+#EXTINF:0,UNIVERSO
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=142_&f=.m3u8
+#EXTINF:0,ESTRELLA TV
+#EXTGRP:Locales
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,TELEMUNDO 39
+#EXTGRP:Locales
+https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
+#EXTINF:0,TELEMUNDO
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=48_&f=.m3u8
+#EXTINF:0,GALAVISION
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=55_&f=.m3u8
+#EXTINF:0,UNIMAS
+#EXTGRP:Locales
+http://ipeteve.com/php/regio080220/smartv.php?c=64_&f=.m3u8
 #EXTINF:0,UNIVISION
-#EXTGRP:canales 1
+#EXTGRP:Locales
 http://ipeteve.com/php/regio080220/smartv.php?c=62_&f=.m3u8
 #EXTINF:0,UNICABLE
-#EXTGRP:canales 1
+#EXTGRP:Entretenimiento
 http://ipeteve.com/php/regio080220/smartv.php?c=63_&f=.m3u8
-#EXTINF:0,UNIVERSAL CHANNEL
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=79_&f=.m3u8
-#EXTINF:0,VH1
-#EXTGRP:canales 1
-http://ipeteve.com/php/regio080220/smartv.php?c=120_&f=.m3u8
-#EXTINF:0,RCN
-#EXTGRP:canales 1
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf-smtyyoyzBj4ZNevvdluY)
-#EXTINF:0,MOVISTAR LA LIGA
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=350_&f=.m3u8
-#EXTINF:0,MOVISTAR ACCION
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=337_&f=.m3u8
-#EXTINF:0,MOVISTAR ESTRENOS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=338_&f=.m3u8
-#EXTINF:0,MOVISTAR FORMULA 1
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=339_&f=.m3u8
 
+#EXTINF:0,FOX CHANNEL
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=42_&f=.m3u8
+#EXTINF:0,SONY
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=77_&f=.m3u8
+
+#EXTINF:0,WARNER
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=40_&f=.m3u8
+
+#EXTINF:0,FX
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=70_&f=.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=79_&f=.m3u8
+#EXTINF:0,FOX LIFE
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=72_&f=.m3u8
+#EXTINF:0,TBS
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=105_&f=.m3u8
+#EXTINF:0,SYFY
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=58_&f=.m3u8
+#EXTINF:0,TRUTV
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=137_&f=.m3u8
+
+#EXTINF:0,A&E
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=99_&f=.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=78_&f=.m3u8
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=91_&f=.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=47_&f=.m3u8
+#EXTINF:0,E!
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=103_&f=.m3u8
+#EXTINF:0,HOLATV
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=136_&f=.m3u8
 #EXTINF:0,DISCOVERY IDD
-#EXTGRP:unsorted
+#EXTGRP:Entretenimiento
 http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-#EXTINF:0,LA 2
-#EXTGRP:unsorted
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:0,CUATRO
-#EXTGRP:unsorted
-https://live.mitele.es/hls/live/2004102/cuatro/01.m3u8
-#EXTINF:0,TELECINCO
-#EXTGRP:unsorted
-https://live.mitele.es/hls/live/2004101/telecinco/01.m3u8
-#EXTINF:0,24H
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=331_&f=.m3u8
-#EXTINF:0,TDP
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=330_&f=.m3u8
-#EXTINF:0,BEMAD
-#EXTGRP:unsorted
-https://live.mitele.es/hls/live/2005333/bemad/01.m3u8
-#EXTINF:0,BOING
-#EXTGRP:unsorted
-https://live.mitele.es/hls/live/2005334/boing/01.m3u8
+#EXTINF:0,DISCOVERY ID
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=98_&f=.m3u8
+
+
+#EXTINF:0,PASIONES
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=51_&f=.m3u8
+#EXTINF:0,TELEMUNDO NOVELAS
+#EXTGRP:Entretenimiento
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
+
+#EXTINF:0,LIFETIME
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=104_&f=.m3u8
+#EXTINF:0,AZTECA CINEMA
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=54_&f=.m3u8
+#EXTINF:0,AZTECA MUNDO
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=53_&f=.m3u8
+
+
+#EXTINF:0,DISCOVERY H&H
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=97_&f=.m3u8
+#EXTINF:0,DISCOVERY TLC
+#EXTGRP:Entretenimiento
+http://ipeteve.com/php/regio080220/smartv.php?c=100_&f=.m3u8
+#EXTINF:0,GOURMET
+#EXTGRP:Variedad
+http://ipeteve.com/php/regio080220/smartv.php?c=106_&f=.m3u8
+#EXTINF:0,GARAGETV
+#EXTGRP:Variedad
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+#EXTINF:0,DHE
+#EXTGRP:Variedad
+http://ipeteve.com/php/regio080220/smartv.php?c=253_&f=.m3u8
+
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=95_&f=.m3u8
+#EXTINF:0,ANIMAL PLANET
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=94_&f=.m3u8
+#EXTINF:0,HISTORY
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=49_&f=.m3u8
+#EXTINF:0,H2
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=50_&f=.m3u8
+#EXTINF:0,NAT GEO
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=92_&f=.m3u8
+#EXTINF:0,NAT GEO 2
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=93_&f=.m3u8
+
+#EXTINF:0,DISCOVERY THEATER
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=101_&f=.m3u8
+#EXTINF:0,DISCOVERY TURBO
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=96_&f=.m3u8
+#EXTINF:0,DISCOVERY WORLD
+#EXTGRP:Cultura
+http://ipeteve.com/php/regio080220/smartv.php?c=102_&f=.m3u8
+#EXTINF:0,NASA PUBLIC
+#EXTGRP:Cultura
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=114_&f=.m3u8
+#EXTINF:0,DISCOVERY KIDS
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=117_&f=.m3u8
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=107_&f=.m3u8
+#EXTINF:0,DISNEY JR
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=109_&f=.m3u8
+#EXTINF:0,DISNEY XD
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=108_&f=.m3u8
+#EXTINF:0,NICK
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=110_&f=.m3u8
+#EXTINF:0,TEEN NICK
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=268_&f=.m3u8
+#EXTINF:0,NICK JR
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=112_&f=.m3u8
+#EXTINF:0,NICK MUSIC
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=111_&f=.m3u8
+
+#EXTINF:0,TOONCAST
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=116_&f=.m3u8
+#EXTINF:0,NICK MUSIC 2
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=113_&f=.m3u8
+#EXTINF:0,BOOMERANG
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=115_&f=.m3u8
+#EXTINF:0,NAT GEO KIDS
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=118_&f=.m3u8
+#EXTINF:0,SOUTH PARK
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=146_&f=.m3u8
+#EXTINF:0,CHAVO DEL 8
+#EXTGRP:Niños
+http://ipeteve.com/php/regio080220/smartv.php?c=150_&f=.m3u8
+#EXTINF:0,KDE TV
+#EXTGRP:Niños
+http://207.246.84.143:8080/hls/Kanade.m3u8
+#EXTINF:0,LOCOMOTION
+#EXTGRP:Niños
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0,ANTENA 3
+#EXTGRP:Internacionales
+http://ipeteve.com/php/regio080220/smartv.php?c=332_&f=.m3u8
+#EXTINF:0,A3CINE
+#EXTGRP:Internacionales
+http://stream.pcriot.com/ZyH3/a3.php/a3cine-index.m3u8
+#EXTINF:0,CNC CHINA
+#EXTGRP:Internacionales
+https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:0,NHK JAPON
+#EXTGRP:Internacionales
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:0,DE PELICULA +
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=85_&f=.m3u8
+#EXTINF:0,GOLDEN EDGE
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=74_&f=.m3u8
+#EXTINF:0,GOLDEN +
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=73_&f=.m3u8
+#EXTINF:0,GOLDEN PREMIER
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=75_&f=.m3u8
+#EXTINF:0,SPACE
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=39_&f=.m3u8
+#EXTINF:0,TNT
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=41_&f=.m3u8
+#EXTINF:0,TNT SERIES
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=76_&f=.m3u8
+#EXTINF:0,TCM
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=152_&f=.m3u8
+
+#EXTINF:0,CINECANAL
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=223_&f=.m3u8
+#EXTINF:0,CINEMAX
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=43_&f=.m3u8
+
+
+#EXTINF:0,PARAMOUNT
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=83_&f=.m3u8
+#EXTINF:0,CINE LATINO
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=84_&f=.m3u8
+#EXTINF:0,MULTI PREMIER
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=81_&f=.m3u8
+#EXTINF:0,I SAT
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=86_&f=.m3u8
+#EXTINF:0,AMC
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=82_&f=.m3u8
+
+#EXTINF:0,FOX COMEDY
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=133_&f=.m3u8
+#EXTINF:0,FOX CLASSICS
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=139_&f=.m3u8
+#EXTINF:0,FOX MOVIES
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=68_&f=.m3u8
+#EXTINF:0,FOX FAMILY
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=69_&f=.m3u8
+#EXTINF:0,FOX ACTION
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=138_&f=.m3u8
+#EXTINF:0,FOX SERIES
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=38_&f=.m3u8
+
+
+#EXTINF:0,FXM
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=71_&f=.m3u8
+#EXTINF:0,HBO
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=31_&f=.m3u8
+#EXTINF:0,HBO +
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=33_&f=.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=32_&f=.m3u8
+#EXTINF:0,HBO FAMILY
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=34_&f=.m3u8
+#EXTINF:0,HBO MUNDI
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=212_&f=.m3u8
+#EXTINF:0,HBO POP
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=36_&f=.m3u8
+#EXTINF:0,HBO XTREME
+#EXTGRP:Peliculas
+http://ipeteve.com/php/regio080220/smartv.php?c=213_&f=.m3u8
+#EXTINF:0,TUDN
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=3_&f=.m3u8
+#EXTINF:0,AFIZZIONADOS
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=30_&f=.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=17_&f=.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=18_&f=.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=19_&f=.m3u8
+#EXTINF:0,ESPN EXTRA
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=16_&f=.m3u8
+#EXTINF:0,MOVISTAR LA LIGA
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=350_&f=.m3u8
+#EXTINF:0,ESPN DEPORTES
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=15_&f=.m3u8
+#EXTINF:0,BEIN SPORTS Ñ
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=23_&f=.m3u8
+#EXTINF:0,TNT SPORTS
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=9_&f=.m3u8
+#EXTINF:0,MOVISTAR FORMULA 1
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=339_&f=.m3u8
+#EXTINF:0,FOX SPORTS
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=12_&f=.m3u8
+#EXTINF:0,FOX SPORTS 2
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=13_&f=.m3u8
+#EXTINF:0,FOX SPORTS 3
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=14_&f=.m3u8
+#EXTINF:0,FOX SPORTS PREMIUM
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=10_&f=.m3u8
+#EXTINF:0,TYC SPORTS
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=11_&f=.m3u8
+
+#EXTINF:0,DIRECTV SPORTS
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=20_&f=.m3u8
+#EXTINF:0,DIRECTV SPORTS 2
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=21_&f=.m3u8
+#EXTINF:0,DIRECTV SPORTS +
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=22_&f=.m3u8
+
+#EXTINF:0,FOX SPORTS MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=24_&f=.m3u8
+#EXTINF:0,FOX SPORTS 2 MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=25_&f=.m3u8
+#EXTINF:0,FOX SPORTS 3 MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=26_&f=.m3u8
+#EXTINF:0,ESPN 2 MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=27_&f=.m3u8
+#EXTINF:0,ESPN MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=28_&f=.m3u8
+#EXTINF:0,ESPN 3 MX
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=29_&f=.m3u8
+#EXTINF:0,TIGO SPORTS
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=201_&f=.m3u8
+#EXTINF:0,GOL PERU
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=6_&f=.m3u8
+#EXTINF:0,GOL TV
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=7_&f=.m3u8
+#EXTINF:0,WIN SPORTS
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=140_&f=.m3u8
+#EXTINF:0,WIN SPORTS +
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=261_&f=.m3u8
+#EXTINF:0,NBA TV
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=125_&f=.m3u8
+#EXTINF:0,ESPN U
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=148_&f=.m3u8
+#EXTINF:0,MLB NETWORK
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=134_&f=.m3u8
+#EXTINF:0,NFL NETWORK
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=151_&f=.m3u8
+#EXTINF:0,NHL NETWORK USA
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=154_&f=.m3u8
+#EXTINF:0,WWE TV
+#EXTGRP:Deportes
+http://ipeteve.com/php/regio080220/smartv.php?c=222_&f=.m3u8
+
+#EXTINF:0,CNN Ñ
+#EXTGRP:Noticias
+http://ipeteve.com/php/regio080220/smartv.php?c=66_&f=.m3u8
+#EXTINF:0,RT Ñ
+#EXTGRP:Noticias
+http://ipeteve.com/php/regio080220/smartv.php?c=67_&f=.m3u8
+#EXTINF:0,RT ESPANOL
+#EXTGRP:Noticias
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:0,FRANCE 24
+#EXTGRP:Noticias
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:0,DW ESPANOL
+#EXTGRP:Noticias
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0,WEATHER USA
+#EXTGRP:Noticias
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0,WEATHER NATION
+#EXTGRP:Noticias
+http://klive.kaltura.com/dc-1/m/ny-live-publish116/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/s3jVlxYLhzKHCk7I0r15Zw/master.m3u8
+
+#EXTINF:0,MTV
+#EXTGRP:Musica
+http://ipeteve.com/php/regio080220/smartv.php?c=87_&f=.m3u8
+#EXTINF:0,MTV HITS
+#EXTGRP:Musica
+http://ipeteve.com/php/regio080220/smartv.php?c=88_&f=.m3u8
+
+
+#EXTINF:0,MTV CLASSICS
+#EXTGRP:Musica
+http://ipeteve.com/php/regio080220/smartv.php?c=121_&f=.m3u8
+#EXTINF:0,VH1
+#EXTGRP:Musica
+http://ipeteve.com/php/regio080220/smartv.php?c=120_&f=.m3u8
+#EXTINF:0,TELEHIT MUSIC
+#EXTGRP:Musica
+http://ipeteve.com/php/regio080220/smartv.php?c=122_&f=.m3u8
+#EXTINF:0,HTV
+#EXTGRP:Musica
+http://ipeteve.com/php/regio080220/smartv.php?c=89_&f=.m3u8
+#EXTINF:0,BANDAMAX
+#EXTGRP:Musica
+http://ipeteve.com/php/regio080220/smartv.php?c=90_&f=.m3u8
+#EXTINF:0,TELERITMO
+#EXTGRP:Musica
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,TOP LATINO
+#EXTGRP:Musica
+http://ipeteve.com/php/regio080220/smartv.php?c=123_&f=.m3u8
+
+
+#EXTINF:0,RCN
+#EXTGRP:Sudamerica
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf-smtyyoyzBj4ZNevvdluY)
+#EXTINF:0,MULTIVISION ARG
+#EXTGRP:Sudamerica
+https://panel.dattalive.com/8250/8250/.m3u8
+#EXTINF:0,LATINA
+#EXTGRP:Sudamerica
+http://ipeteve.com/php/regio080220/smartv.php?c=4_&f=.m3u8
+#EXTINF:0,AMERICA TV
+#EXTGRP:Sudamerica
+http://ipeteve.com/php/regio080220/smartv.php?c=206_&f=.m3u8
+#EXTINF:0,TELEFE
+#EXTGRP:Sudamerica
+http://ipeteve.com/php/regio080220/smartv.php?c=45_&f=.m3u8
+#EXTINF:0,EL TRECE
+#EXTGRP:Sudamerica
+http://ipeteve.com/php/regio080220/smartv.php?c=46_&f=.m3u8
+#EXTINF:0,CARACOL TV
+#EXTGRP:Sudamerica
+http://ipeteve.com/php/regio080220/smartv.php?c=59_&f=.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Sudamerica
+http://ipeteve.com/php/regio080220/smartv.php?c=61_&f=.m3u8
+
+
 #EXTINF:0,LIFE TV
 #EXTGRP:unsorted
 http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
 #EXTINF:0,PEQUERADIO
 #EXTGRP:unsorted
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0,RT ESPANOL
-#EXTGRP:unsorted
-https://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:0,FRANCE 24
-#EXTGRP:unsorted
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:0,DW ESPANOL
-#EXTGRP:unsorted
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0,WEATHER USA
-#EXTGRP:unsorted
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0,WEATHER NATION
-#EXTGRP:unsorted
-http://klive.kaltura.com/dc-1/m/ny-live-publish116/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/s3jVlxYLhzKHCk7I0r15Zw/master.m3u8
-#EXTINF:0,NASA PUBLIC
-#EXTGRP:unsorted
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:0,MILENIO
-#EXTGRP:unsorted
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:0,CNC CHINA
-#EXTGRP:unsorted
-https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:0,NHK JAPON
-#EXTGRP:unsorted
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:0,ESTRELLA TV
-#EXTGRP:unsorted
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,TELEMUNDO NOVELAS
-#EXTGRP:unsorted
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:0,TELEMUNDO 39
-#EXTGRP:unsorted
-https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
-#EXTINF:0,FOROTV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=143_&f=.m3u8
 #EXTINF:0,VIBETV
 #EXTGRP:unsorted
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:0,CANAL 6 MONTERREY
-#EXTGRP:unsorted
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0,CANAL 6 CDMX
-#EXTGRP:unsorted
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0,TELERITMO
-#EXTGRP:unsorted
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0,QUIERO TV
 #EXTGRP:unsorted
 https://quierotvlive.tk/httplive/playlist.m3u8
@@ -316,9 +563,6 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:0,NET TV
 #EXTGRP:unsorted
 https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:0,MULTIVISION ARG
-#EXTGRP:unsorted
-https://panel.dattalive.com/8250/8250/.m3u8
 #EXTINF:0,TEC TV
 #EXTGRP:unsorted
 http://g5.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
@@ -328,445 +572,251 @@ http://198.1.123.99:1935/live/myStream/.m3u8
 #EXTINF:0,FIGHTIME
 #EXTGRP:unsorted
 https://cloud1.senyprojects.com/live.m3u8
-#EXTINF:0,GARAGETV
-#EXTGRP:unsorted
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-#EXTINF:0,A3CINE
-#EXTGRP:unsorted
-http://stream.pcriot.com/ZyH3/a3.php/a3cine-index.m3u8
-#EXTINF:0,PLUTO
-#EXTGRP:unsorted
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceVersion=87.0.4280.141&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&deviceType=web&deviceMake=Chrome&sid=e468c450-5c67-11eb-a30a-0242ac110002&advertisingId=&deviceLat=25.6449&deviceLon=-100.3110&deviceDNT=0&deviceModel=web&userId=&appName=web
-#EXTINF:0,PLUTO TERROR
-#EXTGRP:unsorted
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9f61&deviceDNT=0&deviceModel=0
-#EXTINF:0,LOCOMOTION
-#EXTGRP:unsorted
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0,CACHIPUM TV
 #EXTGRP:unsorted
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF:0,KDE TV
-#EXTGRP:unsorted
-http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:0,WOW TV
 #EXTGRP:unsorted
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:0,TOROS
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=352_&f=.m3u8
-#EXTINF:0,TOP LATINO
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=123_&f=.m3u8
 #EXTINF:0,MIAMI LATINO
-#EXTGRP:unsorted
+#EXTGRP:Unsorted
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
-#EXTINF:0,LATINA
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=4_&f=.m3u8
-#EXTINF:0,AMERICA TV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=206_&f=.m3u8
-#EXTINF:0,GOL PERU
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=6_&f=.m3u8
-#EXTINF:0,GOL TV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=7_&f=.m3u8
-#EXTINF:0,WIN SPORTS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=140_&f=.m3u8
-#EXTINF:0,FOX SPORTS PREMIUM
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=10_&f=.m3u8
-#EXTINF:0,TYC SPORTS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=11_&f=.m3u8
-#EXTINF:0,ESPN DEPORTES
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=15_&f=.m3u8
-#EXTINF:0,DIRECTV SPORTS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=20_&f=.m3u8
-#EXTINF:0,DIRECTV SPORTS 2
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=21_&f=.m3u8
-#EXTINF:0,DIRECTV SPORTS +
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=22_&f=.m3u8
-#EXTINF:0,BEIN SPORTS Ñ
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=23_&f=.m3u8
-#EXTINF:0,FOX SPORTS MX
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=24_&f=.m3u8
-#EXTINF:0,FOX SPORTS 2 MX
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=25_&f=.m3u8
-#EXTINF:0,FOX SPORTS 3 MX
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=26_&f=.m3u8
-#EXTINF:0,ESPN 2 MX
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=27_&f=.m3u8
-#EXTINF:0,ESPN MX
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=28_&f=.m3u8
-#EXTINF:0,ESPN 3 MX
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=29_&f=.m3u8
-#EXTINF:0,AFIZZIONADOS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=30_&f=.m3u8
-#EXTINF:0,HBO +
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=33_&f=.m3u8
-#EXTINF:0,FOX ACTION
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=138_&f=.m3u8
-#EXTINF:0,FOX SERIES
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=38_&f=.m3u8
-#EXTINF:0,WARNER
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=40_&f=.m3u8
-#EXTINF:0,TELEFE
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=45_&f=.m3u8
-#EXTINF:0,EL TRECE
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=46_&f=.m3u8
-#EXTINF:0,TELEMUNDO
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=48_&f=.m3u8
-#EXTINF:0,PASIONES
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=51_&f=.m3u8
-#EXTINF:0,AZTECA MUNDO
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=53_&f=.m3u8
-#EXTINF:0,GALAVISION
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=55_&f=.m3u8
+
+
 #EXTINF:0,SINCANAL02
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=56_&f=.m3u8
-#EXTINF:0,CANAL DE LAS ESTRELLAS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=57_&f=.m3u8
-#EXTINF:0,CARACOL TV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=59_&f=.m3u8
-#EXTINF:0,TVC
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=60_&f=.m3u8
-#EXTINF:0,ATV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=61_&f=.m3u8
-#EXTINF:0,UNIMAS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=64_&f=.m3u8
-#EXTINF:0,IMAGEN TV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=65_&f=.m3u8
-#EXTINF:0,CNN Ñ
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=66_&f=.m3u8
-#EXTINF:0,RT Ñ
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=67_&f=.m3u8
-#EXTINF:0,FOX MOVIES
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=68_&f=.m3u8
-#EXTINF:0,FOX FAMILY
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=69_&f=.m3u8
-#EXTINF:0,GOLDEN +
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=73_&f=.m3u8
-#EXTINF:0,GOLDEN PREMIER
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=75_&f=.m3u8
 #EXTINF:0,SINCANAL03
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=80_&f=.m3u8
-#EXTINF:0,MULTI PREMIER
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=81_&f=.m3u8
-#EXTINF:0,PARAMOUNT
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=83_&f=.m3u8
-#EXTINF:0,CINE LATINO
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=84_&f=.m3u8
-#EXTINF:0,I SAT
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=86_&f=.m3u8
-#EXTINF:0,MTV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=87_&f=.m3u8
-#EXTINF:0,MTV HITS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=88_&f=.m3u8
-#EXTINF:0,HTV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=89_&f=.m3u8
-#EXTINF:0,NAT GEO
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=92_&f=.m3u8
-#EXTINF:0,NAT GEO 2
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=93_&f=.m3u8
-#EXTINF:0,DISCOVERY ID
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=98_&f=.m3u8
-#EXTINF:0,NICK MUSIC 2
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=113_&f=.m3u8
-#EXTINF:0,BOOMERANG
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=115_&f=.m3u8
-#EXTINF:0,NAT GEO KIDS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=118_&f=.m3u8
 #EXTINF:0,SINCANAL04
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=119_&f=.m3u8
-#EXTINF:0,MTV CLASSICS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=121_&f=.m3u8
-#EXTINF:0,TELEHIT MUSIC
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=122_&f=.m3u8
-#EXTINF:0,NBA TV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=125_&f=.m3u8
 #EXTINF:0,SINCANAL05
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=128_&f=.m3u8
-#EXTINF:0,TERROR
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=129_&f=.m3u8
 #EXTINF:0,SINCANAL06
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=130_&f=.m3u8
 #EXTINF:0,SINCANAL07
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=131_&f=.m3u8
-#EXTINF:0,ONCE NIÑOS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=132_&f=.m3u8
-#EXTINF:0,FOX COMEDY
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=133_&f=.m3u8
-#EXTINF:0,MLB NETWORK
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=134_&f=.m3u8
-#EXTINF:0,TRUTV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=137_&f=.m3u8
-#EXTINF:0,FOX CLASSICS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=139_&f=.m3u8
 #EXTINF:0,SINCANAL08
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=145_&f=.m3u8
-#EXTINF:0,UNIVERSO
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=142_&f=.m3u8
-#EXTINF:0,SOUTH PARK
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=146_&f=.m3u8
-#EXTINF:0,NBC NEW YORK
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=147_&f=.m3u8
-#EXTINF:0,ESPN U
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=148_&f=.m3u8
-#EXTINF:0,CHAVO DEL 8
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=150_&f=.m3u8
-#EXTINF:0,NFL NETWORK
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=151_&f=.m3u8
+
+
+
+#EXTINF:0,TERROR
+#EXTGRP:PlutoTV
+http://ipeteve.com/php/regio080220/smartv.php?c=129_&f=.m3u8
+#EXTINF:0,PLUTO
+#EXTGRP:PlutoTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceVersion=87.0.4280.141&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&deviceType=web&deviceMake=Chrome&sid=e468c450-5c67-11eb-a30a-0242ac110002&advertisingId=&deviceLat=25.6449&deviceLon=-100.3110&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:0,PLUTO TERROR
+#EXTGRP:PlutoTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9f61&deviceDNT=0&deviceModel=0
+
 #EXTINF:0,WILLAX
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=153_&f=.m3u8
-#EXTINF:0,NHL NETWORK USA
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=154_&f=.m3u8
-#EXTINF:0,TIGO SPORTS
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=201_&f=.m3u8
+
 #EXTINF:0,SINCANAL09
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=202_&f=.m3u8
 #EXTINF:0,AZTECA 7 HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=203_&f=.m3u8
-#EXTINF:0,TUDN HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=205_&f=.m3u8
-#EXTINF:0,HBO HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=207_&f=.m3u8
-#EXTINF:0,HBO 2 HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=208_&f=.m3u8
-#EXTINF:0,HBO FAMILY HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=210_&f=.m3u8
-#EXTINF:0,HBO SIGNATURE
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=211_&f=.m3u8
-#EXTINF:0,TNT HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=214_&f=.m3u8
-#EXTINF:0,CINEMAX HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=215_&f=.m3u8
-#EXTINF:0,SPACE HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=216_&f=.m3u8
+#EXTINF:0,GALAVISION HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=238_&f=.m3u8
+#EXTINF:0,SONY HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=263_&f=.m3u8
 #EXTINF:0,AXN HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=217_&f=.m3u8
 #EXTINF:0,FX HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=221_&f=.m3u8
-#EXTINF:0,WWE TV
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=222_&f=.m3u8
-#EXTINF:0,FOX ACTION HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=224_&f=.m3u8
-#EXTINF:0,GOLDEN PREMIER HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=225_&f=.m3u8
-#EXTINF:0,GOLDEN EDGE HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=226_&f=.m3u8
+#EXTINF:0,H&H HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=229_&f=.m3u8
+#EXTINF:0,DISCOVERY ID HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=233_&f=.m3u8
 #EXTINF:0,NAT GEO WILD HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=227_&f=.m3u8
 #EXTINF:0,DISCOVERY CHANNEL HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=228_&f=.m3u8
-#EXTINF:0,H&H HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=229_&f=.m3u8
-#EXTINF:0,DISCOVERY SCIENCE HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=230_&f=.m3u8
-#EXTINF:0,DISCOVERY WORLD HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=231_&f=.m3u8
-#EXTINF:0,DISCOVERY THEATER HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=232_&f=.m3u8
-#EXTINF:0,DISCOVERY ID HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=233_&f=.m3u8
 #EXTINF:0,HISTORY HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=234_&f=.m3u8
 #EXTINF:0,H2 HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=235_&f=.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=272_&f=.m3u8
+
+
+#EXTINF:0,DISCOVERY SCIENCE HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=230_&f=.m3u8
+#EXTINF:0,DISCOVERY WORLD HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=231_&f=.m3u8
+#EXTINF:0,DISCOVERY THEATER HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=232_&f=.m3u8
+#EXTINF:0,CARTOON NETWORK HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=269_&f=.m3u8
+#EXTINF:0,DISNEY CHANNEL HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=270_&f=.m3u8
+#EXTINF:0,GOLDEN PREMIER HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=225_&f=.m3u8
+#EXTINF:0,GOLDEN EDGE HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=226_&f=.m3u8
+
+#EXTINF:0,AMC HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=264_&f=.m3u8
+#EXTINF:0,PARAMOUNT HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=265_&f=.m3u8
+#EXTINF:0,TNT HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=214_&f=.m3u8
+#EXTINF:0,CINEMAX HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=215_&f=.m3u8
+#EXTINF:0,SPACE HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=216_&f=.m3u8
+#EXTINF:0,FOX ACTION HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=224_&f=.m3u8
+#EXTINF:0,FOX MOVIES HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=266_&f=.m3u8
 #EXTINF:0,FOX CINEMA HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=237_&f=.m3u8
-#EXTINF:0,GALAVISION HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=238_&f=.m3u8
+#EXTINF:0,HBO HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=207_&f=.m3u8
+#EXTINF:0,HBO 2 HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=208_&f=.m3u8
+#EXTINF:0,HBO FAMILY HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=210_&f=.m3u8
+#EXTINF:0,HBO SIGNATURE
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=211_&f=.m3u8
+#EXTINF:0,TUDN HD
+#EXTGRP:FHD
+http://ipeteve.com/php/regio080220/smartv.php?c=205_&f=.m3u8
+
 #EXTINF:0,FOX SPORTS HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=239_&f=.m3u8
 #EXTINF:0,FOX SPORTS 2 HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=240_&f=.m3u8
 #EXTINF:0,FOX SPORTS 3 HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=241_&f=.m3u8
 #EXTINF:0,ESPN HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=243_&f=.m3u8
 #EXTINF:0,ESPN 3 HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=244_&f=.m3u8
 #EXTINF:0,FOX SPORTS SUR HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=246_&f=.m3u8
 #EXTINF:0,FOX SPORTS 2 SUR HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=247_&f=.m3u8
 #EXTINF:0,FOX SPORTS 3 SUR HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=248_&f=.m3u8
 #EXTINF:0,ESPN HD SUR
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=249_&f=.m3u8
 #EXTINF:0,ESPN 3 HD SUR
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=250_&f=.m3u8
 #EXTINF:0,SINCANALHD01
 #EXTGRP:unsorted
 http://ipeteve.com/php/regio080220/smartv.php?c=251_&f=.m3u8
-#EXTINF:0,DHE
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=253_&f=.m3u8
+
 #EXTINF:0,TNTSPORTS HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=254_&f=.m3u8
 #EXTINF:0,FOX SPORTS PREMIUM HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=255_&f=.m3u8
 #EXTINF:0,DIRECTV SPORTS HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=256_&f=.m3u8
 #EXTINF:0,DIRECTV SPORTS 2 HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=257_&f=.m3u8
 #EXTINF:0,DIRECTV SPORTS + HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=258_&f=.m3u8
 #EXTINF:0,CARACOL HD
-#EXTGRP:unsorted
+#EXTGRP:FHD
 http://ipeteve.com/php/regio080220/smartv.php?c=259_&f=.m3u8
-#EXTINF:0,WIN SPORTS +
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=261_&f=.m3u8
-#EXTINF:0,SONY HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=263_&f=.m3u8
-#EXTINF:0,AMC HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=264_&f=.m3u8
-#EXTINF:0,PARAMOUNT HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=265_&f=.m3u8
-#EXTINF:0,FOX MOVIES HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=266_&f=.m3u8
-#EXTINF:0,CARTOON NETWORK HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=269_&f=.m3u8
-#EXTINF:0,DISNEY CHANNEL HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=270_&f=.m3u8
-#EXTINF:0,ANIMAL PLANET HD
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=272_&f=.m3u8
+
+
+
 #EXTINF:0,LA UNO
-#EXTGRP:unsorted
+#EXTGRP:España
 http://ipeteve.com/php/regio080220/smartv.php?c=328_&f=.m3u8
 #EXTINF:0,LA DOS
-#EXTGRP:unsorted
+#EXTGRP:España
 http://ipeteve.com/php/regio080220/smartv.php?c=329_&f=.m3u8
 #EXTINF:0,LA SEXTA
-#EXTGRP:unsorted
+#EXTGRP:España
 http://ipeteve.com/php/regio080220/smartv.php?c=333_&f=.m3u8
+#EXTINF:0,LA 2
+#EXTGRP:España
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:0,CUATRO
+#EXTGRP:España
+https://live.mitele.es/hls/live/2004102/cuatro/01.m3u8
+#EXTINF:0,TELECINCO
+#EXTGRP:España
+https://live.mitele.es/hls/live/2004101/telecinco/01.m3u8
+#EXTINF:0,24H
+#EXTGRP:España
+http://ipeteve.com/php/regio080220/smartv.php?c=331_&f=.m3u8
+#EXTINF:0,TDP
+#EXTGRP:España
+http://ipeteve.com/php/regio080220/smartv.php?c=330_&f=.m3u8
+#EXTINF:0,BEMAD
+#EXTGRP:España
+https://live.mitele.es/hls/live/2005333/bemad/01.m3u8
+#EXTINF:0,BOING
+#EXTGRP:España
+https://live.mitele.es/hls/live/2005334/boing/01.m3u8
+#EXTINF:0,MOVISTAR ACCION
+#EXTGRP:España
+http://ipeteve.com/php/regio080220/smartv.php?c=337_&f=.m3u8
+#EXTINF:0,MOVISTAR ESTRENOS
+#EXTGRP:España
+http://ipeteve.com/php/regio080220/smartv.php?c=338_&f=.m3u8
 
-#EXTINF:0,AMC
-#EXTGRP:unsorted
-http://ipeteve.com/php/regio080220/smartv.php?c=82_&f=.m3u8
+
