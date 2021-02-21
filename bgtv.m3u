@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,NBC NEW YORK HD
+#EXTINF:0,NBC FHD
 #EXTGRP:Locales
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=147_&f=.m3u8
 #EXTINF:0,AZTECA UNO FHD
@@ -57,9 +57,7 @@ http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=142_&f=.m3u8
 #EXTINF:0,ESTRELLA TV FHD
 #EXTGRP:Locales
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,TELEMUNDO 39 HD
-#EXTGRP:Locales
-https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
+
 #EXTINF:0,TELEMUNDO INTL HD
 #EXTGRP:Locales
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=48_&f=.m3u8
@@ -91,7 +89,7 @@ http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=70_&f=.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL HD
 #EXTGRP:Entretenimiento
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=79_&f=.m3u8
-#EXTINF:0,STUDIO UNIVERSAL SD
+#EXTINF:0,STUDIO UNIVERSAL HD
 #EXTGRP:Entretenimiento
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=80_&f=.m3u8
 #EXTINF:0,FOX LIFE SD
@@ -565,6 +563,9 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:0,DISTRITO COMEDIA HD
 #EXTGRP:SD
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=202_&f=.m3u8
+#EXTINF:0,TELEMUNDO 39 HD Offline
+#EXTGRP:SD
+https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
 #EXTINF:0,DISCOVERY ID SD
 #EXTGRP:SD
 http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
