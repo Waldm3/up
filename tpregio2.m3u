@@ -6,6 +6,67 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0,Nbc
 #EXTGRP:Locales
 http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8 
+#EXTINF:-1, ABC
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93841/12?f=.m3u8
+#EXTINF:-1, CBS
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93842/12?f=.m3u8
+#EXTINF:-1, NBC
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8
+#EXTINF:-1, Universo
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
+#EXTINF:-1, Estrella TV
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
+#EXTINF:-1, Telemundo
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
+#EXTINF:-1, Telemundo Pac
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
+#EXTINF:-1, Univisión
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
+#EXTINF:-1, Univisión Pac
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
+#EXTINF:-1, UniMas
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
+#EXTINF:-1, Galavisión
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
+
+#EXTINF:-1, Univisión Pac
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
+#EXTINF:-1, NBC (Alt.)
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93845/12?f=.m3u8
+#EXTINF:-1, Estrella TV
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
+#EXTINF:-1, Telemundo
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
+#EXTINF:-1, Telemundo Pac
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
+#EXTINF:-1, Univisión
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
+#EXTINF:-1, UniMas
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
+#EXTINF:-1, Galavisión
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
+#EXTINF:-1, Universo
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
 
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
@@ -55,6 +116,10 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lc
 #EXTINF:0,Televisa Mty
 #EXTGRP:Locales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2307&format=HLSAD&f=.m3u8
+
+#EXTINF:-1, CANAL 28 NL
+#EXTGRP:Locales
+https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:0,Nueve
 #EXTGRP:Locales
@@ -418,6 +483,47 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lc
 #EXTINF:0,TUDN
 #EXTGRP:Deportes
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=174&format=HLSAD&f=.m3u8
+#EXTINF:-1, TUDN
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
+#EXTINF:-1, TUDN (Alt.)
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/560/12?f=.m3u8
+#EXTINF:-1, ESPN Deportes
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/561/12?f=.m3u8
+
+#EXTINF:-1, Bein Ñ | HD
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
+#EXTINF:-1, Bein Ñ
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
+#EXTINF:-1, NBCSN
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
+#EXTINF:-1, TUDN USA
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
+#EXTINF:-1, ESPN Deportes | HD
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+#EXTINF:-1, Bein Ñ
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4388/12?f=.m3u8
+#EXTINF:-1, Bein Ñ
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
+
+#EXTINF:-1, Bein Sports
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
+#EXTINF:-1, TUDN USA
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
+#EXTINF:-1, ESPN Deportes
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 
 #EXTINF:0,Espn+
 #EXTGRP:Deportes
@@ -448,6 +554,31 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lc
 #EXTINF:0,TVC Deportes
 #EXTGRP:Deportes
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2157&format=HLSAD&f=.m3u8
+#EXTINF:-1, ESPN
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4242/12?f=.m3u8
+#EXTINF:-1, ESPN U
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4345/12?f=.m3u8
+#EXTINF:-1, ESPN 2
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4243/12?f=.m3u8
+#EXTINF:-1, Motor Trend
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94106/12?f=.m3u8
+#EXTINF:-1, FS1
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94096/12?f=.m3u8
+#EXTINF:-1, FS2
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97864/12?f=.m3u8
+#EXTINF:-1, CBS Sports Network
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4310/12?f=.m3u8
+#EXTINF:-1, NBCSN
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94093/12?f=.m3u8
+
 #EXTINF:0,Fuel Tv 
 #EXTGRP:Deportes
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2587&format=HLSAD&f=.m3u8
