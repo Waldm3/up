@@ -178,6 +178,177 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lc
 #EXTINF:0,El Financiero Bloomberg
 #EXTGRP:Locales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2167&format=HLSAD&f=.m3u8
+#EXTINF:-1, USA Network
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4248/12?f=.m3u8
+#EXTINF:-1, Comedy Central
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4300/12?f=.m3u8
+#EXTINF:-1, Lifetime
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4285/12?f=.m3u8
+#EXTINF:-1, LMN
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4286/12?f=.m3u8
+#EXTINF:-1, Food Network
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4279/12?f=.m3u8
+#EXTINF:-1, HGTV
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4278/12?f=.m3u8
+#EXTINF:-1, Cooking Channel
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94083/12?f=.m3u8
+#EXTINF:-1, E!
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4289/12?f=.m3u8
+#EXTINF:-1, A&E
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4237/12?f=.m3u8
+#EXTINF:-1, FYI
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4260/12?f=.m3u8
+#EXTINF:-1, History
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4306/12?f=.m3u8
+#EXTINF:-1, Vice
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4339/12?f=.m3u8
+#EXTINF:-1, SYFY
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4249/12?f=.m3u8
+#EXTINF:-1, BET Networks
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94097/12?f=.m3u8
+#EXTINF:-1, FXX
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4334/12?f=.m3u8
+#EXTINF:-1, WE TV
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4375/12?f=.m3u8
+#EXTINF:-1, AMC
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4235/12?f=.m3u8
+#EXTINF:-1, FX
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4290/12?f=.m3u8
+#EXTINF:-1, TNT
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4238/12?f=.m3u8
+#EXTINF:-1, TBS
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4314/12?f=.m3u8
+#EXTINF:-1, MTV
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4299/12?f=.m3u8
+#EXTINF:-1, VH1
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4322/12?f=.m3u8
+#EXTINF:-1, CMT
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4308/12?f=.m3u8
+#EXTINF:-1, AXSTV
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4240/12?f=.m3u8
+#EXTINF:-1, Nick
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/89973/12?f=.m3u8
+#EXTINF:-1, Disney Channel
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4366/12?f=.m3u8
+#EXTINF:-1, Cartoon Network
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4280/12?f=.m3u8
+#EXTINF:-1, Discovery Family
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4309/12?f=.m3u8
+#EXTINF:-1, Freeform
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4367/12?f=.m3u8
+#EXTINF:-1, Discovery
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4302/12?f=.m3u8
+#EXTINF:-1, TLC
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4303/12?f=.m3u8
+#EXTINF:-1, Animal Planet
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4304/12?f=.m3u8
+#EXTINF:-1, National Geographic
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4246/12?f=.m3u8
+#EXTINF:-1, NatGeo Wild
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4262/12?f=.m3u8
+#EXTINF:-1, ID
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94099/12?f=.m3u8
+#EXTINF:-1, Science
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4305/12?f=.m3u8
+#EXTINF:-1, Trvl
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4254/12?f=.m3u8
+#EXTINF:-1, Destination America
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94086/12?f=.m3u8
+#EXTINF:-1, Discovery En Español
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
+#EXTINF:-1, CNN
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4253/12?f=.m3u8
+#EXTINF:-1, Fox News
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4292/12?f=.m3u8
+#EXTINF:-1, Fox Business
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4291/12?f=.m3u8
+#EXTINF:-1, CNBC
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4256/12?f=.m3u8
+#EXTINF:-1, The Weather Channel
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4255/12?f=.m3u8
+#EXTINF:-1, Paramount Network
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4321/12?f=.m3u8
+#EXTINF:-1, TruTV
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4247/12?f=.m3u8
+#EXTINF:-1, HBO
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4293/12?f=.m3u8
+#EXTINF:-1, 5 Star Max
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4258/12?f=.m3u8
+#EXTINF:-1, Showtime (E)
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94088/12?f=.m3u8
+#EXTINF:-1, Showtime (W)
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94098/12?f=.m3u8
+#EXTINF:-1, The Movie Channel
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94089/12?f=.m3u8
+#EXTINF:-1, Starz
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94094/12?f=.m3u8
+#EXTINF:-1, Starz Comedy
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4301/12?f=.m3u8
+#EXTINF:-1, Starz Family
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4312/12?f=.m3u8
+#EXTINF:-1, FXM
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4257/12?f=.m3u8
+#EXTINF:-1, Hallmark
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4297/12?f=.m3u8
+#EXTINF:-1, Cine Latino
+#EXTGRP:USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97902/12?f=.m3u8
 
 #EXTINF:0,Fox
 #EXTGRP:Entretenimiento
@@ -332,6 +503,10 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lc
 #EXTINF:0,Cartoon Network
 #EXTGRP:Niños
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=112&format=HLSAD&f=.m3u8
+#EXTINF:-1, Cartoon Network USA
+#EXTGRP:Niños
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/4280/12?f=.m3u8
+
 #EXTINF:0,Bitme 
 #EXTGRP:Niños
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2591&format=HLSAD&f=.m3u8
@@ -476,6 +651,24 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lc
 #EXTINF:0,Fox Movies
 #EXTGRP:Peliculas
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=146&format=HLSAD&f=.m3u8
+#EXTINF:-1, HBO
+#EXTGRP:Peliculas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97931/12?f=.m3u8
+#EXTINF:-1, HBO (Alt.)
+#EXTGRP:Peliculas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/281/12?f=.m3u8
+#EXTINF:-1, HBO 2
+#EXTGRP:Peliculas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/280/12?f=.m3u8
+#EXTINF:-1, HBO Plus
+#EXTGRP:Peliculas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/282/12?f=.m3u8
+#EXTINF:-1, HBO Family
+#EXTGRP:Peliculas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/284/12?f=.m3u8
+#EXTINF:-1, HBO Xtreme
+#EXTGRP:Peliculas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/288/12?f=.m3u8
 #EXTINF:0,U-Beat
 #EXTGRP:Deportes
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=3335&format=HLSAD&f=.m3u8
@@ -483,6 +676,40 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lc
 #EXTINF:0,TUDN
 #EXTGRP:Deportes
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=174&format=HLSAD&f=.m3u8
+#EXTINF:-1, Fox Sports | HD
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
+#EXTINF:-1, Fox Sports
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/293/12?f=.m3u8
+#EXTINF:-1, Fox Sports 2 | HD
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
+#EXTINF:-1, Fox Sports 2
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/295/12?f=.m3u8
+#EXTINF:-1, Fox Sports 3
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/297/12?f=.m3u8
+#EXTINF:-1, ESPN | HD
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
+#EXTINF:-1, ESPN
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/292/12?f=.m3u8
+#EXTINF:-1, ESPN 2 | HD
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
+#EXTINF:-1, ESPN 2
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/291/12?f=.m3u8
+#EXTINF:-1, ESPN 3
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/424/12?f=.m3u8
+#EXTINF:-1, ESPN Extra
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
+
 #EXTINF:-1, TUDN
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
