@@ -410,6 +410,9 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=19_&f=.m3u8
 #EXTINF:0,MOVISTAR LA LIGA
 #EXTGRP:Deportes
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=350_&f=.m3u8
+#EXTINF:0,Movistar Deportes
+#EXTGRP:Deportes
+http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=195_&f=.m3u8
 
 #EXTINF:0,BEIN SPORTS Ñ HD
 #EXTGRP:Deportes
@@ -418,6 +421,12 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=23_&f=.m3u8
 #EXTINF:0,MOVISTAR FORMULA 1 HD
 #EXTGRP:Deportes
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=339_&f=.m3u8
+#EXTINF:0,LIGA DE CAMPEONES MOVISTAR
+#EXTGRP:Deportes
+http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=368_&f=.m3u8
+#EXTINF:0,MOVISTAR LA LIGA
+#EXTGRP:Deportes
+http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=371_&f=.m3u8
 
 
 #EXTINF:0,FOX SPORTS PREMIUM FHD
@@ -872,11 +881,11 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=141_&f=.m3u8
 #EXTGRP:Adultos
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=144_&f=.m3u8
 
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,Playboytv
+#EXTGRP:Adultos
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=145_&f=.m3u8
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,HBO MUndi
+#EXTGRP:Peliculas
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=149_&f=.m3u8
 #EXTINF:0,CNBC
 #EXTGRP:Noticias
@@ -887,8 +896,8 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=156_&f=.m3u8
 #EXTINF:0,BRAVO
 #EXTGRP:US
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=157_&f=.m3u8
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,CMT
+#EXTGRP:US
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=158_&f=.m3u8
 #EXTINF:0,FXX
 #EXTGRP:US
@@ -998,23 +1007,23 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=193_&f=.m3u8
 #EXTINF:0,TNTSports 2
 #EXTGRP:Deportes
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=194_&f=.m3u8
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,Movistar Deportes
+#EXTGRP:Deportes
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=195_&f=.m3u8
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,AzCorazon
+#EXTGRP:Entretenimiento
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=196_&f=.m3u8
 #EXTINF:0,CANAL N NOTICIAS
 #EXTGRP:Sudamerica
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=197_&f=.m3u8
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,Movistar Formula 1
+#EXTGRP:Deportes
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=198_&f=.m3u8
 #EXTINF:0,NODATA
 #EXTGRP:unsorted
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=199_&f=.m3u8
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,Canal 5
+#EXTGRP:Locales
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=200_&f=.m3u8
 #EXTINF:0,NODATA
 #EXTGRP:unsorted
@@ -1046,8 +1055,8 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=260_&f=.m3u8
 #EXTINF:0,A&E BR
 #EXTGRP:Brasil
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=262_&f=.m3u8
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,FOX Series
+#EXTGRP:Peliculas
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=267_&f=.m3u8
 #EXTINF:0,AMC BR
 #EXTGRP:Brasil
@@ -1214,8 +1223,8 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=325_&f=.m3u8
 #EXTINF:0,SPORTV BR
 #EXTGRP:Deportes
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=326_&f=.m3u8
-#EXTINF:0,NODATA
-#EXTGRP:unsorted
+#EXTINF:0,Neox
+#EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=327_&f=.m3u8
 #EXTINF:0,NOVA
 #EXTGRP:España
@@ -1260,11 +1269,11 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=351_&f=.m3u8
 #EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=353_&f=.m3u8
 
-#EXTINF:0,NODATA1
-#EXTGRP:Nodata1
+#EXTINF:0,Canal 5
+#EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=354_&f=.m3u8
-#EXTINF:0,NODATA1
-#EXTGRP:Nodata1
+#EXTINF:0,TCM
+#EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=355_&f=.m3u8
 #EXTINF:0,NODATA1
 #EXTGRP:Nodata1
@@ -1302,18 +1311,13 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=366_&f=.m3u8
 #EXTINF:0,MEZZO
 #EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=367_&f=.m3u8
-#EXTINF:0,LIGA DE CAMPEONES MOVISTAR
-#EXTGRP:Deportes
-http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=368_&f=.m3u8
+
 #EXTINF:0,SERIESMANIA MOVISTAR
 #EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=369_&f=.m3u8
 #EXTINF:0,COMEDIA MOVISTAR
 #EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=370_&f=.m3u8
-#EXTINF:0,NODATA1
-#EXTGRP:Nodata1
-http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=371_&f=.m3u8
 #EXTINF:0,HOLLYWOOD
 #EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=372_&f=.m3u8
@@ -1365,8 +1369,8 @@ http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=387_&f=.m3u8
 #EXTINF:0,DECASA
 #EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=388_&f=.m3u8
-#EXTINF:0,NODATA1
-#EXTGRP:Nodata1
+#EXTINF:0,Canal 4
+#EXTGRP:España
 http://ipeteve.com/php/SR_REGIO220221/smartv2.php?c=389_&f=.m3u8
 #EXTINF:0,CRIMEN INVESTIGACION
 #EXTGRP:España
