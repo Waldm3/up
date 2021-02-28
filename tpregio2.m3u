@@ -461,13 +461,16 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lc
 #EXTINF:0,TLC
 #EXTGRP:Cultura
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=97&format=HLSAD&f=.m3u8
+#EXTINF:0,NASA TV
+#EXTGRP:Cultura
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP:Cultura
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=86&format=HLSAD&f=.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Cultura
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=88&format=HLSAD&f=.m3u8
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2378&format=HLSAD&f=.m3u8
 #EXTINF:0,History
 #EXTGRP:Cultura
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=89&format=HLSAD&f=.m3u8
@@ -515,6 +518,37 @@ http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:0,Locomotion 
 #EXTGRP:Niños
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0,Mi TV
+#EXTGRP:Niños
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:0,Dreiko TV
+#EXTGRP:Niños
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+
+#EXTINF:0,Futurama Manía
+#EXTGRP:Niños
+https://m3u-editor.com/serve/rokumaniatest/156476844
+#EXTINF:0,Simpson TV
+#EXTGRP:Niños
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:0,Simpson Manía
+#EXTGRP:Niños
+https://m3u-editor.com/serve/rokumaniatest/156476845
+#EXTINF:0,El Chavo
+#EXTGRP:Niños
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:0,South Park Twitch
+#EXTGRP:Niños
+https://m3u-editor.com/serve/rokumaniatest/156476846
+#EXTINF:0,Rick&morty
+#EXTGRP:Niños
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_2.m3u8
+#EXTINF:0,Robot Chicken
+#EXTGRP:Niños
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_2.m3u8
+#EXTINF:0, Aqua Teen
+#EXTGRP:Niños
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_2.m3u8
 
 #EXTINF:0,Toonizaki 
 #EXTGRP:Niños
@@ -567,6 +601,31 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lc
 #EXTINF:0,A3 Series
 #EXTGRP:Internacionales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2113&format=HLSAD&f=.m3u8
+#EXTINF:-1,RAI 3
+#EXTGRP:Internacionales
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1,MULTIVISON ARGENTINA
+#EXTGRP:Internacionales
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+
+#EXTINF:-1,CANAL 10 ARGENTINA
+#EXTGRP:Internacionales
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
+
+#EXTINF:-1,RUSSIA 1
+#EXTGRP:Internacionales
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+
+#EXTINF:-1,CGTN EN ESPANOL
+#EXTGRP:Internacionales
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:0,FAIL ARMY
+#EXTGRP:Internacionales
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,REDBULL TV
+#EXTGRP:Internacionales
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:0,De Pelicula
 #EXTGRP:Peliculas
@@ -862,6 +921,48 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lc
 #EXTINF:0,France24 En Español 
 #EXTGRP:Noticias y Documentales
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2402&format=HLSAD&f=.m3u8
+#EXTINF:0,DW EN ESPANOL
+#EXTGRP:Noticias y Documentales
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0,DW
+#EXTGRP:Noticias y Documentales
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+
+#EXTINF:-1,CBS NEWS
+#EXTGRP:Noticias y Documentales
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1, NBC NEWS
+#EXTGRP:Noticias y Documentales
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
+
+#EXTINF:-1, BBC WORLD NEWS
+#EXTGRP:Noticias y Documentales
+http://ott-cdn.ucom.am/s24/04.m3u8
+
+#EXTINF:-1, FRANCE 24 EN ESPAÑOL
+#EXTGRP:Noticias y Documentales
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, FRANCE 24
+#EXTGRP:Noticias y Documentales
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, CGTN NEWS
+#EXTGRP:Noticias y Documentales
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1, AL JAZEERA NEWS
+#EXTGRP:Noticias y Documentales
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1, RUSSIA 24
+#EXTGRP:Noticias y Documentales
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+
+#EXTINF:-1, MOSCU 24
+#EXTGRP:Noticias y Documentales
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
 #EXTINF:0,Wobi
 #EXTGRP:Noticias y Documentales
