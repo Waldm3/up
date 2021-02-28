@@ -1,0 +1,875 @@
+#EXTM3U
+#EXTINF:-1, Cartoon Network ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CARTOON_SD&amp;format=.m3u8
+#EXTINF:-1, Cartoon Network ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CARTOON_HD&amp;format=.m3u8
+#EXTINF:-1, Cartoon Network ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CARTOONNETWORK_SD&amp;format=.m3u8
+#EXTINF:-1, 1.Disney Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DISNEY_HD2&amp;format=.m3u8
+#EXTINF:-1, 2.Disney Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DISNEY_HD&amp;format=.m3u8
+#EXTINF:-1, Disney Channel ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=DISNEY_SD&amp;format=.m3u8
+#EXTINF:-1, Disney XD  ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DISNEYXD_SD&amp;format=.m3u8
+#EXTINF:-1, Disney XD ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=DISNEY_XD_SD&amp;format=.m3u8
+#EXTINF:-1, Disney Jr ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DISNEYJR_SD&amp;format=.m3u8
+#EXTINF:-1, Disney Jr ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=DISNEY_JR_SD&amp;format=.m3u8
+#EXTINF:-1, NATGEO Kids ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=NATGEOKIDS_SD&amp;format=.m3u8
+#EXTINF:-1, NATGEO Kids ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=NATGEOKIDS_SD&amp;format=.m3u8
+#EXTINF:-1, Nick ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=NICK_HD&amp;format=.m3u8
+#EXTINF:-1, Nick ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=NICK_SD&amp;format=.m3u8
+#EXTINF:-1, Nick Jr ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=NICK_JR_SD&amp;format=.m3u8
+#EXTINF:-1, Teen Nick ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TEENNICK_SD&amp;format=.m3u8
+#EXTINF:-1, Nick Music ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=NICKMUSIC_SD&amp;format=.m3u8
+#EXTINF:-1, Nick Music ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=NICKMUSIC_HD&amp;format=.m3u8
+#EXTINF:-1, Nick Music ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=NICKMUSIC3_SD&amp;format=.m3u8
+#EXTINF:-1, Nick Music ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=NICKMUSIC_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery Kids ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DKIDS_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery Kids ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=D_KIDS_SD&amp;format=.m3u8
+#EXTINF:-1, Tooncast ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TOONCAST_SD&amp;format=.m3u8
+#EXTINF:-1, Tooncast ²[]
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TOONCAST_SD&amp;format=.m3u8
+#EXTINF:-1, Boomerang ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=BOOMERANG_HD&amp;format=.m3u8
+#EXTINF:-1, Boomerang ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=BOOMERANG_SD&amp;format=.m3u8
+#EXTINF:-1, 1.BabyFirst ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=BABYFIRST_SD&amp;format=.m3u8
+#EXTINF:-1, 2.BabyFirst ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=BABYFIRST2_SD&amp;format=.m3u8
+#EXTINF:-1, BitMe ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=BITME_HD&amp;format=.m3u8
+
+
+#EXTINF:-1, CNN en Espanol ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CNNESPANOL_SD&amp;format=.m3u8
+#EXTINF:-1, CNN en Espanol ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CNN_ESPANOL_SD&amp;format=.m3u8
+#EXTINF:-1, CNN Internacional ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CNN_SD&amp;format=.m3u8
+#EXTINF:-1, CNN Brasil [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=CNN_BRASIL&amp;format=.m3u8
+#EXTINF:-1, ADN40 ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ADN40_SD&amp;format=.m3u8
+#EXTINF:-1, 1.ADN40 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ADN40_SD&amp;format=.m3u8
+#EXTINF:-1, 2.ADN40 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ADN40_2_SD&amp;format=.m3u8
+#EXTINF:-1, RT en Espanol ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=RTESPANOL_SD&amp;format=.m3u8
+#EXTINF:-1, ForoTV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOROTV_SD&amp;format=.m3u8
+#EXTINF:-1, ForoTV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOROTV_SD&amp;format=.m3u8
+#EXTINF:-1, ABC NEWS ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ABCNEWS_HD&amp;format=.m3u8
+#EXTINF:-1, FOX NEWS ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXNEWS_SD&amp;format=.m3u8
+#EXTINF:-1, Bloomberg ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=BLOOMBERG_HD&amp;format=.m3u8
+#EXTINF:-1, France24 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FRANCE24_SD&amp;format=.m3u8
+#EXTINF:-1, CBSN ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CBSN_SD&amp;format=.m3u8
+#EXTINF:-1, Cablenoticias ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CABLENOTICIAS_SD&amp;format=.m3u
+#EXTINF:-1, ABC ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ABC_SD&amp;format=.m3u8
+#EXTINF:-1, Canal 26 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CANAL26_SD&amp;format=.m3u8
+
+
+#EXTINF:-1, PuroRock [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=PUROROCK&amp;format=.m3u8
+#EXTINF:-1, ARG | Telefé Bahia Blanca [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=TELEFE_BAHIA&amp;format=.m3u8
+#EXTINF:-1, ARG | Telefé Rosario [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=TELEFE_ROSARIO&amp;format=.m3u8
+#EXTINF:-1, ARG | America TV Tucumán [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=AMERICATV_TUCUMAN&amp;format=.m3u8
+#EXTINF:-1, ARG | Canal IP [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=IP_ARG&amp;format=.m3u8
+#EXTINF:-1, ARG | 26 TV
+https://tv.teleclub.xyz/alan/envivo-canal?ver=26TV_ARG&amp;format=.m3u8
+#EXTINF:-1, ARG | Telemax [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=TELEMAX_ARG&amp;format=.m3u8
+#EXTINF:-1, UY | Canal 10 [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=CANAL10_UY&amp;format=.m3u8
+#EXTINF:-1, PY | ABC [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=ABC_PY&amp;format=.m3u8
+#EXTINF:-1, PY | Unicanal [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=UNICANAL_PY&amp;format=.m3u8
+#EXTINF:-1, CL | RewindTV [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=REWINDTV_CL&amp;format=.m3u8
+#EXTINF:-1, CL | Zapping Music [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=ZAPPINGMUSIC_CL&amp;format=.m3u8
+#EXTINF:-1, CL | Camara de Diputados [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=CAMARA_CL&amp;format=.m3u8
+#EXTINF:-1, CL | STGO TV [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=STGOTV_CL&amp;format=.m3u8
+#EXTINF:-1, Love Nature [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=LOVENATURE&amp;format=.m3u8
+#EXTINF:-1, Telesur LAT [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=TELESUR_LAT&amp;format=.m3u8
+#EXTINF:-1, Telesur English [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=TELESUR_ENGLISH&amp;format=.m3u8
+#EXTINF:-1, CBS News Los Angeles [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=CBSNEWS_LA&amp;format=.m3u8
+#EXTINF:-1, NHK World [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=NHK_WORLD&amp;format=.m3u8
+#EXTINF:-1, RTVE1 [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=RTVE1&amp;format=.m3u8
+#EXTINF:-1, RTVE24 [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=RTVE24&amp;format=.m3u8
+#EXTINF:-1, UCL Television LAT [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=UCL_LAT&amp;format=.m3u8
+#EXTINF:-1, Tierramia [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=TIERRAMIA&amp;format=.m3u8
+#EXTINF:-1, TopMusic [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=TOPMUSIC_247&amp;format=.m3u8
+#EXTINF:-1, EC | CCTV Quevedo [*]
+https://tv.teleclub.xyz/alan/envivo-canal?ver=QUEVEDO_EC&amp;format=.m3u8
+
+
+#EXTINF:-1, TVE ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TVE_ES_SD&amp;format=.m3u8
+#EXTINF:-1, A3S ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=A3S_SD&amp;format=.m3u8
+#EXTINF:-1, Antena 3 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ANTENA3_SD&amp;format=.m3u8
+#EXTINF:-1, Canal Claro ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CANALCLARO_SD&amp;format=.m3u
+#EXTINF:-1, ARG | Telefe ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TELEFE_ARG&amp;format=.m3u8
+#EXTINF:-1, ARG | El Trece ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ELTRECE_ARG&amp;format=.m3u8
+#EXTINF:-1, Lifetime ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=LIFETIME_HD&amp;format=.m3u8
+#EXTINF:-1, Lifetime ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LIFETIME_SD&amp;format=.m3u8
+#EXTINF:-1, Hola TV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HOLATV_SD&amp;format=.m3u8
+#EXTINF:-1, Hola TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HOLATV_SD&amp;format=.m3u8
+#EXTINF:-1, Telemundo Internacional ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TELEMUNDO_SD&amp;format=.m3u8
+#EXTINF:-1, Telemundo ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TELEMUNDO_SD&amp;format=.m3u8
+#EXTINF:-1, Tlnovelas ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TLNOVELAS_HD&amp;format=.m3u8
+#EXTINF:-1, Univision ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=UNIVISION_SD&amp;format=.m3u8
+#EXTINF:-1, Univision ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=UNIVISION_HD&amp;format=.m3u
+#EXTINF:-1, Univision ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=UNIVISION_SD&amp;format=.m3u
+#EXTINF:-1, Univision ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=UNIVISIONHD&amp;format=.m3u
+#EXTINF:-1, Univisión ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=UNIVISION3_SD&amp;format=.m3u8
+#EXTINF:-1, Caracol TV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CARACOLTV_SD&amp;format=.m3u8
+#EXTINF:-1, Caracol TV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CARACOLTV_HD&amp;format=.m3u8
+#EXTINF:-1, Caracol TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CARACOLTV_SD&amp;format=.m3u
+#EXTINF:-1, Caracol TV_2 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CARACOLTV2_SD&amp;format=.m3u
+#EXTINF:-1, Las Estrellas TV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=LASESTRELLAS_SD&amp;format=.m3u8
+#EXTINF:-1, Las Estrellas TV ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=LASESTRELLAS_FHD&amp;format=.m3u8
+#EXTINF:-1, 1.Las Estrellas TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LASESTRELLAS_SD&amp;format=.m3u
+#EXTINF:-1, 2.Las Estrellas TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LASESTRELLAS2_SD&amp;format=.m3u
+#EXTINF:-1, Unicable ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=UNICABLE_SD&amp;format=.m3u8
+#EXTINF:-1, RCN Nuestra Tele Internacional ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=RCN_FHD&amp;format=.m3u8
+#EXTINF:-1, RCN Novelas ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=RCN_NOVELAS_SD&amp;format=.m3u8
+#EXTINF:-1, 5 Cinco ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CINCO_SD&amp;format=.m3u8
+#EXTINF:-1, MX | 7 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=7MX_SD&amp;format=.m3u
+#EXTINF:-1, MX | 5 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=5MX_SD&amp;format=.m3u
+#EXTINF:-1, MX | Imagen TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=IMAGENTV_SD&amp;format=.m3u
+#EXTINF:-1, MX | Az de Corazon ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=AZDECORAZON_SD&amp;format=.m3u8
+#EXTINF:-1, MX | AZ Mundo ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=AZMUNDO_SD&amp;format=.m3u8
+#EXTINF:-1, TruTV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TRUTV_SD&amp;format=.m3u8
+#EXTINF:-1, Glitz ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=GLITZ_SD&amp;format=.m3u8
+
+
+#EXTINF:-1, Animal Planet ¹ 
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ANIMALPLANET_SD&amp;format=.m3u8
+#EXTINF:-1, Animal Planet ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ANIMAL_PLANET_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DISCOVERY_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DISCOVERY_HD&amp;format=.m3u8
+#EXTINF:-1, Discovery Channel ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=DISCOVERY_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery Turbo ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DTURBO_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery Turbo ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=D_TURBO_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery World ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DWORLD_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery World ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DWORLD_FHD&amp;format=.m3u8
+#EXTINF:-1, Discovery World ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=D_WORLD_SD&amp;format=.m3u
+#EXTINF:-1, Discovery Theater ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DTHEATER_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery Theater ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DTHEATER_HD&amp;format=.m3u8
+#EXTINF:-1, Discovery Theater ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=D_THEATER_HD&amp;format=.m3u8
+#EXTINF:-1, Discovery Sciences ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DSCIENCES_SD&amp;format=.m3u8
+#EXTINF:-1, Discovery H&amp;H ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DHYH_HD&amp;format=.m3u8
+#EXTINF:-1, Discovery H&amp;H ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DHYH_FHD&amp;format=.m3u8
+#EXTINF:-1, Discovery H&amp;H ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=D_HYH_HD&amp;format=.m3u8
+#EXTINF:-1, Investigation Discovery ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ID_SD&amp;format=.m3u8
+#EXTINF:-1, Investigation Discovery ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ID_HD&amp;format=.m3u8
+#EXTINF:-1, Discovery Civilization ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=D_CIVILIZATION_SD&amp;format=.m3u8
+#EXTINF:-1, TLC ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TLC_SD&amp;format=.m3u8
+#EXTINF:-1, TLC ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TLC_SD&amp;format=.m3u8
+#EXTINF:-1, History Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HISTORY_SD&amp;format=.m3u8
+#EXTINF:-1, History Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HISTORY_HD&amp;format=.m3u8
+#EXTINF:-1, History Channel ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HISTORY_HD&amp;format=.m3u8
+#EXTINF:-1, H2 ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=H2_SD&amp;format=.m3u8
+#EXTINF:-1, H2 ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=H2_HD&amp;format=.m3u8
+#EXTINF:-1, H2 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=H2_SD&amp;format=.m3u8
+#EXTINF:-1, NATGEO ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=NATGEO_SD&amp;format=.m3u8
+#EXTINF:-1, NATGEO ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=NATGEO_SD&amp;format=.m3u8
+#EXTINF:-1, NATGEO Wild ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=NATGEOWILD_HD&amp;format=.m3u8
+#EXTINF:-1, NATGEO Wild ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=NATGEO_WILD_SD&amp;format=.m3u8
+#EXTINF:-1, A&amp;E ¹ 
+https://tv.teleclub.xyz/alan/envivo-canal?server1=AYE_HD&amp;format=.m3u8
+#EXTINF:-1, A&amp;E ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=AYE_FHD&amp;format=.m3u8
+#EXTINF:-1, A&amp;E ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=AYE_SD&amp;format=.m3u8
+#EXTINF:-1, El Gourmet ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ELGOURMET_SD&amp;format=.m3u8
+#EXTINF:-1, El Gourmet ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ELGOURMET_SD&amp;format=.m3u8
+#EXTINF:-1, ComedyCentral ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=COMEDYCENTRAL_SD&amp;format=.m3u8
+#EXTINF:-1, ComedyCentral ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=COMEDY_CENTRAL_SD&amp;format=.m3u8
+#EXTINF:-1, Distrito Comedia ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DISTRITOCOMEDIA_SD&amp;format=.m3u8
+#EXTINF:-1, Distrito Comedia ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=DISTRITOCOMEDIA_SD&amp;format=.m3u
+
+
+#EXTINF:-1, HBO ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBO_SD&amp;format=.m3u8
+#EXTINF:-1, HBO ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBO_HD&amp;format=.m3u8
+#EXTINF:-1, HBO ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HBO_SD&amp;format=.m3u8
+#EXTINF:-1, HBO2 ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBO2_SD&amp;format=.m3u8
+#EXTINF:-1, HBO2 ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBO2_HD&amp;format=.m3u8
+#EXTINF:-1, HBO2 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HBO2_SD&amp;format=.m3u8
+#EXTINF:-1, HBO Plus ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOPLUS_SD&amp;format=.m3u8
+#EXTINF:-1, HBO Plus ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOPLUS_HD&amp;format=.m3u8
+#EXTINF:-1, HBO Plus ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HBOPLUS_SD&amp;format=.m3u8
+#EXTINF:-1, HBO Family ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOFAMILY_SD&amp;format=.m3u8
+#EXTINF:-1, HBO Family ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HBOFAMILY_SD&amp;format=.m3u8
+#EXTINF:-1, 1.HBO Signature ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOSIGNATURE_FHD&amp;format=.m3u8
+#EXTINF:-1, 2.HBO Signature ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOSIGNATURE2_FHD&amp;format=.m3u8
+#EXTINF:-1, HBO Signature ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HBOSIGNATURE_SD&amp;format=.m3u8
+#EXTINF:-1, HBO Mundi ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOMUNDI_SD&amp;format=.m3u8
+#EXTINF:-1, HBO Mundi ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOMUNDI_HD&amp;format=.m3u8
+#EXTINF:-1, HBO Mundi ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HBOMUNDI_SD&amp;format=.m3u8
+#EXTINF:-1, HBO POP ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOPOP_HD&amp;format=.m3u8
+#EXTINF:-1, HBO POP ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HBOPOP_SD&amp;format=.m3u8
+#EXTINF:-1, HBO Xtreme ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOXTREME_SD&amp;format=.m3u8
+#EXTINF:-1, HBO Xtreme ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HBOXTREME_HD&amp;format=.m3u8
+#EXTINF:-1, HBO Xtreme ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HBOXTREME_SD&amp;format=.m3u8
+
+
+#EXTINF:-1, Fox Premium Action ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXACTION_SD&amp;format=.m3u8
+#EXTINF:-1, 1.Fox Premium Action ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXACTION_HD2&amp;format=.m3u8
+#EXTINF:-1, 2.Fox Premium Action ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXACTION_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Action ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXACTION_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Action ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXACTION_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Cinema ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXCINEMA_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Cinema ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXCINEMA_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Comedy ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXCOMEDY_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Comedy ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXCOMEDY_FHD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Comedy ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXCOMEDY_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Classics ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXCLASSIC_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Classics ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXCLASSIC_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Classics ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXCLASSICS_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Family ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXFAMILY_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Family ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXFAMILY_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Series ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSERIES_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Series ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXSERIES_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Movies ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXMOVIES_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Movies ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXMOVIES_FHD&amp;format=.m3u8
+#EXTINF:-1, Fox Premium Movies ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXMOVIES_HD&amp;format=.m3u8
+
+
+#EXTINF:-1, Fox Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOX_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Channel ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOX_FHD&amp;format=.m3u8
+#EXTINF:-1, Fox Channel ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOX_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Channel ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOX_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Life ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXLIFE_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Life ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FOXLIFE_SD&amp;format=.m3u8
+#EXTINF:-1, Warner TV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=WARNER_HD&amp;format=.m3u8
+#EXTINF:-1, Warner TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=WARNERTV_HD&amp;format=.m3u8
+#EXTINF:-1, Universal TV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=UNIVERSAL_HD&amp;format=.m3u8
+#EXTINF:-1, Universal TV ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=UNIVERSAL_FHD&amp;format=.m3u8
+#EXTINF:-1, Universal TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=UNIVERSAL_TV_SD&amp;format=.m3u8
+#EXTINF:-1, Universal TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=UNIVERSALTV_HD&amp;format=.m3u8
+#EXTINF:-1, FX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FX_HD&amp;format=.m3u8
+#EXTINF:-1, FX ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FX_FHD&amp;format=.m3u8
+#EXTINF:-1, FX ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FX_HD&amp;format=.m3u
+#EXTINF:-1, FXM ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FXM_HD&amp;format=.m3u8
+#EXTINF:-1, FXM ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=FXM_SD&amp;format=.m3u8
+#EXTINF:-1, AXN ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=AXN_HD&amp;format=.m3u8
+#EXTINF:-1, AXN ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=AXN_FHD&amp;format=.m3u8
+#EXTINF:-1, AXN ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=AXN_HD&amp;format=.m3u8
+#EXTINF:-1, 1.Sony ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=SONY_HD&amp;format=.m3u8
+#EXTINF:-1, 2.Sony ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=SONY2_HD&amp;format=.m3u8
+#EXTINF:-1, Sony ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=SONY_HD&amp;format=.m3u8
+#EXTINF:-1, TNT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TNT_SD&amp;format=.m3u8
+#EXTINF:-1, TNT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TNT_HD&amp;format=.m3u8
+#EXTINF:-1, TNT ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TNT_SD&amp;format=.m3u8
+#EXTINF:-1, TNT ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TNT_HD&amp;format=.m3u8
+#EXTINF:-1, TNT Series ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TNTSERIES_SD&amp;format=.m3u8
+#EXTINF:-1, Space ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=SPACE_SD&amp;format=.m3u8
+#EXTINF:-1, Space ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=SPACE_HD&amp;format=.m3u8
+#EXTINF:-1, Space ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=SPACE_HD&amp;format=.m3u8
+#EXTINF:-1, Studio Universal ¹ 
+https://tv.teleclub.xyz/alan/envivo-canal?server1=STUDIOUNIVERSAL_SD&amp;format=.m3u8
+#EXTINF:-1, Studio Universal ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=STUDIOUNIVERSAL_HD&amp;format=.m3u8
+#EXTINF:-1, Cinecanal ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CINECANAL_SD&amp;format=.m3u8
+#EXTINF:-1, Cinecanal ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CINECANAL_FHD&amp;format=.m3u8
+#EXTINF:-1, Cinecanal ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CINECANAL_SD&amp;format=.m3u8
+#EXTINF:-1, 1.Cinemax ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CINEMAX_HD&amp;format=.m3u8
+#EXTINF:-1, 2.Cinemax ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CINEMAX2_HD&amp;format=.m3u8
+#EXTINF:-1, Cinemax ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CINEMAX_SD&amp;format=.m3u8
+#EXTINF:-1, Paramount Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=PARAMOUNT_SD&amp;format=.m3u8
+#EXTINF:-1, Paramount Channel ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=PARAMOUNT_HD&amp;format=.m3u8
+#EXTINF:-1, Paramount Channel ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=PARAMOUNT_CHANNEL_SD&amp;format=.m3u8
+#EXTINF:-1, Golden ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=GOLDENEDGE_HD&amp;format=.m3u8
+#EXTINF:-1, Golden Edge ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=GOLDENEDGE_SD&amp;format=.m3u8
+#EXTINF:-1, 1.Golden + ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=GOLDENPLUS_FHD&amp;format=.m3u8
+#EXTINF:-1, 2.Golden + ¹[FHD]
+https://tv.teleclub.xyz/alan/envivo-canal?server1=GOLDENPLUS2_FHD&amp;format=.m3u8
+#EXTINF:-1, Golden + ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=GOLDENPLUS_SD&amp;format=.m3u8
+#EXTINF:-1, Golden Premier ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=GOLDENPREMIER_SD&amp;format=.m3u8
+#EXTINF:-1, Golden Premier ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=GOLDENPREMIER_HD&amp;format=.m3u8
+#EXTINF:-1, Golden Premier ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=GOLDENPREMIER_SD&amp;format=.m3u8
+#EXTINF:-1, DEPELICULA ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DEPELICULA_HD&amp;format=.m3u8
+#EXTINF:-1, SYFY ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=SYFY_SD&amp;format=.m3u8
+#EXTINF:-1, SYFY ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=SYFY_SD&amp;format=.m3u8
+
+
+#EXTINF:-1, Concert ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CONCERT_SD&amp;format=.m3u8
+#EXTINF:-1, 1.Claro Musica TV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CLAROMUSICA_SD&amp;format=.m3u8
+#EXTINF:-1, 2.Claro Musica ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CLAROMUSICA2_SD&amp;format=.m3u8
+#EXTINF:-1, HTV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=HTV_SD&amp;format=.m3u8
+#EXTINF:-1, HTV ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=HTV_SD&amp;format=.m3u8
+#EXTINF:-1, MTV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=MTV_SD&amp;format=.m3u8 
+#EXTINF:-1, MTV Live ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MTV_LIVE_SD&amp;format=.m3u8
+#EXTINF:-1, MTV 80s ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=MTV80_SD&amp;format=.m3u8
+#EXTINF:-1, MTV 80s ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MTV80s_SD&amp;format=.m3u8
+#EXTINF:-1, MTV Hits ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=MTVHITS_SD&amp;format=.m3u8
+#EXTINF:-1, MTV Hits ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MTV_HITS_SD&amp;format=.m3u8
+#EXTINF:-1, VH+1 ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=VH1_SD&amp;format=.m3u8
+#EXTINF:-1, VH+1 ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=VH1_SD&amp;format=.m3u8
+#EXTINF:-1, Bandamax ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=BANDAMAX_SD&amp;format=.m3u8
+#EXTINF:-1, Bandamax ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=BANDAMAX_SD&amp;format=.m3u8
+#EXTINF:-1, TELEHIT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TELEHIT_SD&amp;format=.m3u8
+#EXTINF:-1, 1.Telehit ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TELEHIT_SD&amp;format=.m3u8
+#EXTINF:-1, 2.Telehit ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TELEHIT2_SD&amp;format=.m3u8
+#EXTINF:-1, TOPLATINO ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TOPLATINO_SD&amp;format=.m3u8
+
+
+#EXTINF:-1, NBATV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=NBATV_HD&amp;format=.m3u8
+#EXTINF:-1, GolTV EN ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=GOLTV_EN_HD&amp;format=.m3u8
+#EXTINF:-1, Bein Sports Ñ ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=BEIN_SPORT_SD&amp;format=.m3u8
+#EXTINF:-1, Bein Sports Ñ ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=BEINSPORTS_HD&amp;format=.m3u8
+#EXTINF:-1, Bein Sports Ñ ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=BEINSPORTSN_HD&amp;format=.m3u8
+#EXTINF:-1, ESPN Deportes ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ESPN_DEPORTES&amp;format=.m3u8
+#EXTINF:-1, Claro Sports ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=CLAROSPORTS_SD&amp;format=.m3u8
+#EXTINF:-1, AyM Sports²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=AYM_SPORTS_SD&amp;format=.m3u8
+#EXTINF:-1, Adrenalina Sports ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ADRENALINA_SPORTS_HD&amp;format=.m3u8
+#EXTINF:-1, TUDN ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TUDN_SD&amp;format=.m3u
+#EXTINF:-1, TUDN ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TUDN_HD&amp;format=.m3u8
+#EXTINF:-1, CLARO SPORTS ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CLARO_SPORTS_SD&amp;format=.m3u8
+#EXTINF:-1, CLARO SPORTS ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CLARO_SPORTS_HD&amp;format=.m3u8
+#EXTINF:-1, 1.GolTV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=GOLTV_SD&amp;format=.m3u8
+#EXTINF:-1, 2.GolTV ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=GOLTV2_SD&amp;format=.m3u8
+#EXTINF:-1, TyC Sports ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TYCSPORTS_SD&amp;format=.m3u8
+#EXTINF:-1, TyC Sports ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TYCSPORTS_SD&amp;format=.m3u8
+#EXTINF:-1, Afizzionados ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=AFIZZIONADOS_SD&amp;format=.m3u8
+#EXTINF:-1, WIN SPORT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=WIN_SPORT_SD&amp;format=.m3u8
+#EXTINF:-1, WIN SPORT PLUS ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=WIN_SPORT_PLUS_SD&amp;format=.m3u8
+#EXTINF:-1, WIN SPORT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=WIN_SPORT_HD&amp;format=.m3u8
+#EXTINF:-1, WIN SPORT PLUS ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=WIN_SPORT_PLUS_HD&amp;format=.m3u8
+#EXTINF:-1, Win Sports ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=WINSPORTS_SD&amp;format=.m3u8
+#EXTINF:-1, Win Sports Plus ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=WINSPORTS_PLUS_SD&amp;format=.m3u8
+#EXTINF:-1, TNT SPORT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TNT_SPORT_SD&amp;format=.m3u8
+#EXTINF:-1, TNT SPORT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=TNT_SPORT_HD&amp;format=.m3u8
+#EXTINF:-1, CDF ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CDF_P_SD&amp;format=.m3u8
+#EXTINF:-1, CDF ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CDF_HD&amp;format=.m3u8
+#EXTINF:-1, DIRECTV SPORT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DIRECTV_SPORT_SD&amp;format=.m3u8
+#EXTINF:-1, DIRECTV SPORT 2 ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DIRECTV_SPORT2_SD&amp;format=.m3u8
+#EXTINF:-1, DIRECTV SPORT PLUS ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DIRECTV_SPORTPLUS_SD&amp;format=.m3u8
+#EXTINF:-1, DIRECTV SPORT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DIRECTV_SPORT_HD&amp;format=.m3u8
+#EXTINF:-1, DIRECTV SPORT 2 ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DIRECTV_SPORT2_HD&amp;format=.m3u8
+#EXTINF:-1, DIRECTV SPORT PLUS ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=DIRECTV_SPORTPLUS_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports Premium ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXS_PREMIUM_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT_LAT_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 2 LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT2_LAT_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 3 LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT3_LAT_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports LAT ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LAT_FOXS1_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 2 LAT ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LAT_FOXS2_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 3 LAT ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LAT_FOXS3_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT_LAT_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 2 LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT2_LAT_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 3 LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT3_LAT_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT_MEX_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 2 MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT2_MEX_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 3 MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT3_MEX_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports MEX ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MX_FOXS1_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 2 MEX ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MX_FOXS2_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 3 MEX ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MX_FOXS3_SD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT_MEX_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 2 MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT2_MEX_HD&amp;format=.m3u8
+#EXTINF:-1, Fox Sports 3 MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=FOXSPORT3_MEX_HD&amp;format=.m3u8
+#EXTINF:-1, ESPN LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN_LAT_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN 2 LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN2_LAT_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN 3 LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN3_LAT_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN LAT ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LAT_ESPN1_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN 2 LAT 
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LAT_ESPN2_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN 3 LAT ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=LAT_ESPN3_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN EXTRA LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN_LAT_EXTRA_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN_LAT_HD&amp;format=.m3u8
+#EXTINF:-1, ESPN 2 LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN2_LAT_HD&amp;format=.m3u8
+#EXTINF:-1, ESPN 3 LAT ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN3_LAT_HD&amp;format=.m3u8
+#EXTINF:-1, ESPN MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN_MEX_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN 2 MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN2_MEX_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN 3 MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN3_MEX_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN MEX ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MX_ESPN1_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN 2 MEX ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MX_ESPN2_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN 3 MEX ²
+https://tv.teleclub.xyz/alan/envivo-canal?server2=MX_ESPN3_SD&amp;format=.m3u8
+#EXTINF:-1, ESPN MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN_MEX_HD&amp;format=.m3u8
+#EXTINF:-1, ESPN 2 MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN2_MEX_HD&amp;format=.m3u8
+#EXTINF:-1, ESPN 3 MEX ¹
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ESPN3_MEX_HD&amp;format=.m3u8
+
+
+#EXTINF:-1, 24/7 | Los Simpsons
+https://tv.teleclub.xyz/alan/envivo-canal?ver=VER_SIMPSONS&amp;format=.m3u8
+#EXTINF:-1, 24/7 | Los Simpsons 2
+https://tv.teleclub.xyz/alan/envivo-canal?online=SIMPSON247&amp;format=.m3u8
+#EXTINF:-1, 24/7 | Futurama
+https://tv.teleclub.xyz/alan/envivo-canal?online=FUTURAMA247&amp;format=.m3u8
+#EXTINF:-1, 24/7 | Alf
+https://tv.teleclub.xyz/alan/envivo-canal?server1=ALF_247&amp;format=.m3u8
+#EXTINF:-1, 24/7 | South Park
+https://tv.teleclub.xyz/alan/envivo-canal?server1=SOUTHPARK_247&amp;format=.m3u8
+#EXTINF:-1, 24/7 | South Park 2
+https://tv.teleclub.xyz/alan/envivo-canal?online=SOUTHPARK&amp;format=.m3u8
+#EXTINF:-1, 24/7 | El chavo del 8 
+https://tv.teleclub.xyz/alan/envivo-canal?server1=CHAVO_247&amp;format=.m3u8
+#EXTINF:-1, 24/7 | American Dad
+https://tv.teleclub.xyz/alan/envivo-canal?online=AMERICANDAD&amp;format=.m3u8
+
+#EXTINF:-1, Nick
+https://tv.teleclub.xyz/alan/envivo-canal?espana=NICK_ES&format=.m3u8
+#EXTINF:-1, Nick Jr
+https://tv.teleclub.xyz/alan/envivo-canal?espana=NICKJR_ES&format=.m3u8
+#EXTINF:-1, Disney Jr
+https://tv.teleclub.xyz/alan/envivo-canal?espana=DISNEYJR_ES&format=.m3u8
+#EXTINF:-1, Disney Channel
+https://tv.teleclub.xyz/alan/envivo-canal?espana=DISNEYXD_ES&format=.m3u8
+
+
+#EXTINF:-1, TVE ²[SD]
+https://tv.teleclub.xyz/alan/envivo-canal?server2=TVE_ES_SD&format=.m3u8
+#EXTINF:-1, A3S ²[SD]
+https://tv.teleclub.xyz/alan/envivo-canal?server2=A3S_SD&format=.m3u8
+#EXTINF:-1, Antena 3 ²[SD]
+https://tv.teleclub.xyz/alan/envivo-canal?server2=ANTENA3_SD&format=.m3u8
+#EXTINF:-1, Viajar
+https://tv.teleclub.xyz/alan/envivo-canal?espana=VIAJAR_ES&format=.m3u8
+#EXTINF:-1, TOROS
+https://tv.teleclub.xyz/alan/envivo-canal?espana=TOROS_ES&format=.m3u8
+#EXTINF:-1, 1 TVE
+https://tv.teleclub.xyz/alan/envivo-canal?espana=1_TVE_ES&format=.m3u8
+#EXTINF:-1, 2 TVE
+https://tv.teleclub.xyz/alan/envivo-canal?espana=2_TVE_ES&format=.m3u8
+#EXTINF:-1, 24H TVE
+https://tv.teleclub.xyz/alan/envivo-canal?espana=24H_ES&format=.m3u8
+#EXTINF:-1, ANTENA 3
+https://tv.teleclub.xyz/alan/envivo-canal?espana=ANTENA3_ES&format=.m3u8
+#EXTINF:-1, A3 Series
+https://tv.teleclub.xyz/alan/envivo-canal?espana=A3SERIES_SD&format=.m3u8
+#EXTINF:-1, Cuatro
+https://tv.teleclub.xyz/alan/envivo-canal?espana=CUATRO_ES&format=.m3u8
+#EXTINF:-1, Cinco
+https://tv.teleclub.xyz/alan/envivo-canal?espana=CINCO_ES&format=.m3u8
+#EXTINF:-1, La sexta
+https://tv.teleclub.xyz/alan/envivo-canal?espana=6_TVE_ES&format=.m3u8
+#EXTINF:-1, NOVA
+https://tv.teleclub.xyz/alan/envivo-canal?espana=NOVA_ES&format=.m3u8
+#EXTINF:-1, MEGA
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MEGA_ES&format=.m3u8
+#EXTINF:-1, NEOX
+https://tv.teleclub.xyz/alan/envivo-canal?espana=NEOX_ES&format=.m3u8
+
+
+#EXTINF:-1, Fox
+https://tv.teleclub.xyz/alan/envivo-canal?espana=FOX_ES&format=.m3u8
+#EXTINF:-1, History
+https://tv.teleclub.xyz/alan/envivo-canal?espana=HISTORY_ES&format=.m3u8
+#EXTINF:-1, TNT
+https://tv.teleclub.xyz/alan/envivo-canal?espana=TNT_ES&format=.m3u8
+#EXTINF:-1, TCM 
+https://tv.teleclub.xyz/alan/envivo-canal?espana=TCM_ES&format=.m3u8
+#EXTINF:-1, SYFY
+https://tv.teleclub.xyz/alan/envivo-canal?espana=SYFY_ES&format=.m3u8
+#EXTINF:-1, SundanceTV
+https://tv.teleclub.xyz/alan/envivo-canal?espana=SUNDANCETV_ES&format=.m3u8
+#EXTINF:-1, Paramount Network
+https://tv.teleclub.xyz/alan/envivo-canal?espana=PARAMOUNT_NETWORK_ES&format=.m3u8
+#EXTINF:-1, Cine Dinamita
+https://tv.teleclub.xyz/alan/envivo-canal?espana=CINEDINAMITA_ES&format=.m3u8
+#EXTINF:-1, MTV
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MTV_ES&format=.m3u8
+#EXTINF:-1, Fox Life
+https://tv.teleclub.xyz/alan/envivo-canal?espana=FOXLIFE_ES&format=.m3u8
+#EXTINF:-1, Discovery
+https://tv.teleclub.xyz/alan/envivo-canal?espana=DISCOVERY_ES&format=.m3u8
+#EXTINF:-1, NATGEO Wild
+https://tv.teleclub.xyz/alan/envivo-canal?espana=NATGEOWILD_ES&format=.m3u8
+#EXTINF:-1, NATGEO 
+https://tv.teleclub.xyz/alan/envivo-canal?espana=NATGEO_ES&format=.m3u8
+#EXTINF:-1, Comedy Central
+https://tv.teleclub.xyz/alan/envivo-canal?espana=COMEDYCENTRAL_ES&format=.m3u8
+
+
+#EXTINF:-1, Movistar | Disney +
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_DISNEY_ES&format=.m3u8
+#EXTINF:-1, Movistar | Comedia
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_COMEDIA_ES&format=.m3u8
+#EXTINF:-1, Movistar | Acción
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_ACCION_ES&format=.m3u8
+#EXTINF:-1, Movistar | Estrenos
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_ESTRENOS_ES&format=.m3u8
+#EXTINF:-1, Movistar | FORMULA 1
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_FORMULA1_ES&format=.m3u8
+#EXTINF:-1, Movistar | Golf
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_GOLF_ES&format=.m3u8
+#EXTINF:-1, Movistar | Cine DOC&ROLL
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_CINE_ES&format=.m3u8
+#EXTINF:-1, Movistar | Drama
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_DRAMA_ES&format=.m3u8
+#EXTINF:-1, Movistar | LaLiga
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_LALIGA_ES&format=.m3u8
+#EXTINF:-1, Movistar | Liga de Campeones
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_LIGADECAMPEONES_ES&format=.m3u8
+#EXTINF:-1, Movistar | Series Maria
+https://tv.teleclub.xyz/alan/envivo-canal?espana=MOVISTAR_SERIESMARIA_ES&format=.m3u8
+
+
+#EXTINF:-1, TeleDeporte
+https://tv.teleclub.xyz/alan/envivo-canal?espana=TELEDEPORTE_ES&format=.m3u8
+#EXTINF:-1, Euro Sport
+https://tv.teleclub.xyz/alan/envivo-canal?espana=EUROSPORT_ES&format=.m3u8
+#EXTINF:-1, Euro Sport 2
+https://tv.teleclub.xyz/alan/envivo-canal?espana=EUROSPORT2_ES&format=.m3u8
+#EXTINF:-1, La liga TV Bar
+https://tv.teleclub.xyz/alan/envivo-canal?espana=LALIGATVBAR_ES&format=.m3u8
+
+#EXTINF:-1, PlutoTV | Minuto para Ganar
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=MINUTOPARAGANAR&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Anime
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=ANIME&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Anime Accion
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=ANIME_ACCION&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Nick
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=NICK&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Nick Clasico
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=NICK_CLASICO&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Rugrats Crecidos
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=RUGRATS_CRECIDOS&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Series
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=SERIES&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Series Latino
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=SERIES_LATINO&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Familiar
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=FAMILIA&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Cine Estelar
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=CINE_ESTELAR&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Cine Accion
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=CINE_ACCION&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Cine Comedia
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=CINE_COMEDIA&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Cine Drama
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=CINE_DRAMA&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Cine Terror
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=CINE_TERROR&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Cine Latino
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=CINE_LATINO&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Suspenso
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=SUSPENSO&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Investiga
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=INVESTIGA&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Archivos del FBI
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=FBI&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Animales
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=ANIMALES&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Viajes
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=VIAJES&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Telefe Clasico
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=TELEFE&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Cocina
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=COCINA&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Romance
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=ROMANCE&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Archivos Forenses
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=FORENSE&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | ArmyFAIL
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=ARMYFAIL&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Humor
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=HUMOR&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Misterios Medicos
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=MISTERIOSMEDICOS&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | Narcos
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=NARCOS&amp;format=.m3u8
+#EXTINF:-1, PlutoTV | The Walking Dead
+https://tv.teleclub.xyz/alan/envivo-canal?plutotv=THEWALKINGDEAD&amp;format=.m3u8
