@@ -1,0 +1,508 @@
+#EXTM3U
+
+
+#EXTINF:0,Azteca Uno
+#EXTGRP:Locales
+http://blackghost.live/play/tvghd-229.php?id=azteca-uno-en-vivo&f=.m3u8
+#EXTINF:0,Las Estrellas
+#EXTGRP:Locales
+http://blackghost.live/play/tvghd-229.php?id=las-estrellas-en-vivo&f=.m3u8
+
+#EXTINF:0,Imagen TV
+#EXTGRP:Locales
+http://blackghost.live/play/tvghd-229.php?id=imagen-tv-en-vivo&f=.m3u8
+
+#EXTINF:0,Canal 5
+#EXTGRP:Locales
+http://blackghost.live/play/tvghd-229.php?id=canal-5-en-vivo&f=.m3u8
+
+#EXTINF:0,Azteca 7
+#EXTGRP:Locales
+http://blackghost.live/play/tvghd-229.php?id=azteca-7-en-vivo&f=.m3u8
+#EXTINF:0,Galavision
+#EXTGRP:Locales
+http://blackghost.live/play/tvghd-229.php?id=galavision-en-vivo&f=.m3u8
+
+#EXTINF:0,Univision
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=univision-en-vivo&f=.m3u8
+#EXTINF:0,Unimas
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=unimas-en-vivo&f=.m3u8
+
+#EXTINF:0,Telemundo
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=telemundo-en-vivo&f=.m3u8
+
+#EXTINF:0,Unicable
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=unicable-en-vivo&f=.m3u8
+
+#EXTINF:0,Fox
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=fox-en-vivo&f=.m3u8
+
+#EXTINF:0,Sony
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=canal-sony-en-vivo&f=.m3u8
+#EXTINF:0,Warner
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=warner-bros-tv-en-vivo&f=.m3u8
+#EXTINF:0,E!
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=everything-en-vivo&f=.m3u8
+
+#EXTINF:0,FX
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=fx-en-vivo&f=.m3u8
+
+#EXTINF:0,Fox Life
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=fox-life-en-vivo&f=.m3u8
+#EXTINF:0,Universal
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=universal-channel-en-vivo&f=.m3u8
+#EXTINF:0,A&E
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=discovery-a-y-e-en-vivo&f=.m3u8
+#EXTINF:0,Syfy
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=syfy-en-vivo&f=.m3u8
+
+#EXTINF:0,AXN
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=axn-en-vivo&f=.m3u8
+#EXTINF:0,TBS
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=tbs-en-vivo&f=.m3u8
+#EXTINF:0,Home & Health
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=discovery-home-and-health-en-vivo&f=.m3u8
+
+#EXTINF:0,Comedy Central
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=comedy-central-en-vivo&f=.m3u8
+#EXTINF:0,Distrito Comedia
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=distrito-comedia-en-vivo&f=.m3u8
+
+
+#EXTINF:0,Az Mundo
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=az-mundo-en-vivo&f=.m3u8
+#EXTINF:0,Az Cinema
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=az-cinema-en-vivo&f=.m3u8
+#EXTINF:0,Tlnovelas
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=tlnovelas-en-vivo&f=.m3u8
+#EXTINF:0,Pasiones
+#EXTGRP:Entretenimiento
+http://blackghost.live/play/tvghd-229.php?id=pasiones-en-vivo&f=.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:Variedades
+http://blackghost.live/play/tvghd-229.php?id=lifetime-en-vivo&f=.m3u8
+
+#EXTINF:0,Gourmet
+#EXTGRP:Variedades
+http://blackghost.live/play/tvghd-229.php?id=el-gourmet-en-vivo&f=.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Variedades
+http://blackghost.live/play/tvghd-229.php?id=discovery-tlc-en-vivo&f=.m3u8
+
+#EXTINF:0,Discovery Channel
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=discovery-channel-en-vivo&f=.m3u8
+#EXTINF:0,History
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=history-channel-en-vivo&f=.m3u8
+#EXTINF:0,H2
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=history-2-en-vivo&f=.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=national-geographic-en-vivo&f=.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=nat-geo-wild-en-vivo&f=.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=animal-planet-en-vivo&f=.m3u8
+#EXTINF:0,NASA TV
+#EXTGRP:Cultura
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:0,Discovery Turbo
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=discovery-turbo-en-vivo&f=.m3u8
+#EXTINF:0,ID Investigation
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=id-investigation-en-vivo&f=.m3u8
+#EXTINF:0,Discovery Theater
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=discovery-theater-en-vivo&f=.m3u8
+#EXTINF:0,Discovery World
+#EXTGRP:Cultura
+http://blackghost.live/play/tvghd-229.php?id=discovery-world-en-vivo&f=.m3u8
+
+#EXTINF:0,Disney Channel
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=disney-channel-en-vivo&f=.m3u8
+#EXTINF:0,Disney xD
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=disney-xd-en-vivo&f=.m3u8
+#EXTINF:0,Disney Junior
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=disney-junior-en-vivo&f=.m3u8
+#EXTINF:0,Nick
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=nick-en-vivo&f=.m3u8
+#EXTINF:0,Nick2
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=nick-2-en-vivo&f=.m3u8
+#EXTINF:0,Nick jr
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=nick-jr-en-vivo&f=.m3u8
+#EXTINF:0,Nicktoons
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=nicktoons-en-vivo&f=.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=cartoon-network-en-vivo&f=.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=boomerang-en-vivo&f=.m3u8
+#EXTINF:0,KanadeTv 
+#EXTGRP:Niños
+http://207.246.84.143:8080/hls/Kanade.m3u8
+#EXTINF:0,Locomotion 
+#EXTGRP:Niños
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:0,Toonizaki 
+#EXTGRP:Niños
+https://inliveserver.com:1936/m3ulive/m3ulive/playlist.m3u8
+#EXTINF:0,Tooncast
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=tooncast-en-vivo&f=.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=discovery-kids-en-vivo&f=.m3u8
+#EXTINF:0,Nat Geo Kids
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=nat-geo-kids-en-vivo&f=.m3u8
+#EXTINF:0,Boing
+#EXTGRP:Niños
+http://blackghost.live/play/tvghd-229.php?id=boing-en-vivo&f=.m3u8
+#EXTINF:0,Telefe
+#EXTGRP:Internacionales
+http://blackghost.live/play/tvghd-229.php?id=telefe-en-vivo&f=.m3u8
+#EXTINF:0,El Trece
+#EXTGRP:Internacionales
+http://blackghost.live/play/tvghd-229.php?id=el-trece-en-vivo&f=.m3u8
+
+#EXTINF:0,Caracol
+#EXTGRP:Internacionales
+http://blackghost.live/play/tvghd-229.php?id=caracol-en-vivo&f=.m3u8
+#EXTINF:0,Atv
+#EXTGRP:Internacionales
+http://blackghost.live/play/tvghd-229.php?id=atv-en-vivo&f=.m3u8
+#EXTINF:0,Latina
+#EXTGRP:Internacionales
+http://blackghost.live/play/tvghd-229.php?id=latina-en-vivo&f=.m3u8
+#EXTINF:0,America TV
+#EXTGRP:Internacionales
+http://blackghost.live/play/tvghd-229.php?id=america-tv-en-vivo&f=.m3u8
+#EXTINF:0,RAI 1
+#EXTGRP:Internacionales
+http://ott-cdn.ucom.am/s29/04.m3u8
+#EXTINF:0,RAI 3
+#EXTGRP:Internacionales
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:0,MULTIVISON
+#EXTGRP:Internacionales
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+#EXTINF:0,RUSSIA 1
+#EXTGRP:Internacionales
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,CGTN En Español
+#EXTGRP:Internacionales
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:0,FAIL ARMY
+#EXTGRP:Internacionales
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,REDBULL TV
+#EXTGRP:Internacionales
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:0,Rick & Morty
+#EXTGRP:Internacionales
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_2.m3u8
+#EXTINF:0,Robot Chicken
+#EXTGRP:Internacionales
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_2.m3u8
+#EXTINF:0, Aqua Teen
+#EXTGRP:Internacionales
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_2.m3u8
+
+#EXTINF:0,Dpelicula
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=dpelicula-en-vivo&f=.m3u8
+#EXTINF:0,Golden Plus
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=golden-plus-en-vivo&f=.m3u8
+#EXTINF:0,Golden Edge
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=golden-edge-en-vivo&f=.m3u8
+#EXTINF:0,Golden Premier
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=golden-premier-en-vivo&f=.m3u8
+#EXTINF:0,TNT
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=tnt-en-vivo&f=.m3u8
+
+#EXTINF:0,TNT Series
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=tnt-series-en-vivo&f=.m3u8
+#EXTINF:0,Space
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=space-en-vivo&f=.m3u8
+
+#EXTINF:0,Studio Universal
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=studio-universal-en-vivo&f=.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=cinemax-en-vivo&f=.m3u8
+#EXTINF:0,Cinecanal
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=cinecanal-en-vivo&f=.m3u8
+
+#EXTINF:0,AMC
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=amc-en-vivo&f=.m3u8
+#EXTINF:0,Paramount Channel
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=paramount-channel-en-vivo&f=.m3u8
+#EXTINF:0,Cine Latino
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=cine-latino-en-vivo&f=.m3u8
+#EXTINF:0,Multi Premier
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=multi-premier-en-vivo&f=.m3u8
+
+#EXTINF:0,Isat
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=isat-en-vivo&f=.m3u8
+#EXTINF:0,FXM
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=fxm-en-vivo&f=.m3u8
+
+#EXTINF:0,Fox Premium Movies
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=fox-premium-movies-en-vivo&f=.m3u8
+#EXTINF:0,Fox Premium Family
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=fox-premium-family-en-vivo&f=.m3u8
+#EXTINF:0,FOX PREMIUM ACTION
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=fox-premium-action-en-vivo&f=.m3u8
+#EXTINF:0,FOX PREMIUM SERIES
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=fox-premium-series-en-vivo&f=.m3u8
+
+#EXTINF:0,HBO
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=hbo-en-vivo&f=.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=hbo-2-en-vivo&f=.m3u8
+
+#EXTINF:0,HBO Plus
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=hbo-plus-en-vivo&f=.m3u8
+#EXTINF:0,HBO Family
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=hbo-family-en-vivo&f=.m3u8
+#EXTINF:0,HBO Xtreme
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=hbo-xtreme-en-vivo&f=.m3u8
+#EXTINF:0,HBO POP
+#EXTGRP:Peliculas
+http://blackghost.live/play/tvghd-229.php?id=hbo-pop-en-vivo&f=.m3u8
+#EXTINF:0,TUDN
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=tudn-en-vivo&f=.m3u8
+#EXTINF:0,Espn Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=espn-mexico-en-vivo&f=.m3u8
+#EXTINF:0,Espn 2 Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=espn-2-mexico-en-vivo&f=.m3u8
+#EXTINF:0,Espn 3 Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=espn-3-mexico-en-vivo&f=.m3u8
+
+#EXTINF:0,Fox Sports Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=fox-sports-mexico-en-vivo&f=.m3u8
+#EXTINF:0,Fox Sports 2 Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=fox-sports-2-mexico-en-vivo&f=.m3u8
+#EXTINF:0,Fox Sports 3 Mexico
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=fox-sports-3-mexico-en-vivo&f=.m3u8
+#EXTINF:0,Izzi Afizzionados
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=izzi-afizzionados-en-vivo&f=.m3u8
+#EXTINF:0,ESPN Deportes
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=espn-deportes-en-vivo&f=.m3u8
+
+#EXTINF:0,Directv Sports
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=directv-sports-en-vivo&f=.m3u8
+#EXTINF:0,Directv Sports 2
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=directv-sports-2-en-vivo&f=.m3u8
+#EXTINF:0,Directv Sports Plus
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=directv-sports-plus-en-vivo&f=.m3u8
+#EXTINF:0,Bein La Liga
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=bein-la-liga-en-vivo&f=.m3u8
+
+#EXTINF:0,TYC Sports
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=tyc-sports-en-vivo&f=.m3u8
+#EXTINF:0,TNT Sports
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=tnt-sports-en-vivo&f=.m3u8
+#EXTINF:0,Fox Sports Premium
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=fox-sports-premium-en-vivo&f=.m3u8
+
+#EXTINF:0,Fox Sports
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=fox-sports-en-vivo&f=.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=fox-sports-2-en-vivo&f=.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=fox-sports-3-en-vivo&f=.m3u8
+#EXTINF:0,ESPN Plus
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=espn-plus-en-vivo&f=.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=espn-en-vivo&f=.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=espn-2-en-vivo&f=.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=espn-3-en-vivo&f=.m3u8
+
+#EXTINF:0,TVC Deportes
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=tvc-deportes-en-vivo&f=.m3u8
+#EXTINF:0,GOLPERU
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=gol-peru-en-vivo&f=.m3u8
+#EXTINF:0,GOL TV
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=gol-tv-en-vivo&f=.m3u8
+#EXTINF:0,CDF Premium
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=cdf-premium-en-vivo&f=.m3u8
+#EXTINF:0,Win Sports
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=win-sports-en-vivo&f=.m3u8
+#EXTINF:0,ESPN 1 US
+#EXTGRP:Deportes
+https://gma2.blab.email/fs2.m3u8
+
+#EXTINF:0,ESPN 2 US
+#EXTGRP:Deportes
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:0,ESPN U US
+#EXTGRP:Deportes
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:0,WWE Network
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=wwe-network-en-vivo&f=.m3u8
+#EXTINF:0,NBA
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=nba-en-vivo&f=.m3u8
+#EXTINF:0,NFL Network
+#EXTGRP:Deportes
+http://blackghost.live/play/tvghd-229.php?id=nfl-network-en-vivo&f=.m3u8
+#EXTINF:0,Cnn Espanol
+#EXTGRP:Noticias y Documentales
+http://blackghost.live/play/tvghd-229.php?id=cnn-espanol-en-vivo&f=.m3u8
+#EXTINF:0,RT Noticias
+#EXTGRP:Noticias y Documentales
+http://blackghost.live/play/tvghd-229.php?id=rt-noticias-en-vivo&f=.m3u8
+#EXTINF:0,DW EN ESPANOL
+#EXTGRP:Noticias y Documentales
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0,DW
+#EXTGRP:Noticias y Documentales
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+
+#EXTINF:0,CBS NEWS
+#EXTGRP:Noticias y Documentales
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0,NBC NEWS
+#EXTGRP:Noticias y Documentales
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
+#EXTINF:0,BBC WORLD NEWS
+#EXTGRP:Noticias y Documentales
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:0,FRANCE 24 EN ESPANOL
+#EXTGRP:Noticias y Documentales
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:0,FRANCE24
+#EXTGRP:Noticias y Documentales
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,CGTN NEWS
+#EXTGRP:Noticias y Documentales
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0, AL JAZZERA NEWS
+#EXTGRP:Noticias y Documentales
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:0,RUSSIA 24
+#EXTGRP:Noticias y Documentales
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:0,MOSCU 24
+#EXTGRP:Noticias y Documentales
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0,MTV
+#EXTGRP:Musica
+http://blackghost.live/play/tvghd-229.php?id=mtv-en-vivo&f=.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:Musica
+http://blackghost.live/play/tvghd-229.php?id=mtv-hits-en-vivo&f=.m3u8
+#EXTINF:0,HTV
+#EXTGRP:Musica
+http://blackghost.live/play/tvghd-229.php?id=htv-en-vivo&f=.m3u8
+#EXTINF:0,Bandamax
+#EXTGRP:Musica
+http://blackghost.live/play/tvghd-229.php?id=bandamax-en-vivo&f=.m3u8
+
+#EXTINF:0,Vh1
+#EXTGRP:Musica
+http://blackghost.live/play/tvghd-229.php?id=vh1-en-vivo&f=.m3u8
+#EXTINF:0,Vh1 Classic
+#EXTGRP:Musica
+http://blackghost.live/play/tvghd-229.php?id=vh1-classic-en-vivo&f=.m3u8
+#EXTINF:0,TELEHIT
+#EXTGRP:Musica
+http://blackghost.live/play/tvghd-229.php?id=telehit-en-vivo&f=.m3u8
+#EXTINF:0,Top Latino
+#EXTGRP:Musica
+http://blackghost.live/play/tvghd-229.php?id=top-latino-en-vivo&f=.m3u8
+
+#EXTINF:0,Venus
+http://blackghost.live/play/tvghd-229.php?id=venus-en-vivo&f=.m3u8
