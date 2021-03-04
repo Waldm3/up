@@ -46,27 +46,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
 #EXTINF:-1, NBC (Alt.)
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93845/12?f=.m3u8
-#EXTINF:-1, Estrella TV
-#EXTGRP:Locales
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
-#EXTINF:-1, Telemundo
-#EXTGRP:Locales
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
-#EXTINF:-1, Telemundo Pac
-#EXTGRP:Locales
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
-#EXTINF:-1, Univisión
-#EXTGRP:Locales
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
-#EXTINF:-1, UniMas
-#EXTGRP:Locales
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-#EXTINF:-1, Galavisión
-#EXTGRP:Locales
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
-#EXTINF:-1, Universo
-#EXTGRP:Locales
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
 
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
@@ -774,25 +753,23 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
 #EXTINF:-1, TUDN (Alt.)
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/560/12?f=.m3u8
-#EXTINF:-1, ESPN Deportes
+#EXTINF:-1, TUDN USA
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/561/12?f=.m3u8
 
-#EXTINF:-1, Bein Ñ | HD
+#EXTINF:-1, TUDN USA | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
-#EXTINF:-1, Bein Ñ
-#EXTGRP:Deportes
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
-#EXTINF:-1, NBCSN
-#EXTGRP:Deportes
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
 #EXTINF:-1, TUDN USA
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
 #EXTINF:-1, ESPN Deportes | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+
+#EXTINF:-1, Bein Ñ
+#EXTGRP:Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 #EXTINF:-1, Bein Ñ
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4388/12?f=.m3u8
@@ -803,12 +780,9 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
 #EXTINF:-1, Bein Sports
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
-#EXTINF:-1, TUDN USA
+#EXTINF:-1, NBCSN
 #EXTGRP:Deportes
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
-#EXTINF:-1, ESPN Deportes
-#EXTGRP:Deportes
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
 
 #EXTINF:0,Espn+
 #EXTGRP:Deportes
