@@ -1,8 +1,27 @@
 #EXTM3U
-#EXTINF:-1, Azteca Uno
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
+#EXTINF:-1, SABIAS QUE
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, PUEDES
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, DONAR EN
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, MERCADOPAGO CON
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, PAYPAL
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, http://mpago.la/2vg8ykz
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+
 #EXTINF:-1, Las Estrellas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/12?f=.m3u8
+#EXTINF:-1, Azteca Uno
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
 #EXTINF:-1, Imagen Television
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
 #EXTINF:-1, Foro TV

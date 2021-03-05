@@ -1,21 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1, Donar con Mercadopago
+#EXTINF:-1, SABIAS QUE
 #EXTGRP:Locales
 http://mpago.la/2vg8ykz
-#EXTINF:-1, Donacion Mercadopago
+#EXTINF:-1, PUEDES
 #EXTGRP:Locales
 http://mpago.la/2vg8ykz
-#EXTINF:-1, Dona en Mercadopago con Paypal
+#EXTINF:-1, DONAR EN
 #EXTGRP:Locales
 http://mpago.la/2vg8ykz
-#EXTINF:0,Azteca Uno
+#EXTINF:-1, MERCADOPAGO CON
 #EXTGRP:Locales
-http://blackghost.live/play/tvghd-302.php?id=azteca-uno-en-vivo&f=.m3u8
+http://mpago.la/2vg8ykz
+#EXTINF:-1, PAYPAL
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, http://mpago.la/2vg8ykz
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
 
 #EXTINF:0,Las Estrellas
 #EXTGRP:Locales
 http://blackghost.live/play/tvghd-302.php?id=las-estrellas-en-vivo&f=.m3u8
+#EXTINF:0,Azteca Uno
+#EXTGRP:Locales
+http://blackghost.live/play/tvghd-302.php?id=azteca-uno-en-vivo&f=.m3u8
 
 #EXTINF:0,Imagen TV
 #EXTGRP:Locales
