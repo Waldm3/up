@@ -1,21 +1,32 @@
 #EXTM3U
 
-#EXTINF:0,las estrellas
+#EXTINF:-1, Donar con Mercadopago
 #EXTGRP:Locales
-http://185.169.253.75:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682?token=GEBbVhYLRg5GAQQDVlcHDFwFBQpTVQQBDARQAgcGBQoBVAUFXVJTAwEUHhVAQhdRWQtsW1MUCQUAUBgVE0dSQDwLVxVfQVUWSBRGXl5TRw4JUAIGDw8HCgBUGBUWXVMQWUAABlBXRhhGU0pDVkQLVVQ5V1dBX1BWGlhaQgpYGxAMDGxTAA4FWgAUCBUDFEkWURVDEA1YRl9UThZVD0BFUxcHEQ1HVlQGVRQeFVBZEFpMFEoQDRR+axpOFlIeQFJcEAtcWUdZRkAXFB4VWkU6Rl0VR0BSV15WSkAOFVcWGxAOA0toBgwKWgFVRl5cWBYWAkQFAgcGER8aD1tZD0BYQDwSWlNHWUYDVAcGFU4=
-#EXTINF:0,las estrellas
+http://mpago.la/2vg8ykz
+#EXTINF:-1, Donacion Mercadopago
 #EXTGRP:Locales
-http://185.169.253.75:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682?token=GEBbVhYLRg5GBgQBUlcDBgwAAlQAUwtRW1cEDgRWB1FaWwVVBldUVwcUHhVAQhdRWQtsW1MUCQUAUBgVE0dSQDwLVxVfQVUWSBRGXl5TRw4JUAIGDw8GAw5UGBUWXVMQWUAABlBXRhhGU0pDVkQLVVQ5V1dBX1BWGlhaQgpYGxAMDGxTAA4FWgAUCBUDFEkWURVDEA1YRl9UThZVD0BFUxcHEQ1HV10HUxQeFVBZEFpMFEoQDRR+axpOFlIeQFJcEAtcWUdZRkAXFB4VWkU6Rl0VR0BSV15WSkAOFVcWGxAOA0toBgwKWgFVRl5cWBYWAkQFAgcGER8aD1tZD0BYQDwSWlNHWUYDVAcGFU4=
-
+http://mpago.la/2vg8ykz
+#EXTINF:-1, Dona en Mercadopago con Paypal
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
 #EXTINF:-1, ABC
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93841/12?f=.m3u8
+#EXTINF:-1, ABC
+#EXTGRP:Locales
+http://71.187.29.220:8000/play/a08l/index.m3u8
 #EXTINF:-1, CBS
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93842/12?f=.m3u8
 #EXTINF:-1, NBC
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8
+#EXTINF:-1, NBC (Alt.)
+#EXTGRP:Locales
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93845/12?f=.m3u8
+#EXTINF:-1, FOX
+#EXTGRP:Locales
+http://71.187.29.220:8000/play/a075/index.m3u8
 #EXTINF:-1, Universo
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
@@ -45,9 +56,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
 
-#EXTINF:-1, NBC (Alt.)
-#EXTGRP:Locales
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93845/12?f=.m3u8
 
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
@@ -597,7 +605,18 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=198&f=HLSAD&p=PROFILE03&s=2b
 #EXTINF:0,Star Tve
 #EXTGRP:Internacionales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&p=PROFILE03&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-
+#EXTINF:0,la 1
+#EXTGRP:Internacionales
+http://45.94.149.154:8000/play/a03u
+#EXTINF:0,la 2
+#EXTGRP:Internacionales
+http://45.94.149.154:8000/play/a04q
+#EXTINF:0,la sexta
+#EXTGRP:Internacionales
+http://45.94.149.154:8000/play/a046
+#EXTINF:0,Antena3 españa
+#EXTGRP:Internacionales
+http://45.94.149.154:8000/play/a06b
 #EXTINF:0,Antena3
 #EXTGRP:Internacionales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLSAD&p=PROFILE03&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
@@ -832,12 +851,60 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
 #EXTINF:-1, Movistar Deportes
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0do/index.m3u8
+#EXTINF:-1, Movistar Deportes
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a06l
+#EXTINF:-1, Movistar Deportes HD
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a058
 #EXTINF:-1, GOL Television España
 #EXTGRP:Deportes
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+#EXTINF:-1, GOL España
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a044
+#EXTINF:-1, Movistar La Liga HD
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a051
+#EXTINF:-1, Movistar La Liga 1 HD
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04u
+#EXTINF:-1, Movistar La Liga 2
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04a
+#EXTINF:-1, Movistar La Liga 3
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04b
+#EXTINF:-1, Movistar Liga Campeones
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04d
+#EXTINF:-1, Movistar Liga Campeones 2
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04c
+#EXTINF:-1, Movistar Formula 1
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a045
+#EXTINF:-1, Dazn 1
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a03o
+#EXTINF:-1, Dazn 2
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a03t
 #EXTINF:-1, Bein Sports Xtra
 #EXTGRP:Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/1302083/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US&profilesFromStream=true&startingOffset=0
+#EXTINF:-1, euro Sports 1
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a042
+#EXTINF:-1, euro Sports
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a057
+#EXTINF:-1, euro Sports 2
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a047
+#EXTINF:-1, Bein Sports Turkey
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a07d
 #EXTINF:-1, Fox Sports US
 #EXTGRP:Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=705&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US

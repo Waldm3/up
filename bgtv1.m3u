@@ -1,6 +1,14 @@
 #EXTM3U
 
-
+#EXTINF:-1, Donar con Mercadopago
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, Donacion Mercadopago
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, Dona en Mercadopago con Paypal
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
 #EXTINF:0,Azteca Uno
 #EXTGRP:Locales
 http://blackghost.live/play/tvghd-302.php?id=azteca-uno-en-vivo&f=.m3u8

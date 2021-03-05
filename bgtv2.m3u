@@ -1,6 +1,14 @@
 #EXTM3U
 
-
+#EXTINF:-1, Donar con Mercadopago
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, Donacion Mercadopago
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
+#EXTINF:-1, Dona en Mercadopago con Paypal
+#EXTGRP:Locales
+http://mpago.la/2vg8ykz
  #EXTINF:-1,AZTECA UNO MX
 https://blackghost.live/play/tlvall-302.php?c=136&f=.m3u8
 #EXTINF:-1,CANAL 2 MX
