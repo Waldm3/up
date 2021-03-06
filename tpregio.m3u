@@ -517,6 +517,9 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&p=PROFILE01&s=z
 #EXTINF:0,Locomotion 
 #EXTGRP:Niños
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0,Locomotion 
+#EXTGRP:Niños
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0,Aztv 
 #EXTGRP:Niños
 http://animeloving.net/hls/stream.m3u8
@@ -557,6 +560,10 @@ https://m3u-editor.com/serve/rokumaniatest/156476845
 #EXTINF:0,Simpson Manía
 #EXTGRP:Niños
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp4F-DXLMvV90CkWa89E06MCcu5Kpt9HLq1aY8ys5EiSAvEPInX4CmFtrPt6wFQPhXcb4M9UCveSZmdwHaeo5WG-fPUbFaL-LZI9QDnfXAIhBJwXbz0qCqWKlDmeHQ8P5eiLjwCAZY85V64SzdN69baA0cevhvCDIS4bm6eA-ou6U7WkX5-5twELhfWG8YJJAqBlPMCtel_bJqhuGh1sx6WjjXU9HPmw1iBQw2V4SEn0EiOT1ILKFb8_GHgZ-4COLFVWriWfckTQKo3xKViMEN4zTSpJ3S5RXpNpCanelT8aME_MjTQk9EMixzJI_ETgrpqxNJb3NHOTxXqel-oakq4_7d9oqrew9lhHo_-p9tt-RUKRSUFiB4mL_4qXupuF_YMDnwcPeHD1j4rP2n7zp_XLVbfFIMfmIKLmvl2RluIXrasXHpephRsIgKENMJ5zgoQOUL0e1x7XeEmatgtJW4YENNLit2OH4qH6_svhyuQOjxgQSldy6yBY3RIlkBdqGCzS1Uotk_wo2th0_efrYw9jdfX78i6HXENonOSjt5dbHmSg7G8odmddhl83O2b5stP48EIBi8PyqoqKYC2SfoHFOX0v75d2uAa4H4D3TMPeG-x-wRnfbLeEnEp-7xRyEKmUAahdhMcsxoAsxKqvwyhmQrATB6Cu9CgFkw1Sfa4akCuakgk_LhLs81kAZwKz2K5vTl3y1-IpYRHLB8nFIl3YuGg_cjuZNfe0Dw2sKkn3mDLV8sIY7tNZ1m0HzE4itXOsbiHRl8gkNX-r-oFK4h7i-Zb-7j8cEAXzUzEVOQxw1Yq0qkfR1ixwMLjgZT4Tx0N4m9KGkmNneQqaUux14Ta8o6QP_atjFw-xBCvdDWEKCTg6opOBWFs3KtXQwuZjARIQYxPaWavPxMP5wtxFSmUeVBoMS4_t3eTgLQYpZuDo.m3u8
+#EXTINF:0,Simpson Manía
+#EXTGRP:Niños
+http://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CoAEGBRAjNSv4SPrCB2Z9m5KvZ-ljkaKD_ai_xPTvzGMtPqSpiB9nuhYeUnc-k6N9Rr7GPHGhlKw53cvNAEAf9Vqch6rogx5rlSVYXMuw7Scjoy2Lkm4dYFQbuSb0fedG9pRxaGaRH4H9CYFpus808lCiCYF69SoIwfHvwbbpVN7s8BgJxRU5Fu_0jBuglTAuHTHrFgGE99ZW62M-shZ5SlCSP9mxXFinINgQvDqDoe5AL_NreRjgekafyXFFF4kvL9rxmz9aerFvGR88JUkXhc1GYyS_ddu-JdMpjr97ho498h7-RjX8iZJFwNC0ibfuQGS2cJ5LvqOGJAU5MO70JY7x7biSrfoTqdtC50KnXj3qVMe6741ZLUEuD12M2gHl2dSUjm3D4I2dB2XYVKs8wgiJnQDLnSAxKTgrQbikUL1k6ApVuVTNtfBYklWEs8WIeMuJHWfn35_N7AmAIO4DjKnzeoiJnOiYzSF44YvU8xV2J3NiYZmrBozp2qKoM1ePy8IN_1e9uciNE4N4qiRfyY_j240g7ffEAo6oY-CKIY1q1-NvGH9KFllm-1NvoM9fSTlz-0rAj3V3hNRw09uuj19iFTX3i5-y_OfEQH66Cnj996lkPKLBZmhxL6VDB1jk0d_OnIJIhMIcCLIdfesBXhhvqm2ByoXqfuA2y9BQCEzeQ0SEOQ8lPp7w_15IJ0RASAlPN8aDDlxyn4GekPC5RIcQQ.m3u8
+
 #EXTINF:0,El Chavo
 #EXTGRP:Niños
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
@@ -982,6 +989,10 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, livesports ru
 #EXTGRP:Deportes
 https://46-21-250-207.livesports24.online/rumatchf3.m3u8
+https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
+#EXTINF:-1, espn sur
+#EXTGRP:Deportes
+https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
 #EXTINF:-1, espn 2 sur
 #EXTGRP:Deportes
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
