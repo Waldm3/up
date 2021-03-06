@@ -852,9 +852,12 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 #EXTINF:-1, Bein Ñ
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4388/12?f=.m3u8
-#EXTINF:-1, Bein Ñ
+#EXTINF:-1, Bein Ñ HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
+#EXTINF:-1, Bein Ñ HD
+#EXTGRP:Deportes
+http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1, Bein Sports
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
@@ -870,6 +873,9 @@ http://45.94.149.154:8000/play/a06l
 #EXTINF:-1, Movistar Deportes HD
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a058
+#EXTINF:-1, Movistar Deportes
+#EXTGRP:Deportes
+http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
 #EXTINF:-1, GOL Television España
 #EXTGRP:Deportes
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
@@ -882,6 +888,18 @@ http://45.94.149.154:8000/play/a051
 #EXTINF:-1, Movistar La Liga 1 HD
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04u
+#EXTINF:-1, Movistar La Liga
+#EXTGRP:Deportes
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1, Movistar La Liga
+#EXTGRP:Deportes
+http://185.71.64.167/8005402280/1903686316/79306
+#EXTINF:-1, Movistar La Liga 1 HD
+#EXTGRP:Deportes
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb.m3u8
+#EXTINF:-1, Movistar La Liga 1 HD
+#EXTGRP:Deportes
+http://cdn1-uk.ott.pink:8081/catena-8-99-streamer-mlaligahd/video.m3u8?token=137026642D6C5C5C638A55FBAD3FDE91
 #EXTINF:-1, Movistar La Liga 2
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04a
@@ -910,7 +928,7 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/ind
 #EXTINF:-1, Bein Sports Xtra
 #EXTGRP:Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/1302083/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US&profilesFromStream=true&startingOffset=0
-#EXTINF:-1, BTSports 2 UK
+#EXTINF:-1, Astro Supersports 
 #EXTGRP:Deportes
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_3.m3u8
 #EXTINF:-1, BTSports 2 UK
@@ -928,10 +946,36 @@ https://d2hunpu5n9su8p.cloudfront.net/out/v1/0575d615f0eb43abae9f7ca636583d5a/in
 #EXTINF:-1, Sky sports UK
 #EXTGRP:Deportes
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071ad1f864597bbc3db35075a9341/index1_3.m3u8
+#EXTINF:-1, Sky sports UK
+#EXTGRP:Deportes
+http://ddj9u6p75hbce.cloudfront.net/hls/ovostreamss1.m3u8
+#EXTINF:-1, Setanta sports UK
+#EXTGRP:Deportes
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_MyLEYm5z/wixmp-3dbd5cb16bb136182e099f78_MyLEYm5z_res720p/index.m3u8
+#EXTINF:-1, sportv 1 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1, sportv 2 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1, sportv 3 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1, sportv 4 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1, sportv 5 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, livesports ru
 #EXTGRP:Deportes
 https://46-21-250-207.livesports24.online/rumatchf3.m3u8
-
+#EXTINF:-1, espn 2 sur
+#EXTGRP:Deportes
+https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
+#EXTINF:-1, espn 2 sur
+#EXTGRP:Deportes
+http://23.237.78.54/live-1000/263/playlist.m3u8?flo
 #EXTINF:-1, euro Sports 1
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a042
