@@ -864,6 +864,10 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
 #EXTINF:-1, #Vamos
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04w
+#EXTINF:-1, #Vamos
+#EXTGRP:Deportes
+http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
+
 #EXTINF:-1, Movistar Deportes
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0do/index.m3u8
@@ -873,9 +877,6 @@ http://45.94.149.154:8000/play/a06l
 #EXTINF:-1, Movistar Deportes HD
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a058
-#EXTINF:-1, Movistar Deportes
-#EXTGRP:Deportes
-http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
 #EXTINF:-1, GOL Television España
 #EXTGRP:Deportes
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
@@ -888,9 +889,7 @@ http://45.94.149.154:8000/play/a051
 #EXTINF:-1, Movistar La Liga 1 HD
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04u
-#EXTINF:-1, Movistar La Liga
-#EXTGRP:Deportes
-http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+
 #EXTINF:-1, Movistar La Liga
 #EXTGRP:Deportes
 http://185.71.64.167/8005402280/1903686316/79306
@@ -909,6 +908,9 @@ http://45.94.149.154:8000/play/a04b
 #EXTINF:-1, Movistar Liga Campeones
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04d
+#EXTINF:-1, Movistar Liga Campeones
+#EXTGRP:Deportes
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1, Movistar Liga Campeones 2
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04c
