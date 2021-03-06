@@ -30,7 +30,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/93842/12?f=.m3u8
 #EXTINF:-1, NBC
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8
-#EXTINF:-1, NBC (Alt.)
+#EXTINF:-1, FOX (Alt.)
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93845/12?f=.m3u8
 #EXTINF:-1, FOX
@@ -823,19 +823,19 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
 #EXTINF:-1, TUDN (Alt.)
 #EXTGRP:Deportes
-http://208.88.246.11:2095/encoder84/evento17/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+http://208.88.246.11:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, TUDN USA | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
 #EXTINF:-1, TUDN USA | HD
 #EXTGRP:Deportes
-http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, ESPN Deportes | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1, ESPN Deportes | HD
 #EXTGRP:Deportes
-http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, Tudn
 #EXTGRP:Deportes
 https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/6b8e30aa-e61f-4c20-b0ff-1b96bc9bc031:TUL/variant/5e5a5012829ea28f2e3a3bbfff6593c1/bandwidth/1600000.m3u8?hdntl=exp=1614981266~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~data=hdntl~hmac=4408c2b806891ee1cc1d751d20cd100fef9d664cff1ed637c4b1055bef10a778&hdnea=st=1614894866~exp=1614895166~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~hmac=15ae7916318af3aca4601c999358167496a9635031c64c36530abecaed463294
@@ -847,13 +847,13 @@ https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_u
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 #EXTINF:-1, Bein Ñ
 #EXTGRP:Deportes
-http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, Bein Ñ HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
 #EXTINF:-1, Bein Ñ HD
 #EXTGRP:Deportes
-http://208.88.246.11:2095/andromeda/BEINES/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+http://208.88.246.11:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, Bein Ñ HD
 #EXTGRP:Deportes
 http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
@@ -862,7 +862,7 @@ http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9W
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
 #EXTINF:-1, Bein Sports
 #EXTGRP:Deportes
-http://208.88.246.11:2095/andromeda/BEINENG/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+http://208.88.246.11:2095/andromeda/BEINENG/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, #Vamos
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04w
