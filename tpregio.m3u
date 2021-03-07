@@ -536,9 +536,6 @@ http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
 #EXTGRP:Niños
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 
-#EXTINF:0,KdeTv 
-#EXTGRP:Niños
-http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:0,plutotv anime 
 #EXTGRP:Niños
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceVersion=4.0&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&deviceType=web&deviceMake=Android%2BBrowser&sid=02c02686-f692-11ea-abc9-0242ac110002&advertisingId=&deviceLat=-32.8833&deviceLon=-68.8167&deviceDNT=0&deviceModel=Android%2BBrowser&userId=&appName=web&buildVersion=&clientTime=&marketingRegion=VE
@@ -553,17 +550,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f80007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=bc5ff692-0829-4b94-bc9f-be14f0df99a4&deviceVersion=83.0.4103.106&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&deviceType=web&deviceMake=Chrome%2BMobile&sid=740e6802-4238-11eb-8528-0242ac110002&advertisingId=&deviceLat=19.2928&deviceLon=-99.1612&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=web&clientDeviceType=0&clientID=bc5ff692-0829-4b94-bc9f-be14f0df99a4&clientModelNumber=na&marketingRegion=VE&sessionID=740e6802-4238-11eb-8528-0242ac110002
 #EXTINF:0,Futurama Manía
 #EXTGRP:Niños
-https://m3u-editor.com/serve/rokumaniatest/156476844
-#EXTINF:0,Futurama Manía
-#EXTGRP:Niños
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=632bd67a-18f9-4aa5-af70-a0bbeda4b5cd&deviceVersion=33.0.1750.136&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceType=web&deviceMake=Chrome%2BMobile&sid=b6e333e7-0654-11eb-8b9f-0242ac110002&advertisingId=&deviceLat=19.3686&deviceLon=-99.1374&deviceDNT=0&deviceModel=Chrome%2BMobile&userId=&appName=web&buildVersion=&clientTime=&marketingRegion=VE
 
 #EXTINF:0,Simpson TV
 #EXTGRP:Niños
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-#EXTINF:0,Simpson Manía
-#EXTGRP:Niños
-https://m3u-editor.com/serve/rokumaniatest/156476845
 #EXTINF:0,Simpson Manía
 #EXTGRP:Niños
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp4F-DXLMvV90CkWa89E06MCcu5Kpt9HLq1aY8ys5EiSAvEPInX4CmFtrPt6wFQPhXcb4M9UCveSZmdwHaeo5WG-fPUbFaL-LZI9QDnfXAIhBJwXbz0qCqWKlDmeHQ8P5eiLjwCAZY85V64SzdN69baA0cevhvCDIS4bm6eA-ou6U7WkX5-5twELhfWG8YJJAqBlPMCtel_bJqhuGh1sx6WjjXU9HPmw1iBQw2V4SEn0EiOT1ILKFb8_GHgZ-4COLFVWriWfckTQKo3xKViMEN4zTSpJ3S5RXpNpCanelT8aME_MjTQk9EMixzJI_ETgrpqxNJb3NHOTxXqel-oakq4_7d9oqrew9lhHo_-p9tt-RUKRSUFiB4mL_4qXupuF_YMDnwcPeHD1j4rP2n7zp_XLVbfFIMfmIKLmvl2RluIXrasXHpephRsIgKENMJ5zgoQOUL0e1x7XeEmatgtJW4YENNLit2OH4qH6_svhyuQOjxgQSldy6yBY3RIlkBdqGCzS1Uotk_wo2th0_efrYw9jdfX78i6HXENonOSjt5dbHmSg7G8odmddhl83O2b5stP48EIBi8PyqoqKYC2SfoHFOX0v75d2uAa4H4D3TMPeG-x-wRnfbLeEnEp-7xRyEKmUAahdhMcsxoAsxKqvwyhmQrATB6Cu9CgFkw1Sfa4akCuakgk_LhLs81kAZwKz2K5vTl3y1-IpYRHLB8nFIl3YuGg_cjuZNfe0Dw2sKkn3mDLV8sIY7tNZ1m0HzE4itXOsbiHRl8gkNX-r-oFK4h7i-Zb-7j8cEAXzUzEVOQxw1Yq0qkfR1ixwMLjgZT4Tx0N4m9KGkmNneQqaUux14Ta8o6QP_atjFw-xBCvdDWEKCTg6opOBWFs3KtXQwuZjARIQYxPaWavPxMP5wtxFSmUeVBoMS4_t3eTgLQYpZuDo.m3u8
@@ -574,9 +565,6 @@ http://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CoAEGBRAjNSv4SPrCB2Z9m5KvZ-l
 #EXTINF:0,El Chavo
 #EXTGRP:Niños
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
-#EXTINF:0,South Park Twitch
-#EXTGRP:Niños
-https://m3u-editor.com/serve/rokumaniatest/156476846
 #EXTINF:0,South Park Twitch
 #EXTGRP:Niños
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpUFY_qm2MtKE2I1y-bpDvAbd04V9N7KbR9MfH3-C_8JToyrfhsrwsBg6ZZY6sLCTOgIysWX_paxsekCN8nmuyM9MVynrPrJ8Oq45TraCPvhuvS0ToKEYbpb9tpbM3hWC63WJsfqaqiMC3peADtzBKiseTslS5g8azPBcXyRWI0BjxjJVn0GcYFWADkskJFO1RIMKttFBhzN-XowRJOV5B1V4M0P2GC0UTvkxQYe55P7QuOsePUywkutwTkFGprQ0hYbyJ6UymR-evp3cJbvYpHNIzgesC9KNmKiayY08S0OCSYtE3fLJY47b98-aUa7fN9wRJzVg-wupBtRkF1TlQS7RORTNgeIAPFPR7p25-5wg21p359e8bCFQwpMAXjDMSV8-Yt3f-OZiGkyxAX-lK0j2uXRPNutKteG7hdHFvWRrGxjpT-L9kas4GIFa-BWp3jnxL4eSBB8NMmO_QI-RLuwZHwvGvqCH7y7FnJrjz9Iqo1Cubdvi7JS-2yhecXkrGMapvhbKfhwF0LtLdpPl_jFz6RYkXetpQucGW8vlHeWD_x-sOFRVdd_qec_a7U9TeUgRE075guL3Xzm2TuIN8sSjOUbruWKTmMlEjBQz5WxUlkdJHNn3j_C5eqyBsoPgCYfIkumiTgmADAJb64wOQaU2YPc033nbjeyKmlj9sJT1Ylsh0EB64TaxDJE5y0yIi2_J7iLaCaL3pMidrinmvMWkPFJoP6LUjwgrxyK9rx1svzrWIXCGQSo0nM3TuBjg3lrTj0e3Ts8Az3rTHjhiKrGk1eAqkqsELPAQH7XfDzFAw3nVVnmypr5SpM2Ow1NcUJCrDiX9kIovd88hB0iBgrQhvxX2kpR7S5FuiV9eMeoOZJBA2aRuRIQCV1hN2SDZldBtUFCNHPnyhoM-I7ykR1X65ZgQLRi.m3u8
@@ -687,12 +675,6 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 #EXTINF:0,Fmtv 3
 #EXTGRP:Peliculas
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
-#EXTINF:0,cine estelar
-#EXTGRP:Peliculas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=632bd67a-18f9-4aa5-af70-a0bbeda4b5cd&deviceVersion=83.0.4103.106&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&deviceType=web&deviceMake=Chrome%20Mobile&sid=0ac88ef1-b5a2-46f7-9599-7095c995d668&advertisingId=&deviceLat=19.3437&deviceLon=-99.1562&deviceDNT=0&deviceModel=Chrome%20Mobile&userId=&appName=web&buildVersion=&clientTime=&marketingRegion=VE
-#EXTINF:0,cine latino
-#EXTGRP:Peliculas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=bc5ff692-0829-4b94-bc9f-be14f0df99a4&deviceVersion=83.0.4103.106&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&deviceType=web&deviceMake=Chrome%2BMobile&sid=a873794f-3595-11eb-8335-0242ac110002&advertisingId=&deviceLat=40.4165&deviceLon=-3.7026&deviceDNT=0&deviceModel=Chrome%2BMobile&userId=&appName=web&buildVersion=&clientTime=&marketingRegion=ES
 
 #EXTINF:0,De Pelicula
 #EXTGRP:Peliculas
@@ -841,19 +823,19 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
 #EXTINF:-1, TUDN (Alt.)
 #EXTGRP:Deportes
-http://208.88.246.11:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://208.88.246.11:2095/encoder84/evento17/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 #EXTINF:-1, TUDN USA | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
 #EXTINF:-1, TUDN USA | HD
 #EXTGRP:Deportes
-http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 #EXTINF:-1, ESPN Deportes | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 #EXTINF:-1, ESPN Deportes | HD
 #EXTGRP:Deportes
-http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 #EXTINF:-1, Tudn
 #EXTGRP:Deportes
 https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/6b8e30aa-e61f-4c20-b0ff-1b96bc9bc031:TUL/variant/5e5a5012829ea28f2e3a3bbfff6593c1/bandwidth/1600000.m3u8?hdntl=exp=1614981266~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~data=hdntl~hmac=4408c2b806891ee1cc1d751d20cd100fef9d664cff1ed637c4b1055bef10a778&hdnea=st=1614894866~exp=1614895166~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~hmac=15ae7916318af3aca4601c999358167496a9635031c64c36530abecaed463294
@@ -865,22 +847,22 @@ https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_u
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 #EXTINF:-1, Bein Ñ
 #EXTGRP:Deportes
-http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 #EXTINF:-1, Bein Ñ HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
 #EXTINF:-1, Bein Ñ HD
 #EXTGRP:Deportes
-http://208.88.246.11:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://208.88.246.11:2095/andromeda/BEINES/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 #EXTINF:-1, Bein Ñ HD
 #EXTGRP:Deportes
-http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/chunks.m3u8
 #EXTINF:-1, Bein Sports
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
 #EXTINF:-1, Bein Sports
 #EXTGRP:Deportes
-http://208.88.246.11:2095/andromeda/BEINENG/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://208.88.246.11:2095/andromeda/BEINENG/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 #EXTINF:-1, #Vamos
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04w
@@ -888,21 +870,23 @@ http://45.94.149.154:8000/play/a04w
 #EXTGRP:Deportes
 http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
 
-#EXTINF:-1, Movistar Deportes
-#EXTGRP:Deportes
-http://200.54.19.131:8500/play/a0do/index.m3u8
+
 #EXTINF:-1, Movistar Deportes
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a06l
 #EXTINF:-1, Movistar Deportes HD
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a058
-#EXTINF:-1, GOL Television España
+#EXTINF:-1, Movistar Deportes
 #EXTGRP:Deportes
-http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+http://200.54.19.131:8500/play/a0do/index.m3u8
 #EXTINF:-1, GOL España
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a044
+#EXTINF:-1, GOL Television España
+#EXTGRP:Deportes
+http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+
 #EXTINF:-1, Movistar La Liga HD
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a051
@@ -915,9 +899,6 @@ http://185.71.64.167/8005402280/1903686316/79306
 #EXTINF:-1, Movistar La Liga 1 HD
 #EXTGRP:Deportes
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb.m3u8
-#EXTINF:-1, Movistar La Liga 1 HD
-#EXTGRP:Deportes
-http://cdn1-uk.ott.pink:8081/catena-8-99-streamer-mlaligahd/video.m3u8?token=137026642D6C5C5C638A55FBAD3FDE91
 #EXTINF:-1, Movistar La Liga 2
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04a
@@ -927,13 +908,14 @@ http://45.94.149.154:8000/play/a04b
 #EXTINF:-1, Movistar Liga Campeones
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04d
-#EXTINF:-1, Movistar Liga Campeones
-#EXTGRP:Deportes
-http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
-
 #EXTINF:-1, Movistar Liga Campeones 2
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04c
+#EXTINF:-1, La Liga TV bar
+#EXTGRP:Deportes
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+
+
 #EXTINF:-1, Movistar Formula 1
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a045
@@ -950,34 +932,22 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/ind
 #EXTINF:-1, Bein Sports Xtra
 #EXTGRP:Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/1302083/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US&profilesFromStream=true&startingOffset=0
-#EXTINF:-1, La Liga TV UK
+#EXTINF:-1, PPV Events US
 #EXTGRP:Deportes
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/8d93ac1d80fc429d8a4bfb52ff8e427f/index3_3.m3u8
 
-#EXTINF:-1, La Liga TV UK
+#EXTINF:-1, PPV Events US
 #EXTGRP:Deportes
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_3.m3u8
 #EXTINF:-1, BTSports 2 UK
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8?
-#EXTINF:-1, BTSports 2 UK
-#EXTGRP:Deportes
-http://ddj9u6p75hbce.cloudfront.net/hls/ovo2.m3u8?
-#EXTINF:-1, BTSports 2 UK
-#EXTGRP:Deportes
-https://meridix-live3.secure.footprint.net/live/iversen/chunklist.m3u8?
-#EXTINF:-1, BTSports 2 UK
-#EXTGRP:Deportes
-https://d2hunpu5n9su8p.cloudfront.net/out/v1/0575d615f0eb43abae9f7ca636583d5a/index_2.m3u8
-#EXTINF:-1, Sky sports UK
+
+
+#EXTINF:-1, Sky sports Main Event UK
 #EXTGRP:Deportes
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071ad1f864597bbc3db35075a9341/index1_3.m3u8
-#EXTINF:-1, Sky sports UK
-#EXTGRP:Deportes
-http://ddj9u6p75hbce.cloudfront.net/hls/ovostreamss1.m3u8
-#EXTINF:-1, Setanta sports UK
-#EXTGRP:Deportes
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_MyLEYm5z/wixmp-3dbd5cb16bb136182e099f78_MyLEYm5z_res720p/index.m3u8
+
 #EXTINF:-1, sportv 1 hd por
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
@@ -996,19 +966,13 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, livesports ru
 #EXTGRP:Deportes
 https://46-21-250-207.livesports24.online/rumatchf3.m3u8
-https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
-#EXTINF:-1, espn sur
-#EXTGRP:Deportes
-https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
-#EXTINF:-1, espn 2 sur
-#EXTGRP:Deportes
-https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
+
+
+
 #EXTINF:-1, espn 2 sur
 #EXTGRP:Deportes
 http://23.237.78.54/live-1000/263/playlist.m3u8?flo
-#EXTINF:-1, espn
-#EXTGRP:Deportes
-https://gt2.gt-app.com/hls/liga.m3u8
+
 #EXTINF:-1, euro Sports 1
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a042
@@ -1021,18 +985,16 @@ http://45.94.149.154:8000/play/a047
 #EXTINF:-1, Bein Sports Turkey
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a07d
+#EXTINF:-1, fox sports us
+#EXTGRP:Deportes
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1, Fox Sports US
 #EXTGRP:Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=705&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US
-#EXTINF:-1, Espn play US
+#EXTINF:-1, Espn play 
 #EXTGRP:Deportes
 http://23.237.78.54/live-1000/244/playlist.m3u8
-#EXTINF:-1, ESPN Sur
-#EXTGRP:Deportes
-https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
-#EXTINF:-1, ESPN 2 Sur
-#EXTGRP:Deportes
-https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
+
 #EXTINF:-1, ESPN
 #EXTGRP:Deportes
 http://23.237.78.54/live-1000/244/playlist.m3u8
