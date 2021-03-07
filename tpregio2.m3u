@@ -464,7 +464,9 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lc
 #EXTINF:0,NASA TV
 #EXTGRP:Cultura
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
+#EXTINF:0,NASA TV
+#EXTGRP:Cultura
+https://content-ausc1.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/f.m3u8?pbs=661199e8dfaa4be2bd0b7d02986bc019
 #EXTINF:0,Discovery Channel
 #EXTGRP:Cultura
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=86&format=HLSAD&f=.m3u8
@@ -550,6 +552,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007
 #EXTINF:0,Futurama Manía
 #EXTGRP:Niños
 https://m3u-editor.com/serve/rokumaniatest/156476844
+#EXTINF:0,Futurama Manía
+#EXTGRP:Niños
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=632bd67a-18f9-4aa5-af70-a0bbeda4b5cd&deviceVersion=33.0.1750.136&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceType=web&deviceMake=Chrome%2BMobile&sid=b6e333e7-0654-11eb-8b9f-0242ac110002&advertisingId=&deviceLat=19.3686&deviceLon=-99.1374&deviceDNT=0&deviceModel=Chrome%2BMobile&userId=&appName=web&buildVersion=&clientTime=&marketingRegion=VE
 #EXTINF:0,Simpson TV
 #EXTGRP:Niños
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
