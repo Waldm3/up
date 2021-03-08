@@ -934,6 +934,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb
 #EXTINF:-1, Movistar La Liga 1
 #EXTGRP:Deportes
 http://31.220.41.86:8081/live/es-movistar-futbol.stream/playlist.m3u8
+#EXTINF:-1, Movistar La Liga 1
+#EXTGRP:Deportes
+http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8
 #EXTINF:-1, Movistar La Liga 2
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04a
@@ -949,6 +952,9 @@ http://45.94.149.154:8000/play/a04c
 #EXTINF:-1, La Liga TV bar
 #EXTGRP:Deportes
 http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1, La Liga TV bar
+#EXTGRP:Deportes
+http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
 #EXTINF:-1, Movistar Formula 1
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a045
@@ -972,9 +978,21 @@ https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/8d93ac1d80f
 #EXTINF:-1, PPV Events US
 #EXTGRP:Deportes
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_3.m3u8
+#EXTINF:-1, Bein Sport
+#EXTGRP:Deportes
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1, BTSports 1 UK
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1, BTSports 1 UK
+#EXTGRP:Deportes
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1, BTSports 2 UK
 #EXTGRP:Deportes
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8?
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1, Skynet sports
+#EXTGRP:Deportes
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:-1, TNT US
 #EXTGRP:Deportes
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idh7zq2id42h/b/bucket-20210227-1637/o/tnt.m3u8
@@ -986,7 +1004,7 @@ http://89.248.170.107:8081/hls/S-1_720p/chunks.m3u8
 http://5f80c74573534.streamlock.net:1935/live/n1/.m3u8
 #EXTINF:-1, TNT US
 #EXTGRP:Deportes
-http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8?SBN
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1, Sky sports Main Event UK
 #EXTGRP:Deportes
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071ad1f864597bbc3db35075a9341/index1_3.m3u8
@@ -1014,7 +1032,7 @@ https://46-21-250-207.livesports24.online/rumatchf3.m3u8
 
 #EXTINF:-1, espn 2 sur
 #EXTGRP:Deportes
-http://23.237.78.54/live-1000/263/playlist.m3u8?flo
+http://23.237.78.54/live-1000/263/playlist.m3u8
 
 #EXTINF:-1, euro Sports 1
 #EXTGRP:Deportes
