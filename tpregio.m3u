@@ -465,9 +465,6 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&p=PROFILE01&s=zec
 #EXTINF:0,NASA TV
 #EXTGRP:Cultura
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:0,NASA TV
-#EXTGRP:Cultura
-https://content-ausc1.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/f.m3u8?pbs=661199e8dfaa4be2bd0b7d02986bc019
 
 #EXTINF:0,Discovery Channel
 #EXTGRP:Cultura
