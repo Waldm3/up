@@ -781,6 +781,36 @@ https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lc
 #EXTINF:0,TUDN
 #EXTGRP:Deportes
 https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=174&format=HLSAD&f=.m3u8
+#EXTINF:0,Espn+
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=167&format=HLSAD&f=.m3u8
+#EXTINF:0,Espn
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=168&format=HLSAD&f=.m3u8
+#EXTINF:0,Espn 2
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=169&format=HLSAD&f=.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=345&format=HLSAD&f=.m3u8
+
+#EXTINF:0,Fox Sports
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=170&format=HLSAD&f=.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=172&format=HLSAD&f=.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=178&format=HLSAD&f=.m3u8
+#EXTINF:0,Claro Sports 
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2564&format=HLSAD&f=.m3u8
+
+#EXTINF:0,TVC Deportes
+#EXTGRP:Deportes
+https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2157&format=HLSAD&f=.m3u8
+
 #EXTINF:-1, Fox Sports | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
@@ -1058,35 +1088,6 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
 
-#EXTINF:0,Espn+
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=167&format=HLSAD&f=.m3u8
-#EXTINF:0,Espn
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=168&format=HLSAD&f=.m3u8
-#EXTINF:0,Espn 2
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=169&format=HLSAD&f=.m3u8
-#EXTINF:0,ESPN 3
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=345&format=HLSAD&f=.m3u8
-
-#EXTINF:0,Fox Sports
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=170&format=HLSAD&f=.m3u8
-#EXTINF:0,Fox Sports 2
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=172&format=HLSAD&f=.m3u8
-#EXTINF:0,Fox Sports 3
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=178&format=HLSAD&f=.m3u8
-#EXTINF:0,Claro Sports 
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2564&format=HLSAD&f=.m3u8
-
-#EXTINF:0,TVC Deportes
-#EXTGRP:Deportes
-https://200.38.126.37:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2157&format=HLSAD&f=.m3u8
 #EXTINF:-1, ESPN
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4242/12?f=.m3u8
