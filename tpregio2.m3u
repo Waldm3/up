@@ -1007,6 +1007,9 @@ https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63
 #EXTINF:-1, Bein Sport
 #EXTGRP:Deportes
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1, BTSports 2 UK
+#EXTGRP:Deportes
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/3c23186b8e804a5da544c0ed81043a1a/index2_3.m3u8
 #EXTINF:-1, BTSports 1 UK
 #EXTGRP:Deportes
 http://d1qag1ur6to329.cloudfront.net/hls/ovo-free.m3u8
