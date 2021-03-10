@@ -813,9 +813,15 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&p=PROFILE03&s=2
 #EXTINF:-1, Fox Sports | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
+#EXTINF:-1, Fox Sports | HD
+#EXTGRP:Deportes
+http://208.88.246.11:2095/evento3/bodega/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 #EXTINF:-1, Fox Sports
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/293/12?f=.m3u8
+#EXTINF:-1, Fox Sports
+#EXTGRP:Deportes
+http://208.88.246.11:2095/502FoxSport1/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 #EXTINF:-1, Fox Sports 2 | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
@@ -869,6 +875,25 @@ http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF�
 #EXTINF:-1, Tudn
 #EXTGRP:Deportes
 https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/6b8e30aa-e61f-4c20-b0ff-1b96bc9bc031:TUL/variant/5e5a5012829ea28f2e3a3bbfff6593c1/bandwidth/1600000.m3u8?hdntl=exp=1614981266~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~data=hdntl~hmac=4408c2b806891ee1cc1d751d20cd100fef9d664cff1ed637c4b1055bef10a778&hdnea=st=1614894866~exp=1614895166~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~hmac=15ae7916318af3aca4601c999358167496a9635031c64c36530abecaed463294
+#EXTINF:-1, Tudn
+#EXTGRP:Deportes
+http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
+#EXTINF:-1, Tudn
+#EXTGRP:Deportes
+https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
+#EXTINF:-1, Tudn
+#EXTGRP:Deportes
+https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/be868ceb-cf60-42e0-bf29-1c9f4c4c9672:TUL/variant/5e5a5012829ea28f2e3a3bbfff6593c1/bandwidth/1600000.m3u8?hdntl=exp=1615494193~acl=*~id=5dd85f90-fabe-4229-b2c0-244b7eaa7bf8~data=hdntl~hmac=98b600a3fedd88c83f6ce776b5e9941f6402c1a01a8adba3635841243cbfc6f4&hdnea=st=1615407792~exp=1615408092~acl=*~id=5dd85f90-fabe-4229-b2c0-244b7eaa7bf8~hmac=56c7add0c1d81c3fa1985ca966ce28f54ee271c1a946926233cc9428811f004a
+#EXTINF:-1, Fox sports
+#EXTGRP:Deportes
+http://38.18.237.42:2095/evento3/bodega/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/chunks.m3u8
+#EXTINF:-1, Fox sports 2
+#EXTGRP:Deportes
+http://38.18.237.42:2095/andromeda/FOXSP2/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/chunks.m3u8
+#EXTINF:-1, espn
+#EXTGRP:Deportes
+http://23.237.78.54/live-1000/244/playlist.m3u8
+
 #EXTINF:-1, Claro Sports MX
 #EXTGRP:Deportes
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_und=128000-video_track=2000000.m3u8
@@ -902,6 +927,8 @@ http://45.94.149.154:8000/play/a04w
 #EXTINF:-1, #Vamos
 #EXTGRP:Deportes
 http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
+
+
 #EXTINF:-1, Movistar Deportes
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a06l
@@ -917,7 +944,6 @@ http://45.94.149.154:8000/play/a044
 #EXTINF:-1, GOL Television España
 #EXTGRP:Deportes
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
-
 #EXTINF:-1, Movistar La Liga HD
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a051
@@ -954,6 +980,7 @@ http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1, La Liga TV bar
 #EXTGRP:Deportes
 http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
+
 #EXTINF:-1, Movistar Formula 1
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a045
@@ -982,6 +1009,9 @@ https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1, BTSports 1 UK
 #EXTGRP:Deportes
+http://d1qag1ur6to329.cloudfront.net/hls/ovo-free.m3u8
+#EXTINF:-1, BTSports 1 UK
+#EXTGRP:Deportes
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1, BTSports 1 UK
 #EXTGRP:Deportes
@@ -1004,6 +1034,7 @@ http://5f80c74573534.streamlock.net:1935/live/n1/.m3u8
 #EXTINF:-1, TNT US
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
+
 #EXTINF:-1, Sky sports Main Event UK
 #EXTGRP:Deportes
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071ad1f864597bbc3db35075a9341/index1_3.m3u8
@@ -1026,13 +1057,39 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, livesports ru
 #EXTGRP:Deportes
 https://46-21-250-207.livesports24.online/rumatchf3.m3u8
-
-
-
+#EXTINF:-1, livesports ru
+#EXTGRP:Deportes
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_YY3oN2AQ/wixmp-3dbd5cb16bb136182e099f78_YY3oN2AQ_res720p/index.m3u8
+#EXTINF:-1, livesports 2 ru
+#EXTGRP:Deportes
+https://95-213-224-180.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1, livesports 3 ru
+#EXTGRP:Deportes
+https://hls.myvideocontent.ru/hls2/lexa50/index.m3u8
+#EXTINF:-1, yalla live sports
+#EXTGRP:Deportes
+https://d3i57w4ckmhtjv.cloudfront.net/out/v1/d7432e6d826c45a5866b8c1e149e2969/index.m3u8
+#EXTINF:-1, yalla live sports
+#EXTGRP:Deportes
+https://d3i57w4ckmhtjv.cloudfront.net/out/v1/d7432e6d826c45a5866b8c1e149e2969/index_3.m3u8
+#EXTINF:-1, optus sports 2
+#EXTGRP:Deportes
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4.m3u8
+#EXTINF:-1, optus sports 2
+#EXTGRP:Deportes
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_1.m3u8
 #EXTINF:-1, espn 2 sur
 #EXTGRP:Deportes
 http://23.237.78.54/live-1000/263/playlist.m3u8
-
+#EXTINF:-1, sradio sports
+#EXTGRP:Deportes
+https://cp.sradiotv.com:1936/8098/8098/playlist.m3u8
+#EXTINF:-1, sradio sports
+#EXTGRP:Deportes
+https://cp.sradiotv.com:1936/8098/8098/chunklist_w1993689455.m3u8
+#EXTINF:-1, sradio sports
+#EXTGRP:Deportes
+https://cp.sradiotv.com:1936/8098/8098/chunklist_w2077628907.m3u8
 #EXTINF:-1, euro Sports 1
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a042
