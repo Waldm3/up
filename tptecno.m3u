@@ -1007,6 +1007,16 @@ https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63
 #EXTINF:-1, Bein Sport
 #EXTGRP:Deportes
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1, BTSports 1 UK
+#EXTGRP:Deportes
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/21b071ad1f864597bbc3db35075a9341/index1_2.m3u8
+#EXTINF:-1, BTSports 1 UK
+#EXTGRP:Deportes
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/21b071ad1f864597bbc3db35075a9341/index1.m3u8
+#EXTINF:-1, BTSports 1 UK
+#EXTGRP:Deportes
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/21b071ad1f864597bbc3db35075a9341/index1_3.m3u8
+
 #EXTINF:-1, BTSports 2 UK
 #EXTGRP:Deportes
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/3c23186b8e804a5da544c0ed81043a1a/index2_3.m3u8
@@ -1046,6 +1056,9 @@ https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071a
 #EXTINF:-1, sportv 1 hd por
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1, sportv 1 hd por
+#EXTGRP:Deportes
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1, sportv 2 hd por
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
@@ -1064,6 +1077,10 @@ https://46-21-250-207.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1, livesports ru
 #EXTGRP:Deportes
 https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_YY3oN2AQ/wixmp-3dbd5cb16bb136182e099f78_YY3oN2AQ_res720p/index.m3u8
+#EXTINF:-1, livesports ru
+#EXTGRP:Deportes
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_jTkjDMIm/wixmp-3dbd5cb16bb136182e099f78_jTkjDMIm_res720p/index.m3u8
+
 #EXTINF:-1, livesports 2 ru
 #EXTGRP:Deportes
 https://95-213-224-180.livesports24.online/mfootball2rus.m3u8
