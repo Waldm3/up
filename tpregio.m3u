@@ -960,6 +960,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb
 #EXTINF:-1, Movistar La Liga 1
 #EXTGRP:Deportes
 http://31.220.41.86:8081/live/es-movistar-futbol.stream/playlist.m3u8
+
 #EXTINF:-1, Movistar La Liga 1
 #EXTGRP:Deportes
 http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8
@@ -1057,6 +1058,18 @@ https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071a
 #EXTINF:-1, sportv 1 hd por
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1, sportv 2 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1, sportv 3 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1, sportv 4 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1, sportv 5 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, sportv 1 hd por
 #EXTGRP:Deportes
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8

@@ -1060,6 +1060,18 @@ https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071a
 #EXTINF:-1, sportv 1 hd por
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1, sportv 2 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1, sportv 3 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1, sportv 4 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1, sportv 5 hd por
+#EXTGRP:Deportes
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, sportv 1 hd por
 #EXTGRP:Deportes
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
