@@ -985,6 +985,10 @@ http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
 #EXTINF:-1, Movistar Formula 1
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a045
+#EXTINF:-1, DAZN Formula 1
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a045
+http://31.220.41.88:8081/live/es-moviestarf1.stream/chunks.m3u8
 #EXTINF:-1, Dazn 1
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a03o
