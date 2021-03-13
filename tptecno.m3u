@@ -875,10 +875,10 @@ http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08xÂ Z6Q7r567Z5^@9WxFÂ
 #EXTINF:-1, Tudn
 #EXTGRP:Deportes
 https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/6b8e30aa-e61f-4c20-b0ff-1b96bc9bc031:TUL/variant/5e5a5012829ea28f2e3a3bbfff6593c1/bandwidth/1600000.m3u8?hdntl=exp=1614981266~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~data=hdntl~hmac=4408c2b806891ee1cc1d751d20cd100fef9d664cff1ed637c4b1055bef10a778&hdnea=st=1614894866~exp=1614895166~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~hmac=15ae7916318af3aca4601c999358167496a9635031c64c36530abecaed463294
-#EXTINF:-1, Tudn
+#EXTINF:-1, Tudn (estable)
 #EXTGRP:Deportes
 http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
-#EXTINF:-1, Tudn
+#EXTINF:-1, Tudn (estable)
 #EXTGRP:Deportes
 https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
 #EXTINF:-1, Tudn
@@ -962,7 +962,7 @@ http://185.71.64.167:80/live/8005402280/1903686316/79308.ts
 #EXTINF:-1, Movistar La Liga
 #EXTGRP:Deportes
 http://45.87.29.25:25461/live/8005402280/1903686316/79308.ts?token=cFlMT2twREpHSmVEYzls
-#EXTINF:-1, Movistar La Liga
+#EXTINF:-1, Movistar La Liga (estable)
 #EXTGRP:Deportes
 http://cdn.addressingethernet.xyz/hls/103.m3u8
 #EXTINF:-1, Movistar La Liga 1 HD
@@ -971,6 +971,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb
 #EXTINF:-1, Movistar La Liga 1 HD
 #EXTGRP:Deportes
 http://188.34.201.154:1111/es2019/liga123/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIxIDM6MjY6MzIgUE0maGFzaF92YWx1ZT1pT1ZiNmxwd2JxL09kZWdBaWdycyt3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1, Movistar La Liga
+#EXTGRP:Deportes
+http://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CowE94OB1WBUBjZnLQI-MVDBxop6lAtcvaQK_OYn_c1FRRVmr6Eb2v6ro3MDS5qcKqdo8qSdrYb6fPTMXPKh7OsZChRpNTrl6AgHXj3DV6reQGqFWU_w1cMrVl8v12lQOQSt9k5tEme_7GRq9pSwo4sOGdPt8HXA_O-Os2wvujnyB4wqDHRIOySwKUCIgWgMfdiwPfOyTKK8VYBBJpzhTmLOAG7v-NMwb43ZPolW-Y1ZyQRYCVkq1B2fYqnWZ_n85OLsR0m4u4xEJSWE7r_AUfWQsHSvog_dFfMybGq5A3hlC3bakFptqa0Vr-8n7MIdXrn5sFd8790LdZPbSy1OVjHdN47qr0FkpJUkVo4DvScxXKDyWbYIs5C8vR2hq76mzbMUpEmXwYXco-3cZfWeHDf9ukpIanRWQAVYwiQPA9SoNcb4mzvTo7-6cew0KI6Au7kk6gwRrpqHNvUUcemrbwMkV9wQyjMt6Tj0sUC5KyjKHlnrHQk74l1y4i2YAU6Px6IJbI6_6zJoBvLG3y8wyxKjdre4-OPJBLL9So5M_v-dMSjWVEp2fKJgU1Grni3oV5_wjWs6eG-zVh68VoOvueebz_awrWGuJkMRwQlvGXHNrUdL6IYl_5_a8YlHxtCFhrjA0LifC4Z1qYiRiznwIz4hE25DfIGqXT-FBI6IdhYmtsGOeToyZeiE6AmV9jsSECP0Zlh-GiPCBQRRgJwViRUaDKRftuchF5xAf_GZIQ.m3u8
+
 #EXTINF:-1, La Liga 1 HD
 #EXTGRP:Deportes
 http://123ovo123.xyz/live/streams2.m3u8
@@ -1068,6 +1072,9 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1, Skynet sports
 #EXTGRP:Deportes
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1, nbatv US
+#EXTGRP:Deportes
+http://o.crackstreams.gq/show/1/playlist.m3u8
 #EXTINF:-1, TNT US
 #EXTGRP:Deportes
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idh7zq2id42h/b/bucket-20210227-1637/o/tnt.m3u8
@@ -1143,7 +1150,10 @@ https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63
 #EXTINF:-1, optus sports 2
 #EXTGRP:Deportes
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_1.m3u8
-#EXTINF:-1, espn 2 sur
+#EXTINF:-1, Espn sur (estable)
+#EXTGRP:Deportes
+http://23.237.78.54/live-1000/244/playlist.m3u8
+#EXTINF:-1, espn 2 sur (estable)
 #EXTGRP:Deportes
 http://23.237.78.54/live-1000/263/playlist.m3u8
 #EXTINF:-1, sradio sports
@@ -1173,13 +1183,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1, Fox Sports US
 #EXTGRP:Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=705&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US
-#EXTINF:-1, Espn play 
-#EXTGRP:Deportes
-http://23.237.78.54/live-1000/244/playlist.m3u8
 
-#EXTINF:-1, ESPN
-#EXTGRP:Deportes
-http://23.237.78.54/live-1000/244/playlist.m3u8
+
+
 #EXTINF:-1, ESPN
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0m5/index.m3u8
