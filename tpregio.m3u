@@ -18,54 +18,54 @@ http://mpago.la/2vg8ykz
 #EXTINF:-1,http://mpago.la/2vg8ykz
 #EXTGRP:Locales
 http://mpago.la/2vg8ykz
-#EXTINF:-1, ABC
+#EXTINF:-1,ABC
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93841/12?f=.m3u8
-#EXTINF:-1, ABC
+#EXTINF:-1,ABC
 #EXTGRP:Locales
 http://71.187.29.220:8000/play/a08l/index.m3u8
-#EXTINF:-1, CBS
+#EXTINF:-1,CBS
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93842/12?f=.m3u8
-#EXTINF:-1, NBC
+#EXTINF:-1,NBC
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93843/12?f=.m3u8
-#EXTINF:-1, FOX (Alt.)
+#EXTINF:-1,FOX (Alt.)
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93845/12?f=.m3u8
-#EXTINF:-1, FOX
+#EXTINF:-1,FOX
 #EXTGRP:Locales
 http://71.187.29.220:8000/play/a075/index.m3u8
-#EXTINF:-1, Universo
+#EXTINF:-1,Universo
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
-#EXTINF:-1, Estrella TV
+#EXTINF:-1,Estrella TV
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
-#EXTINF:-1, Telemundo
+#EXTINF:-1,Telemundo
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
-#EXTINF:-1, Telemundo
+#EXTINF:-1,Telemundo
 #EXTGRP:Locales
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, Telemundo Pac
+#EXTINF:-1,Telemundo Pac
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
-#EXTINF:-1, Univisión
+#EXTINF:-1,Univisión
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94081/12?f=.m3u8
-#EXTINF:-1, Univisión Pac
+#EXTINF:-1,Univisión Pac
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
-#EXTINF:-1, UniMas
+#EXTINF:-1,UniMas
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
-#EXTINF:-1, Galavisión
+#EXTINF:-1,Galavisión
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
 
-#EXTINF:-1, Univisión Pac
+#EXTINF:-1,Univisión Pac
 #EXTGRP:Locales
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
 
@@ -117,7 +117,7 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2318&f=HLSAD&p=PROFILE01&s=z
 #EXTINF:0,Televisa Mty
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:-1, CANAL 28 NL
+#EXTINF:-1,CANAL 28 NL
 #EXTGRP:Locales
 https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
@@ -178,175 +178,175 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=1252&f=HLSAD&p=PROFILE01&s=z
 #EXTINF:0,El Financiero Bloomberg
 #EXTGRP:Locales
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2167&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:-1, USA Network
+#EXTINF:-1,USA Network
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4248/12?f=.m3u8
-#EXTINF:-1, Comedy Central
+#EXTINF:-1,Comedy Central
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4300/12?f=.m3u8
-#EXTINF:-1, Lifetime
+#EXTINF:-1,Lifetime
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4285/12?f=.m3u8
-#EXTINF:-1, LMN
+#EXTINF:-1,LMN
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4286/12?f=.m3u8
-#EXTINF:-1, Food Network
+#EXTINF:-1,Food Network
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4279/12?f=.m3u8
-#EXTINF:-1, HGTV
+#EXTINF:-1,HGTV
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4278/12?f=.m3u8
-#EXTINF:-1, Cooking Channel
+#EXTINF:-1,Cooking Channel
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94083/12?f=.m3u8
-#EXTINF:-1, E!
+#EXTINF:-1,E!
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4289/12?f=.m3u8
-#EXTINF:-1, A&E
+#EXTINF:-1,A&E
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4237/12?f=.m3u8
-#EXTINF:-1, FYI
+#EXTINF:-1,FYI
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4260/12?f=.m3u8
-#EXTINF:-1, History
+#EXTINF:-1,History
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4306/12?f=.m3u8
-#EXTINF:-1, Vice
+#EXTINF:-1,Vice
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4339/12?f=.m3u8
-#EXTINF:-1, SYFY
+#EXTINF:-1,SYFY
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4249/12?f=.m3u8
-#EXTINF:-1, BET Networks
+#EXTINF:-1,BET Networks
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94097/12?f=.m3u8
-#EXTINF:-1, FXX
+#EXTINF:-1,FXX
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4334/12?f=.m3u8
-#EXTINF:-1, WE TV
+#EXTINF:-1,WE TV
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4375/12?f=.m3u8
-#EXTINF:-1, AMC
+#EXTINF:-1,AMC
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4235/12?f=.m3u8
-#EXTINF:-1, FX
+#EXTINF:-1,FX
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4290/12?f=.m3u8
-#EXTINF:-1, TNT
+#EXTINF:-1,TNT
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4238/12?f=.m3u8
-#EXTINF:-1, TBS
+#EXTINF:-1,TBS
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4314/12?f=.m3u8
-#EXTINF:-1, MTV
+#EXTINF:-1,MTV
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4299/12?f=.m3u8
-#EXTINF:-1, VH1
+#EXTINF:-1,VH1
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4322/12?f=.m3u8
-#EXTINF:-1, CMT
+#EXTINF:-1,CMT
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4308/12?f=.m3u8
-#EXTINF:-1, AXSTV
+#EXTINF:-1,AXSTV
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4240/12?f=.m3u8
-#EXTINF:-1, Nick
+#EXTINF:-1,Nick
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/89973/12?f=.m3u8
-#EXTINF:-1, Disney Channel
+#EXTINF:-1,Disney Channel
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4366/12?f=.m3u8
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1,Cartoon Network
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4280/12?f=.m3u8
-#EXTINF:-1, Discovery Family
+#EXTINF:-1,Discovery Family
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4309/12?f=.m3u8
-#EXTINF:-1, Freeform
+#EXTINF:-1,Freeform
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4367/12?f=.m3u8
-#EXTINF:-1, Discovery
+#EXTINF:-1,Discovery
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4302/12?f=.m3u8
-#EXTINF:-1, TLC
+#EXTINF:-1,TLC
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4303/12?f=.m3u8
-#EXTINF:-1, Animal Planet
+#EXTINF:-1,Animal Planet
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4304/12?f=.m3u8
-#EXTINF:-1, National Geographic
+#EXTINF:-1,National Geographic
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4246/12?f=.m3u8
-#EXTINF:-1, NatGeo Wild
+#EXTINF:-1,NatGeo Wild
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4262/12?f=.m3u8
-#EXTINF:-1, ID
+#EXTINF:-1,ID
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94099/12?f=.m3u8
-#EXTINF:-1, Science
+#EXTINF:-1,Science
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4305/12?f=.m3u8
-#EXTINF:-1, Trvl
+#EXTINF:-1,Trvl
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4254/12?f=.m3u8
-#EXTINF:-1, Destination America
+#EXTINF:-1,Destination America
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94086/12?f=.m3u8
-#EXTINF:-1, Discovery En Español
+#EXTINF:-1,Discovery En Español
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
-#EXTINF:-1, CNN
+#EXTINF:-1,CNN
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4253/12?f=.m3u8
-#EXTINF:-1, Fox News
+#EXTINF:-1,Fox News
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4292/12?f=.m3u8
-#EXTINF:-1, Fox Business
+#EXTINF:-1,Fox Business
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4291/12?f=.m3u8
-#EXTINF:-1, CNBC
+#EXTINF:-1,CNBC
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4256/12?f=.m3u8
-#EXTINF:-1, The Weather Channel
+#EXTINF:-1,The Weather Channel
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4255/12?f=.m3u8
-#EXTINF:-1, Paramount Network
+#EXTINF:-1,Paramount Network
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4321/12?f=.m3u8
-#EXTINF:-1, TruTV
+#EXTINF:-1,TruTV
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4247/12?f=.m3u8
-#EXTINF:-1, HBO
+#EXTINF:-1,HBO
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4293/12?f=.m3u8
-#EXTINF:-1, 5 Star Max
+#EXTINF:-1,5 Star Max
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4258/12?f=.m3u8
-#EXTINF:-1, Showtime (E)
+#EXTINF:-1,Showtime (E)
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94088/12?f=.m3u8
-#EXTINF:-1, Showtime (W)
+#EXTINF:-1,Showtime (W)
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94098/12?f=.m3u8
-#EXTINF:-1, The Movie Channel
+#EXTINF:-1,The Movie Channel
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94089/12?f=.m3u8
-#EXTINF:-1, Starz
+#EXTINF:-1,Starz
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94094/12?f=.m3u8
-#EXTINF:-1, Starz Comedy
+#EXTINF:-1,Starz Comedy
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4301/12?f=.m3u8
-#EXTINF:-1, Starz Family
+#EXTINF:-1,Starz Family
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4312/12?f=.m3u8
-#EXTINF:-1, FXM
+#EXTINF:-1,FXM
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4257/12?f=.m3u8
-#EXTINF:-1, Hallmark
+#EXTINF:-1,Hallmark
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4297/12?f=.m3u8
-#EXTINF:-1, Cine Latino
+#EXTINF:-1,Cine Latino
 #EXTGRP:USA
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97902/12?f=.m3u8
 
@@ -506,7 +506,7 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=111&f=HLSAD&p=PROFILE01&s=ze
 #EXTINF:0,Cartoon Network
 #EXTGRP:Niños
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:-1, Cartoon Network USA
+#EXTINF:-1,Cartoon Network USA
 #EXTGRP:Niños
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4280/12?f=.m3u8
 
@@ -571,7 +571,7 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_2.m3u8
 #EXTINF:0,Robot Chicken
 #EXTGRP:Niños
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_2.m3u8
-#EXTINF:0, Aqua Teen
+#EXTINF:0,Aqua Teen
 #EXTGRP:Niños
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_2.m3u8
 
@@ -755,22 +755,22 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&p=PROFILE01&s=ze
 #EXTINF:0,Fox Movies
 #EXTGRP:Peliculas
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
-#EXTINF:-1, HBO
+#EXTINF:-1,HBO
 #EXTGRP:Peliculas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97931/12?f=.m3u8
-#EXTINF:-1, HBO (Alt.)
+#EXTINF:-1,HBO (Alt.)
 #EXTGRP:Peliculas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/281/12?f=.m3u8
-#EXTINF:-1, HBO 2
+#EXTINF:-1,HBO 2
 #EXTGRP:Peliculas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/280/12?f=.m3u8
-#EXTINF:-1, HBO Plus
+#EXTINF:-1,HBO Plus
 #EXTGRP:Peliculas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/282/12?f=.m3u8
-#EXTINF:-1, HBO Family
+#EXTINF:-1,HBO Family
 #EXTGRP:Peliculas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/284/12?f=.m3u8
-#EXTINF:-1, HBO Xtreme
+#EXTINF:-1,HBO Xtreme
 #EXTGRP:Peliculas
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/288/12?f=.m3u8
 
@@ -811,448 +811,378 @@ https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLSAD&p=PROFILE01&s=z
 #EXTGRP:Deportes
 https://200.38.126.37:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&p=PROFILE01&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&v=N&f=.m3u8
 
-#EXTINF:-1, Fox Sports | HD
+#EXTINF:-1,Fox Sports | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
-#EXTINF:-1, Fox Sports | HD
+#EXTINF:-1,Fox Sports | HD (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/evento3/bodega/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Fox Sports
+#EXTINF:-1,Fox Sports
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/293/12?f=.m3u8
-#EXTINF:-1, Fox Sports
+#EXTINF:-1,Fox Sports (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/502FoxSport1/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Fox Sports 2 | HD
+#EXTINF:-1,Fox Sports 2 | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1,Fox Sports 2 | HD (estable)
+#EXTGRP:Deportes
+http://208.88.246.11:2095/andromeda/FOXSP2/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/295/12?f=.m3u8
-#EXTINF:-1, Fox Sports 3
+#EXTINF:-1,Fox Sports 2 (estable)
+#EXTGRP:Deportes
+http://208.88.246.11:2095/503FoxSport2/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 3
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/297/12?f=.m3u8
-#EXTINF:-1, ESPN | HD
+#EXTINF:-1,Fox Sports 3 (estable)
+#EXTGRP:Deportes
+http://208.88.246.11:2095/508FoxSports3/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+#EXTINF:-1,ESPN | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
-#EXTINF:-1, ESPN | HD
+#EXTINF:-1,ESPN | HD (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/evento/bodega/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-
-#EXTINF:-1, ESPN
+#EXTINF:-1,ESPN
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/292/12?f=.m3u8
-#EXTINF:-1, ESPN 2 | HD
+#EXTINF:-1,ESPN (estable)
+#EXTGRP:Deportes
+http://208.88.246.11:2095/505ESPN/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+#EXTINF:-1,ESPN 2 | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1,ESPN 2 | HD (estable)
+#EXTGRP:Deportes
+http://208.88.246.11:2095/evento2/bodega/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+#EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/291/12?f=.m3u8
-#EXTINF:-1, ESPN 3
+#EXTINF:-1,ESPN 2 (estable)
+#EXTGRP:Deportes
+http://208.88.246.11:2095/506ESPN2/transco8/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+#EXTINF:-1,ESPN 3
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/424/12?f=.m3u8
-#EXTINF:-1, ESPN Extra
+#EXTINF:-1,ESPN 3 (estable)
+#EXTGRP:Deportes
+http://208.88.246.11:2095/507ESPN3/transco14/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
+#EXTINF:-1,ESPN Extra
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
+#EXTINF:-1,ESPN Extra (estable)
+#EXTGRP:Deportes
+http://208.88.246.11:2095/andromeda/ESPN+/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
 
-#EXTINF:-1, TUDN
+#EXTINF:-1,TUDN
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
-#EXTINF:-1, TUDN (Alt.)
+#EXTINF:-1,TUDN (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/encoder84/evento17/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, TUDN USA | HD
+#EXTINF:-1,TUDN USA | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
-#EXTINF:-1, TUDN USA | HD
+#EXTINF:-1,TUDN USA | HD (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/9556UTDN/transcob9/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, ESPN Deportes | HD
+#EXTINF:-1,ESPN Deportes | HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
-#EXTINF:-1, ESPN Deportes | HD
+#EXTINF:-1,ESPN Deportes | HD (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/encoder82/evento16/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Tudn
-#EXTGRP:Deportes
-https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/6b8e30aa-e61f-4c20-b0ff-1b96bc9bc031:TUL/variant/5e5a5012829ea28f2e3a3bbfff6593c1/bandwidth/1600000.m3u8?hdntl=exp=1614981266~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~data=hdntl~hmac=4408c2b806891ee1cc1d751d20cd100fef9d664cff1ed637c4b1055bef10a778&hdnea=st=1614894866~exp=1614895166~acl=*~id=6eed6ce5-5f9a-429f-8d9d-702577e5929f~hmac=15ae7916318af3aca4601c999358167496a9635031c64c36530abecaed463294
-#EXTINF:-1, Tudn (estable)
+#EXTINF:-1,Tudn (estable)
 #EXTGRP:Deportes
 http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
-#EXTINF:-1, Tudn (estable)
+#EXTINF:-1,Tudn (estable)
 #EXTGRP:Deportes
 https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
-#EXTINF:-1, Tudn 
-#EXTGRP:Deportes
-https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/be868ceb-cf60-42e0-bf29-1c9f4c4c9672:TUL/variant/5e5a5012829ea28f2e3a3bbfff6593c1/bandwidth/1600000.m3u8?hdntl=exp=1615494193~acl=*~id=5dd85f90-fabe-4229-b2c0-244b7eaa7bf8~data=hdntl~hmac=98b600a3fedd88c83f6ce776b5e9941f6402c1a01a8adba3635841243cbfc6f4&hdnea=st=1615407792~exp=1615408092~acl=*~id=5dd85f90-fabe-4229-b2c0-244b7eaa7bf8~hmac=56c7add0c1d81c3fa1985ca966ce28f54ee271c1a946926233cc9428811f004a
-#EXTINF:-1, Fox sports
+#EXTINF:-1,Fox sports (estable)
 #EXTGRP:Deportes
 http://38.18.237.42:2095/evento3/bodega/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/chunks.m3u8
-#EXTINF:-1, Fox sports 2
+#EXTINF:-1,Fox sports 2 (estable)
 #EXTGRP:Deportes
 http://38.18.237.42:2095/andromeda/FOXSP2/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/chunks.m3u8
-#EXTINF:-1, espn
-#EXTGRP:Deportes
-http://23.237.78.54/live-1000/244/playlist.m3u8
 
-#EXTINF:-1, Claro Sports MX
+
+#EXTINF:-1,Claro Sports MX
 #EXTGRP:Deportes
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_und=128000-video_track=2000000.m3u8
-#EXTINF:-1, Bein Ñ
+#EXTINF:-1,Bein Ñ
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
-#EXTINF:-1, Bein Ñ
+#EXTINF:-1,Bein Ñ (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Bein Ñ HD
+#EXTINF:-1,Bein Ñ HD
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97911/12?f=.m3u8
-#EXTINF:-1, Bein Ñ HD
+#EXTINF:-1,Bein Ñ HD (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/andromeda/BEINES/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, Bein Ñ HD
+#EXTINF:-1,Bein Ñ HD (estable)
 #EXTGRP:Deportes
 http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/chunks.m3u8
-#EXTINF:-1, Bein Ñ 
-#EXTGRP:Deportes
-https://m3u8ssl.globaltvplus.club:2083/live/srbravofast/admin/139.m3u8
-#EXTINF:-1, Bein Sports
+#EXTINF:-1,Bein Sports
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97912/12?f=.m3u8
-#EXTINF:-1, Bein Sports
+#EXTINF:-1,Bein Sports (estable)
 #EXTGRP:Deportes
 http://208.88.246.11:2095/andromeda/BEINENG/chunk_Auth=ix08x Z6Q7r567Z5^@9WxF g7x¦c=1/playlist.m3u8
-#EXTINF:-1, #Vamos
+#EXTINF:-1,#Vamos
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a04w
-#EXTINF:-1, #Vamos
+#EXTINF:-1,#Vamos
 #EXTGRP:Deportes
 http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
 
-
-#EXTINF:-1, Movistar Deportes
+#EXTINF:-1,Movistar Deportes (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a06l
-#EXTINF:-1, Movistar Deportes HD
+#EXTINF:-1,Movistar Deportes HD (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a058
-#EXTINF:-1, Movistar Deportes
+#EXTINF:-1,Movistar Deportes
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0do/index.m3u8
-#EXTINF:-1, GOL España
+#EXTINF:-1,GOL España (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a044
-#EXTINF:-1, GOL Television España
+#EXTINF:-1,GOL Television España 
 #EXTGRP:Deportes
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
-#EXTINF:-1, Movistar La Liga HD
-#EXTGRP:Deportes
-http://45.94.149.154:8000/play/a051
-#EXTINF:-1, Movistar La Liga 1 HD
-#EXTGRP:Deportes
-http://45.94.149.154:8000/play/a04u
-#EXTINF:-1, Movistar La Liga
-#EXTGRP:Deportes
-http://185.71.64.167/8005402280/1903686316/79306
-#EXTINF:-1, Movistar La Liga
-#EXTGRP:Deportes
-http://45.87.29.25:25461/8005402280/1903686316/79306?token=bHU2dUpXTDR4THhIcUNJ
-#EXTINF:-1, Movistar La Liga
-#EXTGRP:Deportes
-http://185.71.64.167:80/live/8005402280/1903686316/79308.ts
-#EXTINF:-1, Movistar La Liga
-#EXTGRP:Deportes
-http://45.87.29.25:25461/live/8005402280/1903686316/79308.ts?token=cFlMT2twREpHSmVEYzls
-#EXTINF:-1, Movistar La Liga (estable)
-#EXTGRP:Deportes
-http://cdn.addressingethernet.xyz/hls/103.m3u8
-#EXTINF:-1, Movistar La Liga 1 HD
-#EXTGRP:Deportes
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb.m3u8
-#EXTINF:-1, Movistar La Liga 1 HD
-#EXTGRP:Deportes
-http://188.34.201.154:1111/es2019/liga123/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIxIDM6MjY6MzIgUE0maGFzaF92YWx1ZT1pT1ZiNmxwd2JxL09kZWdBaWdycyt3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1, Movistar La Liga
-#EXTGRP:Deportes
-http://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CowE94OB1WBUBjZnLQI-MVDBxop6lAtcvaQK_OYn_c1FRRVmr6Eb2v6ro3MDS5qcKqdo8qSdrYb6fPTMXPKh7OsZChRpNTrl6AgHXj3DV6reQGqFWU_w1cMrVl8v12lQOQSt9k5tEme_7GRq9pSwo4sOGdPt8HXA_O-Os2wvujnyB4wqDHRIOySwKUCIgWgMfdiwPfOyTKK8VYBBJpzhTmLOAG7v-NMwb43ZPolW-Y1ZyQRYCVkq1B2fYqnWZ_n85OLsR0m4u4xEJSWE7r_AUfWQsHSvog_dFfMybGq5A3hlC3bakFptqa0Vr-8n7MIdXrn5sFd8790LdZPbSy1OVjHdN47qr0FkpJUkVo4DvScxXKDyWbYIs5C8vR2hq76mzbMUpEmXwYXco-3cZfWeHDf9ukpIanRWQAVYwiQPA9SoNcb4mzvTo7-6cew0KI6Au7kk6gwRrpqHNvUUcemrbwMkV9wQyjMt6Tj0sUC5KyjKHlnrHQk74l1y4i2YAU6Px6IJbI6_6zJoBvLG3y8wyxKjdre4-OPJBLL9So5M_v-dMSjWVEp2fKJgU1Grni3oV5_wjWs6eG-zVh68VoOvueebz_awrWGuJkMRwQlvGXHNrUdL6IYl_5_a8YlHxtCFhrjA0LifC4Z1qYiRiznwIz4hE25DfIGqXT-FBI6IdhYmtsGOeToyZeiE6AmV9jsSECP0Zlh-GiPCBQRRgJwViRUaDKRftuchF5xAf_GZIQ.m3u8
-
-#EXTINF:-1, La Liga 1 HD
-#EXTGRP:Deportes
-http://123ovo123.xyz/live/streams2.m3u8
-#EXTINF:-1, Movistar La Liga 1
-#EXTGRP:Deportes
-http://31.220.41.86:8081/live/es-movistar-futbol.stream/playlist.m3u8
-
-#EXTINF:-1, Movistar La Liga 1
-#EXTGRP:Deportes
-http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8
-#EXTINF:-1, Movistar La Liga 2
-#EXTGRP:Deportes
-http://45.94.149.154:8000/play/a04a
-#EXTINF:-1, Movistar La Liga 3
-#EXTGRP:Deportes
-http://45.94.149.154:8000/play/a04b
-#EXTINF:-1, Movistar Liga Campeones
-#EXTGRP:Deportes
-http://45.94.149.154:8000/play/a04d
-#EXTINF:-1, Movistar Liga Campeones 2
-#EXTGRP:Deportes
-http://45.94.149.154:8000/play/a04c
-#EXTINF:-1, La Liga TV bar
-#EXTGRP:Deportes
-http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
-#EXTINF:-1, La Liga TV bar
-#EXTGRP:Deportes
-http://31.220.41.88:8081/live/es-laligatvbar.stream/chunks.m3u8
-#EXTINF:-1, La Liga TV bar
+#EXTINF:-1,gol television (estable)
 #EXTGRP:Deportes
 http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
+#EXTINF:-1,Movistar La Liga HD
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a051
+#EXTINF:-1,Movistar La Liga 1 HD
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04u
+#EXTINF:-1,Movistar La Liga (estable)
+#EXTGRP:Deportes
+http://185.71.64.167/8005402280/1903686316/79306
+#EXTINF:-1,Movistar La Liga (estable)
+#EXTGRP:Deportes
+http://cdn.addressingethernet.xyz/hls/103.m3u8
+#EXTINF:-1,movistar La Liga 
+#EXTGRP:Deportes
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1,movistar La Liga
+#EXTGRP:Deportes
+http://31.220.41.88:8081/live/es-laligatvbar.stream/chunks.m3u8
 
-#EXTINF:-1, Movistar Formula 1
+
+#EXTINF:-1,Movistar La Liga 1
+#EXTGRP:Deportes
+http://31.220.41.86:8081/live/es-movistar-futbol.stream/playlist.m3u8
+#EXTINF:-1,Movistar La Liga 1
+#EXTGRP:Deportes
+http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8
+#EXTINF:-1,Movistar La Liga 2
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04a
+#EXTINF:-1,Movistar La Liga 3
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04b
+#EXTINF:-1,Movistar Liga Campeones
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04d
+#EXTINF:-1,Movistar Liga Campeones 2
+#EXTGRP:Deportes
+http://45.94.149.154:8000/play/a04c
+
+#EXTINF:-1,La Liga TV UK HD (estable)
+#EXTGRP:Deportes
+http://123ovo123.xyz/live/streams2.m3u8
+
+#EXTINF:-1,Movistar Formula 1 (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a045
-#EXTINF:-1, DAZN Formula 1
+#EXTINF:-1,DAZN Formula 1 (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a045
-#EXTINF:-1, DAZN Formula 1
+#EXTINF:-1,DAZN Formula 1
 #EXTGRP:Deportes
 http://31.220.41.88:8081/live/es-moviestarf1.stream/chunks.m3u8
-#EXTINF:-1, DAZN Formula 1
+#EXTINF:-1,DAZN Formula 1
 #EXTGRP:Deportes
 http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
-
-#EXTINF:-1, Dazn 1
+#EXTINF:-1,Dazn 1 (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a03o
-#EXTINF:-1, Dazn 2
+#EXTINF:-1,Dazn 2 (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a03t
-#EXTINF:-1, tigo sports
+#EXTINF:-1,tigo sports (estable)
 #EXTGRP:Deportes
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 
-#EXTINF:-1, Bein Sports Xtra
+#EXTINF:-1,Bein Sports Xtra (estable)
 #EXTGRP:Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/1302083/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US&profilesFromStream=true&startingOffset=0
-#EXTINF:-1, PPV Events US
-#EXTGRP:Deportes
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/8d93ac1d80fc429d8a4bfb52ff8e427f/index3_3.m3u8
-
-#EXTINF:-1, PPV Events US
-#EXTGRP:Deportes
-https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_3.m3u8
-#EXTINF:-1, Bein Sport
+#EXTINF:-1,Bein Sport (estable)
 #EXTGRP:Deportes
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1, BTSports 1 UK
-#EXTGRP:Deportes
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/21b071ad1f864597bbc3db35075a9341/index1_2.m3u8
-#EXTINF:-1, BTSports 1 UK
-#EXTGRP:Deportes
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/21b071ad1f864597bbc3db35075a9341/index1.m3u8
-#EXTINF:-1, BTSports 1 UK
-#EXTGRP:Deportes
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/21b071ad1f864597bbc3db35075a9341/index1_3.m3u8
 
-#EXTINF:-1, BTSports 1 UK
-#EXTGRP:Deportes
-http://d1qag1ur6to329.cloudfront.net/hls/ovo-free.m3u8
-#EXTINF:-1, BTSports 1 UK
+#EXTINF:-1,BTSports 1 UK (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1, BTSports 1 UK
+
+#EXTINF:-1,BTSports 1 UK (estable)
 #EXTGRP:Deportes
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1, BTSports 2 UK
+#EXTINF:-1,BTSports 2 UK (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1, Skynet sports
-#EXTGRP:Deportes
-https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1, nbatv US
-#EXTGRP:Deportes
-http://o.crackstreams.gq/show/1/playlist.m3u8
-#EXTINF:-1, TNT US
-#EXTGRP:Deportes
-https://objectstorage.us-ashburn-1.oraclecloud.com/n/idh7zq2id42h/b/bucket-20210227-1637/o/tnt.m3u8
-#EXTINF:-1, TNT US
-#EXTGRP:Deportes
-http://89.248.170.107:8081/hls/S-1_720p/chunks.m3u8
-#EXTINF:-1, TNT US
-#EXTGRP:Deportes
-http://5f80c74573534.streamlock.net:1935/live/n1/.m3u8
-#EXTINF:-1, TNT US
+
+
+#EXTINF:-1,nbatv US (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 
-#EXTINF:-1, Sky sports Main Event UK
-#EXTGRP:Deportes
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com:443/out/v1/21b071ad1f864597bbc3db35075a9341/index1_3.m3u8
-
-#EXTINF:-1, sportv 1 hd por
+#EXTINF:-1,sportv 1 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1, sportv 2 hd por
+#EXTINF:-1,sportv 2 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1, sportv 3 hd por
+#EXTINF:-1,sportv 3 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1, sportv 4 hd por
+#EXTINF:-1,sportv 4 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1, sportv 5 hd por
+#EXTINF:-1,sportv 5 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1, sportv 1 hd por
+#EXTINF:-1,sportv 1 hd por (estable)
 #EXTGRP:Deportes
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1, sportv 2 hd por
+
+#EXTINF:-1,sportv 2 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1, sportv 3 hd por
+#EXTINF:-1,sportv 3 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1, sportv 4 hd por
+#EXTINF:-1,sportv 4 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1, sportv 5 hd por
+#EXTINF:-1,sportv 5 hd por (estable)
 #EXTGRP:Deportes
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1, livesports ru
-#EXTGRP:Deportes
-https://46-21-250-207.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1, livesports ru
-#EXTGRP:Deportes
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_YY3oN2AQ/wixmp-3dbd5cb16bb136182e099f78_YY3oN2AQ_res720p/index.m3u8
-#EXTINF:-1, livesports ru
-#EXTGRP:Deportes
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_jTkjDMIm/wixmp-3dbd5cb16bb136182e099f78_jTkjDMIm_res720p/index.m3u8
 
-#EXTINF:-1, livesports 2 ru
+#EXTINF:-1,livesports 2 ru (estable)
 #EXTGRP:Deportes
 https://95-213-224-180.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1, livesports 3 ru
+#EXTINF:-1,livesports 2 ru (estable)
 #EXTGRP:Deportes
 https://hls.myvideocontent.ru/hls2/lexa50/index.m3u8
-#EXTINF:-1, yalla live sports
-#EXTGRP:Deportes
-https://d3i57w4ckmhtjv.cloudfront.net/out/v1/d7432e6d826c45a5866b8c1e149e2969/index.m3u8
-#EXTINF:-1, yalla live sports
-#EXTGRP:Deportes
-https://d3i57w4ckmhtjv.cloudfront.net/out/v1/d7432e6d826c45a5866b8c1e149e2969/index_3.m3u8
-#EXTINF:-1, optus sports 2
-#EXTGRP:Deportes
-https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4.m3u8
-#EXTINF:-1, optus sports 2
-#EXTGRP:Deportes
-https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/5f5cc90df63c4e5899508626c6fcc2a5/index4_1.m3u8
-#EXTINF:-1, Espn sur (estable)
+#EXTINF:-1,Espn sur (estable)
 #EXTGRP:Deportes
 http://23.237.78.54/live-1000/244/playlist.m3u8
-#EXTINF:-1, espn 2 sur (estable)
+#EXTINF:-1,espn 2 sur (estable)
 #EXTGRP:Deportes
 http://23.237.78.54/live-1000/263/playlist.m3u8
-#EXTINF:-1, sradio sports
-#EXTGRP:Deportes
-https://cp.sradiotv.com:1936/8098/8098/playlist.m3u8
-#EXTINF:-1, sradio sports
-#EXTGRP:Deportes
-https://cp.sradiotv.com:1936/8098/8098/chunklist_w1993689455.m3u8
-#EXTINF:-1, sradio sports
-#EXTGRP:Deportes
-https://cp.sradiotv.com:1936/8098/8098/chunklist_w2077628907.m3u8
-#EXTINF:-1, euro Sports 1
+
+#EXTINF:-1,euro Sports 1 (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a042
-#EXTINF:-1, euro Sports
+#EXTINF:-1,euro Sports (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a057
-#EXTINF:-1, euro Sports 2
+#EXTINF:-1,euro Sports 2 (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a047
-#EXTINF:-1, Bein Sports Turkey
+#EXTINF:-1,Bein Sports Turkey (estable)
 #EXTGRP:Deportes
 http://45.94.149.154:8000/play/a07d
-#EXTINF:-1, fox sports us
+#EXTINF:-1,fox sports us
 #EXTGRP:Deportes
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1, Fox Sports US
+#EXTINF:-1,Fox Sports US (estable)
 #EXTGRP:Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=705&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web&app_name=&buildVersion=&appStoreUrl=&marketingRegion=US
 
 
 
-#EXTINF:-1, ESPN
+#EXTINF:-1,ESPN
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0m5/index.m3u8
 
-#EXTINF:-1, ESPN 2
+#EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0m4/index.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0m6/index.m3u8
-#EXTINF:-1, ESPN 3
+#EXTINF:-1,ESPN 3
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0gi/index.m3u8
-#EXTINF:-1, TyC Sports
+#EXTINF:-1,TyC Sports
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0ed/index.m3u8
-#EXTINF:-1, Tnt Sports 2
+#EXTINF:-1,Tnt Sports 2
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0jx/index.m3u8
-#EXTINF:-1, Tnt Sports 3
+#EXTINF:-1,Tnt Sports 3
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0jb/index.m3u8
-#EXTINF:-1, Fox sports
+#EXTINF:-1,Fox sports
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0dc/index.m3u8
-#EXTINF:-1, Fox sports 1
+#EXTINF:-1,Fox sports 1
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0ib/index.m3u8
-#EXTINF:-1, Fox sports 2
+#EXTINF:-1,Fox sports 2
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0hc/index.m3u8
-#EXTINF:-1, Fox sports 3
+#EXTINF:-1,Fox sports 3
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0ks/index.m3u8
-#EXTINF:-1, Cdf
+#EXTINF:-1,Cdf
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0dm/index.m3u8
-#EXTINF:-1, fox sports venezuela
+#EXTINF:-1,fox sports venezuela
 #EXTGRP:Deportes
 http://200.54.19.131:8500/play/a0de/index.m3u8
-#EXTINF:-1, dubai sports 
+#EXTINF:-1,dubai sports 
 #EXTGRP:Deportes
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1, NBCSN
+#EXTINF:-1,NBCSN
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
 
-#EXTINF:-1, ESPN
+#EXTINF:-1,ESPN
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4242/12?f=.m3u8
-#EXTINF:-1, ESPN U
+#EXTINF:-1,ESPN U
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4345/12?f=.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4243/12?f=.m3u8
-#EXTINF:-1, Motor Trend
+#EXTINF:-1,Motor Trend
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94106/12?f=.m3u8
-#EXTINF:-1, FS1
+#EXTINF:-1,FS1
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94096/12?f=.m3u8
-#EXTINF:-1, FS2
+#EXTINF:-1,FS2
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97864/12?f=.m3u8
-#EXTINF:-1, CBS Sports Network
+#EXTINF:-1,CBS Sports Network
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4310/12?f=.m3u8
-#EXTINF:-1, NBCSN
+#EXTINF:-1,NBCSN
 #EXTGRP:Deportes
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94093/12?f=.m3u8
 
@@ -1324,35 +1254,35 @@ https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTGRP:Noticias y Documentales
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1, NBC NEWS
+#EXTINF:-1,NBC NEWS
 #EXTGRP:Noticias y Documentales
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
 
-#EXTINF:-1, BBC WORLD NEWS
+#EXTINF:-1,BBC WORLD NEWS
 #EXTGRP:Noticias y Documentales
 http://ott-cdn.ucom.am/s24/04.m3u8
 
-#EXTINF:-1, FRANCE 24 EN ESPAÑOL
+#EXTINF:-1,FRANCE 24 EN ESPAÑOL
 #EXTGRP:Noticias y Documentales
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1, FRANCE 24
+#EXTINF:-1,FRANCE 24
 #EXTGRP:Noticias y Documentales
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1, CGTN NEWS
+#EXTINF:-1,CGTN NEWS
 #EXTGRP:Noticias y Documentales
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1, AL JAZEERA NEWS
+#EXTINF:-1,AL JAZEERA NEWS
 #EXTGRP:Noticias y Documentales
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:-1, RUSSIA 24
+#EXTINF:-1,RUSSIA 24
 #EXTGRP:Noticias y Documentales
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 
-#EXTINF:-1, MOSCU 24
+#EXTINF:-1,MOSCU 24
 #EXTGRP:Noticias y Documentales
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
